@@ -1,0 +1,189 @@
+{
+  "tema": "a-gramatica-facilita-ou-dificulta-a-comunicacao",
+  "comando_tematico": {
+    "frases": {
+      "0": "A gramática facilita ou dificulta a comunicação?",
+      "1": "As regras gramaticais têm como objetivo uniformizar a língua de um povo, padronizá-la, de modo a torná-la comum e acessível a todos os usuários.",
+      "2": "Em poucas palavras, a gramática deve facilitar a comunicação.",
+      "3": "No entanto, a imensa dificuldade dos estudantes em aprendê-la sugere que isso talvez não ocorra de fato.",
+      "4": "O grande número de normas - às vezes sobre detalhes aparentemente insignificantes - não acaba complicando e criando confusão?",
+      "5": "Que importância tem, por exemplo, a troca de uma única letra na grafia de uma palavra?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 A língua é viva, quem não sabe?",
+      "1": "Basta ver o que acontece a ela, sempre aberta aos modismos.",
+      "2": "Agora mesmo está nas ruas uma maré de jeitos novos de falar, extrídos do filme \"Tropa de Elite\".",
+      "3": "A língua se enriquece, sai da boca do povo para os dicionários, amolda-se às regras gramaticais.",
+      "4": "Mas o problema são as regras, ah as regras!",
+      "5": "Se fizessem um plebiscito, é possível que as regras fossem banidas do Brasil.",
+      "6": "Aí todo mundo falaria e escreveria à vontade, sem ser vigiado por esses \"manuais de censura\" que são as gramáticas.",
+      "7": "Falaríamos gostosamente, sem receios e seríamos talvez mais felizes.",
+      "8": "Nada de escolher entre x e ch, entre s e z, e adeus acentos.",
+      "9": "Caso isso acontecesse, no entanto, estariam oficializados o descaso e o desrespeito ao idioma que falamos.",
+      "10": "Que conseqüências poderiam decorrer disso?",
+      "11": "Crime contra a gramática Texto 2 Um erro literalmente federal \"Um único carimbo fabricado com pouco zelo em relação à língua portuguesa fez com que milhares de documentos oficiais da Câmara e do Senado trouxessem um 'Congreço Nacional' estampado nos cantos inferiores de suas páginas.",
+      "12": "O tropeço vocabular está grafado em documentos como medidas provisórias enviadas pelo Executivo.",
+      "13": "O carimbo, fabricado em meados de agosto, está em documentos com datas até cerca de três semanas atrás, quando finalmente alguém descobriu o erro.",
+      "14": "\" Folha On-Line - 03 - 09h24 Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Imaginemos um grande congestionamento, num lugar qualquer, onde pessoas, motos, bicicletas e carros lutam por um espaço.",
+    "1": "Para complicar ainda mais, imaginemos os semáforos, as placas de sinalização e as pessoas responsáveis pelo bom andamento do tráfego, sumirem, desaparecerem.",
+    "2": "Assim como nossas vias e rodovias precisam de sinalização e monitoração, nossa língua também.",
+    "3": "Se não houvesse a gramática, com todas as suas regras, estaríamos perdidos num monte de letras e sinais sem sentido, sem conteúdo e sem nexo.",
+    "4": "Se levarmos em conta que passamos boa parte de nossa infância falando e aprendendo errado, chegaremos a seguinte conclusão: professores gastam tempo e paciência tentando colocar na cabeça de seus alunos o jeito correto de falar e escrever.",
+    "5": "Tarefa árdua, visto que o problema vem de berço.",
+    "6": "É desanimador quando nos deparamos com pesquisas sobre a educação e vemos que universitários não sabem escrever, não compreendem o que estão lendo e que muitos ainda falam errado.",
+    "7": "O resultado disto esta em jornais, nas revistas e até em carimbos de órgãos públicos; erros grotescos de gramática e de concordância.",
+    "8": "Talvez, com o apoio e o interesse dos pais na educação de seus filhos, bem como o governo fazendo sua parte, cobrando das escolas as metas de desempenho e premiando com aumento de salários e outras gratificações os profissionais da área, este lugar imaginado que muito se assemelha com a nossa realidade, não venha a existir."
+  },
+  "redacao_gerada": {
+    "0": "A linguagem, enquanto construto social fundamental, permeia todas as interações humanas, sendo a gramática o arcabouço normativo que visa a sua organização e inteligibilidade.",
+    "1": "No entanto, a aparente dicotomia entre a função facilitadora e o potencial entrave da gramática à comunicação eficaz constitui um desafio persistente.",
+    "2": "Embora as regras gramaticais busquem padronizar e uniformizar a expressão, garantindo a mútua compreensão, a complexidade inerente a esse sistema e a abordagem pedagógica muitas vezes excessivamente prescritiva podem, paradoxalmente, dificultar o acesso pleno e a fluidez comunicativa para uma parcela significativa da população, configurando-se como um fator de exclusão.",
+    "3": "Em primeira análise, o papel primordial da gramática reside na estruturação de um código linguístico comum, indispensável para a coesão social e a transmissão do conhecimento.",
+    "4": "Conforme postulado pelo linguista Ferdinand de Saussure, a língua configura-se como um sistema de signos, uma *langue*, cuja eficácia depende da adesão a um conjunto de convenções partilhadas por uma comunidade.",
+    "5": "Nesse sentido, a uniformização promovida pelas normas gramaticais evita a fragmentação discursiva e assegura que as mensagens sejam decodificadas com precisão, permitindo a construção de sentidos unívocos e a manutenção de uma esfera pública inteligível.",
+    "6": "A ausência de parâmetros mínimos, portanto, precipitaria um caos semântico, inviabilizando a própria comunicação em larga escala.",
+    "7": "Contudo, em uma perspectiva antagônica, a rigidez excessiva da gramática normativa e sua abordagem didática frequentemente se convertem em barreiras intransponíveis.",
+    "8": "A ênfase desmedida em minúcias ortográficas, sintáticas e morfológicas, muitas vezes descontextualizadas da prática comunicativa real, gera um afastamento dos falantes, especialmente aqueles provenientes de contextos sociais menos privilegiados.",
+    "9": "Tal fenômeno pode ser analisado à luz das reflexões de Pierre Bourdieu sobre o capital cultural e linguístico, em que a maestria da norma culta funciona como um demarcador social, excluindo aqueles que não a dominam integralmente.",
+    "10": "A preocupação em \"não errar\" suplanta a intenção de comunicar, culminando na inibição da expressão espontânea e na percepção da gramática como um instrumento de censura, e não de facilitação.",
+    "11": "Portanto, para que a gramática cumpra seu intento de facilitar, e não de obstruir, a comunicação, urge uma reorientação de sua função e ensino.",
+    "12": "O Ministério da Educação (MEC), em colaboração com as instituições de ensino, deve promover uma abordagem pedagógica mais contextualizada e funcional da gramática.",
+    "13": "Isso se daria por meio da revisão dos currículos escolares, priorizando a compreensão textual e a produção de sentido em detrimento da memorização exaustiva de regras isoladas, visando a desmistificação da norma culta e a promoção de uma comunicação mais inclusiva e eficaz.",
+    "14": "Ademais, é fundamental capacitar os professores para atuarem como mediadores, incentivando a reflexão crítica sobre o uso da língua em diferentes contextos, e não apenas como meros fiscalizadores de erros, a fim de empoderar os estudantes a utilizarem a linguagem de forma consciente e plena."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "3",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "6",
+        "7"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4",
+        "6"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    }
+  }
+}

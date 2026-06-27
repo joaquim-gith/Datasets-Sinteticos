@@ -1,0 +1,261 @@
+{
+  "tema": "caso-geisy-exibicionismo-machismo-intolerancia-ou-ma-educacao",
+  "comando_tematico": {
+    "frases": {
+      "0": "Caso Geisy: exibicionismo, machismo, intolerância ou má-educação?",
+      "1": "Geisy Arruda, aluna de uma universidade em São Bernardo do Campo (SP), precisou de escolta policial para voltar para casa.",
+      "2": "Ela teria provocado a hostilidade de cerca de 700 colegas, pelo apertado minivestido pink com que foi à escola.",
+      "3": "A estudante, xingada e humilhada, admitiu, depois, que errou ao usar essa roupa.",
+      "4": "Enquanto muitos a defendem, como os estudantes de Brasília, que manifestaram solidariedade, saindo nus em passeata, outros consideram o caso um ato de exibicionismo erótico premeditado.",
+      "5": "Expulsa da faculdade, depois readmitida, Geisy não voltou às aulas, mas tem ido a programas de TV para falar do episódio.",
+      "6": "Tornou-se, por enquanto, uma celebridade.",
+      "7": "Mas, afinal, onde está o centro desta polêmica?",
+      "8": "No vestuário feminino, no machismo e na intolerância ou na má-educação da sociedade em geral?",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Pernas de fora: que país é este?",
+      "1": "\"Que país é este, famoso por suas mulheres quase nuas nas praias, nos cartões postais e nos comercias de TV, que não admite um vestido pouco mais curto que o de Julie Andrews em \"A noviça rebelde?",
+      "2": "\" [Ruy Castro, \"Folha de S.",
+      "3": "Paulo\"] \"Uma simples pergunta evidencia o machismo: seria essa a reação da universidade se se tratasse de um rapaz se vestindo de maneira inadequada, com coxas à mostra ou dorso nu?",
+      "4": "\" [Marta Suplicy.",
+      "5": "\"Folha de S.",
+      "6": "Paulo\"].",
+      "7": "Geisy por Geisy \"Eu sempre gostei de vestidos curtos, calças apertadas, blusas decotadas.",
+      "8": "É meu estilo, meu jeito de ser.",
+      "9": "\" [Geisy Arruda, em entrevista à revista \"Contigo\"] \"Eu não quis provocar.",
+      "10": "Eu sou assim, sempre me vesti dessa maneira.",
+      "11": "Eles quiseram me humilhar ainda mais\".",
+      "12": "[Geisy Arruda, em entrevista coletiva].",
+      "13": "Geisy abusou?",
+      "14": "\"É radical, mas tem que expuslar mesmo.",
+      "15": "Aquilo não é roupa para ir à aula.",
+      "16": "É um ambiente de respeito.",
+      "17": "\" [Viviane de Vila, vestibulanda.",
+      "18": "\"Folha de S.",
+      "19": "Paulo\"] \"Foi apurado que a aluna tem frequentado as dependências da unidade em trajes inadequados, indicando uma postura incompatível com o ambiente da universidade.",
+      "20": "\" [Uniban, Informe publicitário sobre a expulsão da aluna] \"É preciso observar o padrão de comportamento dos lugares que se frequenta (.",
+      "24": "Ela mexeu com a sexualidade de maioria masculina.",
+      "25": "Ela foi inadequada, pois a maioria masculina foi instigada à excitação sexual.",
+      "26": "\" [Içami Tiba, psiquiatra e educador, UOL Educação]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Todos sabem que, no Brasil, há tempos, observa-se intolerância dos indíviduos em não respeitar os direitos dos outros.",
+    "1": "Isso é fruto de uma sociedade machista e preconceituosa.",
+    "2": "Ficou explícito o machismo no episódio da aluna de uma universidade no ABC paulista .",
+    "3": "Desse modo, ficou evidente a falta de respeito por parte de algumas pessoas que por se acharem defensoras da maioria da população tentam de forma inrracional  impor suas regras à sociedade.",
+    "4": "Ainda convém lembrar que, no meio acadêmico, o preconceito é repudiado, porém, foi nesse ambiente que ele se mostrou muito forte.",
+    "5": "Ademais, esse fato só promoveu a fragilidade de nossas instituições em formar cidadãos de bem.",
+    "6": "Dado o exposto  , é imprescindível que a sociedade reflita e seja mais tolerante com o modo de vida dos indivíduos respeitando-os e compreendendo-os."
+  },
+  "redacao_gerada": {
+    "0": "O episódio envolvendo Geisy Arruda, em que uma estudante universitária foi publicamente ultrajada por sua vestimenta, transcendeu a mera anedota para se consolidar como um sintoma eloquente das tensões sociais inerentes à contemporaneidade brasileira.",
+    "1": "A eclosão de um linchamento moral coletivo, deflagrado por um minivestido, expõe a complexa intersecção entre o machismo estrutural e uma intolerância arraigada, que se manifestam na patrulha moral do corpo feminino e na incapacidade de lidar com a alteridade.",
+    "2": "Longe de ser um caso isolado de exibicionismo individual ou má-educação pontual, o incidente revela a persistência de uma cultura patriarcal e a propensão a julgamentos sumários, que minam os pilares da convivência democrática e do respeito à autonomia individual.",
+    "3": "Nesse contexto, a reação desproporcional à vestimenta de Geisy Arruda evidencia a perpetuação de um machismo entranhado na sociedade, que historicamente objetifica e controla o corpo feminino.",
+    "4": "Conforme as análises de Michel Foucault sobre as tecnologias de poder, o corpo é um campo de disputa onde se inscrevem normas e disciplinarizações sociais, e a hostilidade direcionada à estudante configura-se como uma manifestação violenta dessa vigilância.",
+    "5": "A moralidade pública, imbuída de preceitos patriarcais, projeta sobre a mulher a responsabilidade pela \"provocação\", transferindo o ônus da conduta dos agressores para a vítima, em uma lógica perversa que justifica a agressão e naturaliza a subjugação feminina.",
+    "6": "Ademais, a intensidade da repulsa coletiva, que culminou em um cerco hostil, denota uma profunda intolerância e a manifestação de um fenômeno de massa que suprime o pensamento crítico individual.",
+    "7": "A psicose coletiva que se instaurou remete à \"banalidade do mal\" de Hannah Arendt, não no sentido de crimes hediondos, mas na forma como indivíduos comuns, desprovidos de reflexão autônoma, podem ser arrastados por uma onda de conformidade e ódio.",
+    "8": "A incapacidade de tolerar o que foge ao padrão estabelecido, aliada à ausência de empatia e à facilidade com que o anonimato da multidão encoraja a agressão, revela uma faceta sombria da interação social, onde a liberdade de expressão e a dignidade humana são facilmente sacrificadas em prol de uma suposta ordem moral.",
+    "9": "Portanto, para mitigar a reincidência de episódios que expõem a fragilidade da convivência e o arraigamento de preconceitos, urge uma intervenção multifacetada.",
+    "10": "O Ministério da Educação (MEC), em parceria com as instituições de ensino superior, deve implementar programas de conscientização e educação em direitos humanos e equidade de gênero, por meio de disciplinas obrigatórias e campanhas informativas abrangentes que desconstruam estereótipos machistas e promovam o respeito à diversidade e à autonomia individual.",
+    "11": "Tal medida visa formar cidadãos mais críticos e empáticos, capazes de reconhecer e combater atitudes discriminatórias, garantindo que o espaço acadêmico seja um ambiente de acolhimento e livre expressão, e não de patrulha moral."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "7",
+        "8"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "8"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "8"
+      ],
+      "textos_motivadores": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "19",
+        "20",
+        "24",
+        "25",
+        "26"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "8"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "13",
+        "14",
+        "15",
+        "16",
+        "19",
+        "20",
+        "24",
+        "25",
+        "26"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "3",
+        "8"
+      ],
+      "textos_motivadores": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "19",
+        "20",
+        "24",
+        "25",
+        "26"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "5",
+        "8"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "10",
+        "11",
+        "12",
+        "13",
+        "24",
+        "25",
+        "26"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "3",
+        "8"
+      ],
+      "textos_motivadores": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "19",
+        "20"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "3",
+        "8"
+      ],
+      "textos_motivadores": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "19",
+        "20"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "3",
+        "8"
+      ],
+      "textos_motivadores": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "19",
+        "20"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "7",
+        "8"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "tema": "mentira-e-doenca-problema-moral-necessidade-ou-brincadeira",
+  "comando_tematico": {
+    "frases": {
+      "0": "Mentira é doença, problema moral, necessidade ou brincadeira?",
+      "1": "Em , o mundo ficou espantado com a violência sofrida por uma advogada brasileira em Dübendorf, cidade da Suíça.",
+      "2": "Ela teria sido agredida e muito machucada por neonazistas, num ataque brutal de xenofobia (desconfiança, temor ou antipatia por estrangeiros).",
+      "3": "A jovem advogada teria, inclusive, sofrido um aborto de gêmeos, sendo encaminhada para o hospital em estado de choque.",
+      "4": "Até o presidente Lula declarou publicamente seu horror diante do acontecido.",
+      "5": "Poucos dias depois, contudo, o mundo inteiro se revoltou, ao descobrir que tudo era uma grande inverdade.",
+      "6": "Todos nós, certamente, conhecemos vários mentirosos.",
+      "7": "Por que eles existem?",
+      "8": "O que é, afinal, a mentira: doença, problema moral, necessidade irresistível, brincadeira?",
+      "9": "Ou o ato de mentir é provocado por todas essas razões?",
+      "10": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Prenda-me se for capaz Leonardo DiCaprio, em Prenda-me se for capaz , de Steven Spielberg Nem sempre a mentira tem perna curta.",
+      "1": "O filme de Steven Spielberg conta a história real de um mestre do disfarce, Frank Abagnale Jr.",
+      "2": "(personificado por Leonardo Di Caprio).",
+      "3": "Ele fez carreira, aproveitando suas habilidades de grande mentiroso.",
+      "4": "Mudou várias vezes de identidade e viveu a vida como quis, aplicando golpes milionários, até ser apanhado pela polícia.",
+      "5": "O impostor, o estelionatário, muitas vezes, é uma figura sedutora, mas isso não diminui a gravidade de seu crime.",
+      "6": "Primeiro de abril!",
+      "7": "\"O hábito de brincar com essa data é universal.",
+      "8": "A origem das brincadeiras nesse dia é desconhecida, mas dizem que tudo começou no século 16, com a mudança para o calendário gregoriano, que trocou a comemoração do Ano Novo para 1º de janeiro (antes a data era móvel, variando de 25 de março a 1º de abril).",
+      "9": "Quem continuava comemorando na antiga data era chamado de \"bobo de abril\".",
+      "10": "Na Inglaterra, quem \"cai em 1º de abril\" é chamado de noodle (pateta).",
+      "11": "Na França, de poisson d'avril (peixe de abril); nos Estados Unidos, de april fool (bobo de abril).",
+      "12": "\" [ IBGE Teen ] O mitômano ou mentiroso patológico Mitômano (.",
+      "15": ") é a pessoa manipuladora e autocentrada que inventa histórias continuamente para conseguir o que quer, com pouca consideração ou respeito pelos interesses dos outros.",
+      "19": ") A causa pode ser mecanismo de defesa ou autoafirmação desenvolvido na primeira infância, associada à alguma desordem mental, caso das personalidades narcísicas ou histriônicas.",
+      "20": "[Quando mentir é um problema, reportagem da revista \"Época\", 19 ] Escritores e a mentira \"A mentira é, muita vez, tão involuntária como a transpiração.",
+      "21": "\" Machado de Assis \"A principal mentira é aquela que contamos a nós mesmos\".",
+      "22": "Nietzsche \"Somente as mulheres e os médicos sabem o quanto a mentira é benéfica aos homens.",
+      "23": "\" Anatole France \"A mentira é uma verdade que se esqueceu de acontecer.",
+      "24": "\" Mario Quintana \"Uma mentira dá uma volta ao mundo antes mesmo de a verdade ter oportunidade de se vestir\".",
+      "25": "Winston Churchill"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "A mentira faz parte de nosso mundo.",
+    "1": "Muitos seres humanos mentem por brincadeira, por dias relacionados á mentira assim como o dia primeiro de Abril .",
+    "2": "Outros optão por mentir devido a soluções de suas vidas, como aos adolescentes que querem ter uma opção sexual diferenciada da que são, e suas familias não os aceitam , eles são \"obrigados\" á usar a mentira.",
+    "3": "E outros por quererem tanto algo, que seu psicológico os faz mentir para que consigam o esperado, isso ocorre muito com as crianças, que mentem ás outras possuírem brinquedos.",
+    "4": "Com a mentira na infância , as pessoas ao redor da mentirosa começam a olhar ela com outros olhos, ninguém gosta de viver no mundo da mentira, de ter uma amigo que mente o que possui pelo simples fato de querer ter algo.",
+    "5": "O ser humano gosta da verdade.",
+    "6": "Assim essa pessoa cresce e na adolescecia , por ter sido excluído com inúmeras mentiras já contadas, ela se torna um adolescente sozinho.",
+    "7": "O que lhe causará muitos problemas, porque a fase da adolescencia, requer uma ajuda dos amigos para compreensão total de muitas mudanças hormonais ocasionadas no corpo do adolescente.",
+    "8": "E esse adolescente terá um defite nesse quesito, o que lhe causará problemas quando adulto.",
+    "9": "O governo do Brasil, é um antro de mentiras .",
+    "10": "Nos meios de comunicação, os dias passam e mais coisas são reveladas.",
+    "11": "Essas revelações são verdades ou mentiras?",
+    "12": "Dificil de sabermos.",
+    "13": "Quando vota-se em um representante, se pensa que ele deve ser uma pessoa boa, que não minta para o povo, que não roube e fassa do país o melhor que conseguir.",
+    "14": "O tempo passa e muitas mentiras são desvendadas, roubos, contas no exterior roubando o dinheiro de seu país e de quem lhe apoiou e votou nele.",
+    "15": "Mentiras voltadas á  ganância do dinheiro, do poder, o que fez muitos representantes dos séculos passados, perderem a cabeça e até destruírem uma cidade pelo domínio que o poder causa em uma pessoa.",
+    "16": "Viver na mentira acaba sendo uma solução.",
+    "17": "Muitas pessoas que sentem falta de ostentar suas posses, ou até falta de extressar seus sentimentos, acabam por inventanto  historia  metabólicas , para que todos vangloriem essa pessoa, sem ao menos, ela possuir bens.",
+    "18": "Existem historias de pessoas que alugam casas enormes, de luxo, convidam amigos e familiares, dizendo que aquela casa é da passoa .",
+    "19": "Mas tudo não passa de uma mentira, apenas para que todos vanglorem o dono da casa.",
+    "20": "O pisicológico é o responsável por esse problema.",
+    "21": "Para muitos é melhor ostentar com a mentira do que mostrar o que realmente tem .",
+    "22": "O pisicológico faz o ser humano mentir para ele mesmo, assim como se um pai escolhe uma profissão para um filho, ele acaba pisicologicamente querendo isso, mentindo para ele próprio , mas na realidade não passa de uma mentira para ele mesmo.",
+    "23": "Mentiras são resultados pisicologicos ou reais.",
+    "24": "Vivemos em um mundo envolto pela mentiras , o que tornar nossa realidade uma mentira.",
+    "25": "Como pode um ser humano querer a verdade de seus representantes vivem na mentira?",
+    "26": "Isso não é possível .",
+    "27": "Então o ser humano opta pela mentira, que satisfaz todos seus desejos e anseios, o que as torna psicológica .",
+    "28": "Concerteza as menitras como o ditado popular diz, tem as pernas curtas.",
+    "29": "Não adianta se pensar que a vida é facilmente levada na mentira, um dia elas vão aparecer a tona .",
+    "30": "Como de muitos representantes já apareceram.",
+    "31": "E assim um vida pode ser jogada fora, uma vida de mentirars não leva a nada, apenas ao seu fim sem história real."
+  },
+  "redacao_gerada": {
+    "0": "A mentira é algo muito presente na vida das pessoas, e sempre gera muita discussão.",
+    "1": "É difícil saber se mentir é uma doença, um problema moral sério, uma coisa que a gente precisa fazer as vezes, ou se é só uma brincadeira de mal gosto.",
+    "2": "Essa questão é complexa e merece ser pensada com cuidado.",
+    "3": "Muitas vezes, a gente vê a mentira como um problema moral, porque ela pode machucar os outros e quebrar a confiança.",
+    "4": "Por exemplo, quando alguém mente para conseguir algo, ele está agindo errado.",
+    "5": "Mas também tem horas que as pessoas sente que precisam mentir, tipo pra não magoar alguém ou para evitar uma situação pior.",
+    "6": "Isso mostra que nem sempre a mentira é vista igual por todo mundo.",
+    "7": "Além disso, tem gente que mente muito, e parece que não consegue parar.",
+    "8": "Ai a gente pensa se isso é uma doença, uma coisa que a pessoa não controla.",
+    "9": "A mitomania, por exemplo, é um tipo de mentira compulsiva.",
+    "10": "Por outro lado, existe a mentira que é só uma brincadeira, como no primeiro de abril, que é pra dar risada e não tem intenção de fazer mal.",
+    "11": "Essas diferenças faz a gente refletir sobre os tipos de mentira que existe.",
+    "12": "Em suma, fica claro que a mentira não tem uma única definição.",
+    "13": "Ela pode ser um problema de ética, uma necessidade em certos momentos, uma doença pra alguns, ou até mesmo uma forma de diversão.",
+    "14": "É importante que a sociedade entenda os vários lado da mentira para poder lidar melhor com ela, e sempre buscar a verdade."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "9"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "15"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "19"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "12",
+        "15"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "6",
+        "7"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "9"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

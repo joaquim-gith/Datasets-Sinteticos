@@ -1,0 +1,233 @@
+{
+  "tema": "como-voce-encara-os-cursos-a-distancia-e-as-universidades-virtuais",
+  "comando_tematico": {
+    "frases": {
+      "0": "Como você encara os cursos a distância e as universidades virtuais?",
+      "1": "A chamada Educação a distância (Ead) é o processo de ensino-aprendizagem em que professores e alunos não precisam estar fisicamente juntos, pois se encontram conectados por tecnologias telemáticas, como a internet.",
+      "2": "Recursos de Educação a distância já são muito utilizados pelas escolas tradicionais.",
+      "3": "Aliás, o próprio Banco de Redações se fundamenta na interatividade entre os usuários do UOL e uma equipe de educadores.",
+      "4": "Desde o início desta década, têm se desenvolvido os cursos de graduação a distância, que o aluno conclui sem praticamente ir à universidade.",
+      "5": "Há quem veja a inovação com bons olhos.",
+      "6": "Há quem lhe seja contrário.",
+      "7": "Como você se posiciona nesse debate?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Jamais aconselharia aos meus filhos \"Ensino a distância é algo mutável demais.",
+      "1": "A tecnologia muda muito, a USP muda pouco, são duas realidades não casáveis - ao menos no momento.",
+      "2": "Ensino a distância serve para treinamento, não para educação e vivência universitária.",
+      "3": "O ensino a distância é ótimo, sou um praticante dele, mas jamais aconselharia aos meus filhos trocarem a possibilidade de fazer a universidade, tendo vida universitária, pelo ensino a distância.",
+      "4": "E o que não recomendamos aos nossos filhos, não deveríamos recomendar aos filhos dos outros.",
+      "5": "\" [Paulo Ghiraldelli Jr.",
+      "6": ", filósofo e escritor, no blog Paulo Ghiraldelli Jr.",
+      "7": ", o filósofo da cidade de São Paulo.",
+      "8": "] As possibilidades das tecnologias interativas \"O conceito de curso, de aula, também muda.",
+      "9": "Hoje ainda entendemos por aula um espaço e um tempo determinados.",
+      "10": "Mas esse tempo e esse espaço, cada vez mais, serão flexíveis.",
+      "11": "O professor continuará 'dando aula', e enriquecerá esse processo com as possibilidades que as tecnologias interativas proporcionam: para receber e responder mensagens dos alunos, criar listas de discussão e alimentar continuamente os debates e pesquisas com textos, páginas da Internet, até mesmo fora do horário específico da aula.",
+      "12": "Há uma possibilidade cada vez mais acentuada de estarmos todos presentes em muitos tempos e espaços diferentes.",
+      "13": "Assim, tanto professores quanto alunos estarão motivados, entendendo \"aula\" como pesquisa e intercâmbio.",
+      "14": "Nesse processo, o papel do professor vem sendo redimensionado e cada vez mais ele se torna um supervisor, um animador, um incentivador dos alunos na instigante aventura do conhecimento.",
+      "15": "[José Manuel Moran, professor de Comunicação, especialista em projetos inovadores na educação presencial e a distância.",
+      "16": "] Aluno à moda antiga \"Devo confessar, sou um aluno à moda antiga.",
+      "17": "E certos 'modernismos' não me caem bem como aluno, desde aulões de vídeo a trabalhos em grupo pela internet.",
+      "18": "Mas o que mais me incomoda e me deixa frustrado chama-se Ead, o tão famigerado 'ensino a distância'.",
+      "19": "Apelido de 'Ambiente Virtual de Aprendizagem', o Ead nada mais é que uma forma repugnante e barata de diminuir os custos de um aluno no dia a dia de uma universidade em prol da 'comodidade de se aprender em casa'\".",
+      "20": "[Blog do Douglas - escrevendo para (nem sempre) ser lido.",
+      "23": "] A procedência das instituições Assim como os presenciais, os cursos a distância passam pelo mesmo processo de autorização e de avaliação, de modo que são exigidas titulação, condições materiais e produção acadêmica.",
+      "24": "Portanto, não é de forma aleatória que se cria um curso dessa natureza.",
+      "25": "É evidente que, assim como acontece como o ensino presencial, é necessário muito cuidado por parte das pessoas que procuram os cursos em Ead.",
+      "26": "Isto porque existem instituições sérias e aquelas que só visam o lucro, em detrimento da qualidade.",
+      "27": "É importante que se verifique a procedência das instituições e de seus respectivos cursos.",
+      "28": "[João Nunes da Silva, Doutorando em Comunicação e cultura contemporâneas (UFBA); especialista em Metodologias e Linguagens em EAD, no blog Olhar Crítico.",
+      "29": "] Diploma sem sair de casa \"'A participação dos alunos no ambiente virtual é muito maior do que na sala de aula', observa João Vianney, diretor do ensino on-line da Unisul, universidade particular de Santa Catarina e uma das pioneiras da modalidade.",
+      "30": "Além dos populares fóruns e chats, alguns dos recursos da internet usados nessas aulas ampliam, e muito, as possibilidades de um estudante universitário.",
+      "31": "Por exemplo, permitindo que os alunos de administração da Unisul simulem as atividades da bolsa de valores ou que os da Fundação Getúlio Vargas executem extensos trabalhos em rede.",
+      "32": "\" [Veja, \"Diploma sem sair de casa\", 26 de agosto de 2009."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "O ensino a  distância tem, ou pelo menos deveria ter, objetivos positivos         .",
+    "1": "Como por exemplo, levar o conhecimento acadêmico a lugares de difícil acesso e pro porcionar a po ssibilidade de uma graduação para pe ssoas que não tenham dis po sição de tempo para frequentar uma faculdade tradicional.",
+    "2": "Contudo, com a grande oferta desses tipos de cursos nos dias de hoje, podemos observar a deturpação dos reais valores que deveriam ser oferecidos por essas entidades.",
+    "3": "Estas, mostram-se muito mais voltadas ao lucro, devido à grande quantidade de interessados   um diploma com menor custo do que           o interesse em uma possível função social e educativa que deveriam proporcionar.",
+    "4": "É certo que dentre elas exista uma minoria com cursos corretamente elaborados, com uma didática adequada, com conteúdo capaz de formar um profissional tão bom ou até mesmo melhor do que o de uma faculdade tradicional.",
+    "5": "Mas grande parte, visa apenas o lucro, como uma empresa privada qualquer.",
+    "6": "Com a ininterrupta evolução tecnológica que presenciamos hoje em dia, é cada vez mais frequente a mudança daquilo que por longos anos foi tido como certo e rígido.",
+    "7": "Neste caso concreto, o método de ensino.",
+    "8": "Não podemos negar, que o potencial de funcionalidade                 deste método de ensino é grandioso.",
+    "9": "Porém, deveremos                 regulamentá-los e                 padronizá-los , para o bem de nossos futuros diplomados, consequentemente para nosso próprio bem."
+  },
+  "redacao_gerada": {
+    "0": "No cenário contemporâneo, marcado pela ubíqua digitalização e pela incessante busca por flexibilidade, os cursos a distância e as universidades virtuais emergiram como um paradigma educacional disruptivo.",
+    "1": "Essa modalidade, que transcende as barreiras geográficas e temporais do ensino convencional, tem provocado um intenso debate acerca de sua eficácia e do valor intrínseco da formação que proporciona.",
+    "2": "Enquanto alguns a vislumbram como um vetor indispensável para a democratização do acesso ao conhecimento e a educação continuada, outros questionam a profundidade da experiência acadêmica e a capacidade de fomentar um pensamento crítico multifacetado em um ambiente desprovido da interação presencial plena.",
+    "3": "Primordialmente, a EAD configura-se como um instrumento crucial para a expansão da educação superior e profissionalizante, alinhando-se às demandas de uma sociedade globalizada e em constante mutação.",
+    "4": "A flexibilidade de horários e a ausência da necessidade de deslocamento físico tornam o ensino virtual uma alternativa viável para indivíduos que, de outra forma, estariam excluídos do sistema educacional, como trabalhadores, moradores de regiões remotas ou pessoas com mobilidade reduzida.",
+    "5": "Tal democratização do acesso ecoa a perspectiva do sociólogo Zygmunt Bauman, para quem a \"modernidade líquida\" exige adaptação e aprendizado contínuo, elementos que a EAD, com sua estrutura maleável, pode oferecer com proficiência, rompendo com as rigidezes do modelo tradicional e impulsionando a inclusão.",
+    "6": "Contudo, a despeito de seus inegáveis benefícios em termos de alcance, a modalidade de ensino a distância suscita ponderações críticas quanto à integralidade da vivência universitária e à qualidade da formação humana.",
+    "7": "A universidade, em sua concepção clássica, transcende a mera transmissão de conteúdo, configurando-se como um locus de efervescência intelectual, troca de ideias e construção de laços sociais e profissionais.",
+    "8": "A filósofa Hannah Arendt, ao discutir a importância da \"esfera pública\" para o desenvolvimento da vita activa, sublinha a relevância do encontro e do debate presencial para a formação de cidadãos críticos e engajados.",
+    "9": "Nesse sentido, a ausência de interações face a face, de discussões espontâneas nos corredores e da imersão no ambiente acadêmico pode comprometer a profundidade da reflexão crítica e a capacidade de argumentação dos discentes, elementos essenciais para a formação de um profissional completo e de um cidadão ativo.",
+    "10": "Diante do exposto, é imperativo que a expansão dos cursos a distância seja acompanhada de políticas que garantam a excelência pedagógica e a efetivação de uma experiência educacional enriquecedora.",
+    "11": "Para tanto, o Ministério da Educação (MEC) e as instituições de ensino superior devem atuar em conjunto para criar diretrizes mais rigorosas de avaliação e fomento.",
+    "12": "Tal ação pode ser implementada por meio da exigência de plataformas virtuais que incentivem a interatividade e a colaboração, bem como da inclusão de módulos presenciais obrigatórios que proporcionem debates, atividades práticas e o desenvolvimento da sociabilidade acadêmica.",
+    "13": "O efeito esperado é a formação de profissionais altamente capacitados e cidadãos plenamente conscientes, capazes de navegar com criticidade e competência nos desafios do século XXI, garantindo que a flexibilidade não se sobreponha à qualidade formativa."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10",
+        "12"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "7"
+      ],
+      "textos_motivadores": [
+        "5",
+        "10",
+        "12",
+        "16"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "5",
+        "6",
+        "7"
+      ],
+      "textos_motivadores": [
+        "5",
+        "8",
+        "16",
+        "29"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10",
+        "13"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1",
+        "5"
+      ],
+      "textos_motivadores": [
+        "10",
+        "12",
+        "29"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10",
+        "13"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "6",
+        "7"
+      ],
+      "textos_motivadores": [
+        "2",
+        "3",
+        "18",
+        "19"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "2",
+        "3"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "2",
+        "3"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "2",
+        "3",
+        "18",
+        "19"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": [
+        "25",
+        "26",
+        "27"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": [
+        "23",
+        "24",
+        "25",
+        "27"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8",
+        "11",
+        "13",
+        "14"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": [
+        "2",
+        "3",
+        "25"
+      ]
+    }
+  }
+}

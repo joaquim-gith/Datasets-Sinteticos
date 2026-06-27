@@ -1,0 +1,251 @@
+{
+  "tema": "enchentes-o-excesso-de-chuvas-e-o-unico-responsavel-pelo-desastre",
+  "comando_tematico": {
+    "frases": {
+      "0": "Enchentes: o excesso de chuvas é o único responsável pelo desastre?",
+      "1": "Um ano após o deslizamento de terras que matou cerca de 50 pessoas em Angra dos Reis, o Estado do Rio de Janeiro voltou a sofrer as consequências das fortes chuvas de verão.",
+      "2": "Neste ano, foram mais de 700 mortes na região serrana, motivo de comoção nacional.",
+      "3": "A Austrália também foi tomada por fenômeno semelhante, mas lá a enchente, que deixou mais de 3,5 mil desalojados, matou apenas cerca de 30 pessoas.",
+      "4": "A comparação entre o que ocorreu nos dois lugares dá o que pensar, principalmente quando se leva em conta que, segundo muitas previsões, há mudanças climáticas em curso e o volume de chuvas pode aumentar gradativamente ao longo do século.",
+      "5": "A questão é se o homem está totalmente à mercê das forças naturais e nada pode fazer diante da fúria da natureza ou se existem formas de prevenir os desastres e proteger-se deles.",
+      "6": "Na sua opinião, deve-se culpar somente o excesso de chuvas pelas catástrofes que atingiram diversas cidades brasileiras neste ano?",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Mudança climática e ação contra enchentes O aumento da incidência de chuvas em consequência das mudanças climáticas globais não pode servir de desculpa para os governos não agirem para evitar enchentes, na avaliação de Debarati Guha-Sapir, diretora do Cred (Centro de Pesquisas sobre a Epidemiologia de Desastres), de Bruxelas, na Bélgica.",
+      "4": ") \"Dizer que o problema é consequência das mudanças climáticas é fugir da responsabilidade, é desculpa dos governos para não fazer nada para resolver o problema\", critica Guha-Sapir, que é também professora de Saúde Pública da Universidade de Louvain.",
+      "8": ") Segundo ela (Guha-Sapir), as consequências das inundações são agravadas pela urbanização caótica, pelas altas concentrações demográficas e pela falta de atuação do poder público.",
+      "12": ") Para a especialista, questões como infraestrutura, ocupação urbana, desenvolvimento das instituições públicas e nível de pobreza e de educação ajudam a explicar a disparidade no número de vítimas entre as enchentes na Austrália e no Brasil.",
+      "13": "[ Folha.",
+      "14": "com Brasil ] Enchente na cidade australiana de Toowoomba.",
+      "15": "(Wikimedia Commons) Estado australiano diz que investigará causa de enchentes A premiê do Estado de Queensland, na Austrália, anunciou nesta segunda-feira que fará uma investigação sobre as enchentes que devastaram grande parte do Estado nas últimas semanas.",
+      "16": "Segundo Anna Bligh, o inquérito vai observar questões como o funcionamento das represas, fará um \"exame forense\" da cadeia de eventos que levou às enchentes e servirá de guia para futuros investimentos no Estado.",
+      "17": "A Comissão de Inquérito custará 15 milhões de dólares australianos (R$ 25 milhões) e ficará encarregada de entregar um relatório provisório em agosto e outro, final, dentro de um ano, após investigar sistemas de alerta, planejamento governamental e a estrutura de atendimento emergencial.",
+      "18": "\"Vejo isso como um investimento na nossa segurança futura, para que nos preparemos melhor para eventos como este\", declarou Bligh, que disse não querer que nada seja \"escondido sob o tapete\".",
+      "19": "[ UOL Notícias Brasil ] Previsão do tempo Ignorando evidências sobre eventos climáticos extremos, governantes abandonam populações à mercê de inundações e deslizamentos Todo ano o discurso se repete.",
+      "20": "Diante dos desastres provocados pelas chuvas, autoridades das diversas esferas se referem ao caráter excepcional, inédito, fora do normal, das precipitações que acabaram de ocorrer.",
+      "21": "Não mentem ao dizer isso - mas a constatação não lhes serve de desculpa.",
+      "22": "O aumento de episódios de chuvas extremas era previsível, diante do crescimento desordenado das cidades e da mudança climática provavelmente em curso no planeta.",
+      "23": "Em São Paulo ou em qualquer outra região do país, as projeções do clima ganham cada vez mais precisão e credibilidade, mas não apontam para fenômenos novos.",
+      "24": "Enchentes e deslizamentos se repetem todos os verões, assim como as promessas de que não voltarão a ocorrer no próximo.",
+      "25": "Os governantes não agem na medida do necessário para adaptar as cidades brasileiras a uma situação que se agrava, a olhos vistos, de ano para ano.",
+      "26": "E que não se explica só por \"causas naturais\": surgem na medida da irresponsabilidade humana, em sua repetição e em seus trágicos efeitos.",
+      "27": "[Folha de S.",
+      "28": "Paulo, editorial, 16 de janeiro de 2011] O emergente submergiu No caso da tragédia do Rio, é só somar 1+1+1 e o resultado inexorável será a incompetência do poder público e o retrato de um país que tem mais de submergido que de emergente.",
+      "29": "Primeiro 1 - O \"Jornal Nacional\" de quinta-feira mostrou que choveu mais em Portugal e na Austrália do que no Rio de Janeiro.",
+      "30": "Mas o número de mortos no Rio foi esmagadoramente superior.",
+      "31": "Segundo 1 - O serviço de meteorologia emitiu aviso especial sobre a iminência de fortes chuvas precisamente nas áreas que acabaram sendo devastadas.",
+      "32": "Uma das prefeituras reconheceu ter recebido o aviso cinco horas antes da explosão.",
+      "33": "Nada foi feito.",
+      "34": "Terceiro 1 - A manchete desta Folha, ontem, mostra que desde 2008 o Rio de Janeiro sabia perfeitamente que havia riscos tremendos nas cidades que foram as principais vítimas.",
+      "35": "O que foi feito?",
+      "36": "Nada.",
+      "37": "Tudo somado, o que se tem é o óbvio fato de que chuvas torrenciais podem acontecer, deslizamentos formidáveis também -e, até aí, a culpa é só da natureza-, mas falta, no Brasil, acontecer a prevenção.",
+      "38": "[Clóvis Rossi, Folha de S.",
+      "39": "Paulo, 16 de janeiro de 2011]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "As catástrofes oriundas de enchentes no Brasil vem  há anos contabilizando vítimas, principalmente nos meses em que o índice pluviométrico  são maiores, o que evidencia a falta de programas políticos direcionados ao combate as enchentes.",
+    "1": "Essa falta de administração no cenário nacional pode ser observada em uma das grandes enchentes registradas no final de 2008 no Estado de Santa Catarina, em que sessenta municípios foram tomados pelas águas vitimando dezenas de pessoas.",
+    "2": "Já em São Paulo todo final de ano e inicio  do outro e  a mesma coisa, rios transbordando, carros e casas submersas e pessoas arcando com prejuízos materiais e as  vezes com a própria vidas.",
+    "3": "No Rio de Janeiro, infelizmente, houve recentemente uma das maiores tragédias registradas, com um saldo de aproximadamente 700 mortos na região serrana.",
+    "4": "Ademais, a Austrália foi acometida por chuvas semelhantes a que caiu  no Rio de Janeiro, mas essa semelhança para por ai  , pois lá houve 30 mortes.",
+    "5": "Como é possível tamanha diferença?",
+    "6": "Está na política voltada para a prevenção, como estudos dos fenômenos naturais, avaliação das áreas afetadas, infraestrutura, urbanização respeitando as áreas destinadas a  natureza, como as encostas e margens de rios e conscientização da população quanto a reciclagens e destino do lixo doméstico.",
+    "7": "Diante das reincidências das enchentes e da morosidade de ações públicas para minimizar as conseqüências  citadas é necessário que os governantes mudem suas estratégicas  , ou seja, ao invés  de gastar o dinheiro público para remediar as tragédias, que invista  primeiro na prevenção."
+  },
+  "redacao_gerada": {
+    "0": "A recorrencia de desastres naturais, como as enchentes que assolam diversas regiões brasileiras anualmente, levanta o questionamento sobre a verdadeira causa dessas tragédias.",
+    "1": "Embora o volume de chuvas seja frequentemente apontado como o principal vilão, é fundamental analisar se o excesso de precipitações é, de fato, o único responsável pelos cenários de calamidade que se repetem.",
+    "2": "A complexidade do problema sugeri que fatores além da natureza contribuem significativamente para a magnitude dos impactos, evidenciando uma falha sistêmica em nossa sociedade.",
+    "3": "É inegável que a urbanização desordenada e a falta de planejamento urbano adequados exacerbam os efeitos das chuvas intensas.",
+    "4": "Muitas cidades brasileiras cresceram sem a devida infraestrutura de escoamento, com a ocupação de áreas de risco, como encostas e margens de rios, tornando-se uma prática comum e perigosa.",
+    "5": "Esse cenário, somado à negligência do poder público em fiscalizar e oferecer alternativas de moradia seguras, transforma um fenômeno natural em uma catástrofe humana, demonstrando que a fragilidade social e a omissão governamental são determinantes para o aumento de vítimas.",
+    "6": "Afinal, a simples ocorrência de chuva não deveria, por si só, resultar em tantas perdas de vidas e bens, à não ser que haja outros fatores.",
+    "7": "Ademais, a ausência de políticas públicas eficazes de prevenção e alerta agrava ainda mais a situação, perpetuando um ciclo vicioso de destruição.",
+    "8": "Enquanto em outros países, a exemplo da Austrália, sistemas de monitoramento meteorológico avançados e planos de contingência robustos minimizam o número de vítimas fatais, no Brasil, a resposta aos eventos extremos é frequentemente reativa, e não preventiva.",
+    "9": "Tal disparidade evidencia que a capacidade de resposta e a organização institucional são cruciais para mitigar os desastres.",
+    "10": "Não se pode atribuir toda a culpa à natureza quando a falta de investimento em saneamento, drenagem e manutenção de bacias hidrográficas é flagrante e contribui para este problema.",
+    "11": "O descaso com a gestão territorial e ambiental é um fator humano preponderante, que necessita a atenção de todos.",
+    "12": "Diante do exposto, percebe-se que culpar exclusivamente o excesso de chuvas pelas enchentes é uma visão simplista e irresponsável, que desvia o foco das verdadeiras soluções.",
+    "13": "É imperativo que o governo, em suas diversas esferas, invista em planejamento urbano sustentável, infraestrutura resiliente e sistemas de alerta eficazes, a fim de proteger a população vulnerável.",
+    "14": "Cabe também à sociedade cobrar essas ações e evitar ocupar áreas de risco, colaborando para a construção de cidades mais seguras e preparadas para os desafios climáticos que se avizinham.",
+    "15": "Somente assim, com a união de esforços e responsabilidades, poderemos reduzir o impacto destas recorrentes tragédias e construir um futuro mais resiliente para as próximas gerações."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "24"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "20",
+        "24"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "26"
+      ]
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8",
+        "12",
+        "22"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8",
+        "12",
+        "34"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "25",
+        "26",
+        "28",
+        "37"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "26",
+        "30",
+        "37"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "4",
+        "17",
+        "25",
+        "31",
+        "33",
+        "36",
+        "37"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "12",
+        "15",
+        "16",
+        "17",
+        "30"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "12",
+        "30"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "8",
+        "12",
+        "26",
+        "37"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "26",
+        "28",
+        "37"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "4",
+        "26"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "8",
+        "12",
+        "17",
+        "18",
+        "25",
+        "37"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "18",
+        "22"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "18",
+        "24",
+        "25"
+      ]
+    }
+  }
+}

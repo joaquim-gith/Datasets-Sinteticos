@@ -1,0 +1,154 @@
+{
+  "tema": "um-cachorro-vale-mais-do-que-um-ser-humano",
+  "comando_tematico": {
+    "frases": {
+      "0": "Um cachorro vale mais do que um ser humano?",
+      "1": "A multimilionária Leona Helmsley, dona de um império imobiliário nos Estados Unidos, morreu em 20  e deixou por testamento US$ 12 milhões para seu cachorrinho.",
+      "2": "O animal foi favorecido em prejuízo de dois netos de Leona, que foram deserdados.",
+      "3": "Para muitos, o gesto pode parecer absurdo.",
+      "4": "Outros talvez o aprovem.",
+      "5": "Há quem valorize o melhor amigo do homem mais do que o próprio homem.",
+      "6": "Você acha isso justo?",
+      "7": "Um cão pode valer tanto ou mais que um ser humano?",
+      "8": "Sob o ponto de vista da ética, trata-se de uma questão que merece reflexão.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Trouble, o cão multimilionário A chamada \"rainha da maldade\" em suas últimas vontades fez jus ao apelido que ganhou em vida nos tablóides, já que o principal beneficiário de sua fortuna será Trouble, o pequeno maltês branco do qual nunca se separava, segundo o jornal \"Daily News\".",
+      "1": "A guarda do cachorrinho mimado ficará a cargo de Alvin Rosenthal, irmão da finada e menos felizardo do que o bichinho, já que só receberá US$ 10 milhões.",
+      "2": "Para seus netos David e Walter decidiu deixar US$ 5 milhões para cada um.",
+      "3": "Craig e Meegan, os outros dois netos, ficaram, em compensação, sem nada \"por razões por eles conhecidas\", ainda de acordo com as últimas vontades de Leona.",
+      "4": "Quando o cachorrinho Trouble for chamado a se encontrar com sua dona, ficará a seu lado no mausoléu cercado por doze colunas dóricas e ao qual foi destinado um fundo de US$ 3 milhões para que Leona Helmsley possa assim continuar desfrutando do luxo em sua vida além-túmulo.",
+      "5": "( Adaptado de UOL Notícias, 29 de agosto de 2007 ) Texto 2 \"Já faz tempo, mas ninguém esquece.",
+      "6": "Em 1991, flagrado ao utilizar um carro oficial para levar sua cadela ao veterinário, o então ministro do Trabalho, Antonio Rogério Magri, deu a célebre declaração: 'Cachorro também é ser humano'\".",
+      "7": "( Laura Mattos, \"Folha de S.",
+      "8": "Paulo\", 2 de janeiro de 2008 ) Texto 3 Troque seu cachorro Por uma criança pobre Sem parente, sem carinho Sem rango, sem cobre Deixe na história de sua vida Uma notícia nobre.",
+      "11": "Troque seu cachorro Por uma criança pobre Tem muita gente por aí Que tá querendo levar Uma vida de cão Eu conheço um garotinho Que queria ter nascido Pastor-alemão ( \"Rock da Cachorra\", Eduardo Dusek ) Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Não é muito difícil compreender porque as pessoas tem optado em adotar cachorros ao invés de crianças, os animais dão menos trabalho e não precisam ser educados, apenas adestrados.",
+    "1": "Servem para suprir um pouco a solidão da vida moderna mas não substituem uma companhia para um bom papo, para discutir um filme ou mesmo cuidar dos mais velhos quando chegar a velhice.",
+    "2": "Porém a sociedade moderna é imediatista, só pensa no hoje e por isso se afeiçoa aos cachorros, que logo estão abanando seus rabinhos quando identificam o dono, entretanto não vão passar disso, desse pequeno reconhecimento em troca de comida.",
+    "3": "Até a imprensa alimenta esse desvio de conduta, quando mobiliza seus jornais com notícias e plantões sobre uma baleia encalhada na praia, ou ursos que estão ficando sem alimento; esquecendo do sofrimento de milhares de crianças que morrem diariamente por fome, por desnutrição, por abandono.",
+    "4": "É importante que a sociedade seja educada para respeitar os animais, o que não pode acontecer é a inversão de valores ao tratar um cachorro como se fosse um bebê, deixando um bebê morrer abandonados, jogados nos valões dos subúrbios urbanos .",
+    "5": "Portanto será necessário um maior esforço da sociedadepara a fim de sensibilizar as pessoas para que compreendam e ajudem a superar o sofrimento de seus semelhantes."
+  },
+  "redacao_gerada": {
+    "0": "Hoje em dia, a gente vê que muitas pessoas tem um animal de estimação.",
+    "1": "Os cachorros são, sem duvida, os melhor amigo do homem, isso é um fato que todos sabem e concordam.",
+    "2": "É muito comum ver as pessoas gastando dinheiro com seus pets, as vezes até mais do que gasta com a própria familia, o que é uma coisa estranha para muitos.",
+    "3": "Isso é algo que a sociedade precisa pensar e refletir muito sobre, porque o mundo ta diferente e os valores também.",
+    "4": "Um cachorro, ele é leal, ele nunca vai te abandonar.",
+    "5": "Ele esta sempre ali, esperando você chegar em casa, balançando o rabo, sempre feliz em te ver.",
+    "6": "Já um ser humano, ele pode ser traiçoeiro, ele pode te enganar e fazer mal para você, o que acontece muito.",
+    "7": "Por isso, muita gente prefere ter um bicho do que um amigo de verdade, porque o bicho não te julga e te ama incondicionalmente, sem pedir nada em troca.",
+    "8": "Essa é a verdade dos fatos, e é por isso que alguns acha que o animal é mais importante do que uma pessoa.",
+    "9": "Teve um caso famoso de uma senhora rica que deixou a fortuna dela toda para o seu cachorro, em vez de deixar para os netos que ficaram sem nada.",
+    "10": "Isso mostra como o amor por um animal pode ser grande e forte, e como algumas pessoas se importam mais com os bichos.",
+    "11": "Ela deve ter tido seus motivos para essa decisão, e a gente não pode julgar porque cada um sabe da sua vida.",
+    "12": "É claro que dinheiro é importante, mas o amor de um bicho é mais ainda para alguns.",
+    "13": "Então, tipo assim, a pessoa tem direito de fazer o que quiser com o que é dela, e se ela prefere o cachorro, tudo bem, é uma escolha.",
+    "14": "Para resolver essa questão e para que todos vivam melhor, é preciso que a sociedade e as autoridades pensem mais sobre o valor dos animais na vida das pessoas.",
+    "15": "É importante que as pessoas sejam mais conscientes sobre a importância dos cachorros e que o governo crie mais programas para ajudar os animais de rua, para que eles não sofra e tenha um lar.",
+    "16": "Assim, teremos um futuro melhor para todos, tanto para humanos quanto para os bichos, e a vida vai ser mais justa para todos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "3"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

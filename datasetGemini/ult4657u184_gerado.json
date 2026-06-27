@@ -1,0 +1,164 @@
+{
+  "tema": "fomos-dominados-pelas-maquinas-que-inventamos",
+  "comando_tematico": {
+    "frases": {
+      "0": "Fomos dominados pelas máquinas que inventamos?",
+      "1": "Já não conseguimos viver sem celular, computador, internet e outros poderosos recursos tecnológicos.",
+      "2": "Queiramos ou não, eles transformaram o mundo durante o século 20 e ingressaram no século 21 com uma velocidade espantosa.",
+      "3": "Muita gente se adapta rapidamente às novidades e nem lembra como era a vida sem elas.",
+      "4": "Para outros, porém, ocorre uma dúvida: nossa existência seria melhor ou pior sem tudo isso?",
+      "5": "Seríamos diferentes?",
+      "6": "Há quem odeie e quem ame irrestritamente essas máquinas.",
+      "7": "Qual é nossa relação com os avanços da tecnologia?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ser humano se tornou uma extensão da roda O Rio chegou a 2 milhões de carros; São Paulo, a 6 milhões.",
+      "1": "No Rio, é um carro para cada três habitantes; em São Paulo, são dois.",
+      "2": "O automóvel venceu.",
+      "3": "O comunicólogo Marshal McLuhan, talvez a única voz otimista de 1968, errou feio: o ser humano é que se tornou uma extensão da roda.",
+      "4": "Mas, em 2008, quem quiser chegar rapidinho a qualquer lugar, é melhor que vá a pé.",
+      "5": "Ruy Castro, \"Folha de S.",
+      "6": "Paulo\", 17 Estresse ou vida partilhada Glauco, \"Folha de S.",
+      "7": "Paulo\", 05 A máquina e o poeta Cota Zero Stop.",
+      "8": "A vida parou Ou foi o automóvel?",
+      "9": "Carlos Drummond de Andrade (1902-1987, \"Alguma Poesia\", 1930) Os sábios e a cultura \"Com o aparecimento da escrita, alguns sábios temeram que o conhecimento, que antes estava vivo na cabeça, viria a morrer, esquecido nas páginas de um livro.",
+      "10": "Com a expansão dos meios de comunicação e a conseqüente chuva de informações, alguns sábios temeram que o conhecimento (.",
+      "13": ") viria a degenerar-se em papel de embrulhar peixe e ondas espalhadas no espaço.",
+      "14": "Com a explosão da internet (.",
+      "17": "), e a extrema facilidade de encontrar uma informação, alguns sábios temem que tudo acabe em desinteresse.",
+      "18": "Luiz Zico Rocha Soares, (\"Internet, um mundo paralelo\".",
+      "19": "Melhoramentos, 2007,."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Um mundo repleto de sistemas engenhosos e modernos sempre fascinou a todos.",
+    "1": "Mas, esse tempo de evolução tecnológica não apenas chegou, mas também contagiou , sendo que no nosso dia-a-dia observamos que a nova geração já nasce com um vocabulário próprio em virtude dessa revolução tecnológica, indivíduos esses que surgiram em um importante limiar da historia em que o homem é totalmente dependente de modernos instrumentos para a sua existência social e econômica         Apesar de algumas desvantagens ecológicas e sociais os benefícios e facilidades adquiridos por meio desse progresso são infinitamente maiores.",
+    "2": "A descoberta e propagação do conhecimento são apenas umas das inúmeras vantagens alcançadas, o bom uso desses meios possibilita a obtenção de fontes inesgotáveis de conhecimento.",
+    "3": "No principio dessa revolução muitas pessoas acostumadas ao tradicionalismo diziam que esses meios tecnológicos de propagação de conhecimento atrofiariam o conhecimento humano; fato que esta sendo provado o contrário; recentes pesquisas mostram que as atuais mídias estimulam o pensamento e o desenvolvimento do raciocínio lógico, aumentando cada vez mais os níveis de QI (Quociente de Inteligência) dessas gerações.",
+    "4": "Sem contar as inúmeras facilidades alcançadas; até pouquíssimo tempo atrás atividades consideradas simples atualmente como ir ao banco, declarar imposto de renda, realizar um compra no exterior eram atividades altamente desgastantes ou mesmo impossíveis de serem realizadas por algumas pessoas, sendo que esse cenário foi mudando com os consideráveis tecnológicos adquiridos com o passar dos anos.",
+    "5": "Muitas sociedades que não aderiram a essa revolução tiveram grandes prejuízos financeiros e sociais um pequeno exemplo disso foram às políticas adotadas por Cuba que negou a sua sociedade o contato com essas novas tecnologias acarretando uma defasagem tecnológica de \"anos luz\" comparada ao reto do mundo; sendo que o pseudo comunismo adotado pela China acompanhou essas mudanças globais resultando em considerável evolução econômica e comercial.",
+    "6": "Portanto, para que não ocorra um descompasso entre a atual realidade e a sociedade é necessário aderir aos benefícios dessa revolução tecnológica, não andando na contramão das tendências do século XXI."
+  },
+  "redacao_gerada": {
+    "0": "A ascensão vertiginosa da tecnologia no século XXI reconfigurou profundamente as interações humanas e a percepção do mundo.",
+    "1": "Desde a invenção da roda, a humanidade sempre buscou ferramentas para facilitar sua existência, mas a complexidade e a ubiquidade dos aparatos modernos, como celulares e computadores, levantam o questionamento se, de fato, fomos dominados pelas máquinas que criamos.",
+    "2": "É inegável que essa dependência crescente e as alterações cognitivas e sociais decorrentes sugerem um cenário onde a autonomia humana é posta à prova.",
+    "3": "Em primeiro lugar, a vida contemporânea demonstra uma simbiose quase indissolúvel com a tecnologia digital.",
+    "4": "A necessidade de estar constantemente conectado seja para trabalho, comunicação ou lazer, tornou-se um imperativo social.",
+    "5": "A dificuldade em viver sem um smartphone, por exemplo, ou a ansiedade gerada pela ausência de acesso à internet, ilustra como estes dispositivos deixaram de ser meros auxiliares e passaram a ditar ritmos e comportamentos.",
+    "6": "O indivíduo, muitas vezes, se veem guiados pelas notificações e algoritmos, que moldam desde suas escolhas de consumo até suas opiniões, evidenciando uma perda sutil, mas progressiva, do controle sobre a própria rotina.",
+    "7": "Ademais, a facilidade de acesso à informação e a interconexão global, embora benéficas, trouxeram consigo desafios à cognição e às relações interpessoais.",
+    "8": "A \"chuva de informações\" mencionada por alguns pensadores, que no passado temiam a degeneração do conhecimento com a escrita ou a mídia, hoje se intensifica na era digital.",
+    "9": "A superficialidade e a desatenção se tornam comuns, e a capacidade de aprofundar-se em um tema parece diminuir.",
+    "10": "As interações sociais, por sua vez, são frequentemente mediadas por telas, o que pode gerar um empobrecimento das conexões reais e um isolamento paradoxal em meio à vasta rede social.",
+    "11": "Para muitos, a vida social se resume à posts e likes, negligenciando o contato humano direto.",
+    "12": "Portanto, é imperativo reconhecer que a dominação tecnológica, embora não seja uma subjugação física, manifesta-se na dependência e na alteração de hábitos e pensamentos.",
+    "13": "Para mitigar esse cenário e preservar a autonomia humana, é fundamental que haja uma educação para o uso consciente e crítico das tecnologias.",
+    "14": "Iniciativas que promovam a reflexão sobre o tempo de tela, a verificação de fontes e o incentivo às interações offline são essenciais.",
+    "15": "Assim, poderemos reverter a rota da submissão e garantir que as máquinas continuem sendo ferramentas, e não os mestres, da existência humana."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9",
+        "10",
+        "13"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "17"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

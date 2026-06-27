@@ -1,0 +1,257 @@
+{
+  "tema": "e-certo-ou-errado-leiloar-a-virgindade-por-que",
+  "comando_tematico": {
+    "frases": {
+      "0": "É certo ou errado leiloar a virgindade?",
+      "1": "Por quê?",
+      "2": "O leilão da virgindade de dois jovens, promovido por uma produtora australiana, é um novo tipo de reality show que tem provocado muita polêmica.",
+      "3": "A virgindade de uma brasileira, por exemplo, terminou com um lance de R$ 1,5 milhão.",
+      "4": "O vencedor terá uma hora, durante um voo, para realizar o ato sexual, com base em um contrato que determina o que poderá ou não ser feito.",
+      "5": "Beijo não pode.",
+      "6": "A jovem alega que, por ser algo que acontecerá apenas uma vez, não considera essa venda sexual um ato de prostituição e rebate as críticas: \"Tenho 20 anos, sou responsável pelo meu corpo e não estou prejudicando ninguém.",
+      "7": "\" O valor do lance ficará com a moça e o lucro da produtora virá do programa, da exibição das imagens até a entrada do casal no avião.",
+      "8": "O que você pensa desse tipo de reality show?",
+      "9": "Acredita que seja apenas mais uma forma de diversão social?",
+      "10": "Acha que extrapola os limites da ética?",
+      "11": "Defenda seu ponto de vista em uma dissertação argumentativa e aponte qual deve ser o papel da família e dos governos diante dessa polêmica.",
+      "12": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Virgem em leilão A brasileira Catarina Migliorini, 20, está leiloando sua virgindade, por intermédio de uma produtora australiana.",
+      "1": "A \"experiência\" faz parte do documentário \"Virgins Wanted\", que conta a história de dois jovens antes e depois da primeira vez.",
+      "2": "“Estou nesse projeto há dois anos.",
+      "3": "Começou quando vi uma reportagem sobre um cineasta australiano que estava à procura de uma virgem.",
+      "4": "Pensei: sou virgem, vou me inscrever.",
+      "5": "Foi por impulso que eu, menininha de 18 anos, resolvi me inscrever.",
+      "6": "Achei que não receberia resposta.",
+      "10": ") Neste momento, estou em um hotel, em Bali.",
+      "11": "É como um reality show, mas sem filmagens o dia inteiro.",
+      "12": "Uma das partes do documentário é um leilão, na internet, em que o prêmio é a minha virgindade.",
+      "13": "Não penso muito no valor.",
+      "14": "” O ato será consumado no céu, para que não haja nenhum problema com a legislação dos países [prostituição não é crime em território brasileiro, mas tirar proveito dela, seja de que forma for, configura um delito].",
+      "18": ") O comprador não pode levar outra pessoa, querer realizar fantasias, usar brinquedo sexual, nada.",
+      "19": "Também é obrigatório o uso de camisinha e só pode tirar a virgindade, nada mais.",
+      "20": "Conversar pode.",
+      "21": "Mas beijar, não.",
+      "22": "Beijar não está no contrato.",
+      "23": "[ Folha de S.",
+      "24": "Paulo , 26 de setembro de 2012 ] O fim da virgindade Acaba hoje o prazo para fazer um lance pela virgindade da estudante brasileira Ingrid [verdadeiro nome de Catarina] Migliorini.",
+      "25": "Já lhe ofereceram US$ 255 mil pelo direito à primeira noite.",
+      "26": "Penso que a jovem está certíssima.",
+      "27": "Vai levantar um bom dinheiro para entregar uma simples abstração, que a maioria das meninas dá de graça a seus namorados.",
+      "28": "Se há algo chocante na história é o valor que nós, como espécie, atribuímos à virgindade.",
+      "29": "A obsessão se materializa em todos os níveis, do mais sagrado ao mais profano.",
+      "30": "Segundo Paul Bloom em \"How Pleasure Works\", o termo aparece nada menos do que 700 vezes no Antigo Testamento e ocupa lugar ainda mais central no cristianismo, com o suposto nascimento virginal de Jesus.",
+      "31": "Mesmo no mundo materialista do capitalismo, mulheres gastam pequenas fortunas em cirurgias de reconstituição do hímen.",
+      "32": "Tamanho interesse tem raízes evolutivas.",
+      "33": "Desde que a fêmea humana deixou de anunciar ostensivamente seu período fértil, como o faz a maioria dos primatas, ficou muito mais difícil para o macho ter certeza de que o filho que ele criaria era mesmo seu.",
+      "34": "E investir recursos no desenvolvimento de genes alheios é, em termos biológicos, um desastre.",
+      "35": "Um modo de aumentar as chances de o rebento ser legítimo era copular preferencialmente com virgens.",
+      "36": "[Hélio Schwartzman, Folha de S.",
+      "37": "Paulo , 14 de outubro de 2012 ] O fim do leilão O leilão da virgindade da brasileira Catarina Migliorini, 20, foi encerrado nesta quarta-feira com o lance de US$ 780 mil (o que equivale a cerca de R$ 1,5 milhão).",
+      "38": "O último lance computado pela virgindade da brasileira foi dado hoje por um japonês identificado apenas como Natsu."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "A perda da virgindade é algo que possui diferentes valores para a sociedade.",
+    "1": "Alguns acreditam que é algo sagrado que deveria ser extremamente valorizado pela mulher.",
+    "2": "Já outros opinam que não há motivo para manter-se virgem.",
+    "3": "Mas, apesar de tudo, a virgindade não possuía valor monetário, até pouco tempo.",
+    "4": "Um novo tipo de reality show que surgiu recentemente,  veio pôr um preço em algo tão íntimo.",
+    "5": "Neste ano, uma brasileira chamada Catarina Migliorini leiloou sua virgindade.",
+    "6": "O valor chegou a exorbitantes 1,5 milhão de reais, transformando a jovem numa celebridade.",
+    "7": "O que causa esse tipo de comércio?",
+    "8": "Seriam os valores familiares cada vez mais liberais?",
+    "9": "Ou a culpa poderia ser atribuída ao próprio reality show?",
+    "10": "Os avanços tecnológicos que marcam o século mostram um contraste: enquanto agora é possível comunicar-se com pessoas do outro lado do mundo, famílias encontram-se cada vez mais distantes.",
+    "11": "Isso reflete a mudança de valores e de suas prioridades.",
+    "12": "Algo tão importante antigamente  como a virgindade, agora se tornou tão raro que é até vendido a preços altíssimos.",
+    "13": "Assim podemos perceber a desvalorização do corpo humano.",
+    "14": "Não é mais atribuído nenhum valor sentimental à virgindade da mulher ou do homem.",
+    "15": "Sua perda se tornou algo comum, que ocorre cada vez mais cedo.",
+    "16": "Jovens preferem fazer sexo prematuramente, muitas vezes sem certeza do que realmente querem, do que  fazê-lo mais tarde, como adultos satisfeitos consigo  mesmos.",
+    "17": "Essa atitude precoce gera famílias que se desfazem com extrema rapidez.",
+    "18": "Assim surgem filhos que não possuem sua base familiar corretamente estruturada, tudo isso proveniente de decisões feitas sem muito pensamento ou certeza.",
+    "19": "É necessário não só aprimorar a comunicação familiar como também estabelecer prioridades claras para a vida do jovem.",
+    "20": "Num mundo tão capitalista onde tudo pode ser comprado, é mais do que fundamental o estabelecimento de limites.",
+    "21": "Até onde o dinheiro interfere?",
+    "22": "Mais do que nunca, a família precisa exercer seu poder, antes que se coloque um preço nisso também."
+  },
+  "redacao_gerada": {
+    "0": "A controvérsia acerca do leilão da virgindade de jovens, que ganhou notoriedade em casos específicos envolvendo produtoras australianas, suscita profundas discussões sobre os limites da autonomia individual e a ética na sociedade contemporânea.",
+    "1": "Tal fenômeno, muitas vezes justificado como uma escolha pessoal e um meio de ganho financeiro, desafia a percepção social do corpo e da sexualidade, levantando questionamentos sobre a linha tênue entre liberdade e mercantilisação.",
+    "2": "Este debate exige uma análise cuidadosa das implicações éticas e sociais envolvidas.",
+    "3": "Em primeiro lugar, a prática de leiloar a virgindade levanta sérias preocupações quanto à objetificação do corpo humano.",
+    "4": "Ao transformar uma experiência íntima em um produto a ser comercializado, desconsidera-se a dignidade intrínseca do indivíduo, reduzindo-o a um mero objeto de transação.",
+    "5": "Embora alguns defendam a liberdade de cada um dispor de seu corpo, como bem entender, a sociedade não pode ignorar o contexto em que essas escolhas é feitas.",
+    "6": "A mercantilização da sexualidade, mesmo que consensual, pode reforçar estereótipos prejudiciais e perpetuar a visão de que o corpo é uma mercadoria, disponível para o maior lance, o que é um desserviço à construção de relações humanas mais equitativas.",
+    "7": "Ademais, a alegação de autonomia individual, embora válida em muitos contextos, precisa ser ponderada frente às possíveis vulnerabilidades.",
+    "8": "Em um mundo onde as desigualdades sociais e econômicas são latentes, a promessa de um ganho financeiro expressivo pode exercer uma pressão considerável sobre jovens, que por vezes não possuem plena maturidade para avaliar as consequências a longo prazo de tal decisão.",
+    "9": "A mídia, ao transformar esses eventos em espetáculos, como reality shows, contribui para a normalização de práticas questionáveis, desviando o foco da complexidade ética para o mero entretenimento.",
+    "10": "A pergunta que emerge é se uma escolha feita sob tamanha influência financeira é realmente livre de coerção.",
+    "11": "Portanto, fica evidente que o leilão da virgindade extrapola os limites da ética, exigindo uma postura ativa da sociedade.",
+    "12": "É fundamental que governos e instituições promovam debates e legislações que protejam a dignidade humana, impedindo a exploração e a mercantilização do corpo.",
+    "13": "A família, por sua vez, deve desempenhar um papel essencial na educação de jovens, fomentando o pensamento crítico e a valorização da autoestima, para que não se vejam compelidos à decisões que possam comprometer seu bem-estar futuro, reforçando que o corpo não é um objeto de leilão."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "6",
+        "10"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "12"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "6",
+        "7"
+      ],
+      "textos_motivadores": [
+        "4",
+        "5",
+        "6",
+        "13",
+        "27"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "8",
+        "10",
+        "11"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "0",
+        "6",
+        "12"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "12",
+        "28"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "6",
+        "26"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "25",
+        "28",
+        "37",
+        "38"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "6",
+        "26"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "2",
+        "3",
+        "7"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "13",
+        "25",
+        "27",
+        "37",
+        "38"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "2",
+        "8",
+        "9",
+        "10"
+      ],
+      "textos_motivadores": [
+        "1",
+        "11"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "3",
+        "6",
+        "7"
+      ],
+      "textos_motivadores": [
+        "13",
+        "27"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "10"
+      ],
+      "textos_motivadores": [
+        "0",
+        "12"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "11"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "11"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "12"
+      ]
+    }
+  }
+}

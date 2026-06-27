@@ -1,0 +1,195 @@
+{
+  "tema": "caso-geisy-exibicionismo-machismo-intolerancia-ou-ma-educacao",
+  "comando_tematico": {
+    "frases": {
+      "0": "Caso Geisy: exibicionismo, machismo, intolerância ou má-educação?",
+      "1": "Geisy Arruda, aluna de uma universidade em São Bernardo do Campo (SP), precisou de escolta policial para voltar para casa.",
+      "2": "Ela teria provocado a hostilidade de cerca de 700 colegas, pelo apertado minivestido pink com que foi à escola.",
+      "3": "A estudante, xingada e humilhada, admitiu, depois, que errou ao usar essa roupa.",
+      "4": "Enquanto muitos a defendem, como os estudantes de Brasília, que manifestaram solidariedade, saindo nus em passeata, outros consideram o caso um ato de exibicionismo erótico premeditado.",
+      "5": "Expulsa da faculdade, depois readmitida, Geisy não voltou às aulas, mas tem ido a programas de TV para falar do episódio.",
+      "6": "Tornou-se, por enquanto, uma celebridade.",
+      "7": "Mas, afinal, onde está o centro desta polêmica?",
+      "8": "No vestuário feminino, no machismo e na intolerância ou na má-educação da sociedade em geral?",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Pernas de fora: que país é este?",
+      "1": "\"Que país é este, famoso por suas mulheres quase nuas nas praias, nos cartões postais e nos comercias de TV, que não admite um vestido pouco mais curto que o de Julie Andrews em \"A noviça rebelde?",
+      "2": "\" [Ruy Castro, \"Folha de S.",
+      "3": "Paulo\"] \"Uma simples pergunta evidencia o machismo: seria essa a reação da universidade se se tratasse de um rapaz se vestindo de maneira inadequada, com coxas à mostra ou dorso nu?",
+      "4": "\" [Marta Suplicy.",
+      "5": "\"Folha de S.",
+      "6": "Paulo\"].",
+      "7": "Geisy por Geisy \"Eu sempre gostei de vestidos curtos, calças apertadas, blusas decotadas.",
+      "8": "É meu estilo, meu jeito de ser.",
+      "9": "\" [Geisy Arruda, em entrevista à revista \"Contigo\"] \"Eu não quis provocar.",
+      "10": "Eu sou assim, sempre me vesti dessa maneira.",
+      "11": "Eles quiseram me humilhar ainda mais\".",
+      "12": "[Geisy Arruda, em entrevista coletiva].",
+      "13": "Geisy abusou?",
+      "14": "\"É radical, mas tem que expuslar mesmo.",
+      "15": "Aquilo não é roupa para ir à aula.",
+      "16": "É um ambiente de respeito.",
+      "17": "\" [Viviane de Vila, vestibulanda.",
+      "18": "\"Folha de S.",
+      "19": "Paulo\"] \"Foi apurado que a aluna tem frequentado as dependências da unidade em trajes inadequados, indicando uma postura incompatível com o ambiente da universidade.",
+      "20": "\" [Uniban, Informe publicitário sobre a expulsão da aluna] \"É preciso observar o padrão de comportamento dos lugares que se frequenta (.",
+      "24": "Ela mexeu com a sexualidade de maioria masculina.",
+      "25": "Ela foi inadequada, pois a maioria masculina foi instigada à excitação sexual.",
+      "26": "\" [Içami Tiba, psiquiatra e educador, UOL Educação]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Os tecidos envoltos aos corpos humanos ainda remetem polêmica no cotidiano.",
+    "1": "Cada indivíduo enfrenta, constantemente, críticas estéticas.",
+    "2": "Para evitar tantas opiniões alheias, relaciona-se, quase automaticamente, a roupa que se usará ao local de destino.",
+    "3": "A estudante Geisy, porém, preferiu ignorar esta relação e, assim, admitir os rumores.",
+    "4": "Com um vestido curto e colado ao corpo, a jovem não só instigou sexualmente os colegas escolares, como também  absteu-se  do ambiente onde estava e do próprio respeito aos professores e universitários.",
+    "5": "A reação dos alunos somente           verbalizou o desacato sentido pelos próprios  .",
+    "6": "A escola é um local de aprendizado e conhecimento que exige discrição e postura compatível.",
+    "7": "Logo, as vestimentas escolhidas pela jovem não representam uma afirmação de livre-arbítrio, mas sim uma decisão inconsequente.",
+    "8": "As regras escolares também deveriam ter sido mais clamadas no estabelecimento, para assim evitar uma punição injusta.",
+    "9": "Com o conhecimento das normas, grandes confusões seriam evitadas e a integridade do ambiente manteria-se  .",
+    "10": "Em suma, todo ambiente tem as suas características individuais , uma escola difere-se  de um shopping, um botequim de uma igreja e assim sequencialmente.",
+    "11": "Portanto, a lógica é instrumento essencial às escolhas das atitudes, das palavras e, com igual ou maior relevância, da                 aparência refletida .",
+    "12": "Geisy, com o seu comportamento \"desmedido\", representa a ideologia nada simpática da \"popularidade a qualquer medida\"."
+  },
+  "redacao_gerada": {
+    "0": "O incidente envolvendo Geisy Arruda, aluna de uma universidade em São Bernardo do Campo, que necessitou de escolta policial após ser hostilizada por sua vestimenta, transcendeu a esfera de um mero episódio isolado de \"má-educação\".",
+    "1": "O ocorrido, desencadeado por um minivestido pink considerado \"inadequado\", expôs de maneira crua as complexas intersecções entre liberdade individual, normas sociais e a persistência de um machismo estrutural no Brasil.",
+    "2": "Assim, a polêmica não reside primariamente no suposto exibicionismo da estudante, mas sim na intolerância e na cultura de culpabilização da vítima que persistem na sociedade brasileira.",
+    "3": "Em primeira análise, a agressividade e a humilhação direcionadas a Geisy Arruda evidenciam a profunda raiz do machismo e da misoginia ainda presentes no tecido social brasileiro.",
+    "4": "Conforme teorizado por Simone de Beauvoir em \"O Segundo Sexo\", a mulher é frequentemente construída como \"o Outro\", um objeto cuja existência é definida em relação ao homem e, portanto, sujeita a escrutínio e controle social.",
+    "5": "A reação desproporcional da massa estudantil, ao invés de questionar a própria conduta, impôs uma sanção coletiva à mulher por sua escolha de vestuário, reforçando a ideia de que o corpo feminino é um território público passível de julgamento e punição, e não um domínio de autonomia individual, o que configura uma clara intolerância.",
+    "6": "Ademais, a tentativa de justificar a hostilidade sob a ótica de \"exibicionismo\" ou \"inadequação\" constitui uma perigosa estratégia de culpabilização da vítima, desviando o foco da responsabilidade coletiva.",
+    "7": "Essa narrativa, que sugere que a vestimenta de Geisy \"provocou\" a reação, alinha-se à lógica da violência simbólica de Pierre Bourdieu, onde a dominação se naturaliza e a vítima é levada a internalizar sua própria culpa.",
+    "8": "Ao invés de reconhecer a falha da coletividade em respeitar a dignidade alheia e a liberdade de expressão, o discurso dominante transferiu a responsabilidade para a estudante, perpetuando um ciclo vicioso que legitima a agressão e inibe a autonomia feminina, culminando em uma má-educação social.",
+    "9": "Em suma, o caso Geisy Arruda, longe de ser um evento trivial, revelou as fissuras de uma sociedade que ainda luta para conciliar a modernidade com o respeito à diversidade e à individualidade.",
+    "10": "Para mitigar tais manifestações de intolerância, é imperativo que o Ministério da Educação (MEC), em colaboração com as instituições de ensino superior e organizações da sociedade civil, implemente programas educativos contínuos.",
+    "11": "Tais ações devem ocorrer por meio de palestras, workshops e campanhas de conscientização que promovam o respeito à diversidade, à liberdade individual e desconstruam estereótipos de gênero, abordando temas como assédio, consentimento e a desmistificação da \"culpa da vítima\", visando fomentar um ambiente acadêmico e social mais inclusivo e equitativo, onde a vestimenta não seja pretexto para a violência ou o julgamento."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "8"
+      ],
+      "textos_motivadores": [
+        "15",
+        "19",
+        "20",
+        "26"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "8"
+      ],
+      "textos_motivadores": [
+        "13",
+        "24",
+        "25"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "3",
+        "8"
+      ],
+      "textos_motivadores": [
+        "11"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "2",
+        "8"
+      ],
+      "textos_motivadores": [
+        "14",
+        "19",
+        "20"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "8"
+      ],
+      "textos_motivadores": [
+        "13",
+        "19",
+        "20",
+        "24",
+        "25",
+        "26"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "24",
+        "25"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": [
+        "10",
+        "11"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": [
+        "3",
+        "15",
+        "19",
+        "20",
+        "24",
+        "25"
+      ]
+    }
+  }
+}

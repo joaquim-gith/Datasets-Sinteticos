@@ -1,0 +1,202 @@
+{
+  "tema": "cotas-nas-universidades-voce-e-a-favor-ou-contra",
+  "comando_tematico": {
+    "frases": {
+      "0": "Cotas nas universidades: você é a favor ou contra?",
+      "1": "Poucas iniciativas governamentais têm criado tanta polêmica como esta.",
+      "2": "A implantação do sistema de cotas para afrodescendentes e negros tem produzido manifestações inflamadas e completamente antagônicas.",
+      "3": "Há os que sustentam as cotas como o início da eliminação de diferenças históricas entre negros e brancos.",
+      "4": "Há os que dizem que a medida é absurda, pois discrimina ainda mais o negro, fingindo integrá-lo.",
+      "5": "Outros acham que as cotas devem seguir apenas critério econômico, e não racial.",
+      "6": "Há também os que acham que não deve haver cota, só o mérito pessoal dos candidatos.",
+      "7": "Como você se posiciona nesta polêmica?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O que é o sistema de cotas?",
+      "1": "Estudantes assistem aula em uma sala da Universidade de Brasília - UnB (DF) A política de cotas raciais é uma política de ação afirmativa implantada originalmente nos Estados Unidos.",
+      "2": "No Brasil, ela visa a garantir espaço para negros e pardos nas instituições de ensino superior.",
+      "3": "Hoje, os negros correspondem a apenas 2% do contingente de universitários, apesar de representarem 45% dos brasileiros.",
+      "4": "Essa política foi adotada inicialmente em universidades públicas do Rio de Janeiro, após a promulgação da Lei nº 3.",
+      "5": "708, de 9 de novembro de 2001.",
+      "6": "Cotas: importância histórica para o país.",
+      "7": "\"É um marco.",
+      "8": "É também relevante porque não se trata apenas da reserva de vagas para estudantes negros, mas é, principalmente, uma política de acesso e permanência de estudantes negros na universidade.",
+      "9": "É, portanto, um conjunto de medidas tomadas de maneira democrática.",
+      "13": ") É o ponto de partida e várias universidades seguirão o mesmo caminho e terão a UnB como uma referência positiva.",
+      "14": "Assim possibilita-se a formação de técnicos e quadros superiores (.",
+      "18": "Essa também é uma forma de acesso da população negra jovem aos escalões de tomada de decisão e ultrapassa a barreira do negro como executor e mão de obra barata\".",
+      "19": "[Ubiratan Castro de Araújo, Ex- Presidente da Fundação Cultural Palmares, 2004] Cotas: absurdo total \"Absurda essa política.",
+      "20": "Se você 'oferece cotas', confirma que o negro é marginalizado e incapaz, por isso precisa de ajuda oficial e paternalista.",
+      "21": "Reafirma-se a diferença - e não o contrário, que é a necessidade de eliminá-la.",
+      "22": "A única solução decente para o ingresso democrático da juventude na universidade é lhe dar uma educação de qualidade para que - aí, sim - não haja diferença entre o aluno do colégio público e do colégio \"de elite\".",
+      "23": "E o que é a educação pública hoje?",
+      "24": "Uma calamidade que piora há 40 anos.",
+      "25": "Então quem discrimina, afinal?",
+      "26": "Não é o próprio Estado, que não dá preparo digno aos alunos?",
+      "27": "[Profa.",
+      "28": "dra.",
+      "29": "Márcia Di Roberto, educadora, em palestra proferida na UNIP-SP, em abril de 2008, no curso de Pós-Graduação em Letras] Gêmeo idêntico é barrado em cota Os gêmeos Alan e Alex Teixeira da Cunha, univitelinos, sempre foram considerados idênticos por todos que os conhecem.",
+      "33": ") Candidatos ao sistema de cotas para negros da Universidade de Brasília, (.",
+      "36": ") Alan foi considerado negro.",
+      "37": "Alex, não.",
+      "38": "O sistema de cotas na UnB, ao contrário da maior parte dos existentes no país, leva em conta apenas a cor, não a situação financeira do candidato.",
+      "39": "Na hora da inscrição (.",
+      "42": "), o candidato a uma das vagas pelo sistema precisa tirar uma foto, que é anexada à documentação.",
+      "43": "Nenhum dos dois irmãos têm convicção de que o sistema de cotas é bom, mas ambos decidiram tentar porque a nota de corte nas duas áreas é menor entre os cotistas do que entre os demais alunos (.",
+      "47": "\"Tinha de ser mais para quem precisa\", diz Alan.",
+      "48": "\"O que aconteceu só mostra que não funciona.",
+      "52": ") [\"O Estado de S.",
+      "53": "Paulo\", 29."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "O Brasil tem 45% da sua população formada por negros.",
+    "1": "No entanto, apenas 2% dessa parcela estão hoje na universidade.",
+    "2": "Para tentar resolver tamanha exclusão, buscamos alternativas no modelo de inclusão norte-americano, que é baseado na reserva de determinado número de vagas no ensino superior para alunos negros, política afirmativa conhecida como cotas.",
+    "3": "Mas será que esse sistema é mesmo o melhor caminho para contornar 508 anos de discriminação?",
+    "4": "A princípio, é importante destacar que o ensino básico de qualidade é fundamental.",
+    "5": "Sem ele, independentemente de qualquer política de inserção acadêmica, os negros não terão sucesso na faculdade.",
+    "6": "E até onde se sabe, o ensino fornecido pelo Estado brasileiro chega a ser pior que o de alguns países subdesenvolvidos, como Cuba, por exemplo.",
+    "7": "Assim, considerando o passado de marginalização econômica a que foram submetidos os nossos afro-descendentes , concluímos que eles são as principais \"vítimas\" desse sistema deficiente de educação, cuja conseqüência imediata será a despreparação para a assimilação dos conceitos típicos do ensino superior.",
+    "8": "Além disso, outra questão, de ordem cultural, deve ser considerada.",
+    "9": "Os brasileiros brancos somos, essencialmente, preconceituosos, apesar do discurso de defesa que possamos desfiar.",
+    "10": "E a universidade, a despeito da maior maturidade de seu corpo discente, não é definitivamente o lugar onde essa mancha vai ser lavada, sobretudo porque as próprias cotas farão despontar, em brancos e negros, o sentimento de superioridade e inferioridade, respectivamente.",
+    "11": "Afinal, o \"cara\" que entrou na \"raça\" não vai querer opinião, por exemplo, do que recebeu uma \"forcinha\".",
+    "12": "Assim, um processo verdadeiro de inclusão e igualdade sócio-educacional deve levar em conta a necessidade de investimentos urgentes na educação básica, além de estimular a convivência harmoniosa e natural entre todas as pessoas, desde o primário, passando pelo ensino fundamental e médio até finalmente chegar à universidade.",
+    "13": "Forçar a entrada em escolas superiores de brasileiros historicamente alijados de direitos fundamentais como educação através de ações \"afirmativas\" como as cotas não deve ser o desejo da sociedade nacional.",
+    "14": "Certamente não era o de Martin Luther King, ícone do ideal de igualdade social, quando ele disse \"I have a dream\"."
+  },
+  "redacao_gerada": {
+    "0": "A implantação do sistema de cotas nas universidades brasileiras configura um dos temas mais polarizados do debate público contemporâneo.",
+    "1": "Tal medida, que visa a promover a inclusão de grupos historicamente marginalizados, gera intensas discusões sobre sua validade e eficácia.",
+    "2": "Embora haja críticas pertinentes, é inegável que as cotas representam um mecanismo fundamental para mitigar as profundas desigualdades sociais e raciais enraizadas na formação do país, sendo um passo importante rumo a uma sociedade mais justa.",
+    "3": "Primeiramente, é crucial compreender que a estrutura social brasileira foi construída sobre séculos de escravidão e exclusão.",
+    "4": "A população afrodescendente, por exemplo, foi sistematicamente privada de acesso a educação de qualidade e oportunidades, perpetuando um ciclo de desvantagem.",
+    "5": "Nesse contexto, as cotas não se configuram como um privilégio, mas sim como uma política de ação afirmativa que busca reparar parte desse passivo histórico, garantindo que parcelas da população que antes não tinham voz ou vez possam finalmente acessar o ensino superior.",
+    "6": "É uma forma de corrigir distorções passadas e presentes.",
+    "7": "Ademais, a presença de uma diversidade maior de estudantes nas universidades enriquece o ambiente acadêmico e a própria sociedade.",
+    "8": "Ao integrar indivíduos de diferentes realidades e perspectivas, as instituições de ensino superior se tornam espaços mais plurais e representativos da nação.",
+    "9": "Isso não apenas contribui para a formação de profissionais mais conscientes e engajados, mas também inspira novas gerações, que veem na educação uma porta para a ascensão social.",
+    "10": "As cotas, assim, vem contribuindo para quebrar o ciclo de pobreza e marginalização, ampliando as possibilidades para todos.",
+    "11": "Portanto, diante da complexa realidade social brasileira, as cotas universitárias se mostram como um instrumento essencial para o avanço da equidade.",
+    "12": "Para que sua efetividade seja plena, contudo, é indispensável que o Estado invista massivamente na educação básica pública, a fim de diminuir o abismo entre os ensinos público e privado.",
+    "13": "Somente com a melhoria da base educacional, aliada às ações afirmativas, poderemos vislumbrar uma sociedade onde a cor da pele ou a condição social não determine o acesso à ensino de qualidade, garantindo que o mérito seja, de fato, construído em condições mais igualitárias."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "2",
+        "8"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "6",
+        "8"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "3",
+        "6"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "1",
+        "6",
+        "8",
+        "18"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "6",
+        "8"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "22",
+        "26"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "3",
+        "6"
+      ],
+      "textos_motivadores": [
+        "1",
+        "22"
+      ]
+    }
+  }
+}

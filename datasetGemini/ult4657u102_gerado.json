@@ -1,0 +1,137 @@
+{
+  "tema": "por-que-as-pessoas-mentem-pela-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Por que as pessoas mentem pela internet?",
+      "1": "Pesquisa realizada pela Universidade de Cornell, nos Estados Unidos, revelou que 81% das pessoas que utilizam sites de relacionamento na internet mentem para aqueles com quem se comunicam.",
+      "2": "Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas a seus parceiros de chat.",
+      "3": "Quais os motivos dessa atitude?",
+      "4": "Trata-se apenas da vontade de impressionar o outro?",
+      "5": "Ou haverá um motivo mais profundo: a insatisfação consigo mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Quem está atrás do teclado?",
+      "1": "Um indivíduo isolado envia mensagens solitárias e busca o amor por meio de imagens virtuais.",
+      "2": "Ele se realiza em casa, protegido, à distância, e corre o risco de se decepcionar, quando, e se, um encontro real vier a ser marcado.",
+      "3": "Estamos no século do amor via internet com pessoas namorando virtualmente sem o calor dos corpos que se entregam.",
+      "4": "Mas, afinal, que tipo de relação se estabelece via computador?",
+      "5": "Existe vínculo?",
+      "6": "Se houver traição virtual, como fica o relacionamento entre os namorados?",
+      "7": "Basta se desconectar para pôr fim a um envolvimento emocional.",
+      "8": "Jairo Bouer comenta a pesquisa Texto 2 Segundo o filósofo francês Jean-Paul Sartre, \"o ser humano possui uma atração doentia pela verdade\".",
+      "9": "Sartre considera que o desejo da verdade aparece muito cedo nos seres humanos e se manifesta como vontade de confiar nas coisas e nas pessoas, isto é, de acreditar que as coisas são exatamente como o indivíduo as percebe e o que as pessoas lhe dizem é digno de confiança e crédito.",
+      "10": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Os relacionamentos na internet parecem expressar uma assimilação dos preceitos de uma sociedade cada vez mais consumista e competitiva.",
+    "1": "Como exímios mercadores, os amantes virtuais vendem imagens de si mesmos a um consumidor cada vez mais exigente com o que compra.",
+    "2": "O mais curioso é que, na maioria dos casos, o consumidor é o próprio vendedor.",
+    "3": "Entre as vendedoras, há as adolescentes insatisfeitas com a própria aparência, estimuladas pelo ideal de beleza das top models imposto pela indústria da moda.",
+    "4": "Em suas conversas eletrônicas, elas são uma síntese entre a deusa Vênus e Madonna: a beleza perfeita e o comportamento extremamente sensual, seguindo a receita dos ícones que desfilam nas bancas de revista.",
+    "5": "E não importa se depois da desconexão virtual a princesa vire sapo diante do implacável espelho, pois a necessidade de parecer estar condizente com a competição narcízica que a tevê estimula estará saciada.",
+    "6": "Entre os vendedores, há os que se fantasiam de intelectuais, tentando ostentar cultura e erudição que não possuem.",
+    "7": "Escrevem difícil, num português escorreito, impressionado a interlocutora e regozijando-se numa personificação quase esquizofrênica .",
+    "8": "E não importa se depois que desligam o computador, eles voltem a falar \"probrema\" em vez de problema, pois o problema da frustração por não terem passado na terrível competição do vestibular, por exemplo, já estará momentaneamente suavizado em suas consciências.",
+    "9": "E assim caminha a humanidade fetichista-cibernética , sedenta de produtos sem defeitos, ou seja, relacionamentos sem riscos, garantidos pela distância física.",
+    "10": "Nessa mercadorização              dos relacionamentos, vende-se a si mesmo num desejo pungente de auto-afirmação .",
+    "11": "Mas como todo processo capitalista possui seu ocaso, esse tipo de relacionamento virtual termina com a inevitável desilusão.",
+    "12": "Encontra-se enfim a verdade (busca obsessiva, segundo Sartre).",
+    "13": "Mas até aí a lei do mais forte - mais um aspecto do capitalismo - se impõe: uns farão proveito dessa verdade e outros não."
+  },
+  "redacao_gerada": {
+    "0": "Na atualidade, a internet virou uma coisa muito ussada pelas pessoas, e ai elas ficam la conversando.",
+    "1": "Mas tipo, muita gente mente na internet, e isso é um problema que a gente tem que pensar sobre.",
+    "2": "É que as pessoa quer ser mais interessante do que ela é na vida real.",
+    "3": "Tipo, elas coloca foto que não é delas, ou fala que tem um emprego bom.",
+    "4": "Isso é para impressionar o outro, sabe?",
+    "5": "Para o outro achar que ela é legal e querer conversar mais.",
+    "6": "Essa mentira na verdade vem de uma coisa mais funda, que é a pessoa não gostar de si mesma.",
+    "7": "Ela não se aceita como é, ai ela tenta ser outra pessoa na internet.",
+    "8": "É uma maneira de fugir da realidade, porque na internet tudo é mais fácil de inventar.",
+    "9": "Ela se esconde atrais da tela do computador ou do celular para não mostrar quem ela realmente é, isso é muito comum hoje em dia.",
+    "10": "Então, para resolver esse problema das mentiras, as pessoas devia ser mais verdadeiras com elas.",
+    "11": "E também, a sociedade devia ajudar as pessoas a se aceitar.",
+    "12": "Tipo, escolas ensinando a não mentir.",
+    "13": "Assim, a internet seria um lugar melhor para todo mundo usar e não ter tanta mentira."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

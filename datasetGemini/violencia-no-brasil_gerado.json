@@ -1,0 +1,203 @@
+{
+  "tema": "a-sociedade-esta-perdendo-a-batalha-contra-o-crime",
+  "comando_tematico": {
+    "frases": {
+      "0": "A sociedade está perdendo a batalha contra o crime?",
+      "1": "Frequentemente, conflitos armados entre polícia e facções criminosas ganham as páginas de jornais e deixam a sociedade apavorada.",
+      "2": "O foco das atenções, agora, tem sido o estado de São Paulo: mais de duzentas pessoas, entre elas muitos policiais militares, já morreram baleadas na onda de ataques que vem ocorrendo desde o início deste ano.",
+      "3": "O mais triste, porém, é saber que mesmo com tanta criminalidade concentrada no eixo Rio-São Paulo, a violência consegue ser ainda maior nos outros estados brasileiros.",
+      "4": "Prova disso foram os dados levantados por uma ONG mexicana: 14 das 50 cidades mais violentas do mundo são brasileiras.",
+      "5": "Maceió ocupa o 3º lugar desse ranking, com um índice anual de homicídios de 135,26 pessoas para cada 100 mil habitantes.",
+      "6": "Como você avalia a questão da segurança pública no Brasil?",
+      "7": "Estamos perdendo a luta contra a violência?",
+      "8": "Que atitudes precisam ser tomadas para reverter essa situação?",
+      "9": "Leia os textos da coletânea e exponha seu ponto de vista em uma dissertação argumentativa de até 30 linhas.",
+      "10": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "São Paulo em foco Antonio Ferreira Pinto deixou ontem o cargo de secretário de Segurança Pública de São Paulo.",
+      "1": "O pedido de exoneração foi anunciado hoje pelo governador Geraldo Alckmin (PSDB).",
+      "2": "Alckmin ainda afirmou que o ex-procurador geral de justiça de São Paulo Fernando Grella será o novo secretário da pasta.",
+      "3": "Ele deve assumir o cargo amanhã.",
+      "4": "Violência O Estado de São Paulo vive uma onda de violência, com registros de chacinas, homicídios, ônibus incendiados e mortes de policiais militares.",
+      "5": "Desde o último dia 24, 253 pessoas foram mortas na região metropolitana de São Paulo --média de 9,7 por dia.",
+      "6": "Desde o início do ano, 95 policiais militares já foram assassinados em todo o Estado de São Paulo.",
+      "7": "Em 2011, 47 PMs foram mortos --21 dos crimes ocorreram enquanto os policiais estavam em serviço e 26 foram assassinados no horário de folga, de acordo com o comandante-geral da PM, Roberval França.",
+      "8": "[ Folha de S.",
+      "9": "Paulo , 26 de novembro de 2012] Brasil: 14 cidades entre as mais violentas do mundo São Paulo - Das 50 cidades mais violentas do mundo, 14 são brasileiras.",
+      "10": "O país foi destaque negativo em ranking feito por especialistas da ONG mexicana Conselho Cidadão Para a Segurança, com base na quantidade de homicídios em cidades do mundo com mais de 300 mil habitantes.",
+      "11": "O Brasil também garantiu presença no pouco honroso top 10 do ranking, com duas cidades entre os dez maiores índices de violência: Maceió, capital alagoana, que ocupa o terceiro lugar, e Belém, capital do Pará, no décimo lugar.",
+      "12": "O título de cidade mais perigosa do mundo é da cidade de San Pedro Sula, em Honduras, com uma taxa de 158.",
+      "13": "87 homicídios para um grupo de 100 mil habitantes.",
+      "14": "Em segundo lugar, está Juárez, no México, com uma taxa de 147.",
+      "16": "A América Latina disparou na frente com os piores resultados, abrigando 40 das cidades apontadas, incluindo as 20 primeiras da lista.",
+      "17": "No relatório, a ONG ainda alertou para a coleta imprecisa de informações no México, onde \"autoridades estão falsificando dados e escondendo o verdadeiro número de homicídios\".",
+      "18": "Confira as cidades brasileiras apontadas entre as mais violentas do mundo, e seu índice de homicídios por habitantes.",
+      "19": "[ Exame.",
+      "20": "com , 10 de outubro de 2012] O que é crime organizado?",
+      "21": "Quando a gente pensa em crime organizado, logo vem à mente aquelas imagens dos confrontos armados entre traficantes e as forças públicas.",
+      "22": "Jovens com fuzis automáticos, pistolas, lançadores de foguetes e metralhadoras sobre as lajes das favelas cariocas.",
+      "23": "O “crime organizado” também se manifesta nas rebeliões carcerárias.",
+      "24": "Presídios destruídos, incêndios, adversários das gangues enforcados e decapitados, um horror.",
+      "25": "Tudo isso é o crime organizado?",
+      "26": "Sim e não.",
+      "27": "Esse pessoal está no crime organizado, mas não é o crime organizado.",
+      "28": "As organizações criminosas que controlam o mercado ilegal são empresas transnacionais.",
+      "29": "Segundo o diretor do FBI, Robert Muller III, numa prestação de contas para o Congresso dos Estados Unidos, crime organizado é uma operação mundial de cerca de 250 “empresas criminosas”, que auferem um lucro anual de 1 trilhão de dólares.",
+      "30": "Entre elas estão as quatro Máfias italianas (siciliana, napolitana, calabresa e romana); os cartéis colombianos e mexicanos; a Yakuza (Japão); as Tríades (China); os cartéis nigerianos, somalis e sul-africanos; os Dragões Vermelhos (Vietnã, Laos e Cambodja), especializados na produção de papoulas, ópio e heroína; a Máfia Russa e suas ramificações por todo o Leste Europeu, que controla a lavagem de dinheiro e o contrabando de armas.",
+      "31": "Trata-se de um conglomerado de “negócios criminosos” que gere o mercado ilegal em estaca global.",
+      "32": "Este é o cerne do crime organizado, que delega para baixo as tarefas do submundo.",
+      "33": "Diante disto, nossos bandidos, incluindo os do colarinho branco, são raia miúda.",
+      "34": "No entanto, o crime organizado está bem estabelecido entre nós.",
+      "35": "[ Blog Carlos Amorim , 25 de junho de 2010]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "E  de grande relevância o tema apresentado,         pois no Brasil a violência está cada vez maior  principalmente nas periferias das grandes cidades,         por ser uma área pobre sem estrutura onde o poder judiciário é menor.",
+    "1": "Além disso, caberia a participação do Governo, pois ele é responsável pela preservação da ordem pública.",
+    "2": "Entretanto, a desigualdade social que resulta na violência precisa de  iniciativas econômicas que visem,  por exemplo: uma melhor distribuição de renda principalmente para educação, saúde, desemprego  , segurança, entre outros.",
+    "3": "Pois  no Estado de São Paulo o número de homicídios acontece em meio de uma série de atentados contra policiais militares supostamente cometidos pela facção criminosa primeiro comando da capital (PCC).",
+    "4": "Partes das mortes teria sido uma retaliação aos assassinatos de 88 policiais militares no Estado, ocorrendo desde janeiro.",
+    "5": "As execuções lembram métodos usado pelos esquadrões da morte, nos anos 1960, durante a ditadura militar, em são paulo  e Rio de janeiro.",
+    "6": "Nessa época, era registrado um assassinato por dia na capital paulista.",
+    "7": "Todavia, o tráfico de drogas estar  cada vez maior destruindo jovens, adolescentes, crianças, classe baixa e alta, pois ele não escolher  cor, raça, sexo, idade, nem religião.",
+    "8": "Como administrar o problema em questão quando os principais responsáveis demonstram um total descaso?",
+    "9": "A sociedade brasileira reclama por iniciativas imediatas por partes das autoridades mas  em razão do descaso e da omissão  fazem com que               o Brasil seja um dos piores países do mundo com grande índice  corrupção.",
+    "10": "Chegando o final do desfecho , verifica-se que há muito por fazer, pois a realidade brasileira demonstra que grande parte do dinheiro utilizado em esquema de corrupção poderia satisfazer as necessidades da sociedade.",
+    "11": "Desse modo, a desigualdade social e a falta de políticas sociais tem  levado o Brasil ao caos de violência,                 mas enquanto não se trabalhar o social cuidar da juventude antes que entre para o mundo do crime e incentivar aos estudos e a certeza da justiça e não da impunidade teríamos assim um país menos violento."
+  },
+  "redacao_gerada": {
+    "0": "A escalada da criminalidade no Brasil, evidenciada por noticiários diários que reportam conflitos armados e índices alarmantes de violência urbana, configura um cenário de profunda apreensão social.",
+    "1": "A percepção de que a sociedade está perdendo a batalha contra o crime não é infundada, mas reflete uma complexa teia de fatores que minam a segurança pública e a ordem social.",
+    "2": "Nesse contexto, é imperativo analisar como as fragilidades institucionais do Estado e a persistência de profundas desigualdades socioeconômicas convergem para perpetuar um ciclo vicioso de violência e impunidade, comprometendo o bem-estar coletivo e a própria noção de civilidade.",
+    "3": "Em primeira análise, a ineficácia das instituições estatais na prevenção e repressão ao crime assume papel preponderante na deterioração da segurança pública.",
+    "4": "Conforme a perspectiva de Thomas Hobbes, a função primordial do Estado é garantir a ordem e a segurança dos cidadãos, livrando-os do \"estado de natureza\" caótico.",
+    "5": "Contudo, no Brasil, a fragmentação das políticas de segurança, a precariedade de recursos, a falta de integração entre as forças policiais e a morosidade do sistema judiciário criam lacunas exploradas pelo crime organizado.",
+    "6": "A corrupção endêmica em diversas esferas e a ausência de investimentos robustos em inteligência e tecnologia, somadas à desvalorização profissional dos agentes de segurança, contribuem para um cenário onde a capacidade repressiva do Estado é constantemente desafiada e, muitas vezes, superada pela audácia e organização das facções criminosas.",
+    "7": "Ademais, a persistência de abissais desigualdades socioeconômicas atua como um fértil catalisador para a proliferação da criminalidade.",
+    "8": "A teoria da anomia de Émile Durkheim, que descreve um estado de desregulação social onde as normas e valores se enfraquecem, pode ser contextualizada na realidade brasileira, em que vastas parcelas da população são sistematicamente alijadas de oportunidades dignas.",
+    "9": "A carência de acesso à educação de qualidade, a empregos formais e à infraestrutura básica em comunidades vulneráveis fomenta um ambiente de desesperança e marginalização, onde a adesão a atividades ilícitas emerge como uma alternativa perversa.",
+    "10": "Essa exclusão social não apenas alimenta o recrutamento para o crime, mas também mina a confiança nas instituições e no próprio pacto social, perpetuando um ciclo de violência que transcende gerações e compromete o desenvolvimento humano.",
+    "11": "Urge, portanto, que o Brasil reavalie suas estratégias para reverter o cenário de crescente insegurança.",
+    "12": "Para tanto, o Governo Federal, em colaboração com os estados e municípios, e o Ministério Público, deve implementar um plano nacional de segurança pública multifacetado.",
+    "13": "Tal ação deve ser efetivada por meio de investimentos robustos em inteligência policial e tecnologia para desmantelar as redes de crime organizado, concomitantemente a programas de inclusão social e educacional em áreas vulneráveis, com equipes multidisciplinares qualificadas.",
+    "14": "O objetivo é a redução drástica dos índices de criminalidade e a reintegração social, promovendo a cidadania plena.",
+    "15": "Essa abordagem integrada, que combate o crime em suas raízes estruturais e operacionais, garantirá a sustentabilidade das políticas e o acesso equitativo a oportunidades, rompendo o ciclo da violência e da exclusão e pavimentando o caminho para uma sociedade mais justa e segura."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "6"
+      ],
+      "textos_motivadores": [
+        "4",
+        "21"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "20",
+        "21"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "6",
+        "7"
+      ],
+      "textos_motivadores": [
+        "21",
+        "28",
+        "31"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": [
+        "28",
+        "31"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

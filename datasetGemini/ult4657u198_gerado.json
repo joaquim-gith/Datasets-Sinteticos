@@ -1,0 +1,185 @@
+{
+  "tema": "fomos-dominados-pelas-maquinas-que-inventamos",
+  "comando_tematico": {
+    "frases": {
+      "0": "Fomos dominados pelas máquinas que inventamos?",
+      "1": "Já não conseguimos viver sem celular, computador, internet e outros poderosos recursos tecnológicos.",
+      "2": "Queiramos ou não, eles transformaram o mundo durante o século 20 e ingressaram no século 21 com uma velocidade espantosa.",
+      "3": "Muita gente se adapta rapidamente às novidades e nem lembra como era a vida sem elas.",
+      "4": "Para outros, porém, ocorre uma dúvida: nossa existência seria melhor ou pior sem tudo isso?",
+      "5": "Seríamos diferentes?",
+      "6": "Há quem odeie e quem ame irrestritamente essas máquinas.",
+      "7": "Qual é nossa relação com os avanços da tecnologia?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ser humano se tornou uma extensão da roda O Rio chegou a 2 milhões de carros; São Paulo, a 6 milhões.",
+      "1": "No Rio, é um carro para cada três habitantes; em São Paulo, são dois.",
+      "2": "O automóvel venceu.",
+      "3": "O comunicólogo Marshal McLuhan, talvez a única voz otimista de 1968, errou feio: o ser humano é que se tornou uma extensão da roda.",
+      "4": "Mas, em 2008, quem quiser chegar rapidinho a qualquer lugar, é melhor que vá a pé.",
+      "5": "Ruy Castro, \"Folha de S.",
+      "6": "Paulo\", 17 Estresse ou vida partilhada Glauco, \"Folha de S.",
+      "7": "Paulo\", 05 A máquina e o poeta Cota Zero Stop.",
+      "8": "A vida parou Ou foi o automóvel?",
+      "9": "Carlos Drummond de Andrade (1902-1987, \"Alguma Poesia\", 1930) Os sábios e a cultura \"Com o aparecimento da escrita, alguns sábios temeram que o conhecimento, que antes estava vivo na cabeça, viria a morrer, esquecido nas páginas de um livro.",
+      "10": "Com a expansão dos meios de comunicação e a conseqüente chuva de informações, alguns sábios temeram que o conhecimento (.",
+      "13": ") viria a degenerar-se em papel de embrulhar peixe e ondas espalhadas no espaço.",
+      "14": "Com a explosão da internet (.",
+      "17": "), e a extrema facilidade de encontrar uma informação, alguns sábios temem que tudo acabe em desinteresse.",
+      "18": "Luiz Zico Rocha Soares, (\"Internet, um mundo paralelo\".",
+      "19": "Melhoramentos, 2007,."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Nós somos máquinas.",
+    "1": "Isto é prontamente correto .",
+    "2": "Máquinas que trabalham para fazer máquinas, para consertar o que Deus, em nossa visão egoísta, não conseguiu realizar.",
+    "3": "Queremos mais .",
+    "4": "Não é apenas o fato da Revolução Industrial , da globalização que move -se como um tsunami na cabeça das pessoas.",
+    "5": "É o fato, de sermos os principais culpados de nossa tecnologia desvairada.",
+    "6": "Nós criamos nosso problemas diante a necessidade de mais soluções, de passar por cima de detalhes, sem prestar atenção na decadência pessoal que nos submetemos sem perceber.",
+    "7": "Você tem um computador.",
+    "8": "Isto é ótimo .",
+    "9": "O ócio aumenta na rapidez da tecnologia, mas o trabalho aumenta nos setores em que o computador é prontamente coerente com nossas necessidades.",
+    "10": "A internet domina o ser humano.",
+    "11": "Se internet fosse cocaína, o mundo estaria vendido.",
+    "12": "A tecnologia avança num patamar que não tem freios.",
+    "13": "É perfeito para quem sabe usá-la em prol de benefícios próprios.",
+    "14": "É bruxaria para os mais velhos, que não tem o conhecimento do poder que este avanço causa.",
+    "15": "Podemos considerar que nossa existência, ganhou certa sobrevida com o advento da informatização mundial.",
+    "16": "A comunicação desenvolve-se de forma próspera, inteligente, rápida, eficaz.",
+    "17": "Mistura competência a favor, como a desfavor.",
+    "18": "Pode fazer ídolos.",
+    "19": "Pode fazer inimigos.",
+    "20": "Um e-mail, sem problemas de interferência, já deve ter salvo muitas vidas.",
+    "21": "Se não fosse um e-mail, este texto não chegaria na redação uol.",
+    "22": "Não pelo computador.",
+    "23": "A tecnologia está em todos os segmentos: sexo, violência, casa, roupa, lojas, bares, indústrias, comércios, bancos...",
+    "24": "e por aí vai.",
+    "25": "Podemos dizer que , o nosso casamento com a tecnologia, vai durar muitos anos ainda.",
+    "26": "Para quem pensa no divórcio, que se repreenda: Pode custar caro.",
+    "27": "Até mais, do que o casamento do ex- Beatle, Paul."
+  },
+  "redacao_gerada": {
+    "0": "A inquestionável evolução tecnológica do século XXI transformou profundamente as relações humanas e a própria percepção de existência.",
+    "1": "Se, por um lado, as inovações trouxeram facilidades sem precedentes e otimizaram inúmeros processos, por outro, emerge a dúvida se não fomos, de fato, dominados pelas máquinas que nós mesmos inventamos.",
+    "2": "Essa complexa interdependência, embora benéfica em muitos aspectos da vida moderna, suscita debates cruciais sobre a autonomia do indivíduo e os verdadeiros limites dessa simbiose com o universo digital.",
+    "3": "Um dos principais argumentos para essa dominação reside na crescente dependência do ser humano em relação à tecnologia para tarefas cotidianas.",
+    "4": "A conectividade constante, mediada por celulares, computadores e uma infinidade de outros dispositivos inteligentes, tornou-se essencial, à ponto de muitos não conseguirem mais imaginar a vida sem esses aparatos.",
+    "5": "Ferramentas como o GPS substituem o senso de direção, enquanto aplicativos de redes sociais, que deveriam conectar e aproximar pessoas, por vezes isolam o indivíduo em bolhas digitais, diminuindo a capacidade de interação real e aprofundada.",
+    "6": "Essa realidade demonstra uma submissão gradual a estas máquinas, que, de certa forma, ditam o ritmo e a qualidade de nossas vidas, moldando nossos hábitos e pensamentos.",
+    "7": "Ademais, a velocidade avassaladora com que novas tecnologias são introduzidas gera uma pressão social constante para a adaptação e o consumo.",
+    "8": "A obsolescência programada e a necessidade de estar sempre \"atualizado\" com o último modelo ou software criam um ciclo vicioso de consumo e dependência, onde o indivíduo se sente compelido a acompanhar os avanços para não ficar para trás.",
+    "9": "A sensação de ser bombardeado por informações e notificações incessantes, muitas vezes inúteis ou irrelevantes, reforça a ideia de que as máquinas detêm o controle de nossa atenção e tempo, fragmentando o foco e a produtividade.",
+    "10": "Há quem diga que à essa altura, já somos meros prolongamentos de nossos próprios dispositivos, perdendo parte de nossa essência humana em detrimento da funcionalidade artificial.",
+    "11": "Portanto, é imperativo que a sociedade reflita profundamente sobre o verdadeiro papel da tecnologia em suas vidas e como reverter essa possível dominação.",
+    "12": "Para mitigar os efeitos negativos dessa interdependência e promover um uso mais saudável, faz-se necessário que o Ministério da Educação, em parceria com escolas e plataformas digitais, promova programas abrangentes de letramento digital crítico.",
+    "13": "Tais programas devem ensinar os jovens e adultos a usar as ferramentas tecnológicas de forma consciente, ética e equilibrada, sem se deixar consumir por ela, incentivando o discernimento e a moderação.",
+    "14": "Somente assim, o ser humano poderá reaver o controle sobre seu próprio destino e garantir que as máquinas continuem sendo meras ferramentas a seu serviço, e não os senhores de nosso futuro."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "1",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "10",
+        "13"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "3"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

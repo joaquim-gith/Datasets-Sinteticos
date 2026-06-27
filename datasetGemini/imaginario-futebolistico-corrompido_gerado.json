@@ -1,0 +1,242 @@
+{
+  "tema": "deve-ou-nao-haver-leis-mais-rigorosas-controlando-o-consumo-do-alcool",
+  "comando_tematico": {
+    "frases": {
+      "0": "Deve ou não haver maior controle sobre o consumo do álcool?",
+      "1": "O consumo excessivo de bebidas alcoólicas é, sem dúvida, um grande causador de problemas sociais, mas é difícil mudar o comportamento dos consumidores, que quase sempre associam o álcool a momentos de festa e descontração.",
+      "2": "A apologia à bebedeira pode ser encontrada, por exemplo, em diversas canções populares.",
+      "3": "No Brasil, são várias as iniciativas legais para tentar conter os abusos, como proibição da venda de bebidas alcoólicas em estádios de futebol, maior rigidez na lei que proíbe a venda a menores de idade, projeto para proibir o comércio de bebidas alcoólicas em lojas de conveniência.",
+      "4": "A polêmica mais recente envolvendo o tema diz respeito à Copa do Mundo de 2014, uma vez que a Fifa opõe-se à restrição determinada pela lei brasileira.",
+      "5": "Pensando nessa questão, como você se posiciona em relação às medidas públicas para controlar o consumo de bebidas alcoólicas?",
+      "6": "Deve ou não haver maior controle?",
+      "7": "Leia os textos da coletânea e"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Prevenir a violência nos estádios Representantes do Conselho Nacional de Procuradores Gerais do Brasil entregaram um manifesto ao deputado Renan Filho (PMDB-AL), presidente da Comissão que discute a Lei Geral da Copa, pedindo que a proibição do consumo de bebidas alcóolicas nos estádios também seja válida no Mundial de 2014.",
+      "1": "Atualmente, o texto do relator Vicente Cândido (PT-SP) permite a venda e o consumo das bebidas no período da Copa, desde que sejam usados apenas copos de plástico.",
+      "5": ") O procurador de Justiça de Minas Gerais, José Antônio Baeta, disse que, além do manifesto, foram entregues estatísticas das ocorrências policiais nos estados, que comprovam que após a proibição da venda e do consumo de bebidas alcóolicas nos estádios brasileiros os índices de violência caíram em média 75% ao redor das arenas.",
+      "6": "“O Ministério Público é contra a liberação dessa medida, porque a restrição do consumo de bebida alcóolica integra o plano de segurança para prevenir a violência nos estádios.",
+      "7": "Esse pensamento representa todas as instituições que atuam na segurança pública”, declarou Baeta.",
+      "8": "O procurador de justiça de Minas Gerais disse ainda que o componente de rivalidade é um estopim para desencadear a violência nos estádios e que isso pode ocorrer também entre nações, na Copa do Mundo.",
+      "9": "Nova lei sobre consumo de bebidas alcoólicas por menores O governador Geraldo Alckmin sancionou nesta quarta-feira, 19, lei estadual que amplifica a prevenção ao uso de bebidas alcoólicas por crianças e adolescentes no Estado de São Paulo.",
+      "10": "Bares, restaurantes, lojas de conveniência e baladas, entre outros locais, não poderão vender, oferecer nem permitir a presença de menores de idade consumindo bebidas alcoólicas no interior dos estabelecimentos.",
+      "11": "A fiscalização começa em 30 dias.",
+      "12": "Antes da aprovação da lei, já não era permitida a venda de álcool a menores.",
+      "13": "No entanto, se um adulto comprasse a bebida e a repassasse a um adolescente ou criança, os proprietários pelos estabelecimentos não podiam ser responsabilizados.",
+      "14": "A nova legislação muda esse ponto e obriga o comerciante a pedir documento de identificação para realizar a venda ou deixar que o produto seja consumido no local.",
+      "15": "Essas medidas têm como objetivo evitar que adolescentes tenham acesso a bebidas alcoólicas, que podem causar dependência, doenças, problemas familiares, violência, acidentes e mortes.",
+      "16": "[ Governo do Estado de São Paulo, 19 ] O esvaziamento da Lei Seca Por decisão da 3.",
+      "17": "ª Seção do Superior Tribunal de Justiça (STJ), tomada por 5 votos contra 4, só o teste do bafômetro e o exame de sangue podem ser aceitos como prova de embriaguez para fundamentar a abertura de ação penal contra quem que for flagrado dirigindo embriagado.",
+      "18": "A decisão do STJ é polêmica, como o placar apertado do julgamento deixou claro.",
+      "19": "Isto porque, ao descartar exame médico e até o depoimento de guardas de trânsito e policiais rodoviários, condicionando a apenas duas provas a abertura de ação criminal, o STJ dificultou a aplicação da Lei n.",
+      "21": "705, que entrou em vigor em 2008.",
+      "22": "Mais conhecida como Lei Seca, ela estabelece sanções severas para o condutor que for flagrado tendo concentração de álcool superior a 0,6 grama por litro de sangue.",
+      "23": "Como a Lei Seca foi mal redigida, apesar das boas intenções de seus autores, ela contém dispositivos excessivamente detalhistas, medidas que conflitam com o Código Penal e até problemas conceituais.",
+      "24": "A decisão do STJ, portanto, está tecnicamente correta, embora pareça ser, na prática, um desserviço ao combate à embriaguez no volante.",
+      "25": "[ O Estado de S.",
+      "26": "Paulo, editorial 30 ] Turma do funil Chegou a turma do funil Todo mundo bebe Mas ninguém dorme no ponto Ha, ha, ha, ha!",
+      "27": "Mas ninguém dorme no ponto Nós é que bebemos e eles que ficam tontos, morou Eu bebo sem compromisso É o meu dinheiro Ninguém tem nada com isso Enquanto houver garrafa Enquanto houver barril Presente está a turma do funil"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "O Brasil é um país relacionado corriqueiramente com o imaginário futebolístico.",
+    "1": "Um lugar em que muitas crianças crescem alimentando o sonho de se tornarem jogadores profissionais.",
+    "2": "A imagem positiva desse esporte não deve ser alterada por uns poucos indivíduos que querem se utilizar do estádio para obterem lucros com a venda de bebidas alcoólicas.",
+    "3": "A restrição quanto à comercialização dessas bebidas já é definida por lei e não cabe a  FIFA opor-se quanto à manutenção dela durante o Mundial de 2014.",
+    "4": "Desde a sua implantação ela contribui de forma significativa para a diminuição dos índices de violência nos estádios e áreas circundantes.",
+    "5": "Desse modo, nada mais coerente que a sua permanência.",
+    "6": "No entanto, não é isso que é defendido pela FIFA que simplesmente desconsidera as mudanças benéficas que foram registradas.",
+    "7": "A questão centra-se no interesse de empresas fabricantes dos produtos que se beneficiarão com o evento.",
+    "8": "Afinal, terão uma oportunidade singular para a sua divulgação, visto que os estádios estarão lotados com indivíduos de diferentes nacionalidades.",
+    "9": "Frente a essa conjuntura, a postura da FIFA é percebida como um meio de beneficiar alguns de seus patrocinadores.",
+    "10": "Infelizmente, o interesse financeiro mais uma vez predomina na realidade nacional.",
+    "11": "Alegar que a proibição diminuiria o número de pessoas expectadoras das partidas não é uma justificativa, já que aqueles que vão ao estádio por acreditarem na beleza do futebol, que por sua vez são maioria, continuariam indo.",
+    "12": "Afastar-se-ia  apenas aqueles poucos que vão em busca de farra e confusão,               sendo que esse é justamente o objetivo .",
+    "13": "É importante considerar, também, que os indivíduos que são repelidos pelos assustadores índices de criminalidade passariam a frequentá-lo  .",
+    "14": "Surgiria, assim, um espaço humanamente mais saudável e harmônico, em que se veriam mais pessoas idosas e pais com seus filhos.",
+    "15": "Enfim, um lugar sem maiores riscos para a segurança individual.",
+    "16": "Biologicamente, o álcool tem efeitos negativos sobre o organismo ,de modo que altera repentinamente o comportamento humano.",
+    "17": "Esse fator unido ao ?orgulho nacional?",
+    "18": "ferido de alguns torcedores usuários dessa droga pode estimular atitudes violentas e colocar em risco pessoas a sua volta.",
+    "19": "Desse modo, essas possíveis circunstâncias, além de atingirem indivíduos inocentes, manchariam a imagem do país internacionalmente.",
+    "20": "A lei seca, por exemplo, está no mesmo âmbito dessa medida , e é inegável a sua eficiência para a diminuição de uma trágica realidade de terror no trânsito.",
+    "21": "Assim, o trabalho simultâneo das duas resultaria em menos mortes e debilitados, resultando em um menor gasto do Tesouro Nacional com o tratamento das pessoas que ficam com sequelas.",
+    "22": "Capital, esse, que poderia ser investido na educação e em uma melhor qualidade de vida dos brasileiros.Para o equilíbrio social, a não venda de bebidas alcoólicas tem que continuar."
+  },
+  "redacao_gerada": {
+    "0": "O consumo de bebidas alcoólicas é uma prática socialmente enraizada em diversas culturas, frequentemente associada a momentos de lazer e celebração.",
+    "1": "Contudo, o excesso desse consumo tem se revelado um vetor significativo para problemas de saúde pública, violência e acidentes, gerando um debate crucial sobre a necessidade de leis mais rigorosas para seu controle.",
+    "2": "Argumenta-se que, apesar da complexidade envolvida, a implementação de medidas mais severas é indispensável para mitigar os impactos negativos à sociedade, buscando um equilíbrio para o bem-estar coletivo.",
+    "3": "Primeiramente, a relação entre o consumo desregrado de álcool e o aumento da violência e dos acidentes é inegável.",
+    "4": "Estatísticas comprovam que a embriaguez está na origem de inúmeras ocorrências de trânsito e conflitos interpessoais, seja em ambientes públicos ou privados.",
+    "5": "A Lei Seca, embora tenha sido um avanço, enfrentou desafios em sua aplicação e fiscalização, demonstrando que apenas a norma não basta sem um rigoroso acompanhamento.",
+    "6": "Além disso, a proibição de bebidas em estádios, por exemplo, revelou uma diminuição considerável da violência nesses locais, evidenciando o potencial preventivo de restrições bem aplicada.",
+    "7": "É fundamental, portanto, que haja um endurecimento nas sanções e uma maior efetividade na fiscalização para coibir tais abusos.",
+    "8": "Em segundo lugar, a proteção de grupos vulneráveis, em especial crianças e adolescentes, justifica a necessidade de um controle mais estrito.",
+    "9": "A facilidade com que menores ainda acessam bebidas alcoólicas é alarmante, muitas vezes devido à falta de fiscalização eficaz em estabelecimentos comerciais.",
+    "10": "A apologia ao consumo, presente em diversas manifestações culturais, como músicas e propagandas indiretas, contribui para a normalização precoce do álcool, ignorando seus graves riscos a saúde e ao desenvolvimento juvenil.",
+    "11": "Dessa maneira, é imperativo que as leis existentes contra a venda a menores sejam não apenas mais rígidas, mas também que sua execução seja implacável, com penas mais severas para os comerciantes infratores.",
+    "12": "Diante do exposto, é evidente que a ampliação e o endurecimento das leis de controle do álcool são medidas inadiáveis para salvaguardar a sociedade.",
+    "13": "Para tanto, é mister que o Estado, por meio de seus órgãos fiscalizadores, intensifique a vigilância e aplique as sanções de modo mais rigoroso, especialmente contra a venda para menores e a condução sob efeito de álcool.",
+    "14": "Adicionalmente, campanhas educativas contínuas, veiculadas em grande escala, devem conscientizar a população sobre os perigos do consumo excessivo, promovendo uma cultura de moderação e responsabilidade.",
+    "15": "Somente com a ação conjunta do poder público e da sociedade civil será possível mitigar os danos e construir um futuro mais seguro para todos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "15"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "15"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "15"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "21",
+        "22",
+        "23",
+        "24"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "3",
+        "1"
+      ],
+      "textos_motivadores": [
+        "0",
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10",
+        "15"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "10",
+        "13",
+        "14"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "2",
+        "1"
+      ],
+      "textos_motivadores": [
+        "25",
+        "26",
+        "27"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "3",
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10",
+        "14"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "10",
+        "14",
+        "17",
+        "19",
+        "22"
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "tema": "cientistas-preveem-futuro-sombrio-para-terra",
+  "comando_tematico": {
+    "frases": {
+      "0": "Cientistas prevêem futuro sombrio para Terra A idéia de um fim, de termo absoluto do mundo em que vivemos é de tal forma fantástica que, talvez por isso, a tratemos com algum descrédito.",
+      "1": "É difícil compreender que tudo o que somos, tudo o que fizemos e conseguimos poderá desaparecer.",
+      "2": "Mas é tempo de acordarmos, de nos conscientizarmos, dos homens que governam o mundo se unirem para impedir que o que vemos em ficção se torne realidade.",
+      "3": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "A inteligência artificial A temperatura da Terra subirá até o fim do século, diz o mais importante relatório sobre o aquecimento global, produzido por 600 cientistas de 40 países.",
+      "1": "A geleira sobre a Groenlândia pode sumir em milênios, os furacões ficarão mais fortes e o nível do mar subirá pelos próximos mil anos - de 18 cm a 59 cm até 2100.",
+      "2": "O relatório responsabiliza a ação humana pelo aquecimento global.",
+      "3": "(Textos extraídos de Folha de S.",
+      "4": "Paulo - 03 ) Tecnologia a serviço do homem Pôr-do-sol na Praia de Jacaré, em João Pessoa: espetáculo natural em risco.",
+      "5": "Foto: SOLANGE L.",
+      "6": "MARCONDES O pôr-do-sol na Praia de Jacaré, em João Pessoa, é um momento dos mais deslumbrantes e poéticos que a natureza ainda nos oferece.",
+      "7": "O colorido das nuvens tentando encobrir o astro-rei que se recolhe; o vermelho-púrpura dominando o horizonte, refletindo os últimos raios nas plácidas águas do rio quase mar e o Bolero de Ravel ao som de um safoxe elevam ainda mais a alma e o pensamento de quem está ali presente.",
+      "8": "Na velocidade do pensamento MARCELO LEITE, Folha de S.",
+      "9": "Paulo - 03 Agora tem força de lei: não importa o que façam homens e mulheres daqui para a frente, seu planeta ficará bem menos hospitaleiro.",
+      "10": "Tempestades e secas serão mais freqüentes.",
+      "11": "Furacões e tufões, mais intensos.",
+      "12": "O nível do mar subirá pelos próximos mil anos -mesmo que a espécie desapareça da face da Terra nesse meio tempo.",
+      "13": "Esta é a mensagem da primeira parte do quarto relatório de avaliação da saúde da atmosfera produzido pelo IPCC (Intergovernmental Panel on Climate Change, ou Painel Intergovernamental sobre Mudança Climática).",
+      "14": "O órgão criado pela ONU congregou 600 especialistas de 40 países para redigir o sumário executivo divulgado ontem em Paris.",
+      "15": "O primeiro computador quântico já existe Já vimos o cenário em muitos filmes sobre catástrofes.",
+      "16": "Neles a civilização quase deixa de existir em razão de ataques de extraterrestres, da explosão de corpos celestiais cujos fragmentos atingem a Terra ou, ainda, de uma formidável revolta dos oceanos cujas águas invadem os continentes.",
+      "17": "O \"quase deixa de existir\" fica por conta das mensagens otimistas em finais apressados nos quais uns poucos humanos sobrevivem e parecem aptos a iniciar um novo mundo, mais justo e respeitoso com a natureza.",
+      "18": "De repente a nossa rotina é invadida por informes pouco comuns de uma comissão de cientistas.",
+      "19": "O dia 02 de fevereiro de 2007 passa à História como o marco em que soubemos que a natureza não mais suporta as nossas agressões e o ambiente prepara-se para responder a elas com força descomunal.",
+      "20": "O aquecimento global tornou-se irreversível; as geleiras se derreterão, o nível dos mares se elevará, ilhas e cidades costeiras desaparecerão, grandes tempestades e furacões nos atingirão, a floresta Amazônica tornar-se-á uma savana e assim por diante.",
+      "21": "Infelizmente, desta vez, não se trata de um filme e sabemos que, caso não façamos nada para preservar a natureza o final não será feliz: não teremos aqueles poucos sobreviventes bem intencionados e dispostos a criar um novo mundo.",
+      "22": "Ao invés deles, talvez, a paisagem desoladora de um mundo vazio e em compasso de espera por alguns milhões de anos até que moléculas surjam nos mares e novamente dêem início a um conjunto de reações químicas que desencadeie o aparecimento de um primeiro ser vivo e, a partir dele, o processo evolutivo em direção a uma nova civilização.",
+      "23": "A idéia de um fim, de termo absoluto do mundo em que vivemos é de tal forma fantástica que, talvez por isso, a tratemos com algum descrédito.",
+      "24": "É difícil compreender que tudo o que somos, tudo o que fizemos e conseguimos poderá desaparecer.",
+      "25": "Mas é tempo de acordarmos, de nos conscientizarmos, dos homens que governam o mundo se unirem para impedir que o que vemos em ficção se torne realidade.",
+      "26": "Só assim as gerações futuras prevalecerão e viverão num mundo melhor.",
+      "27": "(SOLANGE L.",
+      "28": "MARCONDES) Tendo como base as ideias apresentadas nos textos acima, os inscritos fizeram uma dissertação sobre o tema Cientistas prevêem futuro sombrio para Terra Leia as redações avaliadas ÍNDICE DE TEMAS IMPRIMIR ENVIAR COMUNICAR ERRO Os textos publicados antes de 1º de janeiro de 2009 não seguem o novo Acordo Ortográfico da Língua Portuguesa.",
+      "29": "A grafia vigente até então e a da reforma ortográfica serão aceitas até 2012"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Preocupar-se com o presente é necessário e essencial para existir um bom futuro; um futuro com paisagens bonitas e animais selvagens, águas limpas e terras férteis evitando um fim desnecessário com furacões irreversíveis e enchentes.",
+    "1": "Hoje em dia, parte das pessoas se preocupa com o futuro do mundo, promove campanhas, anúncios e meios informativos com intenção de conscientizar uma grande maioria.",
+    "2": "Além disso, revistas, jornais e outros meios de comunicação mostram o tal chamado fim do mundo e apontam os erros do passado e do presente na tentativa de um futuro certo, apresentam também suas causas e consequências.",
+    "3": "No entanto as pessoas vivem como se o amanhã estivesse muito longe, longe demais para terem que se preocupar com esse tipo de conscientização agora.",
+    "4": "Até mesmo porque as causas das quais vivemos devido aos descuidos do homem no passado parecem ser pequenos perto de um todo tão grande.",
+    "5": "O futuro é se preocupar com o presente, e se dar conta de que nossas ações são as próximas reações do mundo."
+  },
+  "redacao_gerada": {
+    "0": "A iminência de um futuro sombrio para o planeta Terra, reiteradamente prognosticada pela comunidade científica global, emerge como um dos maiores desafios civilizatórios da contemporaneidade.",
+    "1": "Longe de ser um mero exercício de futurologia, os relatórios de entidades como o Painel Intergovernamental sobre Mudanças Climáticas (IPCC) convergem para a constatação de que a ação antrópica tem impulsionado transformações ambientais irreversíveis, ameaçando a habitabilidade do ecossistema.",
+    "2": "Nesse contexto, a ausência de uma resposta global efetiva decorre, primariamente, da inação política frente aos interesses econômicos imediatistas e, secundariamente, da generalizada falta de conscientização coletiva sobre a urgência da crise.",
+    "3": "Em primeiro plano, a recalcitrância de governos e corporações em adotar medidas ambientais robustas configura-se como um obstáculo intransponível à mitigação do colapso ecológico.",
+    "4": "A lógica inerente ao sistema capitalista global, que prioriza o crescimento econômico a qualquer custo e o lucro a curto prazo, frequentemente se sobrepõe às preocupações com a sustentabilidade.",
+    "5": "Essa dinâmica, que remete à \"Tragédia dos Comuns\" de Garrett Hardin, onde o uso irrestrito de um recurso compartilhado por interesses individuais leva à sua exaustão, reflete-se na exploração desenfreada de recursos naturais e na emissão contínua de gases de efeito estufa, perpetuando um ciclo vicioso de degradação ambiental e, consequentemente, corroborando as projeções mais pessimistas dos cientistas.",
+    "6": "Adicionalmente, a escassez de uma consciência ecológica coletiva robusta, frequentemente diluída pelo consumismo e pela desinformação, agrava o prognóstico ambiental.",
+    "7": "A sociedade contemporânea, imersa na \"modernidade líquida\" de Zygmunt Bauman, caracteriza-se pela efemeridade das relações e pela fragilidade dos laços comunitários, o que dificulta a formação de um senso de responsabilidade compartilhada e a adesão a ações coletivas de longo prazo.",
+    "8": "O individualismo exacerbado e a constante busca por satisfação imediata alienam o cidadão do impacto de suas escolhas no meio ambiente, transformando a crise climática em uma questão distante ou de responsabilidade exclusiva de outrem, o que inviabiliza a mobilização social necessária para reverter o cenário apocalíptico.",
+    "9": "Portanto, torna-se imperativo que a sociedade global, confrontada com as projeções científicas alarmantes, reavalie seus valores e priorize a sustentabilidade como pilar fundamental de seu desenvolvimento.",
+    "10": "Para tanto, os governos nacionais e organismos internacionais, como a ONU e o IPCC, devem implementar políticas públicas rigorosas de descarbonização da economia e incentivo à transição energética, por meio de investimentos maciços em energias renováveis, taxação de carbono e fiscalização ambiental intransigente.",
+    "11": "Tal iniciativa visa reverter o aquecimento global e preservar a biodiversidade, promovendo, ademais, programas educacionais contínuos que fomentem a conscientização cidadã sobre a urgência climática e o consumo consciente, garantindo um futuro habitável para as próximas gerações."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0",
+        "13",
+        "14",
+        "18",
+        "19",
+        "20",
+        "23"
+      ]
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "2",
+        "9",
+        "13",
+        "14",
+        "19",
+        "20"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "25"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "25"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "9",
+        "10",
+        "11",
+        "12",
+        "19",
+        "20"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "25"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "24"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "18",
+        "19",
+        "20",
+        "21",
+        "25"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "13",
+        "14",
+        "25"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "20",
+        "21",
+        "25",
+        "26"
+      ]
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "tema": "nacional-ou-importada-qual-a-cara-do-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "Nacional ou importada: qual a cara do Brasil?",
+      "1": "Muitos jovens rejeitam certos aspectos da cultura nacional, mostrando-se avessos a músicas, filmes, hábitos e até a comidas brasileiras.",
+      "2": "Por outro lado, existem jovens entusiastas de tudo que se refere ao Brasil.",
+      "3": "A questão não é nova.",
+      "4": "Já se colocava na década de 1920, quando Tarsila do Amaral pintou a tela \"Abaporu\" e Oswald de Andrade lançou o \"Manifesto Antropofágico\".",
+      "5": "O que você pensa da questão?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Abaporu O Abaporu, de Tarsila do Amaral A tela \"Abaporu\", de Tarsila do Amaral, de 1928, inspirou o escritor Oswald de Andrade na composição do \"Manifesto Antropofágico\", que propunha deglutir todas as influências estrangeiras para criar uma produção artística e cultural única e própria.",
+      "1": "Brasil: ame-o ou ame-o \"Eles não estão nem aí para o último hype da parada inglesa nem para a mais nova sensação de Hollywood.",
+      "2": "Seja por uma identificação maior com os temas, seja pela facilidade de entender as mensagens ou simplesmente por afinidade, muitos jovens não abrem mão do produto nacional quando assunto é cultura.",
+      "3": "E não são apenas o samba ou a bossa nova, criações tipicamente brasileiras, que agradam esses adolescentes.",
+      "4": "O rock e o cinema nacionais também são motivo de orgulho.",
+      "5": "\" (Leticia de Castro, \"Brasil: ame-o ou ame-o\", Folhateen , 07 ) Bye bye Brasil \"Motivo de orgulho nacional para muitos, a cultura brasileira sofre na mão de alguns adolescentes, que preferem a música, os programas de TV, as comidas e o cinema estrangeiros a qualquer coisa que seja produzida por aqui.",
+      "6": "No último mês, o debate esquentou a seção de cartas do Folhateen , que ficou dividida entre uma maioria que ama e uma minoria que detesta aspectos tradicionais de nossa cultura: MPB e samba, novelas e até delícias da gastronomia, como vatapá, moqueca, bobó de camarão e feijoada.",
+      "7": "O estopim foi uma carta do leitor Leandro Sarubo, 18.",
+      "8": "Comentando uma reportagem que listava as três piores séries em exibição na TV dos EUA, ele dizia que 'nenhum produto nosso consegue ser menos medíocre que essas três séries'.",
+      "9": "\" (Leandro Fortino, \"Bye bye Brazil\", Folhateen , 21 ) Ser adolescente no Brasil \" hoje uma matéria do Folhateen sobre os jovens que não se identificam com a cultura do Brasil e detestam MPB e feijoada, curtem rock alternativo e adoram fast-food.",
+      "10": "A reportagem traz também entrevistas com um sociólogo e um professor que ficaram horrorizados com isso.",
+      "11": "Não vejo motivo para tanto espanto.",
+      "12": "Numa sociedade tão desigual quanto a brasileira, nada mais óbvio do que isso.",
+      "13": "Como um jovem, principalmente das regiões Sul e Sudeste, que cresceu já com acesso à Internet e à TV paga, vai se identificar com barracão de escola de samba?",
+      "14": "Ou, ao contrário, como um jovem que estudou nessas cada dia piores escolas públicas, excluído digital, vai saber o que é Arcade Fire?",
+      "15": "\" Texto postado no dia 22 no blog de Thaís Gonzaga.",
+      "16": "Antes de escrever Ao desenvolver o tema proposto, procure utilizar os conhecimentos adquiridos e as reflexões feitas ao longo de sua formação.",
+      "17": "Selecione, organize e relacione argumentos, fatos e opiniões para defender seu ponto de vista e suas propostas, sem ferir os direitos humanos."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Eu adoraria ser patriota : gostar de samba e futebol.",
+    "1": "Mas quem não se identifica com tais costumes e se recusa a concordar que esperteza é sinônimo de desonestidade, certamente não facilita a situação.",
+    "2": "Em toda a história da humanidade, sempre existiram os que determinavam regras e espalhavam suas respectivas culturas.",
+    "3": "Egípcios, gregos, romanos, persas, ingleses, franceses e, desde o século passado, os norte-americanos.",
+    "4": "A xenofobia por vezes é inevitável, apesar das evidências que nos forçam ao contrário.",
+    "5": "Filmes, músicas, livros, tecnologias (em todas as áreas do conhecimento humano) - não se pode negar a supremacia da única superpotência do nosso planeta.",
+    "6": "Mais de 90% do conteúdo da Internet está em inglês.",
+    "7": "Antes de o Brasil tornar-se tri-campeão em 1970, os EUA já haviam colocado seus astronautas na lua (e até hoje, muitos brasileiros duvidam de que isto tenha ocorrido de fato).",
+    "8": "Eu particularmente acho cômico (e até mesmo trágico) utilizar computador, a própria Internet, com \"e-mails\", \"Windows\" e o \"Office\" para criticar os Estados Unidos.",
+    "9": "Sou brasileiro e certamente dói escrever estas palavras em epígrafe ; tupi or not tupi - realmente é a questão."
+  },
+  "redacao_gerada": {
+    "0": "A discussão sobre qual é a verdadeira cara do Brasil, se nacional ou importada, é um tema que sempre surge e causa muitos debates.",
+    "1": "É fácil notar que vários jovem, na atualidade, demonstram uma preferência por produtos culturais estrangeiros, como músicas e séries de outros país.",
+    "2": "Eles não se identificam tanto com a cultura brasileira, como as músicas daqui ou os filmes nacional, preferindo o que vem de fora para seu lazer.",
+    "3": "Essa preferência pode ser explicada porque, muitas vezes, o que vem de fora parece mais interessante ou moderno.",
+    "4": "A cultura internacional, ela chega muito rápido e com facilidade através da internet e das redes sociais, fazendo com que muitos adolescente acabam por se influenciar.",
+    "5": "É como se fosse uma tendência que todos querem seguir, e o que é nacional acaba ficando para trás.",
+    "6": "No entanto, também tem bastante gente jovem que valoriza e gosta muito das coisas que são tipicamente brasileiras.",
+    "7": "Eles sentem um orgulho grande do nosso samba, da nossa culinária rico e de outras manifestações culturais únicas.",
+    "8": "É importante que a gente não esqueça de valorizar o que é nosso, pois isso mostra a nossa identidade e quem realmente somos.",
+    "9": "A cultura do Brasil é muito vasta e não deve ser deixada de lado.",
+    "10": "Portanto, a identidade do Brasil não é apenas uma coisa só.",
+    "11": "Ela é, na verdade, uma grande mistura de elemento que são daqui e de influência que chega de outros lugares.",
+    "12": "É fundamental que a gente consiga ver o valor em ambos os lados, tanto no que é nacional quanto no que é importado, para que possamos construir uma identidade forte e verdadeira para o nosso país, sem esquecer das nossas raiz."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "5",
+        "9"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "5",
+        "9"
+      ]
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4",
+        "6"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

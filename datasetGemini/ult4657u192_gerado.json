@@ -1,0 +1,173 @@
+{
+  "tema": "fomos-dominados-pelas-maquinas-que-inventamos",
+  "comando_tematico": {
+    "frases": {
+      "0": "Fomos dominados pelas máquinas que inventamos?",
+      "1": "Já não conseguimos viver sem celular, computador, internet e outros poderosos recursos tecnológicos.",
+      "2": "Queiramos ou não, eles transformaram o mundo durante o século 20 e ingressaram no século 21 com uma velocidade espantosa.",
+      "3": "Muita gente se adapta rapidamente às novidades e nem lembra como era a vida sem elas.",
+      "4": "Para outros, porém, ocorre uma dúvida: nossa existência seria melhor ou pior sem tudo isso?",
+      "5": "Seríamos diferentes?",
+      "6": "Há quem odeie e quem ame irrestritamente essas máquinas.",
+      "7": "Qual é nossa relação com os avanços da tecnologia?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ser humano se tornou uma extensão da roda O Rio chegou a 2 milhões de carros; São Paulo, a 6 milhões.",
+      "1": "No Rio, é um carro para cada três habitantes; em São Paulo, são dois.",
+      "2": "O automóvel venceu.",
+      "3": "O comunicólogo Marshal McLuhan, talvez a única voz otimista de 1968, errou feio: o ser humano é que se tornou uma extensão da roda.",
+      "4": "Mas, em 2008, quem quiser chegar rapidinho a qualquer lugar, é melhor que vá a pé.",
+      "5": "Ruy Castro, \"Folha de S.",
+      "6": "Paulo\", 17 Estresse ou vida partilhada Glauco, \"Folha de S.",
+      "7": "Paulo\", 05 A máquina e o poeta Cota Zero Stop.",
+      "8": "A vida parou Ou foi o automóvel?",
+      "9": "Carlos Drummond de Andrade (1902-1987, \"Alguma Poesia\", 1930) Os sábios e a cultura \"Com o aparecimento da escrita, alguns sábios temeram que o conhecimento, que antes estava vivo na cabeça, viria a morrer, esquecido nas páginas de um livro.",
+      "10": "Com a expansão dos meios de comunicação e a conseqüente chuva de informações, alguns sábios temeram que o conhecimento (.",
+      "13": ") viria a degenerar-se em papel de embrulhar peixe e ondas espalhadas no espaço.",
+      "14": "Com a explosão da internet (.",
+      "17": "), e a extrema facilidade de encontrar uma informação, alguns sábios temem que tudo acabe em desinteresse.",
+      "18": "Luiz Zico Rocha Soares, (\"Internet, um mundo paralelo\".",
+      "19": "Melhoramentos, 2007,."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Sem dúvida nenhuma, o ser humano de hoje vive uma intensa onda de dominação provocada pelo uso intenso de tecnologia, como por exemplo internet, celular e outros grandes lançamentos que dominará o mercado nos próximos anos.",
+    "1": "Bill Gates já anunciou que pretende aposentar o teclado e o mouse e desenvolver um computador mais \"inteligente\" que reconhece a voz do próprio usuário.",
+    "2": "É importante destacar, que não é raro presenciarmos pacientes que procuram ajuda médica , para tentar superar o vício da internet.",
+    "3": "Outro fator que merece destaque é a nossa língua portuguesa tomando outros rumos, ou seja, as palavras foram encurtadas pelos próprios usuários.",
+    "4": "No msn a maioria dos usuários não escreve teclar e sim tc, existem escolas que adotaram essa linguagem reduzida como matéria a parte do ensino curricular, para que os alunos não confundam.",
+    "5": "Os professores acreditam que as mensagens utilizadas na internet podem refletir no vocabulário dos alunos, por esse motivo a decisão de ter o ensino a parte foi necessário.",
+    "6": "Se pararmos para refletir um pouco, veremos que todos esses problemas foram desencadeados pela própria ação do homem, já que as grandes tecnologias são realizadas por eles próprios.",
+    "7": "O problema é que não existe um limite para a utilização desses recursos.",
+    "8": "Não podemos negar, que o dia-a-dia ficou mais fácil com o intenso uso de tecnologias.",
+    "9": "As informações foram transmitidas mais rápidas , exemplo disso são os próprios exames médicos que são disponibilizados na própria internet.",
+    "10": "Em suma, não podemos resistir as mudanças na área tecnológica, mas devemos ser conscientes que o uso em demasia pode causar um desequilíbrio na qualidade de vida como stress, Ler (Lesão por esforço repetitivo).",
+    "11": "Por isso é necessário muita cautela para a utilização desses recursos no cotidiano para termos mais tempo de passear com a família, curtir um parque e tomar sorvete sem precisar ficar \"preso\" pelo uso intenso das tecnologias."
+  },
+  "redacao_gerada": {
+    "0": "A relação entre o ser humano e a tecnologia é um paradoxo contemporâneo.",
+    "1": "Desde a invenção da roda, a humanidade busca aprimorar suas ferramentas para facilitar a vida, mas essa incessante busca levanta a questão se, de fato, fomos dominados pelas máquinas que criamos.",
+    "2": "A crescente dependência de dispositivos eletrônicos e sistemas automatizados sugere que essa dominação pode já ser uma realidade, reconfigurando nossas interações, sociais e profissionais.",
+    "3": "É inegavel que a vida moderna está intrinsicamente ligada à tecnologia digital.",
+    "4": "Smartphones, computadores e a internet tornaram-se extensões de nossa existência, indispensáveis para comunicação, trabalho e lazer.",
+    "5": "A ausência desses aparelhos frequentemente gera ansiedade e sensação de desconexão, evidenciando uma dependência que transcende a mera conveniência.",
+    "6": "Nesse cenário, o indivíduo se torna um mero apêndice desses dispositivos, muitas vezes priorizando a interação virtual em detrimento do contato humano direto, o que implicam a um risco de isolamento social.",
+    "7": "Além da dependência individual, a automação e a inteligência artificial permeiam diversos setores da sociedade, desde a indústria até a vida cotidiana.",
+    "8": "Sistemas de recomendação moldam nossos gostos, algoritmos controlam fluxos de informação e até decisões importantes são delegadas a máquinas.",
+    "9": "Essa delegação de poder levanta preocupações sobre a perda de autonomia e o controle humano sobre seu próprio destino.",
+    "10": "A sociedade, sem perceber, aceita essa transição, confiando plenamente nas capacidades de sistemas que, por vezes, são opacos e podem manipular percepções e comportamentos.",
+    "11": "Diante desse quadro, é fundamental refletir sobre a dinâmica entre criador e criatura.",
+    "12": "Para mitigar os riscos de uma dominação tecnológica, é imprescindível que haja um desenvolvimento mais ético e consciente da tecnologia, com foco na educação digital desde cedo.",
+    "13": "É preciso fomentar o pensamento crítico sobre o uso das ferramentas e incentivar o equilíbrio entre o mundo virtual e o real, para que a tecnologia seja um meio para o progresso humano, e não um fim que nos aprisione.",
+    "14": "Somente assim poderemos reafirmar nossa soberania frente as inovações que nós mesmos concebemos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "7",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

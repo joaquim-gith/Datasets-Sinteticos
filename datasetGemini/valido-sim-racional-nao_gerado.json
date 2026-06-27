@@ -1,0 +1,205 @@
+{
+  "tema": "o-voto-nulo-e-um-ato-politico-valido",
+  "comando_tematico": {
+    "frases": {
+      "0": "O voto nulo é um ato político válido?",
+      "1": "No dia 12 de julho deste ano, o jornal Folha de S.",
+      "2": "Paulo formulou a seguinte pergunta: \"o voto nulo é um ato político válido\"?",
+      "3": "e apresentou as respostas, positiva e negativa, do ator e dramaturgo Hugo Possolo e do cientista político Bolívar Lamounier, respectivamente.",
+      "4": "A questão é muito pertinente devido não apenas à proximidade das eleições, mas também à onda de manifestações que percorre o país desde o ano passado.",
+      "5": "O voto nulo, historicamente, é considerado uma forma de protesto contra os rumos da política nacional.",
+      "6": "Leia as reflexões sobre o assunto , apresentadas a seguir, e desenvolva uma dissertação em que você exponha e defenda com argumentos a sua posição sobre o significado das eleições num regime democrático e sobre o uso do voto como forma de protesto.",
+      "7": "Considere ainda a foto que ilustra o tema e as informações fornecidas em sua legenda.",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O músico Carlinhos Brown, em campanha publicitária que convoca o cidadão a participar das eleições, para evitar um número elevado de ausências.",
+      "1": "O voto, no Brasil, é obrigatório, mas é fácil justificar a ausência e a multa pelo não cumprimento da obrigação é muito pequena.",
+      "2": "Voto nulo não corrige problemas Entendamo-nos, primeiro, quanto aos conceitos, uma vez que a pergunta comporta pelo menos duas interpretações bem distintas.",
+      "3": "No sentido legal e moral, a resposta só pode ser positiva; o voto nulo é tão válido como qualquer outro.",
+      "4": "O cidadão vota como quer; este é um princípio \"sine qua non\" da democracia.",
+      "5": "No regime democrático, por definição, inexistem instâncias com legitimidade para forçá-lo a escolher desta ou daquela forma.",
+      "6": "A questão que ora nos ocupa é portanto de ordem prática: qual é, em comparação com outras estratégias de protesto, a eficácia do voto nulo?",
+      "7": "Em que medida e sob que circunstâncias ele produz realmente o efeito desejado?",
+      "8": "É claro que em situações falsamente democráticas ou marcadamente ditatoriais o voto de protesto pode valer mais que a escolha substantiva.",
+      "12": ") A questão a considerar é, pois, o objetivo dos proponentes do voto nulo.",
+      "13": "Protestar contra o quê, exatamente?",
+      "14": "Uma razão amiúde invocada para o protesto é o desgaste das instituições, nos três ramos do governo.",
+      "15": "O desgaste de fato existe e se deve a uma infinidade de razões.",
+      "16": "O Congresso atual alterna momentos de omissão, de anarquia e de subserviência ao Executivo, desservindo o interesse público nos três casos.",
+      "17": "Episódios de corrupção multiplicam-se nos três Poderes, numa sucessão interminável.",
+      "18": "É um estado de coisas lastimável, mas a contribuição do voto nulo à correção dele é rigorosamente zero.",
+      "19": "Neste caso, nada há na anulação que se possa chamar de público --ou seja, de político, no melhor sentido da palavra.",
+      "20": "Nas condições do momento, ele apenas exprime um mal-estar subjetivo, difuso, de caráter individual.",
+      "21": "Qualquer que seja seu peso nos números finais da eleição, ele será apenas uma soma desses mal-estares e da apatia que deles decorre.",
+      "22": "[ Folha de S.",
+      "23": "Paulo , 12 ] Alternativa de protesto Não concordo com o sistema de representação política do Brasil.",
+      "24": "Que faço?",
+      "25": "Visto uma camisa encobrindo a cara e quebro alguma loja?",
+      "26": "Ou pago uma grana para ir a um estádio para xingar a presidente?",
+      "27": "Minha alternativa de protesto é o voto nulo.",
+      "28": "Não garanto que seja um gesto mais civilizado que as opções anteriores, mas certamente combina com minha preguiça de partir para violência física e com meu apego cômico de não desperdiçar palavrões.",
+      "29": "Na hora de divulgar os resultados, reais ou de pesquisas, a imprensa costuma somar os votos nulos e brancos.",
+      "30": "O significado dos dois é diferente.",
+      "31": "O voto nulo é, em princípio, um protesto, inclusive contra o próprio processo eleitoral.",
+      "32": "Já o voto branco diz que o eleitor concorda com a decisão da maioria.",
+      "36": ") Votar nulo não se trata de atacar o governo ou a oposição, mas o sistema político inteiro, dizendo não à promiscuidade partidária que confunde o eleitor com essa miscelânea de acordos nacionais e regionais que querem reduzir a cidadania a uma negociata por horários na TV.",
+      "37": "Quem defende o voto nulo não tem espaço no horário nobre para se manifestar.",
+      "38": "Isso é democracia?",
+      "39": "Basta dar um Google para ver que a Constituição de 88 está remendada, e não é preciso ser muito esperto para saber que os políticos jamais farão uma reforma política que altere as regras de um jogo no qual somente eles estão se dando bem.",
+      "40": "Qual a maneira de contestar?",
+      "41": "Votar nulo!",
+      "42": "Sempre que defendo o voto nulo, ouço aquela ladainha do fantasma da ditadura que pode voltar e a fatal pergunta do que teria a ganhar anulando meu voto.",
+      "43": "Bem sei que não quero nenhuma ditadura, mas também sei que essa democracia que aí está não me representa.",
+      "44": "[ Folha de S.",
+      "45": "Paulo , 12 ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Com as eleições perto  , os brasileiros já começam a escolher quem os representarão  no governo nos próximos quatro anos.",
+    "1": "No entanto, alguns eleitores pensam em anularem  seus votos, assim, atacam à  atual política e se manifestam contra ela.",
+    "2": "Contudo, essa iniciativa prejudicaria o país, pois de qualquer forma um candidato será eleito.",
+    "3": "Esse tipo de voto é válido, mas seria melhor votarem  naqueles mais qualificados e que mudariam esse atual governo.",
+    "4": "Para mostrar que estão insatisfeitos com o modo de governo no Brasil, algumas pessoas pensam em irem ás  urnas para anularem  seus votos.",
+    "5": "Esse ato será um manifesto contra alguns político corruptos que não ajudam o país.",
+    "6": "Mas, isso pode ser a chave para colocá-los de volta em Brasília.",
+    "7": "Então, é importante que o povo brasileiro pense bem, e que escolham  um governante que não prejudique nosso país.",
+    "8": "Muitos perguntam se anularem  seus votos é válido, e a resposta é sim, mas esse ato é irracional.",
+    "9": "Não só isso, mas também a ausência no dia das eleições é um protesto igual a anular o voto.",
+    "10": "A única diferença entre anular o voto e não comparecer é que a pessoa que ausente-se  irá pagar uma multa pequena.",
+    "11": "Mas essa iniciativa pode beneficiar muitos candidatos corruptos, pois os que pensam em não participarem  são aqueles que conhecem os atuais políticos e que manifestam-se  contra a reeleição destes.",
+    "12": "Com  isso, fizeram  campanhas publicitárias para os brasileiros comparecerem ás  urnas, mas ir  até lá e anular  seu voto estará prejudicando o Brasil do mesmo jeito          Dessa forma, os eleitores insatisfeitos com a política brasileira pensam em anularem  seus votos ou não comparecerem  no dia das eleições.",
+    "13": "No entanto, prejudicarão o país, pois esse ato irracional não mudaria o atual governo.",
+    "14": "Para que os político corruptos que atrasam o país não sejam eleitos, o povo brasileiro deveria votar racionalmente e procurar          um candidato mais qualificado que mude o país."
+  },
+  "redacao_gerada": {
+    "0": "O voto nulo, um tópico que sempre gera muita discução, é algo que as pessoas pensam se é certo ou errado.",
+    "1": "Muitos falam que é importante votar, mas outros acham que o nulo é um jeito de mostrar que não gosta de ninguem.",
+    "2": "Essa questão, que tá sempre ai, é relevante porque a gente vive num país com muitas eleições e problemas na politica que fazem a gente pensar nisso tudo.",
+    "3": "É uma coisa complexa, que envolve a cidadania e o papel de cada um.",
+    "4": "Alguns dizem que anular o voto não serve pra nada, porque não muda quem vai ganhar.",
+    "5": "É tipo jogar fora o seu direito, sabe?",
+    "6": "Mas, por outro lado, se muita gente anula, isso pode ser um sinal forte para os governantes, mostrando que o povo tá insatisfeito com tudo que acontece e com os candidatos que aparecem.",
+    "7": "Essa insatisfação é real e precisa ser vista, pois o povo merece ser ouvido sobre suas escolhas e descontentamentos com o cenário político atual.",
+    "8": "Alem disso, a democracia no Brasil é meio complicada, com um monte de partido e gente que não faz o que promete.",
+    "9": "As pessoas ficam cansadas de tanto promessa vazia e corrupção.",
+    "10": "Então, anular o voto é como um grito, um jeito de falar 'eu não concordo com esse sistema', mesmo que isso não mude as coisas de imediato.",
+    "11": "É um jeito de participar, mas de um jeito diferente, sem escolher ninguem, reafirmando que a politica precisa de mudanças urgentes para ser mais justa e transparente.",
+    "12": "Pra finalizar, o voto nulo é uma opção que as pessoas tem para expressar o que sentem, seja uma revolta ou só um descontentamento.",
+    "13": "É importante que a sociedade reflita sobre isso e que os políticos ouçam mais a população.",
+    "14": "É preciso que haja mais diálogo pra que todos se sintam representados e que o voto de cada um faça a diferença de verdade, pra melhorar o país, que é o que todo mundo quer e espera de um futuro melhor."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "27",
+        "31"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "2",
+        "18"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "20",
+        "21",
+        "31"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "20",
+        "21"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "14",
+        "15",
+        "16",
+        "36"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "14",
+        "15",
+        "17"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "27",
+        "31",
+        "36",
+        "43"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "27",
+        "36"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "20",
+        "27",
+        "31"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

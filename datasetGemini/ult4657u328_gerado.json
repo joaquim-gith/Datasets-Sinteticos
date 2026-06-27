@@ -1,0 +1,141 @@
+{
+  "tema": "o-que-voce-acha-do-ensino-nas-escolas-do-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "O que você acha do ensino nas escolas do Brasil?",
+      "1": "Políticos, educadores, professores, pesquisadores e alunos têm falado muito sobre a qualidade da aprendizagem nas escolas e faculdades do país.",
+      "2": "Muitos pais estão satisfeitos; os alunos falam bem ou mal de suas aulas (o que sempre aconteceu); professores reclamam dos salários, mas, em geral, se consideram aptos para ensinar; os governos anunciam incansáveis medidas para a melhoria do ensino.",
+      "3": "Entretanto, se há situações de excelente formação Brasil afora, o país tem ocupado posições muito baixas nos rankings mundiais de ensino e aprendizagem.",
+      "4": "Você, que já foi à escola e que vai para a universidade ou já foi: o que acha educação no Brasil?",
+      "5": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Pais e professores estão satisfeitos \"De modo geral, [.",
+      "3": "] os pais brasileiros não se envolvem como deveriam na vida escolar dos filhos.",
+      "4": "Os mais pobres dão graças aos céus pelo fato de a escola fornecer merenda, segurança e livros didáticos gratuitos.",
+      "5": "Os de classe média se animam com as quadras esportivas, a limpeza e [.",
+      "8": "] exigências [.",
+      "11": "] calibradas 'para não forçar o ritmo dos menos capazes'.",
+      "12": "Para 89% dos pais com filhos em escolas particulares, o dinheiro é bem gasto e tem bom retorno.",
+      "13": "No outro campo, 90% dos professores se consideram bem preparados para a tarefa de ensinar.",
+      "14": "\" [Monica Weinberg e Camila Pereira.",
+      "15": "Veja, 20 de agosto, 2008,.",
+      "16": "72] Constatação jornalística A educação vai bem, obrigado.",
+      "19": "\"Já estou um pouco cansada de responsabilizar apenas os sistemas pelos problemas de uma sociedade.",
+      "24": "Não sou professora, mas se fosse não gostaria de ser culpada pela existência de alunos como este (acima).",
+      "25": "Já disse uma vez nesse blog e repito: nenhum sistema educacional e nenhum professor pode fazer pelo aluno algo que cabe só a ele: estudar [Arthemísia 3 ; http: ] O que dizem outras pesquisas \"O Brasil está em 52º lugar em ciências e em 53º em matemática - em uma lista de 57 países.",
+      "26": "E 60% dos estudantes chegam ao fim da 8ª série sem saber interpretar um texto ou efetuar operações matemáticas simples\" [Inep e OCDE, agosto ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Escolas em péssimo estado, professores despreparados, alunos desmotiva-dos .",
+    "1": "Enfim, o quadro da educação no Brasil, que ocupa uma das posições mais baixas nos \"rankings\" mundiais, é deplorável.",
+    "2": "Mas, qual é o real propósito de in-vestir em educação?",
+    "3": "Por que países desenvolvidos, como Noruega e Finlândia, investem tanto nessa área?",
+    "4": "Há alguma ligação entre esses investimentos e o grau de desenvolvimento?",
+    "5": "Primeiramente, a educação é um direito previsto pela Constituição Brasi-leira .",
+    "6": "Logo, cabe aos governantes criarem políticas eficiente e medidas abran-gentes para que a população, pela qual responde, desfrute desse direito.",
+    "7": "O que falta, também, é um investimento maciço no setor, como fez a Coréia do sul, após a Guerra das Coréias.",
+    "8": "Das universidades coreanas, por exemplo, saíram tecnologias utilizadas por empresas como Hyundai e Samsung, ícones nos setores automobilístico e de telecomunicações, respectivamente.",
+    "9": "Além disso, a busca por uma melhor qualidade de vida faz com que as pessoas procurem melhores empregos, que por sua vez, pedem melhores níveis educacionais.",
+    "10": "Mas, a educação não trás somente bons empregos.",
+    "11": "Ela proporciona o pensamento crítico e a análise lógica - fatores indispensáveis para a criticidade de um indivíduo.",
+    "12": "Afinal, o fato de um povo ignorante ser mais influenciável do que uma população mais culta não é uma coincidência.",
+    "13": "Em suma, a educação transforma um país, tanto em aspectos econômicos, quanto tecno-culturais .",
+    "14": "Para o Brasil alcançar níveis positivos na área, cabe a nós, população, fazer valer os nossos direitos; quer seja exigindo melhores níveis de preparo dos docentes, quer seja cobrando uma melhor infra-estrutura.",
+    "15": "Porque a educação não só transforma a vida das pessoas, mas modifica toda uma sociedade."
+  },
+  "redacao_gerada": {
+    "0": "A educação no Brasil é um assunto que todo mundo sempre fala, e é muito importante a gente parar para pensar sobre ela.",
+    "1": "As escolas do nosso país tem muitos desafios, mas também tem coisas boas, dependendo de onde a gente olha.",
+    "2": "É uma questão bem complexa que afeta a vida de milhão de pessoas.",
+    "3": "Muitos estudantes acha as aulas meio chatas e os professores, coitados, ganha muito pouco, o que desanima eles.",
+    "4": "A infraestrutura de umas escolas também é bem ruim, com falta de material e prédio antigo, o que atrapalha o aprendizado dos alunos.",
+    "5": "Isso cria um ciclo onde a qualidade do ensino não consegue avançar.",
+    "6": "Por outro lado, existem escolas que são muito boas, com professores dedicados e alunos que aprende bastante.",
+    "7": "Os pais de aluno particular, por exemplo, geralmente está satisfeito com o que os filhos recebe, achando que o dinheiro é bem gasto.",
+    "8": "Os governos sempre anuncia plano para melhorar o ensino, mas nem sempre a gente ver o resultado na prática, principalmente nas escolas públicas.",
+    "9": "Então, o ensino no Brasil é complicado, não tem uma resposta fácil e única.",
+    "10": "É preciso que todos se envolva mais, desde os pais, que deve acompanhar mais os filhos, até os políticos, que precisa investir melhor na educação.",
+    "11": "Assim, nossos jovens tenha um futuro melhor, com mais oportunidade para todos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "26"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

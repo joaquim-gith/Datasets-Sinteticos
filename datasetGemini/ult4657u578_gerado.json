@@ -1,0 +1,192 @@
+{
+  "tema": "idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados",
+  "comando_tematico": {
+    "frases": {
+      "0": "Idosos em nossa sociedade: valorizados, desvalorizados ou privilegiados?",
+      "1": "Com o \"envelhecimento\" da população brasileira, tem-se falado muito da importância do bem-estar dos idosos.",
+      "2": "Em sociedades como a indiana e a japonesa, por exemplo, o velho é a figura mais importante da família e da comunidade.",
+      "3": "No Brasil, alguns sociólogos afirmam que, se um país precisa de um \"estatuto dos idosos\" (ou seja, de uma lei) para lembrar a respeitabilidade deles, isso indica que algo está muito errado.",
+      "6": "Por outro lado, há tantos privilégios sociais em torno da \"terceira idade\" (meias-entradas, ausência de filas, empréstimos especiais) que os \"não velhos\" se consideram prejudicados.",
+      "7": "Qual é sua opinião: o idoso, no Brasil - com ou sem rendimentos próprios - é valorizado, desrespeitado ou privilegiado?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Obrigação social Art.",
+      "1": "3 - É obrigação da família, da comunidade, da sociedade e do Poder Público assegurar ao idoso, com absoluta prioridade, a efetivação do direito à vida, à saúde, à alimentação, à educação, à cultura, ao esporte, ao lazer, ao trabalho, à cidadania, à liberdade, à dignidade, ao respeito e à convivência familiar e comunitária.",
+      "5": "] Art.",
+      "6": "4 - Nenhum idoso será objeto de qualquer tipo de negligência, discriminação, violência, crueldade ou opressão, e todo atentado aos seus direitos, por ação ou omissão, será punido na forma da lei.",
+      "7": "[Estatuto do Idoso] Coral dos Cinquentões Apresentação do Coral dos Cinquentões, no lançamento do guia \"Idoso-cidadão brasileiro - Informações sobre serviços e direitos\", em Brasília.",
+      "8": "Nem tem 60 anos \"É um absurdo, é um exagero!",
+      "9": "Você vai ao banco, ao cinema, em qualquer fila, até as de emergência, e aquele monte de pessoas passa na sua frente se dizendo idoso.",
+      "12": "Quem é idoso?",
+      "13": "A pessoa às vezes nem tem 60 anos, anda de tênis, usa óculos escuros, está superbem arrumada, mulheres maquiadas, homens jogando charme e dizem \"sou idoso\".",
+      "14": "E lá ficamos nós, trouxas,para trás.",
+      "15": "Acho que há muita moleza.",
+      "16": "Até officevelho os escritórios arranjaram.",
+      "19": "Empréstimos, décimo-terceiro antecipado, medicamentos e trabalho?",
+      "20": "Tudo é para eles, e nós, que estamos na idade adulta e necessitada, o que sobra para nós?",
+      "21": "O governo devia pensar em todos, mesmo porque ser idoso não é ser minoria\".",
+      "22": "[Desabafo de cidadão que preferiu não se identificar] Aposentadoria minguada \"Sou idoso, vivo de minha aposentadoria minguada do INSS e tenho empréstimo consignado e dívida em bancos que não estou conseguindo pagar em dia.",
+      "23": "Nem assistência médica eu tenho.",
+      "24": "Mesmo assim, o valor de pouco mais de R$100 que eu deveria receber de restituição do IR está bloqueado [.",
+      "28": "[Antônio do Valle Painel, Painel do leitor, Folha de S.",
+      "29": "Paulo, 9 ] Fragilidade \"As situações que levam ao abandono são provocadas pela condição de fragilidade do idoso, que pode passar a depender de outras pessoas, pela perda da autonomia e da independência, pelo esfriamento dos vínculos afetivos e pela conduta do grupo de relações ou ausência dele [.",
+      "33": "\" [Revista Brasileira de Geriatria e Gerontologia, Universidade Aberta da Terceira Idade]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "O aumento do número de idosos na população é um fenômeno mundial que deve ser levado a sério.",
+    "1": "A sociedade está envelhecendo e devemos estar preparados para isso.",
+    "2": "Temos que dar atenção e carinho para essas pessoas que tanto podem nos ensinar, valorizar os idosos ao nosso redor.",
+    "3": "Atitudes simples como ceder lugar no ônibus ou ajudá-los a atravessar a rua tem  valor muito grande.",
+    "4": "Nossos idosos têm que ser tratados com respeito não só por suas limitações físicas mas também pela sua experiência e sabedoria, pois seu           legado histórico-cultural pode e deve ser transmitido para os mais jovens por meio de projetos que visam   a  valorização do idoso,           que serão importantíssimos nos próximos anos .",
+    "5": "O desenvolvimento de atividades de lazer também ajuda, pois muitos não tendo o que fazer acabam ficando sozinhos em casa.",
+    "6": "É importante também frisar também que ruas e calçadas estejam em boas condições para essa nova sociedade.",
+    "7": "Cabe a todos lutar pelos direitos dos idosos como aposentadoria e uma vida digna.",
+    "8": "Ao conseguirmos melhorar a vida deles, conseguimos tornar a velhice de fato, a melhor idade."
+  },
+  "redacao_gerada": {
+    "0": "A crescente longevidade da população brasileira tem, sem dúvida, colocado em evidência a discussão sobre o papel e o tratamento dispensado aos idosos em nossa sociedade.",
+    "1": "Este debate complexo oscila entre a percepção de valorização, a realidade de desvalorização e a ideia de privilégios.",
+    "2": "Embora haja um esforço legal para garantir direitos, a prática cotidiana muitas vezes revela uma realidade multifacetada, onde a dignidade da pessoa idosa é constantemente posta à prova, refletindo uma ambiguidade social.",
+    "3": "Um dos aspectos mais prementes é a desvalorização sutil ou explícita que muitos idosos enfrentam.",
+    "4": "A despeito do Estatuto do Idoso, que assegura direitos fundamentais, a fragilidade econômica, advinda de aposentadorias minguadas do INSS, e a carência de assistência médica adequada, é um problema crônico que evidencia a negligência estatal e, por vezes, familiar.",
+    "5": "A dependência gerada por essa condição de fragilidade pode levar ao abandono e ao esfriamento dos vínculos afetivos, demonstrando que a existência de uma lei não garante o respeito intrínseco.",
+    "6": "É paradoxal que um país precise de um aparato legal robusto para lembrar as pessoas a respeitabilidade de seus anciãos, o que sugere uma falha profunda na estrutura social.",
+    "7": "Por outro lado, a sociedade também discute o suposto privilégio que a \"terceira idade\" desfruta.",
+    "8": "Benefícios como meias-entradas, atendimento prioritário em filas e linhas de crédito especiais são frequentemente citados por aqueles que se sentem prejudicados.",
+    "9": "Há quem argumente que pessoas que nem têm 60 anos, mas que já usufruem destas vantagens, estão abusando de um sistema que, na visão de alguns, concede \"muita moleza\".",
+    "10": "Contudo, é fundamental compreender que tais medidas, embora gerem desconforto em alguns, são, em sua essência, compensatórias.",
+    "11": "Elas visam mitigar vulnerabilidades e desigualdades históricas, e não conferir vantagens injustas, sendo um reconhecimento tardio da necessidade de proteção.",
+    "12": "Assim, a questão dos idosos no Brasil é um espelho das nossas contradições sociais.",
+    "13": "Para além das leis, é preciso promover uma mudança cultural que reforce a valorização e o respeito à experiência e à história de vida dos mais velhos.",
+    "14": "Uma intervenção eficaz passaria por campanhas de conscientização que fomentem a solidariedade intergeracional e o fortalecimento das políticas públicas de saúde, previdência e assistência social, garantindo não apenas direitos no papel, mas sua efetivação para uma velhice digna e participativa para todos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": [
+        "1",
+        "6"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "1",
+        "6",
+        "22",
+        "23"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "1",
+        "6",
+        "29",
+        "33"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "1",
+        "6"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "6",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "9",
+        "19",
+        "20",
+        "21"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8",
+        "12",
+        "13",
+        "15"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "1",
+        "6"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "6"
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    }
+  }
+}

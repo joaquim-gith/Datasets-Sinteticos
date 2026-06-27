@@ -1,0 +1,208 @@
+{
+  "tema": "e-justo-proibir-o-uso-do-celular-na-sala-de-aula",
+  "comando_tematico": {
+    "frases": {
+      "0": "É justo proibir o uso do celular na sala de aula?",
+      "1": "Em muitos lugares do Brasil e do mundo já vigora a proibição do uso de celulares em sala de aula.",
+      "2": "Em outros, a ideia está em discussão.",
+      "3": "Conforme noticiou o UOL Educação , em , na rede municipal de ensino de Juiz de Fora (MG) não somente os celulares foram proibidos, como também os bonés.",
+      "4": "A situação com certeza é polêmica.",
+      "5": "Trata-se de mais um caso em que a esfera pública (o Estado) resolve invadir assuntos da esfera privada, como na restrição ao fumo em locais fechados?",
+      "6": "Os legisladores estariam se intrometendo em questões da vida individual do estudante que não lhes dizem respeito?",
+      "7": "Ou são os jovens que abusam e não conseguem compreender quanto o uso do celular, durante a aula, lhes é prejudicial?",
+      "8": "O que você pensa da proibição do celular em sala de aula?",
+      "9": "E do boné?",
+      "10": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Em defesa da lei No meu entender, a nova lei vem em boa hora e os seus objetivos são mais do que justos.",
+      "1": "A proibição quer evitar que as aulas sejam frequentemente interrompidas pelo toque dos aparelhinhos, que os alunos se distraiam conversando com os amigos ou mandando torpedos e que atrapalhem os colegas.",
+      "2": "Além disso, vai impedir também os abusos, como no caso de estudantes que usam o telefone para colar nas provas.",
+      "3": "Eles usam mensagens de texto para passar cola com os celulares, sabia?",
+      "4": "Tem até quem tire foto da prova ou de uma questão e passe para um amigo de outro turno.",
+      "5": "[Depoimento de professor à Página 3 Pedagogia & Comunicação] Dar um basta Boné e celular dentro da sala de aula são um claro desrespeito dos alunos para com os professores e seus colegas.",
+      "6": "Os pais perderam o controle sobre seus filhos.",
+      "7": "Agora alguém terá que impor regras e disciplinas.",
+      "8": "Estamos vivendo tempos de egoísmo, onde cada um só pensa em si mesmo.",
+      "9": "Isso tem que mudar, pois estamos assistindo menores engravidando, menores assaltando e menores cometendo os mais variados tipos de crime, desde xingamento aos próprios pais até o consumo de todo tipo de drogas.",
+      "10": "Está na hora de dar um basta.",
+      "11": "[E-mail de internauta para o UOL Educação, por ocasião da notícia sobre a proibição em Juiz de Fora (MG).",
+      "12": "] É proibido proibir O Estado proibir os celulares dos alunos em sala de aula me parece um exagero, na medida em que viola o direito de a pessoa ir e vir com seus bens, atenta à dignidade da pessoa humana e também interfere no direito à segurança.",
+      "13": "Em muitos casos, o equipamento pode ser utilizado para afastar riscos ou danos às pessoas ou terceiros.",
+      "14": "Imagine, por exemplo, um professor descontrolado, que impõe um castigo cruel ao aluno.",
+      "15": "É raro?",
+      "16": "Sim, mas ninguém vai negar que pode acontecer.",
+      "17": "Além disso, vamos e venhamos, o Estado precisa se intrometer numa questão como essa?",
+      "18": "A escola, por si só, não tem autoridade para estabelecer a proibição?",
+      "19": "[Depoimento de educador à Página 3 Pedagogia & Comunicação] Um caso extremo Vamos a um caso fictício: em uma sala de aula, em escola particular no Estado de São Paulo, duas alunas começam uma briga.",
+      "20": "A roda se forma, as meninas caem no chão e em alguns minutos o professor que estava fora da sala intervém e as alunas, machucadas, são levadas à enfermaria, uma claramente mais ferida, com cortes no rosto e o nariz sangrando.",
+      "21": "Esta cena, apesar de lamentável, não seria tão incomum assim, não fosse o fato de um aluno ter filmado todo o ocorrido com seu ultracelular, em altíssima resolução.",
+      "22": "Publicar na internet?",
+      "23": "Ele vai além e exige sexo com a adolescente para que o vídeo não seja divulgado.",
+      "24": "[Dr.",
+      "25": "José Antônio Milagre, advogado, no Webinsider]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "A meu ver, a lei tem uma proposta bem útil.",
+    "1": "A sala de aula não é um lugar para mostrar seu celular de última geração com câmera fotográfica.",
+    "2": "Estamos na escola para aprender, e devíamos aprender lá também que o toque do celular no meio da aula não é apenas uma falta de respeito ao professor, mas também com os outros alunos que realmente querem aprender.",
+    "3": "Claro, o celular é importante em um momento de emergência, mas acho que é para isso que serve o telefone da escola.",
+    "4": "Agora, acho que os celulares deviam ser proibidos tanto para os alunos, quanto para os professores e outros funcionários.",
+    "5": "Um aluno que vê o professor utilizando vai se sentir injustiçado, claro, se o professor pode, porque  ele não?",
+    "6": "Mesmo assim, ainda me pergunto se os colégios irão realmente adotar essa lei .",
+    "7": "É muito fácil falar, difícil é agir, principalmente quando se trata de adolescentes (Você tem esse tipo de problemas com alunos de sete anos?).",
+    "8": "O celular do aluno toca no meio da aula, o professor para a explicação, o aluno pede desculpas, o professor volta à aula.",
+    "9": "Simples.",
+    "10": "O aluno não tem o celular confiscado, não leva uma advertência, não perde nota.",
+    "11": "Assim é fácil.",
+    "12": "Essa lei também devia propor uma punição.",
+    "13": "Não algo radical, claro.",
+    "14": "Mas algo que faça o aluno pensar duas vezes antes de levar o aparelho para a escola.",
+    "15": "Enquanto isso, só me resta esperar que os alunos tenham um pouco mais de consciência.",
+    "16": "Vamos combinar que ser atrapalhado por um barulhinho irritante de telefone no meio da explicação que você mais precisava não é nada agradável..."
+  },
+  "redacao_gerada": {
+    "0": "A discussão acerca da proibição do uso de telefones celulares em sala de aula é um tema que geram amplos debates na sociedade contemporânea, abrangendo desde o ensino fundamental até o superior.",
+    "1": "Enquanto alguns defendem a liberdade individual e a autonomia do estudante como direitos inalienáveis no ambiente acadêmico, outros argumentam veementemente que a restrição é fundamental para garantir um ambiente propício ao aprendizado efetivo e à formação integral.",
+    "2": "Nesse contexto, é pertinente analisar profundamente como o uso desregulado e irrestrito desses aparelhos pode comprometer severamente o processo educacional e a necessidade imperativa de medidas para mitigar tais impactos negativos.",
+    "3": "Primordialmente, o celular representa uma fonte constante e avassaladora de distração, dificultando imensamente a concentração dos alunos durante as aulas expositivas e atividades práticas.",
+    "4": "Notificações incessantes de redes sociais, mensagens instantâneas e a tentação de jogos ou vídeos curtos desviam a atenção do conteúdo lecionado, prejudicando o desenvolvimento cognitivo, a capacidade de análise crítica e, consequentemente, a absorção efetiva do conhecimento.",
+    "5": "Tal cenário é agravado pela dificuldade que muitos jovens, e até mesmo adultos, têm em gerenciar o tempo de tela e priorizar tarefas acadêmicas, o que resulta em um rendimento acadêmico inferior, na perda de interesse pela matéria e na desvalorização do papel do professor em sala de aula, que se vê competindo com a tela.",
+    "6": "É evidente, portanto, que a presença de um aparelho tão multifuncional e sedutor compromete a dedicação e o foco exigidos pelo ambiente escolar.",
+    "7": "Ademais, a permissividade no uso de celulares abre precedentes perigosos para práticas antiéticas e desleais, como a cola à avaliações e trabalhos.",
+    "8": "Alunos podem facilmente consultar respostas na internet em tempo real, fotografar provas ou trocar informações com colegas por meio de aplicativos de mensagens, desvirtuando completamente o propósito da avaliação como ferramenta de aferição do aprendizado, e promovendo uma competição desleal que premia a desonestidade.",
+    "9": "Além disso, a ferramenta, em casos extremos e lamentáveis, pode ser usada para registrar e compartilhar situações constrangedoras, ofensas ou atos de bullying, impactando negativamente o clima escolar, a saúde mental e a segurança de os estudantes envolvidos.",
+    "10": "A escola, enquanto espaço primordial de formação cidadã e ética, não pode ignorar tais riscos crescentes e complexos.",
+    "11": "Portanto, é justo e necessário que aja regulamentação sobre o uso de celulares em sala de aula, visando proteger o ambiente educacional e promover a equidade.",
+    "12": "Para que essa proibição seja eficaz e bem-sucedida, é fundamental que as escolas, em conjunto com os pais e responsáveis, promovam campanhas de conscientização contínuas sobre os malefícios do uso excessivo e inadequado da tecnologia, ressaltando seus impactos na saúde e no desempenho.",
+    "13": "Além disso, cabe ao corpo docente estabelecer regras claras, consistentes e dialogadas, buscando o diálogo aberto com os alunos para que compreendam a importância de um ambiente focado exclusivamente no aprendizado, garantindo assim uma educação de qualidade à todos e a formação de cidadãos mais conscientes e responsáveis."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "5",
+        "6",
+        "7"
+      ],
+      "textos_motivadores": [
+        "0",
+        "12"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "1",
+        "5"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "2",
+        "3"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "21",
+        "22",
+        "23"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "7"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "0",
+        "7",
+        "10"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "6",
+        "7"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "7"
+      ]
+    }
+  }
+}

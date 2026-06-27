@@ -1,0 +1,258 @@
+{
+  "tema": "o-jovem-perdeu-o-interesse-pela-participacao-eleitoral-por-que",
+  "comando_tematico": {
+    "frases": {
+      "0": "O jovem perdeu o interesse pela participação eleitoral?",
+      "1": "Por quê?",
+      "2": "O voto aos 16 anos foi uma conquista do movimento estudantil, incorporada à Constituição de 1988.",
+      "3": "Entre o fim da década de 1980 e o início da seguinte, estudantes e jovens, de um modo geral, demonstravam interesse na vida política nacional e desejo de se manifestar, por meio do voto, sobre os rumos do país.",
+      "4": "No entanto, essa vontade de participar tem diminuído.",
+      "5": "Há cinco anos havia 3,6 milhões de eleitores de 16 e 17 anos no Brasil.",
+      "6": "Em 2008 o número chegou a 2,9 milhões, redução de 19%.",
+      "7": "Se números assim permitem constatar o desinteresse do jovem no exercício de um direito seu, é o caso de perguntar as razões desse fato.",
+      "8": "Por que os jovens parecem ter perdido o interesse pela política?",
+      "9": "O que explica, na sua opinião, o crescente número de jovens que não faz questão de tirar o título de eleitor e de votar?",
+      "10": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Qual a importância do voto na adolescência?",
+      "1": "O voto para jovens entre 16 e 17 anos é facultativo.",
+      "2": "Mesmo assim, alguns optam por participar da eleição.",
+      "3": "Para o cientista político e professor do curso de Sociologia e Política da FESPSP (Fundação Escola de Sociologia e Política de São Paulo), José Paulo Martins Júnior, o que pode levar um jovem dessa idade a votar é a consciência de que estará participando do destino do país.",
+      "4": "\"É importante que ele perceba que o voto dele representa bastante\", afirmou.",
+      "5": "Segundo o especialista, que foi às urnas pela primeira vez antes de completar 18 anos, a possibilidade de votar nessa idade só amplia a cidadania.",
+      "6": "\"As pessoas falam pouco sobre política, então vejo nessas idades uma oportunidade para começar esse exercício\".",
+      "7": "A estudante Thiara Milhomem, 18, por exemplo, tirou o título com 16 anos e de lá para cá não deixou de se envolver em atividades políticas.",
+      "8": "\"Votar, para mim, é exercer a cidadania e meu papel de brasileira\", disse.",
+      "9": "Desde os 15, Thiara faz parte da UBES (União Brasileira dos Estudantes).",
+      "10": "Atualmente, ela compõe a diretoria executiva da organização e é responsável pela campanha nacional \"Se liga 16\", que tem por objetivo incentivar jovens entre 16 e 17 anos a tirar o título de eleitor.",
+      "11": "Thaís Andrea, Rudge Ramos Jornal, Universidade Metodista, http: Desencanto e frustração No ano passado, matéria da revista Megazine , suplemento para jovens do jornal O Globo , radiografou a imensa frustração da juventude com a política.",
+      "12": "Desencanto com política era uma das razões apontadas por jovens de 16 e 17 anos que optaram por não votar nas eleições de 2008.",
+      "13": "O voto aos 16 anos foi uma conquista do movimento estudantil, incorporada à Constituição de 1988.",
+      "14": "A renúncia ao exercício de um direito, tão imprópria do idealismo juvenil, mostra o grau da frustração adolescente.",
+      "15": "É um tiro na democracia e uma vitória dos demagogos, dos desonestos, dos oportunistas e dos que vivem de costas para a ética.",
+      "16": "Carlos Alberto Di Franco, O Estado de S.",
+      "17": "Paulo, 14 O que pensa a galera?",
+      "18": "\"Eu já posso votar, tenho consciência e informação pra isso também.",
+      "19": "Apesar de tudo, não tenho esperança de que alguma coisa vá mudar, pois os jovens não têm muita movimentação para isso.",
+      "20": "Então, permaneço na dúvida se faço meu título ou não.",
+      "21": "E se eu for votar, será nulo.",
+      "22": "\" Gabriel Porto, 16 anos \"Acho que o jovem tem que votar, porque além de estar opinando, está pensando no seu futuro.",
+      "23": "Querendo ou não, nós somos o futuro e por isso temos que saber o que é melhor pra gente.",
+      "24": "\" Nicole Mallmann, 16 anos \"Acho que pelo fato de cada político ter uma proposta que não ajuda a grande maioria nem beneficia os jovens, a gente acaba elegendo políticos pra influir na vida dos nossos pais, porque na nossa pouca coisa muda.",
+      "25": "\" Paulo Jobim, 17 anos \"Acho que o voto jovem só vale quando ele está votando consciente.",
+      "26": "Aí sim acredito que ele está exercendo cidadania, pois votar por votar não vale a pena e nem tem relevância.",
+      "27": "\" Gabriela Macedo, 16 anos \"Eu não iria votar porque todos os políticos que estão em questão no momento não me agradam.",
+      "28": "Se tivesse 16 anos e pudesse tirar o título, eu acho que não tiraria, esperaria pra votar quando tivesse motivo, quando fosse obrigatório ou por consciência responsável.",
+      "29": "\" Carolina Fonseca, 15 anos Kzuka - RS, Zero Hora, http: Se liga 16!",
+      "30": "A União Brasileira dos Estudantes Secundaristas (UBES) lançou no ano passado a campanha \"Se liga 16: por um país com a cara da juventude\".",
+      "31": "A iniciativa tinha como objetivo fazer um amplo processo de discussão nas escolas secundaristas sobre a importância da participação consciente da juventude na política brasileira, em especial nas eleições municipais de 2008.",
+      "32": "Para o presidente da Ubes, Ismael Cardoso, a campanha visava responder à redução do índice de votantes na faixa entre 16 e 18 anos: \"Há dados do TSE de que na maioria dos Estados tem diminuído a participação dos jovens nas eleições.",
+      "33": "Por isso a proposta é inverter, aumentar a participação da juventude no processo eleitoral\".",
+      "34": "Portal da Juventude, Governo Federal, http:"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Os jovens da atualidade veem  perdendo um grande interesse pela participação nas eleições, pelo fato de existir  políticos cada vez mais corrupto  , e   nao  fazem nenhuma questão de melhorar a vida de toda população brasileira.",
+    "1": "Um caso bem recente de corrupção aconteceu em Brasília, DF, de um deputado que colocou dinheiro na meia e um outro deputado que colocou na cueca , vídeo destes  foram  parar na mídia que  obviamente casou grande revolta na população, ocorrendo uma grande desanimo nos jovens           futuros eleitores.",
+    "2": "A população jovem brasileira esta desacreditada  da politica  do país,            fazendo assim eles pensarem muito antes de votar em políticos cada vez mais corruptos, causando um grande receio de acabar indo as  urnas e            fazendo uma grande escolha errada.",
+    "3": "Contudo pode se concluir que não adianta nada ter o direito de voto facultativo, se cada vez mais vem ocorrendo escandalos envolvendo políticos que se dizem honestos, que só pensam em gastar o dinheiro público em beneficio próprio, não              pensando em melhorar a situação do país, melhorando a educação,segurança."
+  },
+  "redacao_gerada": {
+    "0": "No cenário atual, é notável que uma parcela considerável da juventude tem demonstrado uma crescente desmotivação em relação à participação eleitoral.",
+    "1": "Muitos jovens não fazem questão de tirar seu título de eleitor, e aqueles que podem votar, muitas vezes, não o faz.",
+    "2": "Essa apatia gera um questionamento importante: o que explica essa perda de interesse pela política por parte dos mais novos?",
+    "3": "As razões para tal fenômeno são diversas e se enraizam em aspectos sociais e culturais da nossa época.",
+    "4": "Um dos motivos principal para a desengaja dos jovens é a profunda desilusão com o sistema político.",
+    "5": "Há uma percepção generalizada de que os políticos não cumprir suas promessas e que a corrupção é uma constante.",
+    "6": "Essa falta de credibilidade faz com que muitos acredita que seu voto não possui poder real para gerar mudanças significativas na sociedade.",
+    "7": "Eles veem os escândalos nas notícias e pensam que é tudo a mesma coisa, uma ciclo sem fim de problemas que nunca se resolve.",
+    "8": "Outro ponto que contribui para o afastamento é a priorização de outras atividades e o foco em interesses mais imediatos.",
+    "9": "Em um mundo cada vez mais conectado e com acesso a uma infinidade de entretenimentos digitais a política pode parecer um assunto distante e maçante.",
+    "10": "Os jovens passa muito tempo nas redes sociais, jogos eletrônicos e outras formas de lazer, o que os distancia de debates políticos e da compreensão sobre a importância do processo democrático.",
+    "11": "A vida pessoal e as amizades muitas vezes se torna o centro de suas preocupações.",
+    "12": "Portanto, a falta de confiança nos representantes e a busca por outras prioridades na vida cotidiana são fatores que explica a diminuição do interesse dos jovens pelo voto.",
+    "13": "É essencial que se pense em maneiras de resgatar essa participação, mostrando a eles que a política é importante para o futuro de todos e que a voz deles tem valor.",
+    "14": "Caso contrário, a democracia perde um pedaço fundamental de sua força e representatividade."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "7",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": [
+        "11",
+        "12",
+        "14",
+        "32",
+        "33"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "7",
+        "9"
+      ],
+      "textos_motivadores": [
+        "12",
+        "19",
+        "20",
+        "28",
+        "32",
+        "33"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "1",
+        "7",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": [
+        "11",
+        "12"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "1",
+        "7",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "1",
+        "7",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": [
+        "11",
+        "12",
+        "14"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "15",
+        "24",
+        "27"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "19",
+        "21",
+        "24",
+        "27"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "11",
+        "12",
+        "15",
+        "24",
+        "27"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "1",
+        "7",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "1",
+        "7",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "1",
+        "7",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "1",
+        "7",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "4",
+        "7",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": [
+        "11",
+        "12",
+        "14"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "3",
+        "4",
+        "5",
+        "6",
+        "8",
+        "10",
+        "22",
+        "23",
+        "25",
+        "26",
+        "30",
+        "31",
+        "33"
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "15"
+      ]
+    }
+  }
+}

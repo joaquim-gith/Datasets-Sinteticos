@@ -1,0 +1,195 @@
+{
+  "tema": "cotas-para-universidades-federais-solucao-ou-problema",
+  "comando_tematico": {
+    "frases": {
+      "0": "Cotas para universidades federais: solução ou problema?",
+      "1": "Agora é oficial: a presidente Dilma Rousseff sancionou o sistema de cotas para o ingresso em universidades federais.",
+      "2": "Isso significa que metade das vagas dessas instituições será ocupada por alunos que cursaram todo o Ensino Médio em escola pública.",
+      "3": "Metade dessas vagas (25% do total) ficará com estudantes de baixa renda familiar e a outra metade (25%), com negros, pardos e índios.",
+      "4": "O tema é polêmico, pois envolve muitos pontos de vista: alguns consideram a medida preconceituosa, alegando que o mais justo é a manutenção da concorrência igual, já que a cor da pele não interfere na capacidade intelectual do indivíduo; outros, porém, veem as cotas como forma de incluir os excluídos, dando-lhes visibilidade social para que possam, no futuro, disputar vagas em condições de igualdade.",
+      "5": "Discuta esse tema em uma dissertação argumentativa, fundamentando seu ponto de vista e propondo ajustes necessários para se resolver a situação.",
+      "6": "Leia os textos da coletânea e tente aproveitar as informações úteis à sua análise.",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Por unanimidade, STF aprova cotas raciais Por unanimidade, os ministros do STF (Supremo Tribunal Federal) votaram nesta quinta-feira (26) a favor das cotas raciais em universidades públicas.",
+      "1": "Todos os 10 ministros votantes seguiram a opinião do relator do processo, ministro Ricardo Lewandowski, que se disse ontem (25) a favor da constitucionalidade da medida.",
+      "2": "O ministro Dias Tóffoli não participou do julgamento, já que, quando era advogado-geral da União, deu parecer favorável às cotas.",
+      "3": "Último a votar, Ayres Britto afirmou que quem não sofre preconceito por causa da cor da pele tem uma \"vantagem competitiva\".",
+      "4": "“Aquele que sofre preconceito internaliza a ideia de que a sociedade o vê como um desigual, por baixo.",
+      "5": "E o preconceito quando se generaliza e persiste no tempo, se alonga, como é o caso do Brasil, ele vai fazer parte das relações sociais de base, que são aquelas relações sociais que definem o perfil de uma sociedade.",
+      "9": ") Para Cezar Peluso, as políticas de ações afirmativas precisam ser aplicadas de olho no futuro.",
+      "10": "\"Essas políticas públicas estão voltadas ao futuro.",
+      "11": "Elas não compensam [atitudes anteriores].",
+      "12": "Elas estão atuando sobre a realidade de uma injustiça\", afirmou.",
+      "13": "[ UOL Notícias ] O grande erro das cotas (.",
+      "16": ") O Brasil tem hoje 2 341 instituições de ensino superior, públicas e privadas.",
+      "17": "Desse total, apenas 59 serão afetadas pela Lei de Cotas – além das federais, o projeto inclui alguns cursos técnicos de ensino médio e profissionalizantes ligados ao Ministério da Educação.",
+      "18": "Em termos absolutos, é bem pouco.",
+      "19": "Ocorre que, juntamente com as universidades públicas estaduais, as universidades federais são a mais importante usina de descobertas científicas, conhecimento e pesquisa do Brasil.",
+      "20": "Vêm delas, por exemplo, 86% dos artigos científicos publicados internacionalmente, segundo dados recentes.",
+      "24": ") Agora, a Lei de Cotas poderá desviar esse curso.",
+      "25": "Em vez de ir para os alunos mais preparados, quase sempre egressos de escolas particulares, metade das vagas caberá aos menos preparados, vindos do deficiente ensino público.",
+      "26": "A Lei de Cotas, tal como foi enviada para a sanção de Dilma Rousseff, não é ruim apenas porque põe em risco a produção de conhecimento no país e atropela a meritocracia.",
+      "27": "Ela é ruim também porque mascara e força a perpetuação de um dos problemas mais graves da educação no Brasil: a péssima qualidade das escolas públicas do ensino médio e fundamental.",
+      "28": "“Se tivéssemos um ensino básico decente, esses alunos conseguiriam competir de igual para igual com os alunos das particulares.",
+      "29": "Mas é claro que é mais fácil criar cotas do que investir na base”, afirma o economista Claudio de Moura Castro, especialista em educação e articulista de Veja.",
+      "33": ") O próprio governo parece reconhecer, ainda que implicitamente, o risco que a nova lei impõe ao ensino de alto padrão no país.",
+      "34": "Sob o contestável argumento de que são vinculadas ao Ministério da Defesa, e não ao da Educação, instituições de excelência, como o ITA (Instituto Tecnológico de Aeronáutica) e o IME (Instituto Militar de Engenharia), ficaram livres das cotas.",
+      "35": "O que mostra que, quando o assunto é “sério”, o que se leva em conta é mesmo o mérito e a capacidade.",
+      "36": "[ Coluna do Ricardo Setti, Veja on-line ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "A educação pública no Brasil vem passando por várias fases ao longo dos anos, o que aparenta ser um processo de experimentação para ver o que pode ou não dar certo, gerando certa defasagem no ensino.",
+    "1": "Assim, na busca incessante por soluções rápidas, acabam encontrando algumas, ineficientes, como é o caso das cotas.",
+    "2": "Em 26 de abril deste ano, o Supremo Tribunal Federal aprovou o sistema de cotas em universidades públicas, reservando 50% das vagas para alunos oriundos de escola pública, sendo 25% para estudantes carentes e 25% para negros, índios e pardos.",
+    "3": "O objetivo das cotas é tentar consertar o passado escravocrata que trouxe desigualdades sociais para negros e índios, porém o Brasil é hoje uma sociedade mestiça, tornando-se difícil o processo de seleção.",
+    "4": "Muitos lutam pelo fim do racismo e por igualdades, porém ao aceitarem sistemas como esse das cotas, se contradizem  e de certa maneira             alegam que são menos capazes que os brancos, o que não é verdade.",
+    "5": "Deveriam reivindicar uma educação de base de qualidade, para que no futuro possam competir igualmente com os alunos provenientes das escolas particulares.",
+    "6": "Outro grande problema que as cotas podem gerar é na  dificuldade de formação desses profissionais, ou até mesmo no abandono do curso por falta de conhecimento suficiente devido à educação precária que receberam.",
+    "7": "Portanto, para que possa haver um progresso quanto à educação, ao invés de utilizarem  da política de cotas para que aja  o ingresso de alunos carentes em universidades boas e públicas,                 o governo deveria se preocupar com a melhoria no ensino médio e fundamental.",
+    "8": "Deste  modo, o jovem poderá ter oportunidades que realmente o favoreçam e que  tragam condições iguais  , não só em sua carreira acadêmica, mas em sua vida."
+  },
+  "redacao_gerada": {
+    "0": "A implementação do sistema de cotas para o ingresso em universidades federais no Brasil tem sido um dos temas mais debatidos nos últimos anos, gerando opiniões diversas sobre sua eficácia e justiça.",
+    "1": "Enquanto alguns enxergam a medida como uma ferramenta essencial para a promoção da equidade social e a reparação histórica, outros a consideram um entrave à meritocracia e à qualidade do ensino superior.",
+    "2": "Essa dicotomia reflete a complexidade de um país marcado por profundas desigualdades.",
+    "3": "Um dos principais argumentos a favor das cotas resida na necessidade de corrigir as disparidades educacionais e sociais existentes.",
+    "4": "Estudantes egressos de escolas públicas, em sua maioria, enfrentam condições de ensino inferiores e carência de recursos que os colocam em desvantagem competitiva face aos alunos de instituições privadas.",
+    "5": "Assim, as cotas, ao reservar vagas para esses grupos, incluindo negros, pardos e indígenas, buscam oferecer uma oportunidade de acesso ao ensino superior, contribuindo para a diversidade acadêmica e para a formação de profissionais com diferentes olhares sobre a sociedade.",
+    "6": "É uma forma de inclusão para quem sempre foi marginalizado.",
+    "7": "Entretanto, é fundamental questionar se as cotas constituem a solução definitiva ou se apenas mascaram um problema ainda maior.",
+    "8": "Críticos argumentam que a política de cotas desvia o foco da verdadeira questão: a precária qualidade da educação básica pública brasileira.",
+    "9": "Ao invés de investir massivamente na melhoria das escolas de ensino fundamental e médio, o governo optaria por uma medida paliativa que, em tese, poderia comprometer a excelência acadêmica ao priorizar critérios sociais ou raciais em detrimento do mérito individual.",
+    "10": "Esta visão sugere que a capacidade intelectual não deve ser vinculada à cor da pele ou condição socioeconômica, mas sim ao preparo do estudante.",
+    "11": "Portanto, diante desse cenário complexo, é imperativo que o Estado brasileiro, em parceria com a sociedade civil, promova uma revisão profunda nas políticas educacionais.",
+    "12": "Embora as cotas possam ter seu valor como medida temporária de inclusão, a solução estrutural passa necessariamente pelo investimento massivo na educação básica pública, garantindo que todos os alunos, independentemente de sua origem, tenham acesso a um ensino de qualidade que lhes permita competir em igualdade de condições.",
+    "13": "Somente assim será possível construir uma sociedade mais justa e equitativa, onde o acesso à universidade seja um direito de todos, e não um privilégio ou uma concessão."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "13",
+        "26"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10",
+        "12"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "3",
+        "25",
+        "28"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "2",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "4",
+        "5"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "13",
+        "27"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "27",
+        "28"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "25",
+        "26",
+        "28"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "25"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

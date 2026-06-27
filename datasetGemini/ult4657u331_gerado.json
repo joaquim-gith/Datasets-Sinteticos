@@ -1,0 +1,191 @@
+{
+  "tema": "o-que-voce-acha-do-ensino-nas-escolas-do-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "O que você acha do ensino nas escolas do Brasil?",
+      "1": "Políticos, educadores, professores, pesquisadores e alunos têm falado muito sobre a qualidade da aprendizagem nas escolas e faculdades do país.",
+      "2": "Muitos pais estão satisfeitos; os alunos falam bem ou mal de suas aulas (o que sempre aconteceu); professores reclamam dos salários, mas, em geral, se consideram aptos para ensinar; os governos anunciam incansáveis medidas para a melhoria do ensino.",
+      "3": "Entretanto, se há situações de excelente formação Brasil afora, o país tem ocupado posições muito baixas nos rankings mundiais de ensino e aprendizagem.",
+      "4": "Você, que já foi à escola e que vai para a universidade ou já foi: o que acha educação no Brasil?",
+      "5": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Pais e professores estão satisfeitos \"De modo geral, [.",
+      "3": "] os pais brasileiros não se envolvem como deveriam na vida escolar dos filhos.",
+      "4": "Os mais pobres dão graças aos céus pelo fato de a escola fornecer merenda, segurança e livros didáticos gratuitos.",
+      "5": "Os de classe média se animam com as quadras esportivas, a limpeza e [.",
+      "8": "] exigências [.",
+      "11": "] calibradas 'para não forçar o ritmo dos menos capazes'.",
+      "12": "Para 89% dos pais com filhos em escolas particulares, o dinheiro é bem gasto e tem bom retorno.",
+      "13": "No outro campo, 90% dos professores se consideram bem preparados para a tarefa de ensinar.",
+      "14": "\" [Monica Weinberg e Camila Pereira.",
+      "15": "Veja, 20 de agosto, 2008,.",
+      "16": "72] Constatação jornalística A educação vai bem, obrigado.",
+      "19": "\"Já estou um pouco cansada de responsabilizar apenas os sistemas pelos problemas de uma sociedade.",
+      "24": "Não sou professora, mas se fosse não gostaria de ser culpada pela existência de alunos como este (acima).",
+      "25": "Já disse uma vez nesse blog e repito: nenhum sistema educacional e nenhum professor pode fazer pelo aluno algo que cabe só a ele: estudar [Arthemísia 3 ; http: ] O que dizem outras pesquisas \"O Brasil está em 52º lugar em ciências e em 53º em matemática - em uma lista de 57 países.",
+      "26": "E 60% dos estudantes chegam ao fim da 8ª série sem saber interpretar um texto ou efetuar operações matemáticas simples\" [Inep e OCDE, agosto ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Para o progresso de um país é necessário que haja neste, pessoas capacitadas para que aconteça uma melhoria na qualidade de vida, uma preparação melhor na economia e políti     ca, enfim, profissionais capacitados para governar um lugar.",
+    "1": "Mas como tal capacitação é possível?",
+    "2": "A resposta é simples: com a melhoria na educação.",
+    "3": "Não é nenhuma novidade que a educação no Brasil vai mal.",
+    "4": "Mas porque será que isso ocorre?",
+    "5": "Como podemos esperar que um aluno saia da escola capacitado se a maior parte dos professores não apresenta tal virtude ?",
+    "6": "E como cobrar o empenho dos professores se os salários deixam muito a desejar e as condições estruturais das escolas são,muitas, vezes, falhas ?",
+    "7": "O processo da educação é um ciclo.",
+    "8": "Se o aluno sair bem preparado da escola ele, conseqüentemente preparará bem as futuras gerações .",
+    "9": "Mas a educação no país é ruim a algum tempo, mostrando o motivo de os pais dos atuais estudantes acharem que o ensino vai bem .",
+    "10": "Mas \"rankings\" internacionais mostram uma realidade muito diferente.",
+    "11": "O Brasil não pode ser considerado nenhum exemplo de educação, já que ficou em péssimas colocações nesses exames internacionais.",
+    "12": "A educação do Brasil não irá melhorar apenas com uma atitude isolada.",
+    "13": "Na verdade é necessário que haja um conjunto de medidas como a melhor capacitação do professor, a maior valorização deste profissional, a melhoria da estrutura das escolas.",
+    "14": "Essas medidas só se tornarão realidade quando os governantes e a população priorizar a educação e definir qual o papel da escola: capacitar o aluno para a vida, ensiná-lo a pensar para poder, no futuro, melhorar nossa sociedade.",
+    "15": "Os alunos não podem sair da escola com fórmulas decoradas apenas para passar no vestibular ou em um concurso público, pois isso é uma conseqüência.",
+    "16": "O importante é que o aluno saia capacitado para entender e analisar o mundo em que vive para, desta forma, melhorá-lo e prepará-lo para as futuras gerações."
+  },
+  "redacao_gerada": {
+    "0": "A educação no Brasil é um tema que tem gerado muito debate ultimamente.",
+    "1": "É fácil ver que a qualidade do ensino nas escolas do nosso pais não é das melhores em muitos lugares, e isso afeta o futuro de muitos jovens.",
+    "2": "Esse problema é complexo e tem várias causas.",
+    "3": "Desde a falta de investimentos até a desvalorização dos professores e o pouco envolvimento da família.",
+    "4": "É preciso olhar para isso com atenção.",
+    "5": "Um dos principais motivos para a educação ser ruim é a falta de apoio financeiro.",
+    "6": "O governo não investe o suficiente nas escolas publicas, o que significa que faltam materiais, boas infraestruturas e tecnologia adequada.",
+    "7": "Os professores, que são muito importantes, muitas veses recebem salários muito baixos.",
+    "8": "Isso desanima esses profissional e faz com que eles não consigam dar o seu melhor em sala de aula, impactando diretamente o aprendizado dos alunos.",
+    "9": "Além disso, a participação dos pais e dos próprios alunos é um desafio grande.",
+    "10": "Muitos pais não acompanham a vida escolar de seus filhos, achando que a responsabilidade é só da escola.",
+    "11": "Os estudantes, por sua vez, nem sempre tem interesse em estudar preferindo outras atividades e não vendo a importância da escola para o seu futuro.",
+    "12": "Essa falta de engajamento generalizado dificulta o trabalho dos educadores e atrapalha o desenvolvimento educacional.",
+    "13": "Portanto, para o ensino melhorar no Brasil, é fundamental que hajam mais investimento por parte do Estado.",
+    "14": "É preciso valorizar os professores, dando-lhes melhores condições de trabalho e salários justos.",
+    "15": "E também é importante que pais e alunos entendam seu papel e se envolvam mais, criando um ambiente mais favorável ao aprendizado.",
+    "16": "Somente com um esforço coletivo a educação poderá avançar de verdade."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "26"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "4",
+        "5"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "25"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "25"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "3",
+        "25"
+      ]
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

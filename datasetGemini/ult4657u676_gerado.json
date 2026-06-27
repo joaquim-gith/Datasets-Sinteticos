@@ -1,0 +1,220 @@
+{
+  "tema": "qual-o-papel-da-imprensa-numa-sociedade-democratica",
+  "comando_tematico": {
+    "frases": {
+      "0": "Qual o papel da imprensa numa sociedade democrática?",
+      "1": "Pesquisa do Instituto Análise revela que 91% dos brasileiros pensam que a imprensa ajuda a combater a corrupção ao divulgar escândalos que envolvem políticos e autoridades.",
+      "2": "Trata-se de uma grande maioria, que aumenta, passando para 97%, quando se pergunta se a imprensa tem o dever de investigar e divulgar esses problemas.",
+      "3": "Mas há quem pense que a imprensa vê as coisas por um prisma negativo, dando especial destaque aos aspectos ruins ou prejudiciais de certos fatos.",
+      "4": "É claro que nem só de denúncias pode viver o jornalismo, mas, de qualquer forma, ninguém se declara a favor da censura e todos concordam que a imprensa livre é fundamental para o funcionamento da democracia.",
+      "5": "O que você tem a dizer sobre esse tema?",
+      "6": "Qual é, a seu ver, o papel da imprensa numa sociedade democrática?",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O papel social da imprensa O século 21 nasceu numa sociedade baseada na informação.",
+      "1": "No mundo de hoje, o grande jogo do poder se dá na mídia.",
+      "2": "Ao menos contar com sua isenção pode eleger ou defenestrar governantes e aprovar ou rechaçar esta ou aquela política pública.",
+      "3": "Nesse contexto, essa mídia - e sobretudo a imprensa que a pauta - assume, antes de mais nada, um papel social de altíssima responsabilidade e que deve ser exercido com absoluta transparência sob pena de ameaça à democracia e aos direitos de cidadãos por conta de etnia, credo, grau de instrução, posições político-ideológicas ou de estrato social a que pertençam.",
+      "4": "É esperável, portanto, que aquela pautadora da mídia, a imprensa, compreenda seu papel social e aceite submeter-se a uma única e plausível exigência: equilíbrio.",
+      "5": "Ao decidir tender para algum lado sem dar ao que pensa diferente a mesma oportunidade que a sua de se manifestar, a imprensa rouba o direito da sociedade de decidir com base em análise equilibrada, que para sê-la precisa de informações equilibradas que lhe deem acesso a ambos os lados de todas as questões - e agora peço que se releve que todas as questões têm dois ou mais lados.",
+      "6": "[Eduardo Guimarães, artigo no Observatório da Imprensa, 17 ] Duas declarações do presidente FOLHA - Um dos papéis da imprensa é fiscalizar o poder.",
+      "7": "O sr.",
+      "8": "não está incomodado com a imprensa cumprindo o seu papel?",
+      "9": "LULA - Não incomoda.",
+      "10": "FOLHA - O sr.",
+      "11": "disse que tem azia quando lê jornais.",
+      "12": "LULA - Como presidente, nunca fico incomodado.",
+      "13": "Não acho que o papel da imprensa é fiscalizar.",
+      "14": "O papel é informar.",
+      "15": "FOLHA - A imprensa não tem de ser fiscal do poder?",
+      "16": "LULA - Para ser fiscal, tem o Tribunal de Contas da União, a Corregedoria-Geral da República, tem um monte de coisas.",
+      "17": "A imprensa tem de ser o grande órgão informador da opinião pública.",
+      "18": "Essa informação pode ser de elogios ao governo, de denúncias sobre o governo, de outros assuntos.",
+      "19": "A única que peço a Deus é que a imprensa informe da maneira mais isenta possível, e as posições políticas sejam colocadas nos editoriais.",
+      "20": "[Folha de S.",
+      "21": "Paulo, 22 de outubro de 2009] Na abertura da 1ª Conferência Nacional de Comunicação, ontem, em Brasília, o presidente Luiz Inácio Lula da Silva disse ter \"compromisso sagrado\" com a liberdade de imprensa, mas criticou excessos cometidos por jornais, rádios e TVs.",
+      "22": "\"Tenho orgulho de dizer que a imprensa no Brasil é livre.",
+      "23": "Ela apura e deixa de apurar o que quer.",
+      "24": "Publica e deixa de publicar o que deseja.",
+      "25": "Opina e deixa de opinar sobre o que bem entende.",
+      "26": "Meu compromisso com a liberdade de imprensa é sagrado\", afirmou o presidente.",
+      "27": "Falando para cerca de 1.",
+      "28": "400 delegados de empresas, movimentos sociais e órgãos públicos, o presidente ressalvou que essa mesma imprensa também \"se excede, despreza os fatos e embarca em campanhas, divulga inverdades ou mesmo dissemina calúnias e infâmias\".",
+      "29": "[Folha de S.",
+      "30": "Paulo, 15 de dezembro de 2009] A imprensa, a democracia e a cidadania O conceito clássico de democracia pressupõe três poderes - Executivo, Legislativo e Judiciário - equilibrados e exercendo mútuo controle em benefício do conjunto da sociedade.",
+      "31": "A imprensa, ou para sermos mais genéricos, os meios de comunicação, formam hoje uma parte indissolúvel do sistema democrático moderno.",
+      "32": "Não há como conceber democracia sem uma imprensa livre e vigorosa.",
+      "33": "A imprensa é um dos canais por meio dos quais a sociedade civil se manifesta, emite opiniões, troca informações, vigia, denuncia e cobra dos três poderes clássicos o perfeito funcionamento daquilo que entendemos como democracia.",
+      "34": "[Jorge Werthein - Representante da UNESCO no Brasil, 8 de julho de 2004]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "A imprensa sempre teve um papel importante na sociedade, sem ela talvez não fosse possível saber o que o governo esta  fazendo de bom para o país, e outras informações importantes do dia-a-dia.",
+    "1": "A imprensa é um órgão utilizado para informar a população sobre o que esta  acontecendo no país e no mundo, e isso deve ser feito de forma transparente, o que infelizmente não está acontecendo, pois nem sempre a notícia que é veiculada pelos jornais, noticiários e outros canais da imprensa, falam sobre a notícia da forma que deveria ser feita.",
+    "2": "Ao escrever um artigo de interesse da população, como algo de bom que o governo fez para as classes mais pobres, grande parte da imprensa omite alguns fatos, enfatiza somente o lado negativo, e exprime a opinião da imprensa sobre a notícia, e muitas pessoas dessas classes mais pobres acabam sendo manipuladas, sendo que essa notícia deveria ser uma notícia boa.",
+    "3": "Quando  acontece algum escândalo político, a imprensa, que deveria somente divulgar o que aconteceu, acaba falando mal do governo atual, e, consequentemente, acaba manipulando mais pessoas.",
+    "4": "Se pararmos para pensar um pouco, a imprensa só começou a divulgar esses escândalos quando se iniciou um governo que a imprensa não aprova, e antes desse governo não se sabia de nada do que acontecia no governo, mas isso significa que antes não existiam corruptos?",
+    "5": "Pelo contrário, sempre existiram corruptos no governo, e provavelmente sempre vai existir  ,             mas a imprensa só divulga agora porque não é a favor do governo atual e quer que a população também não seja a favor.",
+    "6": "Depois que a censura acabou, a imprensa acabou fugindo um pouco do seu real propósito .",
+    "7": "A imprensa deve informar a população sobre o que esta  acontecendo, mas deixar para a população a parte de formar uma opinião própria sobre a notícia.",
+    "8": "Uma imprensa que somente divulga a informação, sem exprimir sua opinião, é uma imprensa correta, e infelizmente esse tipo de imprensa esta  cada vez mais difícil de ver."
+  },
+  "redacao_gerada": {
+    "0": "Numa sociedade democrática, a comunicação é muito importante, e as pessoas precisa de informação para viver bem.",
+    "1": "A imprensa, que e tipo um jornal, tem um papel nesse meio, ajudando a gente a saber das coisas que acontecem por ai, tipo na televisão e na internet, e isso é muito fundamental.",
+    "2": "Por isso, ela é essencial para nossa vida em sociedade, e isso e um fato que todo mundo sabe.",
+    "3": "Uma das função da imprensa é passar a notícia para todos.",
+    "4": "Ela mostra o que os políticos faz e se eles tão fazendo coisa errada, e isso é bom para a gente.",
+    "5": "Isso ajuda a combater a corrupção, porque se a imprensa não mostra, ninguem sabe o que acontece nas coisas.",
+    "6": "Assim, a sociedade fica mais esperta e pode cobrar mais dos governantes, para eles agirem direito e não fazerem bobagem nenhuma.",
+    "7": "Mas, as vezes a imprensa mostra só o lado ruim das coisas, sabe?",
+    "8": "Isso pode fazer as pessoas ficarem tristes ou com raiva, e achar que tudo tá errado no mundo, e isso não é legal para ninguém.",
+    "9": "Mas é importante que ela seja livre para mostrar o que quiser, porque a liberdade é um valor muito grande para todos nós.",
+    "10": "Se não tem liberdade de expressão, a democracia não funciona bem, e a gente não pode opinar ou falar o que pensa.",
+    "11": "Para resolver esses problemas, o governo deve investir mais em educação para que todos entendam melhor a notícia que é passada.",
+    "12": "E também, a imprensa precisa ser mais equilibrada, mostrando o bom e o ruim, para que a sociedade possa ter uma visão completa dos fatos.",
+    "13": "Assim, todo mundo fica feliz e a democracia se fortalece, com a ajuda de todos para um futuro melhor."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "0",
+        "14",
+        "17",
+        "33"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "6"
+      ],
+      "textos_motivadores": [
+        "0",
+        "31",
+        "32"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "14",
+        "17",
+        "33"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "6",
+        "18",
+        "33"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "6",
+        "18",
+        "33"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "1",
+        "2",
+        "4"
+      ],
+      "textos_motivadores": [
+        "3",
+        "33"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "32"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "3",
+        "32",
+        "33"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "4",
+        "5",
+        "19"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "3",
+        "31",
+        "32"
+      ]
+    }
+  }
+}

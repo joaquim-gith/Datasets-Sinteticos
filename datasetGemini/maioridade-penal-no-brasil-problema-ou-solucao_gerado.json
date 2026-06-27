@@ -1,0 +1,163 @@
+{
+  "tema": "deve-se-reduzir-a-maioridade-penal-no-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "Deve-se reduzir a maioridade penal no Brasil?",
+      "1": "Toda vez que um crime cometido por um menor de idade ganha evidência na mídia, cria-se uma comoção nacional e a polêmica envolvendo a maioridade penal vem à tona.",
+      "2": "Isso ocorreu recentemente, após um jovem prestes a completar 18 anos ter assassinado um universitário por causa de um celular, no início de abril, em São Paulo.",
+      "3": "Pesquisa Datafolha, uma semana depois do fato, revelou que 93% dos paulistanos eram favoráveis à redução da maioridade penal, uma vez que, no Brasil, os menores de 18 anos não respondem criminalmente por seus atos.",
+      "4": "Dezesseis anos é a idade mais cogitada para marcar esse limite.",
+      "5": "A principal alegação apresentada na defesa dessa mudança é o precoce amadurecimento do jovem, que hoje tem fácil acesso a informações e discernimento suficiente inclusive para votar.",
+      "6": "No entanto, os opositores dessa mudança alegam que outros casos surgirão com jovens (ou até crianças) com idades inferiores a essa, uma vez que as causas do problema não estariam sendo combatidas.",
+      "7": "Queremos saber qual é a sua opinião sobre esse assunto.",
+      "8": "Deve-se alterar a maioridade penal no Brasil?",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "93% a favor da redução Pesquisa Datafolha mostra que 93% dos moradores da capital paulista concordam com a diminuição da idade em que uma pessoa deve responder criminalmente por seus atos.",
+      "1": "Outros 6% são contra, e 1% não soube responder.",
+      "2": "Em consultas anteriores, em 2003 e 2006, a aprovação à medida pelos moradores da cidade foi de 83% e 88%, respectivamente -a margem de erro era de dois pontos.",
+      "3": "Sobre a idade a partir da qual um adolescente deveria passar a ser responsabilizado criminalmente, parte dos entrevistados, em respostas espontâneas (sem haver opções no questionário), defende que menores de 16 anos sejam enquadrados.",
+      "7": ") Um levantamento da Secretaria Especial de Direitos Humanos da Presidência da República em 53 países aponta que 42 adotam a maioridade penal a partir dos 18 anos.",
+      "8": "Entre os que responsabilizam mais jovens estão os EUA -a partir dos 12 anos, dependendo do Estado.",
+      "9": "O debate sobre a alteração na legislação voltou à tona depois do assassinato do universitário Victor Hugo Deppman, 19, mesmo sem ter reagido a um roubo de celular no último dia 9 em São Paulo.",
+      "10": "O suspeito pelo crime é um jovem que estava a três dias de fazer 18 anos.",
+      "11": "Ele foi detido e levado para a Fundação Casa (antiga Febem).",
+      "12": "Na avaliação de Paulino, a alta aprovação à redução da maioridade penal está dentro do contexto de violência praticada por um adolescente.",
+      "13": "O levantamento feito em 2003 também foi realizado pouco tempo depois da morte de um casal de namorados (Liana Friedenbach, 16, e Felipe Caffé, 19) por um jovem que na época tinha 16 anos - conhecido como Champinha.",
+      "14": "[ Folha de S.",
+      "15": "Paulo, 17 ] OAB: redução não resolve Brasília – O assassinato, na semana passada, do estudante Victor Hugo Deppman, de 19 anos, com um tiro disparado por um adolescente de 17 anos, em São Paulo, trouxe de volta ao debate a redução da maioridade penal, tema controverso sobre o qual a Ordem dos Advogados do Brasil (OAB) sempre se posicionou contrariamente.",
+      "16": "Segundo o presidente nacional da entidade, Marcus Vinicius Furtado, a criminalidade envolvendo crianças e adolescentes requer atenção especial das autoridades e de toda a sociedade, mas não se deve deixar que a comoção leve a caminhos que não irão resolver o problema, mas apenas agravá-lo.",
+      "17": "“Seria um retrocesso para o país, além de transformar o menino num delinquente sujeito à crueldade das prisões”, afirmou.",
+      "18": "“É a negação de tudo que podemos imaginar para o futuro”.",
+      "19": "Para Marcus Vinicius, a criminalidade e a violência entre os jovens precisam ser enfrentados a partir de um trabalho social muito forte.",
+      "20": "“Um pouco de dignidade já resolveria muita coisa”, disse, lembrando a falta de perspectiva que leva muitos adolescentes a buscar o caminho das drogas e da criminalidade.",
+      "24": ") [ Ordem dos Advogados do Brasil ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "A maioridade penal é um dos assuntos mais questionados atualmente.",
+    "1": "É crescente o número de crimes cometidos por indivíduos considerados pela justiça menores .",
+    "2": "Mas será que punir é a grande solução?",
+    "3": "Atualmente, os jovens tem  sido o grande alvo da violência em nosso país, cometidos pelos mesmos .",
+    "4": "Em muitos casos, o menor é considerado o infrator responsável por crimes , porém, devido à justiça  brasileira,          o tal não pode ser preso.",
+    "5": "Com tudo  , a idéia de reduzir a menoridade  no país acaba não sendo          plausível.",
+    "6": "Os fatos da mente dos jovens estarem em processo de transformação e aprendizagem, tornam influenciados nas decisões tomadas, no qual os levam ao crime e a sensação de impunidade por serem menores.",
+    "7": "Se o estado criasse uma “clínica de reabilitação” na qual os menores que ali viveriam tivessem recursos como estudo, lazer, entre outros, talvez as coisas mudassem.",
+    "8": "É clara a necessidade de punição , porém, não só em termos jurídicos, mas também, comunitários, éticos e morais .",
+    "9": "Por fim, a maioridade penal tem uma boa proposta .",
+    "10": "Entretanto, a falta investimentos sociais da parte do Estado acaba fazendo com que a mesma  seja em vão."
+  },
+  "redacao_gerada": {
+    "0": "A discussão sobre a redução da maioridade penal no Brasil é um tema recorrente, especialmente quando crimes violentos envolvendo adolescentes ganham destaque na mídia.",
+    "1": "Essa pauta, que gera comoção social e polariza opiniões, reflete a busca por soluções eficazes para a segurança pública e a justiça.",
+    "2": "Contudo, é fundamental analisar a complexidade do assunto, considerando tanto a percepção de impunidade quanto as implicações sociais de tal medida.",
+    "3": "Um dos principais argumentos a favor da redução da maioridade penal baseia-se na premissa de que os jovens de hoje possuem um amadurecimento precoce.",
+    "4": "Com o fácil acesso à informação e a capacidade de discernir entre certo e errado, muitos adolescentes, já aos 16 anos, tem consciência dos seus atos e, inclusive, já exercem o direito ao voto.",
+    "5": "Nesse sentido, defende-se que a legislação atual, ao tratá-los como inimputáveis, cria uma sensação de impunidade que incentiva a prática de delitos, especialmente os mais graves, como assaltos e homicídios.",
+    "6": "A ideia é que a responsabilização mais cedo geraria um freio.",
+    "7": "Por outro lado, a visão contrária argumenta que a mera redução da maioridade penal não resolveria o problema da criminalidade juvenil, podendo até agravalo.",
+    "8": "A entrada de adolescentes em um sistema prisional já superlotado e falho, muitas vezes dominado por facções criminosas, poderia transformá-los em criminosos ainda mais perigosos, sem oferecer reais chances de ressocialização.",
+    "9": "Ademias, os problemas que levam os jovens ao crime, como a falta de educação de qualidade, oportunidades e a desestruturação familiar, permaneceriam sem o devido combate, perpetuando o ciclo da violência.",
+    "10": "Diante do exposto, percebe-se que a questão da maioridade penal é multifacetada e exige uma abordagem mais ampla do que apenas a alteração legal.",
+    "11": "Para tanto, é impreçindível que o Estado, em colaboração com a sociedade civil, invista massivamente em políticas públicas que promovam educação integral, cultura e esporte, especialmente em áreas de vulnerabilidade social.",
+    "12": "Assim, oferecendo alternativas concretas e um futuro promissor, poder-se-á combater as raízes da criminalidade, garantindo não só a segurança, mas também a dignidade dos jovens brasileiros."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "8"
+      ],
+      "textos_motivadores": [
+        "9",
+        "15"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "16",
+        "17"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "17"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "19",
+        "20"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "19",
+        "20"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "tema": "por-que-as-pessoas-mentem-pela-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Por que as pessoas mentem pela internet?",
+      "1": "Pesquisa realizada pela Universidade de Cornell, nos Estados Unidos, revelou que 81% das pessoas que utilizam sites de relacionamento na internet mentem para aqueles com quem se comunicam.",
+      "2": "Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas a seus parceiros de chat.",
+      "3": "Quais os motivos dessa atitude?",
+      "4": "Trata-se apenas da vontade de impressionar o outro?",
+      "5": "Ou haverá um motivo mais profundo: a insatisfação consigo mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Quem está atrás do teclado?",
+      "1": "Um indivíduo isolado envia mensagens solitárias e busca o amor por meio de imagens virtuais.",
+      "2": "Ele se realiza em casa, protegido, à distância, e corre o risco de se decepcionar, quando, e se, um encontro real vier a ser marcado.",
+      "3": "Estamos no século do amor via internet com pessoas namorando virtualmente sem o calor dos corpos que se entregam.",
+      "4": "Mas, afinal, que tipo de relação se estabelece via computador?",
+      "5": "Existe vínculo?",
+      "6": "Se houver traição virtual, como fica o relacionamento entre os namorados?",
+      "7": "Basta se desconectar para pôr fim a um envolvimento emocional.",
+      "8": "Jairo Bouer comenta a pesquisa Texto 2 Segundo o filósofo francês Jean-Paul Sartre, \"o ser humano possui uma atração doentia pela verdade\".",
+      "9": "Sartre considera que o desejo da verdade aparece muito cedo nos seres humanos e se manifesta como vontade de confiar nas coisas e nas pessoas, isto é, de acreditar que as coisas são exatamente como o indivíduo as percebe e o que as pessoas lhe dizem é digno de confiança e crédito.",
+      "10": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "A busca pelo grande amor via internet, tem se tornado a cada dia mais popular, mas na grande maioria das vezes são como chuvas de verão ( voltam com a mesma intensidade que vieram), o grande risco desta prática não esta ligada somente por uma possível decepção amorosa, mas pelo perigo físico, emocional e, espiritual que o usuários dos \"namoros online\" estão correndo.",
+    "1": "Namoros pela internet podem ser ruins, pois na maioria das vezes começam com uma mentira e que se ostenta por uma longo prazo de tempo - no mínimo enquanto durar a suposta \"relação\"- exemplos: cor de pele, raça, estatura, peso, cor dos olhos, escolaridade, nível social, posição social, empregos, estado civil, não ter filhos, idade, desta forma os maus intencionados conquistam a confiança do outro.",
+    "2": "Por outro lado, qual a necessidade de dizer verdade?",
+    "3": "Como vimos no parágrafo acima o risco é eminente, todos os meios de comunicação tem noticiado o uso da internet pelos pedófilos ( \"amigos de crianças\"), para atrair inocentes e abusarem dos mesmos sexualmente, outrora podemos estar se \"relacionando\" com algum estuprador, presidiário, recente em uma dessas matérias perguntaram para o pai: \"O senhor não tinha conhecimento das páginas acessadas por sua filha (que conheceu alguém pelo orkut, marcaram de sair, foi estuprada e morta)\"?E a resposta foi a mesma, \"Não\".",
+    "4": "Mas a mídia é a grande responsável por grande parte destes problemas - especialmente a televisão - onde ela mostra um padrão perfeito a ser seguido, exemplos: mulheres magras, bem vestidas, homens com carros importados, padrões de vida que infelizmente não condiz com a realidade do país, sendo assim, fica a critério dos pais, educadores, a responsabilidade de ajudar os jovens a filtrarem o que realmente é proveitoso para o seu crescimento, espiritual, físico e emocional.",
+    "5": "Baseados no fatos acima, será que é realmente necessário dizer a verdade para uma pessoa que não conhecemos?",
+    "6": "Mas o correto mesmo é instruirmos os nosso filhos, para que não aconteça com as nossas crianças o que ocorreu com a filha do senhor no terceiro parágrafo, pois muitas vezes podemos achar que aquele estranho está muito distante e, acabamos descobrindo de forma trágica que ele fazia parte de nossa família e não sabíamos."
+  },
+  "redacao_gerada": {
+    "0": "Hoje em dia, a internet é um lugar onde as pessoas mentem muito, e isso é um fato.",
+    "1": "É meio que normal, sabe, porque todo mundo faz isso.",
+    "2": "A tecnologia permite que a gente se esconda e aí a gente inventa coisas.",
+    "3": "Por que as pessoas mentem tanto na internet?",
+    "4": "Essa questão é importante para a sociedade de hoje.",
+    "5": "Um dos motivo porque as pessoas mente é para parecerem que são melhor do que são.",
+    "6": "Elas querem impressionar os outros, tipo, para ter mais amigos ou para arrumar um namorado.",
+    "7": "Elas inventam que são mais bonitas, mais magras, ou que tem mais dinheiro.",
+    "8": "Se a pessoa não gosta dela mesma na vida real, ela vai mentir pra ter uma vida falsa na internet.",
+    "9": "Isso é muito visto em sites de namoro, onde as pessoas buscam um par.",
+    "10": "Outro ponto é que a internet dá uma liberdade para mentir sem que ninguém descubra.",
+    "11": "A pessoa se esconde atrás da tela, e aí pode ser quem quiser, sem ninguém saber a verdade.",
+    "12": "É fácil criar uma identidade falsa, e isso gera uma desconfiança muito grande.",
+    "13": "As relações fica tudo estranhas e não tem como saber quem tá falando a verdade, né?",
+    "14": "Então, pra resolver esse problema, é preciso que as pessoas seja mais honestas.",
+    "15": "É importante que cada um seja verdadeiro consigo mesmo.",
+    "16": "As escolas e os pais deveriam falar mais sobre isso, para que as pessoas não mintam tanto.",
+    "17": "Assim, a internet ficaria melhor e mais segura para todos nós."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

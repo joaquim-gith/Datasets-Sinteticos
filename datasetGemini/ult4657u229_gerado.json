@@ -1,0 +1,199 @@
+{
+  "tema": "favela-e-cidade-as-distancias-sociais-desapareceram",
+  "comando_tematico": {
+    "frases": {
+      "0": "Favela e cidade: as distâncias sociais desapareceram?",
+      "1": "Cortiços ou favelas têm sido, na história do Brasil, comunidades tidas como lugares de exclusão social.",
+      "2": "Nos cortiços do Rio de Janeiro do século 19, pobres, imigrantes e negros libertos foram mostrados pela literatura de modo determinista, como criaturas consumidas pela animalidade.",
+      "3": "Isso era suficiente para separar os \"verdadeiros\" cidadãos dos excluídos.",
+      "4": "Entretanto, no século 20, as favelas emergem com força político-social e se impõem ao mundo dito \"organizado\" tanto do ponto de vista financeiro, quanto do ponto de vista social.",
+      "5": "Hoje, no século 21, talvez tenhamos chegado a um ponto de intersecção social diferente: quem é quem, se o mundo de todos é o mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O glamour dos morros no mundo contemporâneo Maquete usada por Hans Donner nas imagens de abertura da novela \"Duas Caras\" Hoje, o processo da globalização na cultura de massa transformou a vida na favela em comunidade exemplar, inserindo-a até em telenovela.",
+      "1": "A favela da Portelinha (Duas Caras, Rede Globo, 2008) não tem tiroteios nem assaltos nem drogas nem afrouxamento da moral - imposta com autoridade de \"coronel\" por Juvenal Antena.",
+      "2": "Seus moradores vão à universidade, são cineastas, políticos e pequenos empresários.",
+      "3": "A cidade vai à favela, onde está o melhor restaurante português, e negros e brancos, mesmo num país tão miscigenado como o nosso, nunca se amaram tanto como na polêmica telenovela de Aguinaldo Silva.",
+      "4": "O acordar no cortiço naturalista \"Eram cinco horas da manhã e o cortiço acordava (.",
+      "7": ") das portas surgiram cabeças congestionadas de sono.",
+      "11": ") Daí a pouco, em volta das bicas era um zunzum crescente; uma aglomeração tumultuosa de machos e fêmeas.",
+      "12": "Uns, após outros, lavavam a cara, incomodamente, debaixo do fio de água que escorria da altura de uns cinco palmos.",
+      "13": "O chão inundava-se.",
+      "14": "As mulheres (.",
+      "17": "), via-se-lhes a tostada nudez dos braços e do pescoço, que elas despiam, suspendendo o cabelo todo para o alto do casco; os homens, esses não se preocupavam em não molhar o pêlo, ao contrário metiam a cabeça bem debaixo da água e esfregavam com força as ventas e as barbas, fossando e fungando contra as palmas da mão.",
+      "18": "As portas das latrinas não descansavam, era um abrir e fechar de cada instante, um entrar e sair sem tréguas.",
+      "20": "Sentia-se (.",
+      "23": ") o prazer animal de existir, a triunfante satisfação de respirar sobre a terra.",
+      "24": "(\"O Cortiço, Aluísio Azevedo, 1890).",
+      "25": "Refavela A refavela Revela aquela Que desce o morro e vem transar O ambiente Efervescente De uma cidade a cintilar (\"Refavela\", Gilberto Gil, 1977) Inspiração A \"Cadeira Favela\" foi criada pelos premiados designers brasileiros, Fernando e Humberto Campana, com sarrafos de madeira recolhidos em vários lugares.",
+      "26": "Passou a ser produzida na Itália, pela empresa Edra, em 2003.",
+      "27": "A \"Favela\" apareceu em revistas de design internacionais e no jornal \"The New York Times\".",
+      "28": "Também está em exposição no Museu Georges Pompidou, em Paris, e no Museu de Arte Moderna, em Nova York."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Vivemos numa era, em que todas as camadas sociais têm influência na situação política e financeira do país, desde a favela até as grandes cidades.",
+    "1": "Todo cidadão tem direito e dever perante a sociedade, independentemente de sua classe social ou o lugar em que mora.",
+    "2": "No século 19, quando surgiram os cortiços, formado geralmente por imigrantes, pobres e negros.",
+    "3": "Apontado pela sociedade da época como cidadãos excluídos, pois não influenciavam de nenhuma maneira a situação do país.",
+    "4": "Apenas sobreviviam de uma miséria, a qual não possibilitava o progresso social dessas pessoas.",
+    "5": "Atualmente, a realidade é outra, a favela se encontra cada vez mais estruturada e seus moradores mais cientes de suas responsabilidades sociais.",
+    "6": "Com isso, ela passou a possuir uma grande influência na situação do país, tanto financeiramente quanto socialmente.",
+    "7": "Apesar de a favela conter grande parte da violência, não se pode generalizar e dizer que todos marginais moram em favelas.",
+    "8": "Devemos ter consciência de que muitos que moram nesses locais , não tiveram oportunidade de estudar e buscar uma vida melhor.",
+    "9": "Pelo contrário, enfrentaram muitos obstáculos como: a fome, miséria e violência, fatores que dificultam muito o desenvolvimento social.",
+    "10": "Enfim, para um país encontrar progresso, na política, na economia e socialmente.",
+    "11": "Não basta apenas contar com a ajuda das grandes cidades.",
+    "12": "É necessário ver a nação como um todo.",
+    "13": "Cabem as autoridades, olharem para as favelas e verem que ali existem pessoas que primeiramente necessitam de ajuda, para depois ajudarem o país a encontrar o caminho da evolução."
+  },
+  "redacao_gerada": {
+    "0": "A discussão sobre se as distâncias sociais entre favela e cidade desapareceram reflete uma complexa teia de transformações e permanências na sociedade brasileira.",
+    "1": "Historicamente, essas comunidades foram estigmatizadas como espaços de exclusão e marginalização, onde a vida era retratada de forma quase determinista.",
+    "2": "Contudo, o século XXI trouxe uma visibilidade e uma força cultural e econômica das favelas, questionando a antiga dicotomia.",
+    "3": "Apesar de avanços significativos na integração cultural e econômica, é fundamental analisar se essa percepção de união realmente extinguiu as profundas desigualdades que ainda persistem, ou se apenas as mascarou sob uma nova roupagem.",
+    "4": "Em um primeiro momento, é inegável que a visibilidade midiática e a produção cultural oriunda das favelas contribuíram para desconstruir estereótipos.",
+    "5": "Telenovelas e filmes passaram a retratar o cotidiano dos morros com mais nuance, mostrando personagens que frequentam universidades, que são empreendedores e que possuem uma vida social e afetiva rica.",
+    "6": "Essa representação, muitas vezes idealizada, gera uma percepção de que as barreiras diminuíram, e a cidade \"vai à favela\" em busca de gastronomia ou tendências.",
+    "7": "Entretanto, essa aproximação, por vezes superficial, não é suficiente para apagar o preconceito estrutural e a falta de investimentos que ainda marcam a vida de milhões de pessoas.",
+    "8": "A distância social é mais do que física; ela é também de oportunidades e de reconhecimento pleno da cidadania.",
+    "9": "Ademais, a realidade socioeconômica das favelas ainda contrasta fortemente com o ideal de \"distâncias desaparecidas\".",
+    "10": "A precariedade dos serviços públicos básicos, como saneamento e saúde, é uma constante.",
+    "11": "A informalidade do trabalho e a carência de acesso à educação de qualidade continuam a ser desafios diários, perpetuando um ciclo de vulnerabilidade.",
+    "12": "Enquanto a cultura da favela ganha destaque nas passarelas e nos palcos, a infraestrutura básica muitas vezes permanece esquecida pelas políticas públicas.",
+    "13": "Assim, a glamorização de certos aspectos da vida nos morros pode desviar o olhar das reais necessidades e das profundas disparidades que a população enfrenta.",
+    "14": "A distância social, portanto, não desapareceu, mas assumiu novas formas de manifestação.",
+    "15": "Diante desse cenário, é imperativo que o Estado e a sociedade civil atuem de maneira mais eficaz para reduzir as disparidades.",
+    "16": "É preciso investir em políticas públicas que garantam saneamento básico, educação de qualidade e oportunidades de emprego formal para os moradores das favelas, ao invés de focar apenas em projetos pontuais de visibilidade cultural.",
+    "17": "Somente com ações integradas e contínuas será possível construir uma sociedade verdadeiramente equitativa, onde as distâncias sociais sejam minimizadas, e não apenas disfarçadas por uma superficial integração."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "0",
+        "25",
+        "26",
+        "27",
+        "28"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

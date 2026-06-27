@@ -1,0 +1,193 @@
+{
+  "tema": "gravidez-fora-de-hora-adolescencia-em-crise",
+  "comando_tematico": {
+    "frases": {
+      "0": "Gravidez fora de hora: adolescência em crise Gravidez acidental na adolescência é um grande conflito para os jovens e sua família - tenha ela ou não recursos financeiros.",
+      "1": "O que fazer após a descoberta?",
+      "2": "Gostem ou não, alguns casais são obrigados a uma união precoce e pouco duradoura.",
+      "3": "Às vezes, a entrega do filho para adoção é uma saída.",
+      "4": "Quanto aos abortos, por serem ilegais, podem se tornar procedimentos de risco.",
+      "5": "Sem falar nas convicções religiosas.",
+      "6": "Qualquer que seja a solução, especialistas insistem nos traumas psicossociais dos principais envolvidos em suas vidas futuras.",
+      "7": "Qual a sua opinião sobre esse problema social?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Jovem engravidou para ficar com namorado para sempre \"Juno\": filme premiado que aborda o problema Uma paixão avassaladora levou Paula a engravidar aos 18 anos, do namorado que tinha 16.",
+      "1": "\"Pensava que uma criança seria nosso vínculo eterno.",
+      "2": "Aconteceu justamento o contrário; na hora de buscar o resultado exame de gravidez, já não fomos mais juntos\".",
+      "3": "(Folha de S.",
+      "4": "Paulo, 20 de abril de 2008) Um aspecto econômico e social A gravidez na adolescência é um problema relacionado à pobreza.",
+      "8": "] Infelizmente os índices continuam altos.",
+      "12": "] E quase 90% das mães precoces cuidam dos filhos sem o parceiro.",
+      "13": "Se só informações não basta, a solução apontada por especialistas é despertar nos adolescentes, meninos e meninas, o interesse pelo futuro, para quebrar esse ciclo [.",
+      "16": "] já que a evasão escolar cresce e a vida profissional é adiada, aumentando ainda mais a exclusão social.",
+      "17": "(Ciça Vallerio, \"O Estado de S.",
+      "18": "Paulo\", 13 de abril de2008.",
+      "19": ") Patriarcalismo e violência: ainda?",
+      "20": "\"Não, senhora!",
+      "21": ", Filha minha num fica grávida na minha casa, não.",
+      "22": "Por que fez besteira?",
+      "23": "Vai tê que se virá.",
+      "24": "Minha mulhé num manda nada não, num adianta chorá, que a filha já foi pra rua.",
+      "25": "E num quero sabe de neto sem pai.",
+      "26": "E se a irmã dela fizer essa safadeza vai embora também, que eu não criei filha pra comprá vergonha.",
+      "30": "] Mas uma coisa eu garanto.",
+      "31": "Se eu pegá o que fez a sem-vergonheza, eu capo ele, tá entendendo?",
+      "32": "\" (Entrevista de pai de uma adolescente grávida, concedida a Flavia Di Roberto, periodontista, em pesquisa regional sobre a saúde bucal na gravidez.",
+      "33": "Osasco, São Paulo, 22 ).",
+      "34": "Gravidez precoce na contramão O número de adolescentes que se tornou mãe na última década aumentou.",
+      "35": "Mais garotas de 15 a 17 anos passaram a cuidar de bebês entre 1996 e 2006.",
+      "36": "O estranho é pensar que, em todas as outras faixas etárias, a taxa de fecundidade caiu.",
+      "37": "O que será que aconteceu com essa galera?",
+      "38": "Por que será que o pessoal mais novo tem vacilado mais?",
+      "39": "Para muitas meninas, ter filho significa abandonar os estudos e as pretensões profissionais para tomar conta do seu bebê.",
+      "40": "Será que essa é uma opção consciente ou um descuido impensado?",
+      "44": "] Nesses tempos em que a gente fala tanto de camisinha e métodos contraceptivos não dá para dizer que a gravidez vem por falta de informação.",
+      "45": "A questão é saber por que a informação não está sendo aplicada na prática.",
+      "46": "( Blog Jairo Bouer , outubro 2007)"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Um dos grandes problemas sociais que vem atingindo a população, em especial a população jovem, é a gravidez na adolescência.",
+    "1": "Uma criança gerada fruto da ingenuidade de duas pessoas que estão vivendo a fase mais intensa de suas vidas pode proporcionar uma experiência muito constrangedora; arruinando, muitas vezes, planos de um bom futuro que os \"pais de primeira viagem\" possam ter planejado.",
+    "2": "É na adolescência que o jovem vive os momentos mais marcantes da vida e começam a descobrir os prazeres que esta o proporciona .",
+    "3": "É também nesta etapa da vida que eles começam a se entregar intensamente às primeiras paixões, muitas vezes sem levar em consideração as conseqüências de seus atos, que podem refletir no futuro de cada um.",
+    "4": "Quando a gravidez chega, seja ela fruto de inocência, descuido, despreparo ou ingenuidade, ocorre uma transformação na vida das pessoas envolvidas.",
+    "5": "As famílias de ambos os jovens vivem momentos de aflição, em meio à realidade que os cerca.",
+    "6": "Seus filhos, agora futuros pais, acabam de renunciar a todos os seus objetivos de vida e de um futuro bem sucedido, pois na grande maioria dos casos, uma criança advinda na adolescência interfere em todo o processo escolar dos jovens pais, e o tempo perdido por eles torna-se cada vez mais difícil de ser recuperado, levando em consideração todas as responsabilidades que a maternidade pode trazer posteriormente.",
+    "7": "Mas o que leva os jovens a cada vez mais tornarem-se pais mais cedo?",
+    "8": "Com toda essa propaganda que vivenciamos hoje em dia a respeito de métodos contraceptivos, fica difícil de afirmar que o aumento no índice de gravidez na adolescência seja devido à falta de informações.",
+    "9": "Talvez esse crescimento seja mesmo explicado pelo despreparo psicológico do jovem, pela fraqueza mental que eles têm e que os fazem se preocupar apenas com o momento presente, viver o hoje da melhor maneira que eles imaginam e sem a menor preocupação com o amanhã.",
+    "10": "Portanto, não se pode afirmar que a gravidez precoce relaciona-se apenas à pobreza, pois independente de status, pode acontecer em famílias das mais diversas rendas.",
+    "11": "Também não se pode dizer que é um problema exclusivo dos dois jovens envolvidos, porque atribuir o erro apenas a eles é injusto, eles não conseguiriam encontrar soluções apenas entre si.",
+    "12": "Este é um problema difícil de ser resolvido, mas que depende de um grande esforço e mobilização por parte de todos; governo, população, pais e amigos.",
+    "13": "Só assim é que se pode trilhar o caminho certo a ser seguido para que possamos cada vez mais tentar erradicar o problema da gravidez na adolescência."
+  },
+  "redacao_gerada": {
+    "0": "A gravidez na adolescência emerge como um complexo desafio social, reverberando em múltiplas esferas da vida de jovens e suas famílias.",
+    "1": "Longe de ser um mero descuido individual, este fenômeno reflete a intersecção de carências educacionais, sociais e emocionais que, muitas vezes, perpetua um ciclo de vulnerabilidade.",
+    "2": "É fundamental, portanto, analisar as causas e consequências desse quadro para propor soluções eficazes que garantam um futuro digno a essa parcela da população.",
+    "3": "Apesar da vasta disponibilidade de métodos contraceptivos e campanhas de conciência, a gravidez na adolescência persisti como um desafio.",
+    "4": "Muitas vezes, a falta de projetos de vida e a ausência de um futuro planejado levam os jovens a decisões impulsivas, onde a maternidade precoce pode ser vista, erroneamente, como um meio de preencher vazios emocionais ou até mesmo de solidificar relacionamentos.",
+    "5": "A evasão escolar, que cresce significativamente entre as jovens mães, e o adiamento da vida profissional são consequências diretas, aumentando ainda mais a exclusão social e a dependência econômica.",
+    "6": "Alem disso, a gravidez inesperada impõe ônus significativo sobre a vida da adolescente e de sua família.",
+    "7": "Frequentemente, a jovem se vê obrigada a abandonar os estudos e adiar suas aspirações profissionais, culminando em uma maior exclusão social.",
+    "8": "A ausência do pai da criança é uma realidade dolorosa para muitas, que se veem sozinhas na responsabilidade de criar um filho, enfrentando dificuldades financeiras e emocionais que marcam suas vidas futuras e podem gerar traumas psicossociais.",
+    "9": "Gostem ou não, alguns casais são obrigados a uma união precoce e pouco duradoura.",
+    "10": "Portanto, para mitigar os impactos da gravidez na adolescência e promover um futuro mais promissor para esses jovens, é imperativo que o Estado, em parceria com as escolas e a família, implemente programas de educação sexual e planejamento familiar mais abrangentes.",
+    "11": "É crucial também que haja suporte psicossocial para as gestantes e jovens mães, visando sua reintegração escolar e profissional, e que a sociedade como um todo reavalie seus preconceitos, oferecendo um ambiente mais acolhedor e menos estigmatizante.",
+    "12": "Somente assim poderemos romper o ciclo vicioso da vulnerabilidade social."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4",
+        "8"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4",
+        "16"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "44",
+        "45"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "13"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "39"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "39"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "1",
+        "6"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    }
+  }
+}

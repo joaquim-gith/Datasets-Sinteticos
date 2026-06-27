@@ -1,0 +1,197 @@
+{
+  "tema": "fomos-dominados-pelas-maquinas-que-inventamos",
+  "comando_tematico": {
+    "frases": {
+      "0": "Fomos dominados pelas máquinas que inventamos?",
+      "1": "Já não conseguimos viver sem celular, computador, internet e outros poderosos recursos tecnológicos.",
+      "2": "Queiramos ou não, eles transformaram o mundo durante o século 20 e ingressaram no século 21 com uma velocidade espantosa.",
+      "3": "Muita gente se adapta rapidamente às novidades e nem lembra como era a vida sem elas.",
+      "4": "Para outros, porém, ocorre uma dúvida: nossa existência seria melhor ou pior sem tudo isso?",
+      "5": "Seríamos diferentes?",
+      "6": "Há quem odeie e quem ame irrestritamente essas máquinas.",
+      "7": "Qual é nossa relação com os avanços da tecnologia?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ser humano se tornou uma extensão da roda O Rio chegou a 2 milhões de carros; São Paulo, a 6 milhões.",
+      "1": "No Rio, é um carro para cada três habitantes; em São Paulo, são dois.",
+      "2": "O automóvel venceu.",
+      "3": "O comunicólogo Marshal McLuhan, talvez a única voz otimista de 1968, errou feio: o ser humano é que se tornou uma extensão da roda.",
+      "4": "Mas, em 2008, quem quiser chegar rapidinho a qualquer lugar, é melhor que vá a pé.",
+      "5": "Ruy Castro, \"Folha de S.",
+      "6": "Paulo\", 17 Estresse ou vida partilhada Glauco, \"Folha de S.",
+      "7": "Paulo\", 05 A máquina e o poeta Cota Zero Stop.",
+      "8": "A vida parou Ou foi o automóvel?",
+      "9": "Carlos Drummond de Andrade (1902-1987, \"Alguma Poesia\", 1930) Os sábios e a cultura \"Com o aparecimento da escrita, alguns sábios temeram que o conhecimento, que antes estava vivo na cabeça, viria a morrer, esquecido nas páginas de um livro.",
+      "10": "Com a expansão dos meios de comunicação e a conseqüente chuva de informações, alguns sábios temeram que o conhecimento (.",
+      "13": ") viria a degenerar-se em papel de embrulhar peixe e ondas espalhadas no espaço.",
+      "14": "Com a explosão da internet (.",
+      "17": "), e a extrema facilidade de encontrar uma informação, alguns sábios temem que tudo acabe em desinteresse.",
+      "18": "Luiz Zico Rocha Soares, (\"Internet, um mundo paralelo\".",
+      "19": "Melhoramentos, 2007,."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "O ser humano nunca pára de adaptar o mundo às suas necessidades ou aos seus sonhos.",
+    "1": "Através dos séculos foram muitas as suas criações, entre elas todos os tipos de máquina, que influenciaram e influenciam, de modo enfático , seu modo de agir nas vidas pessoal e social, sua cultura, seu pensamento e principalmente suas necessidades.",
+    "2": "Assim, terá o homem criado e sido dominado por suas criações?",
+    "3": "Fazendo um esforço de imaginação, podemos pensar sobre as características da vida há alguns séculos atrás: sociedades isoladas, falta ou precariedade de saneamento básico, ausência da energia elétrica, da televisão, do computador, do carro, da telecomunicação e de todas as \"maravilhas\" da tecnologia.",
+    "4": "Porém, seria necessário um esforço bem maior para nos imaginar nessa época!",
+    "5": "A expansão da tecnologia anda de mãos dadas com a expansão do capitalismo.",
+    "6": "A busca de mais lucros, mais facilidades em todas as partes da produção e da prestação de serviços, a necessidade de produtos mais atrativos e competitivos, a importância da informação, tudo.",
+    "7": "Tudo no sistema capitalista impulsiona o desenvolvimento tecnológico e, essas coisas, vistas como inovações bem vindas por capitalistas ou supérfluas pelo cidadão comum, tornam-se cada vez mais necessárias para todos e a cada dia vão transformando devagar ou rapidamente bilhões de vidas.",
+    "8": "Dessa forma, fazendo uma comparação do mundo e do homem atual com um mundo ou um homem, dos vários que ficaram no passado, qualquer um chegará à conclusão de que, sim, o homem cria e é dominado por suas criações, pois elas têm o poder de recriá-lo, o que não significa ser essa uma relação sem conseqüências más.",
+    "9": "O que nos resta, no decorrer da História, é sempre tentar localizar e analisar as relações do homem com a máquina e do homem com o homem, para que possamos descobrir todos seus pontos fracos e aperfeiçoá-los, já que essas relações são um bem/mal comum e inevitável."
+  },
+  "redacao_gerada": {
+    "0": "O avanço exponencial da tecnologia no século XXI trouxe consigo uma revolução sem precedentes, transformando radicalmente as interações humanas e a organização social.",
+    "1": "A questão central que emerge é se, nesse processo, fomos dominados pelas máquinas que inventamos, ou se mantemos o controle sobre nosso destino.",
+    "2": "É inegável que a dependência de dispositivos tecnológicos, como celulares e computadores, se tornou uma característica marcante da vida contemporânea, levantando dúvidas sobre a autonomia do individuo em um mundo cada vez mais digitalizado.",
+    "3": "Primeiramente, a conveniência oferecida pelos aparelhos eletrônicos tem gerado uma perda gradual de habilidades e uma dependência quase absoluta.",
+    "4": "A medida que os algoritmos nos guiam por caminhos desconhecidos e a informação está sempre a um clique, a capacidade de orientação espacial, de memorização e até mesmo de pensamento crítico é frequentemente subutilizada.",
+    "5": "O ser humano, nesse contexto, parece ter se tornado uma extensão da roda, incapaz de se locomover ou de realizar tarefas cotidianas sem o auxílio desses dispositivos que nos cercam e moldam nossas rotinas, tornando a vida sem eles, para muitos, impensável.",
+    "6": "Em segundo lugar, a constante conectividade e a onipresença das redes sociais e plataformas digitais promovem uma espécie de tirania da atenção.",
+    "7": "Notificações incessantes e a pressão social para estar sempre online criam um ciclo vicioso onde a interação virtual muitas vezes sobrepuja as relações interpessoais genuínas.",
+    "8": "A necessidade de validação digital e o medo de ficar de fora (FOMO) levam a um uso excessivo e muitas vezes inconsciente da tecnologia, onde as pessoas se acostumou a viver em função de uma tela, negligenciando o mundo físico e as experiências reais.",
+    "9": "Portanto, é crucial reconhecer que, em certa medida, fomos sim dominados pelas máquinas que criamos, não por uma imposição direta, mas por uma sedução da conveniência e da conectividade que minou nossa autonomia.",
+    "10": "Para reverter esse quadro, é fundamental promover a educação digital crítica desde cedo, ensinando os indivíduos a utilizarem a tecnologia de forma consciente e equilibrada.",
+    "11": "Além disso, a valorização das interações presenciais e das atividades offline pode contribuir para a redescoberta de uma existência mais plena e menos refém dos artifícios tecnológicos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "1",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "10",
+        "14"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "1",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "3",
+        "10",
+        "14"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1",
+        "3"
+      ],
+      "textos_motivadores": [
+        "3",
+        "9",
+        "10",
+        "14",
+        "17"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "1",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "1",
+        "6",
+        "7"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "1",
+        "3",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "6",
+        "8"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "4",
+        "5",
+        "7"
+      ],
+      "textos_motivadores": [
+        "3",
+        "10",
+        "14",
+        "17"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "4",
+        "5",
+        "7"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10",
+        "14",
+        "17"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "4",
+        "5",
+        "7"
+      ],
+      "textos_motivadores": [
+        "6",
+        "8"
+      ]
+    }
+  }
+}

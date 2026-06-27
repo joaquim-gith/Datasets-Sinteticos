@@ -1,0 +1,69 @@
+{
+  "tema": "enchentes-o-excesso-de-chuvas-e-o-unico-responsavel-pelo-desastre",
+  "comando_tematico": {
+    "frases": {
+      "0": "Enchentes: o excesso de chuvas é o único responsável pelo desastre?",
+      "1": "Um ano após o deslizamento de terras que matou cerca de 50 pessoas em Angra dos Reis, o Estado do Rio de Janeiro voltou a sofrer as consequências das fortes chuvas de verão.",
+      "2": "Neste ano, foram mais de 700 mortes na região serrana, motivo de comoção nacional.",
+      "3": "A Austrália também foi tomada por fenômeno semelhante, mas lá a enchente, que deixou mais de 3,5 mil desalojados, matou apenas cerca de 30 pessoas.",
+      "4": "A comparação entre o que ocorreu nos dois lugares dá o que pensar, principalmente quando se leva em conta que, segundo muitas previsões, há mudanças climáticas em curso e o volume de chuvas pode aumentar gradativamente ao longo do século.",
+      "5": "A questão é se o homem está totalmente à mercê das forças naturais e nada pode fazer diante da fúria da natureza ou se existem formas de prevenir os desastres e proteger-se deles.",
+      "6": "Na sua opinião, deve-se culpar somente o excesso de chuvas pelas catástrofes que atingiram diversas cidades brasileiras neste ano?",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Mudança climática e ação contra enchentes O aumento da incidência de chuvas em consequência das mudanças climáticas globais não pode servir de desculpa para os governos não agirem para evitar enchentes, na avaliação de Debarati Guha-Sapir, diretora do Cred (Centro de Pesquisas sobre a Epidemiologia de Desastres), de Bruxelas, na Bélgica.",
+      "4": ") \"Dizer que o problema é consequência das mudanças climáticas é fugir da responsabilidade, é desculpa dos governos para não fazer nada para resolver o problema\", critica Guha-Sapir, que é também professora de Saúde Pública da Universidade de Louvain.",
+      "8": ") Segundo ela (Guha-Sapir), as consequências das inundações são agravadas pela urbanização caótica, pelas altas concentrações demográficas e pela falta de atuação do poder público.",
+      "12": ") Para a especialista, questões como infraestrutura, ocupação urbana, desenvolvimento das instituições públicas e nível de pobreza e de educação ajudam a explicar a disparidade no número de vítimas entre as enchentes na Austrália e no Brasil.",
+      "13": "[ Folha.",
+      "14": "com Brasil ] Enchente na cidade australiana de Toowoomba.",
+      "15": "(Wikimedia Commons) Estado australiano diz que investigará causa de enchentes A premiê do Estado de Queensland, na Austrália, anunciou nesta segunda-feira que fará uma investigação sobre as enchentes que devastaram grande parte do Estado nas últimas semanas.",
+      "16": "Segundo Anna Bligh, o inquérito vai observar questões como o funcionamento das represas, fará um \"exame forense\" da cadeia de eventos que levou às enchentes e servirá de guia para futuros investimentos no Estado.",
+      "17": "A Comissão de Inquérito custará 15 milhões de dólares australianos (R$ 25 milhões) e ficará encarregada de entregar um relatório provisório em agosto e outro, final, dentro de um ano, após investigar sistemas de alerta, planejamento governamental e a estrutura de atendimento emergencial.",
+      "18": "\"Vejo isso como um investimento na nossa segurança futura, para que nos preparemos melhor para eventos como este\", declarou Bligh, que disse não querer que nada seja \"escondido sob o tapete\".",
+      "19": "[ UOL Notícias Brasil ] Previsão do tempo Ignorando evidências sobre eventos climáticos extremos, governantes abandonam populações à mercê de inundações e deslizamentos Todo ano o discurso se repete.",
+      "20": "Diante dos desastres provocados pelas chuvas, autoridades das diversas esferas se referem ao caráter excepcional, inédito, fora do normal, das precipitações que acabaram de ocorrer.",
+      "21": "Não mentem ao dizer isso - mas a constatação não lhes serve de desculpa.",
+      "22": "O aumento de episódios de chuvas extremas era previsível, diante do crescimento desordenado das cidades e da mudança climática provavelmente em curso no planeta.",
+      "23": "Em São Paulo ou em qualquer outra região do país, as projeções do clima ganham cada vez mais precisão e credibilidade, mas não apontam para fenômenos novos.",
+      "24": "Enchentes e deslizamentos se repetem todos os verões, assim como as promessas de que não voltarão a ocorrer no próximo.",
+      "25": "Os governantes não agem na medida do necessário para adaptar as cidades brasileiras a uma situação que se agrava, a olhos vistos, de ano para ano.",
+      "26": "E que não se explica só por \"causas naturais\": surgem na medida da irresponsabilidade humana, em sua repetição e em seus trágicos efeitos.",
+      "27": "[Folha de S.",
+      "28": "Paulo, editorial, 16 de janeiro de 2011] O emergente submergiu No caso da tragédia do Rio, é só somar 1+1+1 e o resultado inexorável será a incompetência do poder público e o retrato de um país que tem mais de submergido que de emergente.",
+      "29": "Primeiro 1 - O \"Jornal Nacional\" de quinta-feira mostrou que choveu mais em Portugal e na Austrália do que no Rio de Janeiro.",
+      "30": "Mas o número de mortos no Rio foi esmagadoramente superior.",
+      "31": "Segundo 1 - O serviço de meteorologia emitiu aviso especial sobre a iminência de fortes chuvas precisamente nas áreas que acabaram sendo devastadas.",
+      "32": "Uma das prefeituras reconheceu ter recebido o aviso cinco horas antes da explosão.",
+      "33": "Nada foi feito.",
+      "34": "Terceiro 1 - A manchete desta Folha, ontem, mostra que desde 2008 o Rio de Janeiro sabia perfeitamente que havia riscos tremendos nas cidades que foram as principais vítimas.",
+      "35": "O que foi feito?",
+      "36": "Nada.",
+      "37": "Tudo somado, o que se tem é o óbvio fato de que chuvas torrenciais podem acontecer, deslizamentos formidáveis também -e, até aí, a culpa é só da natureza-, mas falta, no Brasil, acontecer a prevenção.",
+      "38": "[Clóvis Rossi, Folha de S.",
+      "39": "Paulo, 16 de janeiro de 2011]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Superpopulação , Hurbanização  caótica, Redes  de esgoto precária  .",
+    "1": "Estes são         o pontapé inicial para que haja desastres por conta da alta pluviosidade.",
+    "2": "Culpar só a natureza pelas enchentes na região brasileira é ignorância, uma vez que somadas à superpopulação; que jogam  lixo a céu aberto e nas encostas de rios; O mal  planejamento urbano, fazendo com que as regiões serranas sejam ocupadas sem nenhum estudo prévio e as redes de esgoto precária impedem o escoamento aquífero         .",
+    "3": "Por conta disso, com as chuvas de verão, o Rio de Janeiro é penalizado pelas enchentes.",
+    "4": "As Cidades  de Teresópolis e Petrópoles  somam 700 mortes, sem contar os desabrigados.",
+    "5": "Em São Paulo, na capital, Mauá e São José dos Campos também presenciáram  a força das águas.",
+    "6": "O governo apenas assiste aos fatos de braços cruzados, tarde demais para resgatar as centenas de vidas ceifadas pela tragédia.",
+    "7": "A Autrália  também foi vitimada pelo mesmo acontecimento natural, chuvas torrências  .",
+    "8": "Todavia, a somatoria  de mortes foi de apenas 30 pessoas contra 700 dos fluminenses.",
+    "9": "Essa discrepância se dá pela organização do país e o auxílio que o governo assiste aos fragilizados  pelo desastre.",
+    "10": "O Estado australiano investigará as causas da enchente e gastará a ''bagatela'' de 25 milhões de reais, no Brasil,  culpamos a natureza.",
+    "11": "Ao invés  de procurar pelos responsáveis, devemos procurar soluções que evitem a repetição de desastres dessa magnitude.",
+    "12": "Se ja  não bastassem               os problemas de diligência brasileira , a natureza vêm pra  nos castigar por anos e anos de ações desenfreadas, como desmatamentos, poluição do ar e dos rios.",
+    "13": "O ''alerta'' ja  foi dado pela natureza, resta saber até quando iremos desrespeitar e ignorar os sinais naturais."
+  },
+  "redacao_gerada": {},
+  "mapeamento_frases": {}
+}

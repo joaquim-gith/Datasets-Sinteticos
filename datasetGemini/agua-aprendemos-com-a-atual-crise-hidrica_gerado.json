@@ -1,0 +1,188 @@
+{
+  "tema": "agua-aprenderemos-com-a-atual-crise-hidrica",
+  "comando_tematico": {
+    "frases": {
+      "0": "Água: aprenderemos com a atual crise hídrica?",
+      "1": "Há cerca de duas décadas, os ambientalistas têm alertado para o fato de a água doce ser um recurso escasso em nosso planeta.",
+      "2": "Neste começo de 2015, o Sudeste do Brasil tem uma clara percepção dessa realidade, em função da seca que o assola.",
+      "3": "Outras regiões ou Estados do Brasil, como o Nordeste, já vivenciam o problema há muito tempo, e até o Amazonas e o Pantanal têm sofrido, esporadicamente, com a estiagem.",
+      "4": "Além da questão climática, os especialistas apontam outros culpados para o problema da falta de água: os governos e os cidadãos de um modo geral.",
+      "5": "Por isso, muita gente tem dito que um dos pontos positivos da seca atual é aprendermos com ela e começarmos a tratar com mais cuidado a água de que dispomos e nossos recursos hídricos.",
+      "6": "Considerando seus conhecimentos sobre essa questão e outras análogas, você acha que a sociedade brasileira aprenderá alguma coisa com a atual crise hídrica?",
+      "7": "Ou para tanto será necessário que cheguemos a uma situação ainda mais extrema?",
+      "8": "Exponha sua opinião numa dissertação argumentativa.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O Sistema Cantareira, que abastece a Grande São Paulo, foi duramente afetado pela seca e chegou a ficar com cerca de 5% de sua capacidade Problemas de gestão Para entender como alcançamos esse grau de fragilidade hídrica, não basta olhar para a seca.",
+      "1": "Como sempre, há um conjunto de medidas que se somaram para construir o cenário: a gestão da água feita como se os recursos fossem inesgotáveis, ou seja, como se sempre fosse possível expandir a captação, a perigosa aproximação entre oferta e demanda e uma gestão de crise que revelou fragilidades quando a escassez ficou mais acentuada.",
+      "2": "Pesaram, também, o pouco espaço de participação da sociedade, a fragilidade dos instrumentos de gestão dos recursos hídricos, além da não adoção pelo governo estadual de medidas mais severas de redução de consumo ou uso abusivo de água.",
+      "3": "É importante lembrar, ainda, a degradação ambiental das áreas de mananciais, resultado da poluição das fontes de água e desmatamento no entorno das represas.",
+      "4": "A crise atual exige união e compartilhamento de responsabilidades com respostas sistêmicas com metas e ações de curto, médio e longo prazos.",
+      "5": "Assim, é correto que o governo exerça papel protagonista para fomentar e implementar soluções múltiplas com escala e impacto que atinjam diversos setores de uma só vez.",
+      "6": "Mas também cabe aos consumidores de água, empresas e organizações da sociedade civil desempenhar seu papel de corresponsabilidade.",
+      "7": "[ Ocas – Organização Civil de Ação Socia l] Esvaziamento dos reservatórios Tanto no caso da água como da eletricidade, dispomos de \"cadernetas de poupança\" hídrica, que são imensos reservatórios.",
+      "8": "Isto significa que a verdadeira causa da crise atual não é o fato de janeiro e fevereiro de 2015 terem sido os meses mais secos da história, e sim o fato dos reservatórios terem esvaziado progressivamente desde janeiro de 2012 até dezembro de 2014, quando chegaram ao pior nível da história Portanto, a verdadeira questão é: por que os reservatórios esvaziaram tanto nos últimos três anos?",
+      "9": "À primeira vista, a resposta é óbvia: porque o volume de água que chegou aos mesmos neste triênio foi o pior, ou um dos piores, da história.",
+      "10": "No entanto, esta resposta não é verdadeira no caso do setor elétrico.",
+      "11": "Se compararmos as vazões que chegaram às hidrelétricas no triênio 2012-2014 com as dos 81 triênios do passado (1931-1933; 1932-1934; e assim por diante, até os tempos atuais) verificaremos que em 15 destes triênios ocorreram secas piores do que a atual.",
+      "15": ") Dado que a hidrologia não foi malvada e a demanda foi medíocre, a única explicação que sobra - a verdadeira - é que a capacidade de geração real é menor do que se pensava, devido a falhas no planejamento de construção das usinas e das linhas de transmissão.",
+      "16": "Todos nós cidadãos sabemos que às vezes as coisas saem muito errado por causas externas – como nas crises cambiais, por razões institucionais e políticas, como na hiperinflação, ou por falhas de planejamento, como no racionamento de 2001.",
+      "17": "A reação magnífica da população em todas estas crises torna imperdoável que não se aprenda com os erros cometidos.",
+      "18": "Na situação atual, mesmo que as crises de água e energia sejam aliviadas \"aos 48 minutos do segundo tempo\" pela combinação de medidas heroicas e de boas chuvas, é fundamental que a má experiência contribua para o fortalecimento da cidadania.",
+      "19": "[ UOL Notícias – Opinião ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Como muito vem a ser discutido, a falta de água no Brasil está gerando polêmica, problemas sociais e principalmente reflexão.",
+    "1": "Relatos de falta de água ou presença dela polúida  , cada vez mais lotam os meios de comunicações  .",
+    "2": "Hoje muito se tenta fazer          a respeito , mesmo sendo sábido que  se esta  preocupação fosse anterior, o problema talvez nao  seria tão abrangente.",
+    "3": "O brasileiro é um povo que se preocupa muito com o presente, popularmente falando: com o \"pão de cada dia\", mas não procuram  pensar se haverá \"pão no dia seguinte\".",
+    "4": "Esta  atitude invasiva tras  um total prejuízo,          pois, como na falta d'agua, é refletido somente se terá para a ultilização  momentânea, e não há  longo prazo.",
+    "5": "Se o brasileiro aprende com a atual crise hídrica?",
+    "6": "Sim, aprende, pena que, por exemplo: muito  dos estudantes no 3° ano de  colegial, já não se lembram de aproximadamente          67% do que se foi aprendido no 8° de  fundamental.",
+    "7": "E é isso que ocorre com a maior parte do povo brasileiro, a maior parcela do que se vive hoje, é esquecido  com o passar do tempo."
+  },
+  "redacao_gerada": {
+    "0": "O mundo contemporâneo, imerso em uma era de avanços tecnológicos e globalização, paradoxalmente, confronta-se com desafios primários, como a garantia do acesso à água potável.",
+    "1": "A crise hídrica que assola diversas regiões do globo, notadamente o Sudeste brasileiro em 2015, escancara a vulnerabilidade de um recurso outrora percebido como inesgotável.",
+    "2": "Diante desse cenário de escassez e incerteza, emerge a indagação crucial: a sociedade brasileira aprenderá com a atual crise hídrica, ou persistirá na inércia até um colapso ainda mais severo?",
+    "3": "Argumenta-se que a superação da inércia social e a reformulação das políticas de gestão hídrica são imperativas para uma real aprendizagem e resiliência futura.",
+    "4": "Inicialmente, é imperativo reconhecer que a persistência da crise hídrica reflete, em grande medida, a inércia social e a falha em internalizar lições de eventos passados.",
+    "5": "A cultura do consumo desenfreado e a percepção da água como um bem infinito, enraizadas em um antropocentrismo irrefletido, impedem a adoção de práticas mais sustentáveis.",
+    "6": "Tal comportamento remonta à visão cartesiana de domínio da natureza, que, ao longo dos séculos, desconsiderou os limites ecossistêmicos e a interdependência entre homem e ambiente.",
+    "7": "Assim, a falta de uma educação ambiental efetiva e a prevalência de interesses imediatistas sobre a conservação a longo prazo perpetuam um ciclo vicioso de escassez e negligência, dificultando a assimilação de qualquer aprendizado significativo.",
+    "8": "Ademais, a ineficácia das políticas públicas e a fragilidade na gestão dos recursos hídricos exacerbam o problema, transformando a crise em um sintoma de um sistema falho.",
+    "9": "Como apontado por diversos especialistas, a problemática não se restringe apenas a questões climáticas, mas também a uma administração deficiente que negligencia investimentos em infraestrutura, fiscalização e planejamento estratégico.",
+    "10": "A ausência de uma governança hídrica robusta, que envolva múltiplos atores e promova a transparência na tomada de decisões, impede respostas sistêmicas e articuladas.",
+    "11": "A história brasileira, marcada por períodos de racionamento e crises energéticas, como a de 2001, demonstra a recorrência de problemas decorrentes de planejamento inadequado e de uma cultura política reativa, em vez de proativa, que só age sob pressão extrema.",
+    "12": "Em suma, para que a sociedade brasileira realmente aprenda com a atual crise hídrica, é imprescindível que haja uma ruptura com a inércia e uma reestruturação profunda da gestão.",
+    "13": "Para tanto, o Estado, por meio do Ministério do Meio Ambiente e agências reguladoras, deve implementar um plano nacional de segurança hídrica que contemple investimentos em tecnologias de reuso e dessalinização, além de campanhas massivas de conscientização.",
+    "14": "Tais ações visam não apenas garantir o abastecimento futuro, mas também fomentar uma cultura de uso responsável da água, detalhadamente explicitando os benefícios ambientais e econômicos de cada medida para a população.",
+    "15": "Somente assim será possível transpor a mera experiência da escassez para um aprendizado duradouro e transformador."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "6",
+        "7"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "1",
+        "4"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "17"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "1",
+        "4"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "tema": "o-horario-de-propaganda-eleitoral-e-util-para-o-eleitor",
+  "comando_tematico": {
+    "frases": {
+      "0": "O horário de propaganda eleitoral é útil para o eleitor?",
+      "1": "O horário gratuito de propaganda eleitoral começou em 19 de agosto e se estenderá até o dia 2 de outubro, em primeiro turno, devendo se prolongar no país e nos locais onde houver segundo turno.",
+      "2": "Em tese, a propaganda gratuita deve servir para que o eleitor conheça as ideias e propostas defendidas pelos candidatos e partidos políticos, ajudando-o a escolher em quem votar.",
+      "3": "Candidatos e partidos se digladiam para obter maior tempo de TV e Rádio, na certeza de que isso é decisivo para serem eleitos.",
+      "4": "No entanto, essa certeza tem sido questionada por pesquisas de opinião pública, segundo as quais grande parte dos eleitores prefere não assistir ao horário eleitoral.",
+      "5": "A questão divide opiniões, até porque a propaganda tende a usar de artifícios para tornar os candidatos atraentes, identificando-o com as expectativas do eleitor.",
+      "6": "Pois bem, levando tudo isso em conta e consultando a coletânea, bem como seus próprios conhecimentos, exponha sua opinião sobre o assunto, numa dissertação.",
+      "7": "Em seu ponto de vista, para que serve a propaganda eleitoral?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Horário eleitoral ao redor do mundo Grande parte dos países do mundo tem horário eleitoral gratuito durante as eleições, como o Brasil.",
+      "1": "Mas muitos têm um sistema misto, de anúncios pagos e gratuitos, e varia muito a maneira como o tempo de TV e rádio é dividido.",
+      "2": "Alguns países dividem igualmente entre os partidos o tempo disponível, como França, Grã-Bretanha e Dinamarca.",
+      "3": "Outros, como o Brasil, África do Sul e Namíbia, dividem uma parte igualmente, e o resto por critérios de popularidade, de acordo com o desempenho do partido em eleições anteriores, tamanho de bancadas, desempenho nas pesquisas e número de candidatos.",
+      "7": ") Não existe horário eleitoral gratuito nos Estados Unidos.",
+      "8": "Os candidatos são obrigados a comprar espaço nas TVs e rádios para fazerem campanha.",
+      "9": "Assim, as programações normais dos canais americanos não sofrem interrupções.",
+      "10": "As propagandas entram no ar entre um anúncio de uma marca de refrigerante e de um banco.",
+      "11": "[ Observatório da Imprensa ] Um elemento decisivo Num país em que 90% dos domicílios (segundo a Media Dados) possuem televisão, meio que é o principal canal de informação para a grande maioria dos brasileiros, essa meia hora de interrupção do lazer cotidiano com a propaganda política não seria um \"sacrifício\" demasiado e inútil?",
+      "12": "\"A análise das pesquisas de intenção de voto correlacionada com o horário político mostra que os programas possuem um alto nível de efetividade, ainda que contrarie o senso comum de que eles têm baixa audiência e reduzido impacto político.",
+      "13": "A campanha eleitoral de fato só começa a se definir após a entrada do horário\", afirma Fernando Antônio Azevedo, coordenador do programa de pós-graduação em ciência política da UFSCar (Universidade Federal de São Carlos) e diretor da Associação Brasileira em Comunicação Política.",
+      "14": "[ Observatório da Imprensa ] Caro e ineficiente A exibição dos programas eleitorais em redes de rádio e televisão custa aproximadamente R$ 840 milhões aos cofres públicos.",
+      "15": "A quantia é deduzida da folha de impostos das empresas de comunicação para que veiculem diariamente o horário eleitoral gratuito.",
+      "16": "Um estudo da Universidade Federal de Minas Gerais (UFMG), realizado em 2010, constatou que 43,2% dos eleitores não assistiam à propaganda gratuita no rádio e na televisão.",
+      "17": "Dos 54,4% que declararam acompanhar o programa eleitoral, 65% disseram ter assistido pelo menos uma vez na semana.",
+      "18": "“Os dados indicam que o programa eleitoral tem baixo impacto no eleitor, baixa audiência e, no entanto, é muito caro.",
+      "19": "A campanha eleitoral não é gratuita, quem paga é o contribuinte”, afirma o cientista político Aldo Fornazieri.",
+      "20": "[ Rede Brasil Atual ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Já dizia Humberto Gessinger : “Não vemos graça nas gracinhas da TV, morremos de rir no horário eleitoral...” O programa eleitoral gratuito é o momento mais chato da televisão brasileira para o dia de muita gente.",
+    "1": "Mal começa e a maioria das pessoas já contam os dias para que acabe.",
+    "2": "Tal situação ocorre porque o povo brasileiro, em sua grande maioria, trabalha, e quando  está em casa  quer assistir algo descontraído para relaxar.",
+    "3": "Pesa também o fato do  brasileiro não se interessar tanto pela política  é verdade.",
+    "4": "A campanha eleitoral de cada partido seria muito interessante e poderia fazer alguma diferença se todos assistissem.",
+    "5": "Com isso , os políticos já deveriam ter verificado qual a verdadeira relevância do horário eleitoral.",
+    "6": "Se poucos veem, por que obriga-los  para todos?",
+    "7": "Por que gastar tanto se ninguém quer ver  ?",
+    "8": "O dinheiro gasto com essas campanhas não deveria sair dos cofres públicos sem que o povo queira.",
+    "9": "Diante disso, é necessário revisar o tempo de apresentação de cada partido e reduzi-los ainda mais, deixando para apresentarem suas propostas com mais detalhes em revistas e jornais de publicação ou até na internet que já tem amplo acesso.",
+    "10": "Essas medidas já poupariam um pouco o bolso do brasileiro  que quer ver obras publicas  e não 30 minutos de mentiras e palhaçadas."
+  },
+  "redacao_gerada": {
+    "0": "O horário de propaganda eleitoral é um momento que aparece na televisão e no rádio antes das eleições, todo ano que tem votação.",
+    "1": "Muitas pessoas se pergunta se ele serve para alguma coisa ou se é só perda de tempo.",
+    "2": "É importante pensar se esse tempo que os candidatos usa pra falar ajuda mesmo o eleitor a escolher melhor quem vai votar ou se ele só atrapalha o dia a dia das pessoas, que muitas vezes já está cansada de política e quer ver seu programa favorito.",
+    "3": "Por um lado, o horário eleitoral pode ser muito útil porque é ali que o eleitor ver os candidatos.",
+    "4": "Eles mostra suas ideias e o que querem fazer se for eleito, apresentando suas propostas para a saúde, educação, segurança e economia.",
+    "5": "Assim, quem não sabe em quem votar, pode ter uma ideia de quem é quem e o que cada um pensa sobre os problemas do país.",
+    "6": "É tipo um catálogo de opções, onde a gente pode comparar um com outro e escolher o que parece melhor antes de ir lá e votar na urna.",
+    "7": "Ajuda a formar uma opinião.",
+    "8": "Por outro lado, muita gente não gosta de assistir o horário eleitoral.",
+    "9": "As pesquisas mostra que um monte de gente nem liga a TV nessa hora, preferindo fazer outras coisas, como mexer no celular ou conversar.",
+    "10": "Além disso, as propagandas muitas vezes não fala a verdade, só mostra o candidato como se fosse perfeito, usando música e coisa bonita pra enganar o povo, sem mostrar a realidade.",
+    "11": "Isso faz com que o eleitor fica com raiva e não acredite mais no que é dito, achando que é tudo uma encenação.",
+    "12": "Então, para muitos, o horário eleitoral se torna meio inútil e até irritante.",
+    "13": "Então, dá pra ver que o horário de propaganda eleitoral tem lados bons e ruins.",
+    "14": "É bom para conhecer os candidatos e suas propostas, mas também é chato e nem sempre mostra a verdade, afastando o eleitor.",
+    "15": "Talvez se as propagandas fosse mais sincera e os candidatos falassem o que realmente vão fazer, sem tanto artifício, e com mais respeito pelo tempo do eleitor, mais gente ia assistir e ia ser mais útil para todo mundo.",
+    "16": "O importante é que o eleitor ter informação para votar bem e de forma consciente, para o bem do nosso país."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "11"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "5",
+        "7"
+      ],
+      "textos_motivadores": [
+        "11",
+        "16",
+        "18"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "11"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "16",
+        "18"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "16",
+        "18"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "11",
+        "18"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "2",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "11",
+        "12",
+        "16",
+        "18"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "5",
+        "7"
+      ],
+      "textos_motivadores": [
+        "11"
+      ]
+    },
+    "16": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

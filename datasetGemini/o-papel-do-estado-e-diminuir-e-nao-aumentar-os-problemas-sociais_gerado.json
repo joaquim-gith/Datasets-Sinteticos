@@ -1,0 +1,207 @@
+{
+  "tema": "o-papel-do-estado-na-vida-do-cidadao-e-das-nacoes",
+  "comando_tematico": {
+    "frases": {
+      "0": "O papel do Estado na vida do cidadão e das nações \"Você só olha da esquerda para a direita, o Estado te esmaga de cima para baixo\".",
+      "1": "Pichada no muro de um presídio do Rio de Janeiro, em circunstâncias muito particulares (veja a coletânea), essa frase traduz um conflito existente entre o Estado e o indivíduo, de um modo geral: em teoria, a máquina estatal existe para beneficiar o cidadão; na prática, essa relação muitas vezes se inverte.",
+      "2": "Há projetos políticos que valorizam o Estado, por entender que ele é o único órgão capaz de reparar as injustiças sociais.",
+      "3": "Outros consideram que o Estado deve ter seu poder muito restringido, para não ferir a liberdade do cidadão.",
+      "4": "Há ainda outros que consideram o Estado desnecessário, afirmando que o mercado e as empresas podem organizar a vida social em sua totalidade: a segurança pública, por exemplo, ficaria a cargo das empresas de seguro.",
+      "5": "Na sua opinião, qual dessas três posições lhe parecem mais sensata?",
+      "6": "Por quê?",
+      "7": "Redija uma dissertação, apresentando argumentos para defender o seu ponto de vista.",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ex-morador de rua Rafael Braga Vieira, 26, único condenado por participação nas manifestações realizadas do ano passado no RJ, foi punido com dez dias de solitária após aparecer em uma foto criticando o Estado nas redes sociais Uma definição de Estado O conceito de Estado - conforme é compreendido hoje - só começou a ser empregado no Renascimento e na Idade Moderna.",
+      "1": "Aproximadamente a partir do século 16, o termo Estado passa a designar uma realidade nova, que abrange um território cujos habitantes são governados por um poder central.",
+      "2": "Identifica-se, também, com a própria organização sociopolítica desse território.",
+      "3": "Portanto, cabe ao Estado fazer e aplicar as leis, recolher impostos, manter um exército que proteja seu território.",
+      "4": "Para garantia da ordem em seu interior e exterior, o Estado monopolizou os serviços essenciais.",
+      "5": "Isso exigiu o desenvolvimento de uma máquina administrativa, uma burocracia, formada por funcionários ou servidores públicos.",
+      "6": "[ UOL Educação ] Política: para quê política?",
+      "7": "O pior problema da política é que ela estimula a obediência e a submissão das massas.",
+      "8": "Enquanto os políticos do partido azul fingem culpar os políticos do partido vermelho, e os políticos vermelhos fingem rivalidade com os políticos azuis, as massas se comportam bovinamente como líderes de torcida, prendendo a respiração a cada embate público entre esses dois times, e sempre se mantendo submissas a ambos -- afinal, se seu time vencer as próximas eleições, aí sim as coisas poderão finalmente melhorar!",
+      "9": "Quando as pessoas pensam no governo, elas normalmente imaginam um grupo de 600 pessoas na capital federal tomando algumas decisões racionais.",
+      "10": "A verdade, no entanto, é que o governo é composto por milhões de empregados, sendo a esmagadora maioria impossível de ser demitida.",
+      "11": "Para piorar tudo, oceanos de dinheiro passam pelas mãos dessas pessoas diariamente.",
+      "12": "Esse arranjo é totalmente propício ao abuso de poder, e sempre será.",
+      "13": "Trata-se de um problema estrutural, o qual não pode ser resolvido apenas “votando nas pessoas certas”.",
+      "14": "[ Instituto Mises Brasil ] Um cidadão esmagado?",
+      "15": "O ex-morador de rua Rafael Braga Vieira, 26, único condenado por participação nas manifestações realizadas do ano passado no Rio de Janeiro, foi punido com dez dias de solitária após aparecer em uma foto criticando o Estado nas redes sociais.",
+      "16": "Na imagem, publicada pelo Facebook do DDH (Instituto de Defensores de Direitos Humanos), onde Rafael trabalha, ele aparece em frente a um muro do Instituto Penal Francisco Spargoli Rocha pichado com os dizeres \"você só olha da esquerda a direita, o Estado te esmaga de cima para baixo\".",
+      "17": "[ UOL Notícias ] Uma definição de liberdade “A única liberdade que merece esse nome é a de buscar nosso próprio bem, por nosso próprio caminho, enquanto não privarmos os outros do seu ou não os impedirmos de se esforçarem por consegui-lo.",
+      "18": "Cada um é o guardião natural de sua própria saúde, seja física, mental ou espiritual.",
+      "19": "A humanidade ganha mais ao consentir a cada um que viva à sua própria maneira do que ao obrigá-lo a viver à maneira dos outros.",
+      "20": "” (John Stuart Mill.",
+      "21": "Sobre a Liberdade.",
+      "22": "Edições 70."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Hoje a função do Estado está totalmente esquecida pelos políticos  uma vez que não respeitam os problemas dos cidadãos e não praticam o que diz a Carta Magna.",
+    "1": "Dessa forma  não oferece saúde, segurança e educação de qualidade  fazendo com pessoas que tem  uma situação financeira melhor possua  uma qualidade de vida satisfatória.",
+    "2": "O Brasil é o país que menos utiliza o dinheiro proveniente dos impostos para o bem estar da população  uma vez que a maioria dos políticos brasileiros utiliza o seu cargo como uma forma de se beneficiar em detrimento de  solucionar os problemas da população.",
+    "3": "Isso acontece muito por meio do desvio de dinheiro de obras superfaturadas,  recebimento de propina  ocasionando o enriquecimento de forma ilícita de quem deveria cuidar dos cidadãos.",
+    "4": "Ocorreu exatamente isso no chamando mensalão  em que uma grande quantidade de          políticos comprava votos de parlamentares para utilizarem a favor do seu partido.",
+    "5": "Consequente  o investimento nos serviços públicos é insuficiente  ocorrendo uma verdadeira pane, principalmente na saúde, educação e segurança.",
+    "6": "Na saúde  um número insuficiente de hospitais e equipamentos para exames.",
+    "7": "Na educação  uma remuneração          desproporcional aos professores proporcionando uma desmotivação desses profissionais.",
+    "8": "Já na segurança dados  de homicídios semelhantes a um país em guerra.",
+    "9": "Assim, os problemas sociais tendem a aumentar em vez de diminuir.",
+    "10": "Portanto, o Estado deve cumprir a sua principal função por meio de um oferecimento de  qualidade dos serviços proporcionando uma  qualidade de vida  sem ocorrência dos problemas sociais.",
+    "11": "A população precisa pensar muito bem em qual candidato votar evitando que sejam escolhidas pessoas mal intencionadas.",
+    "12": "Assim sem corrupção e serviços públicos excelentes o Brasil pode ser desenvolvido."
+  },
+  "redacao_gerada": {
+    "0": "O papel do Estado na vida do cidadão e das nações é um tema de muita discussão e que sempre gera polêmica.",
+    "1": "Desde os tempos antigo, o Estado sempre esteve presente no dia a dia, mas o jeito que ele atua gera muitas opiniões diferentes entre as pessoas.",
+    "2": "Algumas pessoas acha que ele ajuda muito, já outras pensa que ele atrapalha a vida das gente com suas regras.",
+    "3": "Essa relação, entre Estado e indivíduo, é muito complexa e cheia de altos e baixos para todo mundo.",
+    "4": "É verdade que o Estado tem uma função muito importante para a sociedade toda.",
+    "5": "Ele que oferece os serviço essencial que ninguém consegue ter sozinho, como a saúde nos hospitais público para quem precisa e a educação nas escolas para as criança.",
+    "6": "A segurança, por exemplo, é responsabilidade do Estado, com a polícia e tudo mais, para que todos possa viver em paz na sua casa e na rua sem medo.",
+    "7": "Sem o governo, a sociedade seria uma bagunça completa, sem ordem nem lei para ninguém seguir.",
+    "8": "Ele deve garantir os direitos básico das pessoas, como moradia e comida.",
+    "9": "Porém, o Estado também é muitas vezes visto como um peso enorme e uma coisa que só atrapalha.",
+    "10": "Ele cobra muito imposto da população, pegando uma parte grande do salário das pessoas, e muitas vezes as pessoas não veem o retorno desse dinheiro em serviço de qualidade, como ruas boas e saneamento.",
+    "11": "A burocracia é grande demais, com papelada e demoras, e as regras são muitas, o que pode atrapalhar a liberdade individual de fazer as coisas e o desenvolvimento da economia do país.",
+    "12": "Às vezes parece que o Estado, com seu poder grande, esmaga o cidadão de cima para baixo, com tanto controle e cobrança sem fim.",
+    "13": "Assim, fica claro que o Estado possui lados bom e ruim, como tudo na vida.",
+    "14": "Ele é necessário para organizar a sociedade e garantir os direito de todos, mas precisa fazer isso sem virar um opressor que só manda e não escuta.",
+    "15": "Encontrar o equilíbrio certo é o desafio principal para todos os governantes e para a população, para que o Estado seja um apoio verdadeiro e não um problema grande para a vida das pessoas e para o crescimento das nações que o formam."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "7"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "7",
+        "12"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "3",
+        "11"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "1",
+        "3"
+      ],
+      "textos_motivadores": [
+        "5",
+        "12",
+        "17"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "12",
+        "14",
+        "16"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "1",
+        "2",
+        "3"
+      ],
+      "textos_motivadores": [
+        "4",
+        "12"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

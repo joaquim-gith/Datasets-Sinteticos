@@ -1,0 +1,194 @@
+{
+  "tema": "cotas-nas-universidades-voce-e-a-favor-ou-contra",
+  "comando_tematico": {
+    "frases": {
+      "0": "Cotas nas universidades: você é a favor ou contra?",
+      "1": "Poucas iniciativas governamentais têm criado tanta polêmica como esta.",
+      "2": "A implantação do sistema de cotas para afrodescendentes e negros tem produzido manifestações inflamadas e completamente antagônicas.",
+      "3": "Há os que sustentam as cotas como o início da eliminação de diferenças históricas entre negros e brancos.",
+      "4": "Há os que dizem que a medida é absurda, pois discrimina ainda mais o negro, fingindo integrá-lo.",
+      "5": "Outros acham que as cotas devem seguir apenas critério econômico, e não racial.",
+      "6": "Há também os que acham que não deve haver cota, só o mérito pessoal dos candidatos.",
+      "7": "Como você se posiciona nesta polêmica?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O que é o sistema de cotas?",
+      "1": "Estudantes assistem aula em uma sala da Universidade de Brasília - UnB (DF) A política de cotas raciais é uma política de ação afirmativa implantada originalmente nos Estados Unidos.",
+      "2": "No Brasil, ela visa a garantir espaço para negros e pardos nas instituições de ensino superior.",
+      "3": "Hoje, os negros correspondem a apenas 2% do contingente de universitários, apesar de representarem 45% dos brasileiros.",
+      "4": "Essa política foi adotada inicialmente em universidades públicas do Rio de Janeiro, após a promulgação da Lei nº 3.",
+      "5": "708, de 9 de novembro de 2001.",
+      "6": "Cotas: importância histórica para o país.",
+      "7": "\"É um marco.",
+      "8": "É também relevante porque não se trata apenas da reserva de vagas para estudantes negros, mas é, principalmente, uma política de acesso e permanência de estudantes negros na universidade.",
+      "9": "É, portanto, um conjunto de medidas tomadas de maneira democrática.",
+      "13": ") É o ponto de partida e várias universidades seguirão o mesmo caminho e terão a UnB como uma referência positiva.",
+      "14": "Assim possibilita-se a formação de técnicos e quadros superiores (.",
+      "18": "Essa também é uma forma de acesso da população negra jovem aos escalões de tomada de decisão e ultrapassa a barreira do negro como executor e mão de obra barata\".",
+      "19": "[Ubiratan Castro de Araújo, Ex- Presidente da Fundação Cultural Palmares, 2004] Cotas: absurdo total \"Absurda essa política.",
+      "20": "Se você 'oferece cotas', confirma que o negro é marginalizado e incapaz, por isso precisa de ajuda oficial e paternalista.",
+      "21": "Reafirma-se a diferença - e não o contrário, que é a necessidade de eliminá-la.",
+      "22": "A única solução decente para o ingresso democrático da juventude na universidade é lhe dar uma educação de qualidade para que - aí, sim - não haja diferença entre o aluno do colégio público e do colégio \"de elite\".",
+      "23": "E o que é a educação pública hoje?",
+      "24": "Uma calamidade que piora há 40 anos.",
+      "25": "Então quem discrimina, afinal?",
+      "26": "Não é o próprio Estado, que não dá preparo digno aos alunos?",
+      "27": "[Profa.",
+      "28": "dra.",
+      "29": "Márcia Di Roberto, educadora, em palestra proferida na UNIP-SP, em abril de 2008, no curso de Pós-Graduação em Letras] Gêmeo idêntico é barrado em cota Os gêmeos Alan e Alex Teixeira da Cunha, univitelinos, sempre foram considerados idênticos por todos que os conhecem.",
+      "33": ") Candidatos ao sistema de cotas para negros da Universidade de Brasília, (.",
+      "36": ") Alan foi considerado negro.",
+      "37": "Alex, não.",
+      "38": "O sistema de cotas na UnB, ao contrário da maior parte dos existentes no país, leva em conta apenas a cor, não a situação financeira do candidato.",
+      "39": "Na hora da inscrição (.",
+      "42": "), o candidato a uma das vagas pelo sistema precisa tirar uma foto, que é anexada à documentação.",
+      "43": "Nenhum dos dois irmãos têm convicção de que o sistema de cotas é bom, mas ambos decidiram tentar porque a nota de corte nas duas áreas é menor entre os cotistas do que entre os demais alunos (.",
+      "47": "\"Tinha de ser mais para quem precisa\", diz Alan.",
+      "48": "\"O que aconteceu só mostra que não funciona.",
+      "52": ") [\"O Estado de S.",
+      "53": "Paulo\", 29."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Nas Universidades brasileiras, o sistema de cotas para os afrodescendentes, objetiva a diminuição das desigualdades sociais constituídas ao longo dos anos , mas a lei ainda gera muitas polêmicas, inclusive entre os possíveis beneficiários.",
+    "1": "Uns acreditam que a norma aumenta ainda mais a discriminação já existente, outros comemoram como uma conquista.",
+    "2": "O primeiro argumento faz parte do discurso habitual, daqueles que se pronunciam contrários ao sistema, pois para eles, biologicamente, todos são iguais e que, portanto, estabelecer cotas seria atestar a inferioridade dos negros do ponto de vista intelectual.",
+    "3": "Já outros, na maior parte os contemplados, comemoram como uma conquista e consideram ser uma retratação às atrocidades sofridas pelos negros desde a escravidão, gerando assim, uma possibilidade de reparação pela discrepância na qualidade do ensino das escolas públicas.",
+    "4": "Divergências à parte, espera-se dos governantes, políticas eficazes para a diminuição das desigualdades sociais e que a educação no Brasil seja reformulada, assegurando melhorias na qualidade do ensino ofertado nas redes públicas .",
+    "5": "E, que esta garantia não seja só para os negros, mas também para os índios, para os pobres, enfim, a todos sem distinção."
+  },
+  "redacao_gerada": {
+    "0": "A implantação do sistema de cotas nas universidades brasileiras configura um dos temas mais debatido na contemporaneidade, gerando opiniões diversas e frequentemente antagônicas.",
+    "1": "Enquanto alguns defendem a medida como um instrumento crucial para a correção de desigualdadeis históricas, outros a criticam por supostamente ferir o princípio do mérito individual e promover uma nova forma de discriminação.",
+    "2": "Nesse cenário complexo, é fundamental analisar a relevância das cotas como ferramenta de inclusão social e reparação histórica, mesmo com seus desafios inerentes.",
+    "3": "Primordialmente, é inegável que o Brasil carrega um legado de profundas desigualdades socioeconômicas e raciais, enraizadas em séculos de escravidão e discriminação estrutural.",
+    "4": "Grupos historicamente marginalizados, como negros e indígenas, tiveram seu acesso à educação de qualidade sistematicamente obstaculizado, o que se reflete na baixa representatividade desses segmentos no ensino superior.",
+    "5": "As cotas, nesse contexto, atua como uma política afirmativa necessária para mitigar essa dívida social, proporcionando a esses estudantes a oportunidade de ingressar em instituições de ensino que, de outra forma, seriam inacecíveis devido a um preparo educacional prévio inferior, muitas vezes decorrente da precariedade da educação pública básica.",
+    "6": "Ademais, a presença de uma maior diversidade étnica e social nas universidades enriquece o ambiente acadêmico e contribui à construção de profissionais mais conscientes e preparados para lidar com a pluralidade da sociedade.",
+    "7": "Ao permitir que indivíduos de diferentes vivências e perspectivas acessam o ensino superior, as cotas promovem não apenas a ascensão social, mas também a formação de lideranças mais representativas da população brasileira.",
+    "8": "A crítica de que o sistema discrimina o mérito desconsidera a discriminação pré-existente que já afasta muitos talentos das salas de aula universitárias.",
+    "9": "Portanto, é imperativo reconhecer que, embora o sistema de cotas não seja a solução definitiva para todas as mazelas sociais, ele representa um passo vital na construção de uma sociedade mais justa e equitativa.",
+    "10": "Para tanto o Ministério da Educação, em parceria com as instituições de ensino, deve aprimorar continuamente os critérios de seleção e fiscalização das cotas, garantindo sua aplicação eficaz.",
+    "11": "Paralelamente, é fundamental que o Estado invista massivamente na melhoria da educação básica pública, desde o ensino infantil, para que, em um futuro almejado, as cotas se torna desnecessárias, pois todos os cidadãos teriam acesso a uma formação de qualidade que lhes permita competir em igualdade de condições."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "3",
+        "4",
+        "6"
+      ],
+      "textos_motivadores": [
+        "6",
+        "19",
+        "20",
+        "21",
+        "22"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "6",
+        "8",
+        "9"
+      ]
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "3",
+        "6"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "2",
+        "8",
+        "14",
+        "22",
+        "23",
+        "24",
+        "26"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "14",
+        "18"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "14",
+        "18"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "4",
+        "6"
+      ],
+      "textos_motivadores": [
+        "20",
+        "21",
+        "25"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "22",
+        "23",
+        "24",
+        "26"
+      ]
+    }
+  }
+}

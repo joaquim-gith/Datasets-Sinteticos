@@ -1,0 +1,160 @@
+{
+  "tema": "por-que-as-pessoas-mentem-pela-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Por que as pessoas mentem pela internet?",
+      "1": "Pesquisa realizada pela Universidade de Cornell, nos Estados Unidos, revelou que 81% das pessoas que utilizam sites de relacionamento na internet mentem para aqueles com quem se comunicam.",
+      "2": "Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas a seus parceiros de chat.",
+      "3": "Quais os motivos dessa atitude?",
+      "4": "Trata-se apenas da vontade de impressionar o outro?",
+      "5": "Ou haverá um motivo mais profundo: a insatisfação consigo mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Quem está atrás do teclado?",
+      "1": "Um indivíduo isolado envia mensagens solitárias e busca o amor por meio de imagens virtuais.",
+      "2": "Ele se realiza em casa, protegido, à distância, e corre o risco de se decepcionar, quando, e se, um encontro real vier a ser marcado.",
+      "3": "Estamos no século do amor via internet com pessoas namorando virtualmente sem o calor dos corpos que se entregam.",
+      "4": "Mas, afinal, que tipo de relação se estabelece via computador?",
+      "5": "Existe vínculo?",
+      "6": "Se houver traição virtual, como fica o relacionamento entre os namorados?",
+      "7": "Basta se desconectar para pôr fim a um envolvimento emocional.",
+      "8": "Jairo Bouer comenta a pesquisa Texto 2 Segundo o filósofo francês Jean-Paul Sartre, \"o ser humano possui uma atração doentia pela verdade\".",
+      "9": "Sartre considera que o desejo da verdade aparece muito cedo nos seres humanos e se manifesta como vontade de confiar nas coisas e nas pessoas, isto é, de acreditar que as coisas são exatamente como o indivíduo as percebe e o que as pessoas lhe dizem é digno de confiança e crédito.",
+      "10": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "O séculos XXI está sendo o século do amor via internet, amor sem contato físico , será que esse amor se finda ao desconectar a internet?.",
+    "1": "As pessoas mentem sobre si mesmas, através de sites de relacionamento, até roubam identidades.",
+    "2": "Estamos em pleno séculos XXI, as pessoas estão se relacionando mais pela internet do que pessoalmente.",
+    "3": "Através de sites de relacionamento, se conhecem, trocam informações de suas vidas, e posteriormente começam a namorar pela internet, dizem se apaixonar, trocam juras de amor, fidelidade é o que prometem uns aos outros.",
+    "4": "É um relacionamento sem contato físico , visualmente um namoro as \"escuras\".",
+    "5": "Alguns se encontram pessoalmente, mas a maioria apenas se comunicam pela internet.",
+    "6": "Seja esse amor verdadeiro ou não, é a realidade do século, se ele acaba ao desconectar da internet, isso depende da personalidade de cada um.",
+    "7": "As pessoas ao preencherem seus perfis em sites de relacionamento mentem, criam um perfil totalmente diferente da realidade.",
+    "8": "Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas.",
+    "9": "Criam novas personalidades para impressionarem seus contatos virtuais, pois quem age dessa forma, implica em interpretarmos que esta pessoa não está satisfeita com sua aparência física .",
+    "10": "Também a casos em que usam fotos, e perfis falsos, para se passarem por famosos.",
+    "11": "O relacionamento virtual está presente em nossas vidas, e acabamos ficando dependente da internet.",
+    "12": "Devemos ter uma vida mais ativa, ou seja, uma vida que possamos ter um maior contato pessoalmente, e amarmos de verdade, e termos assim um relacionamento com calor humano.",
+    "13": "Não devemos mentir em nossos perfis, somos o que somos, a soma da mistura de raças, cada um tem sua beleza natural e ela será valorizada por uma outra pessoa.",
+    "14": "A mentira não nos leva a nada.",
+    "15": "É a verdadeira personalidade que nos faz crescer perante uma sociedade justa e digna de respeito."
+  },
+  "redacao_gerada": {
+    "0": "Hoje em dia, a internet é muito usado pelas pessoas, e isso faz com que muitos problemas aparece.",
+    "1": "É comum ver que as pessoa mente na internet, tipo, muda as coisa sobre elas.",
+    "2": "Essa coisa de mentir é um problema sério que afeta a todos, porque a internet tá aí para todo mundo usar e isso é importante para a comunicação, né.",
+    "3": "A tecnologia avanço muito rápido.",
+    "4": "As pessoa mente na internet por vários motivo.",
+    "5": "Um deles é que elas quer impressionar os outro, tipo, parecer melhor do que são de verdade.",
+    "6": "Elas muda a idade, o peso, e até a foto, para que os outro pense que elas são mais bonita ou interessante.",
+    "7": "Isso acontece muito em sites de namoro, onde todo mundo quer ser o máximo, mas no fundo, é só mentira, não é.",
+    "8": "É uma coisa muito comum.",
+    "9": "Outro motivo que faz as pessoa mentir é que elas não se sente bem comsigo mesma.",
+    "10": "Tipo, a pessoa não gosta do que vê no espelho ou da vida que tem, aí ela cria uma versão falsa de si mesma para a internet.",
+    "11": "Isso é muito triste e mostra que a sociedade tá doente, com gente que não se aceita.",
+    "12": "A internet, ao invez de ajudar, acaba piorando isso, porque é facil esconder quem você é de verdade.",
+    "13": "Então, para resolver esse problema das pessoa mentindo na internet, é preciso que algo seja feito.",
+    "14": "As escola poderia ensinar mais sobre a importancia de ser verdadeiro.",
+    "15": "E também, as pessoa prescisam aprender a se aceitar como são, para não precisar mentir.",
+    "16": "O governo também devia fazer alguma coisa para que a internet fosse um lugar mais seguro e honesto para todo mundo, de verdade."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "1",
+        "3",
+        "4"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "tema": "o-que-voce-acha-do-novo-acordo-ortografico",
+  "comando_tematico": {
+    "frases": {
+      "0": "O que você acha do novo Acordo Ortográfico?",
+      "1": "Está em vigor o Acordo Ortográfico que unifica a escrita em todos os países que falam português.",
+      "2": "Ainda causador de dúvidas e polêmicas, o Acordo mudou a grafia de apenas 0,5% das palavras escritas no Brasil.",
+      "3": "Para muitas pessoas, esse assunto é indiferente.",
+      "4": "Mas quem usa obrigatoriamente a ortografia oficial, como professores, jornalistas, redatores, editores, escritores e estudantes, tem muito o que decorar.",
+      "5": "\"Esse Acordo só interessa ao Brasil\", já gritaram certos portugueses.",
+      "6": "\"É útil e facilitará o intercâmbio cultural entre países lusófonos\", retrucam especialistas.",
+      "7": "O fato é que até 2012, o país precisa se adequar às novas regras.",
+      "8": "O que você acha desse Acordo?",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Bom para a unidade e prestígio dos países?",
+      "1": "\"Para [Evanildo] Bechara, a reforma ortográfica é necessária para defender a língua portuguesa.",
+      "2": "Trata-se do único idioma falado por um grupo majoritário - mais de 230 milhões de pessoas - no mundo a ter duas grafias diferentes.",
+      "3": "É essencial que o português se apresente com uma única vestimenta gráfica.",
+      "4": "Para manter o prestígio e para que seja mais bem ensinado e compreendido por todos\".",
+      "5": "[Sylvia Colombo.",
+      "6": "Folha de S.",
+      "7": "Paulo.",
+      "8": "Ilustrada, 29 ] Somos 230 milhões no mundo [Veja, Especial, idioma.",
+      "10": "São Paulo: Abril.",
+      "11": "Ed.",
+      "13": "Ano 41, nº 52: 31 ] O (des)acordo ortográfico \"Nesta Folha e em outros veículos, já expressei claramente minha oposição a esse estéril e inoportuno Acordo, cujo custo supera o suposto benefício.",
+      "14": "Respeito profundamente a posição (.",
+      "17": ") de homens da estatura e dignidade do lexicógrafo Mauro Villar, [.",
+      "20": "] e do professor Evanildo Bechara, mas, do baixo da minha insignificância, ouso perguntar: não teria sido melhor esperar que tudo estivesse realmente pronto para \"cortar a fita do Acordo?",
+      "21": "\" [Pasquale Cipro Neto.",
+      "22": "Folha de S.",
+      "23": "Paulo.",
+      "24": "Cotidiano, 1 ] Um Acordo e várias vozes \"Buemba!",
+      "25": "Buemba!",
+      "29": "] Novidades da reforma, ops, do puxadinho ortográfico.",
+      "30": "Tem um botequim no Rio que tá vendendo lingüiça com trema e linguiça sem trema.",
+      "31": "Com molho e sem molho!",
+      "32": "Rárará!",
+      "33": "\" [José Simão.",
+      "34": "Folha de S.",
+      "35": "Paulo.",
+      "36": "Ilustrada,.",
+      "37": "E9.",
+      "39": "\"Pára tudo, tivemos uma idéia ótima.",
+      "40": "Quer dizer.",
+      "43": "Para tudo, tivemos uma ideia ótima.",
+      "44": "Estranho, não?",
+      "48": ") Nós continuaremos a gritar: PARA TUDO!",
+      "49": "Mas olha como é ruim gritar isso sem acento!",
+      "50": "O acento confere drama, pressa, desespero.",
+      "51": "E não, não deixaremos de ser desesperadas nem dramáticas (.",
+      "56": "Mas teremos de escrever desse jeito, porque é o que manda a reforma ortográfica que começa a funcionar (.",
+      "60": "[Jô Hallack, Nina Lemos, Raq Affonso.",
+      "61": "(02 Neurônios) Folha de S.",
+      "62": "Paulo.",
+      "63": "Folhateen, 6 ] [.",
+      "66": "] Vou sentir falta da velha ortografia, uma falta nada nostálgica, mas visual.",
+      "67": "\"O voo, sem o circunflexo, parece que ficou mais raso e pesado.",
+      "72": "E o que dizer da nova 'ideia'?",
+      "73": "Sem o acento agudo tornou-se grave, fechada (.",
+      "77": "E os tremas, esses dois pontinhos suspensos, olhinhos fixos que davam tanta graça e elegância à letra 'u'?",
+      "78": "[Milton Hatoum.",
+      "79": "O Estado de S.",
+      "80": "Paulo.",
+      "81": "Caderno 2, 9 ] [.",
+      "84": "] O atroz dilema do hífen (co-abitar ou coabitar?",
+      "85": "), o degredo do acento agudo de palavras como jiboia e averigue e a horrível morte de certos circunflexos estão levando gramáticos às fuças.",
+      "90": "Sem o chapeuzinho, por exemplo, como conjugar verbos como coar e moer?",
+      "91": "Eu coo, eu moo?",
+      "95": ") Enquanto isso, os dois inocentes pontinhos sobre linguiça, quinquênio, pinguim etc foram varridos pelos linguístas sem a menor contemplação.",
+      "98": "[Ruy Castro.",
+      "99": "Folha de S.",
+      "100": "Paulo, Opinião."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Acordo é convergência de ideias, conciliação, concordância, entendimento entre as partes envolvidas em determinada situação.",
+    "1": "Assim, acordo  ortográfico é o entendimento entre os países que falam a língua portuguesa, mas que não a escrevem de forma semelhante.",
+    "2": "Ele é uma medida importante, uma vez a língua portuguesa era a única que tinha duas grafias oficiais sem razão de ser e também porque irá estreitar as relações internacionais entre os países que o assinaram.",
+    "3": "Não são necessárias duas grafias oficiais para uma mesma língua.",
+    "4": "A língua portuguesa falada nos países da Comunidade dos Países da Língua Portuguesa (CPLP) é amplamente utilizada por suas populações, logicamente com algumas pequenas diferenças.",
+    "5": "Todavia, era necessária uma unificação na grafia das palavras, visto que cada país a escrevia de uma forma diferente.",
+    "6": "Cite-se, por exemplo, o árabe em que é falado em vários países de maneira diferente, mas que escrevem do mesmo modo .",
+    "7": "Assim, para unificar a grafia , louvável a modificação proposta no acordo  ortográfico .",
+    "8": "Sabe-se que tem muito a se fazer ainda, entretanto é o início de uma modificação importante que irá simplificar a vida de muitas pessoas.",
+    "9": "As relações internacionais entre os países lusófonos terão uma avanço sobremaneira .",
+    "10": "Os textos terão redações únicas evitando-se a necessidade de resoluções finais em duas traduções para uma mesma língua, sendo isso disparate enorme.",
+    "11": "As relações diplomáticas serão simplificadas.",
+    "12": "A cultura, principalmente a escrita, será mais valorizada com uma maior integração entre os países da língua portuguesa difundindo o idioma português para o mundo ,pois a Língua Portuguesa, agora, refere-se não só ao Brasil, mas a todos os países da comunidade da língua portuguesa.",
+    "13": "Devem, portanto, unirem-se para difusão da nossa língua no ambiente internacional.",
+    "14": "Sendo assim, eliminando as duas formas de grafias antes existentes e melhorando sobremaneira as relações internacionais entre os países da comunidade da língua portuguesa, o novo a cordo ortográfico chegou para ficar, já que além dos argumentos acima expostos existem tantos outros que ajudarão a divulgar as novas regras ortográficas no Brasil e no mundo.",
+    "15": "Todavia, para que isso aconteça será necessário o esforço de todos, ou seja, do governo com políticas públicas de implementação da nova ortografia e da população ajudando a divulgar as novas regras.",
+    "16": "Não só do governo e população brasileiros, e sim de todos os países que fazem parte da Comunidade dos Países da Língua Portuguesa."
+  },
+  "redacao_gerada": {
+    "0": "O novo acordo ortográfico é um tema que gera bastante discussão na nossa sociedade.",
+    "1": "Ele está aí pra mudar um pouco de como a gente escreve as palavras, e isso causa uma certa confusão para muitas pessoas.",
+    "2": "Pra mim, parece que as vezes é bem difícil de entender todas as regras nova, e isso faz a gente pensar se é mesmo necessário.",
+    "3": "Alguns pensam que esse acordo é bom porque ele ajuda a unificar a lingua portuguesa entre os vários países.",
+    "4": "Isso pode ser legal para que todos falam e escrevem de um jeito só, facilitando a comunicação e até a cultura entre eles.",
+    "5": "É como se a gente ficasse mais junto com Portugal e outros paises que também falam português, o que é uma ideia interesante.",
+    "6": "Por outro lado, muitas gente tem dificuldade de se acostumar.",
+    "7": "Palavras que a gente escrevia de um jeito, agora é outro, tipo \"ideia\" que perdeu o acento agudo.",
+    "8": "É um pouco chato ter que decorar tudo de novo, principalmente pra quem ja estuda a lingua faz tempo, como professor, jornalista e estudante.",
+    "9": "Dizem que muda só um pouquinho de palavras, mas o impacto é grande na nossa cabeça e no dia a dia da escrita.",
+    "10": "Então, o novo acordo ortografico é um assunto bem complicado.",
+    "11": "Eu acho que é uma mudança que exige tempo pra todo mundo se adaptar e entender de verdade.",
+    "12": "É importante, talvez, mas também gera muito trabalho e muita duvida pra quem usa a lingua todo dia, e a gente precisa se esforçar pra não errar."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "3"
+      ],
+      "textos_motivadores": [
+        "30",
+        "66",
+        "84"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "13",
+        "20",
+        "66",
+        "84"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "0",
+        "3",
+        "4"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "0",
+        "2",
+        "3"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "13",
+        "66",
+        "84"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "30",
+        "39",
+        "44",
+        "72",
+        "73",
+        "85"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "13",
+        "66",
+        "84"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "13",
+        "30",
+        "66",
+        "84"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "8",
+        "7"
+      ],
+      "textos_motivadores": [
+        "20"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "7",
+        "8"
+      ],
+      "textos_motivadores": [
+        "13",
+        "20",
+        "84"
+      ]
+    }
+  }
+}

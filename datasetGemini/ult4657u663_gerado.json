@@ -1,0 +1,208 @@
+{
+  "tema": "como-solucionar-o-problema-do-bullying-na-escola-ou-na-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Como solucionar o problema do bullying na escola ou na internet?",
+      "1": "Você já ouviu falar de bullying , se é que não travou conhecimento com o problema pessoalmente.",
+      "2": "De modo geral, bullying é o comportamento agressivo de um ou mais estudantes contra outro(s).",
+      "3": "O termo se origina de bully , que significa \"valentão\", em inglês.",
+      "4": "Esse tipo de violência ocorre principalmente nas escolas, tanto no ensino fundamental quanto no médio, mas não tem se limitado ao âmbito escolar: também já chegou à internet, de onde derivou a expressão cyberbullying.",
+      "5": "Com base nas informações apresentadas na coletânea que segue, faça uma dissertação em que você explique o que é bullying , dê sua opinião sobre o que, a seu ver, motiva aqueles que o praticam - isto é, os agressores - e apresente uma proposta para se lidar com esse grave problema.",
+      "6": "Como solucionar a questão do bullying?",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O que é bullying O termo bullying compreende todas as formas de atitudes agressivas, intencionais e repetidas, que ocorrem sem motivação evidente, adotadas por um ou mais estudantes contra outro(s), causando dor e angústia, e executadas dentro de uma relação desigual de poder.",
+      "1": "Portanto, os atos repetidos entre iguais (estudantes) e o desequilíbrio de poder são as características essenciais, que tornam possível a intimidação da vítima.",
+      "2": "Por não existir uma palavra na língua portuguesa capaz de expressar todas as situações de bullying possíveis, relacionam-se a seguir algumas ações que podem caracterizá-lo: Colocar apelidos, ofender, zoar, gozar, encarnar, sacanear, humilhar, fazer sofrer, discriminar, excluir, isolar, ignorar, perseguir, assediar, aterrorizar, amedrontar, tiranizar, dominar, agredir, bater, chutar, empurrar, ferir, roubar, quebrar pertences.",
+      "3": "[ ABRAPIA - Associação Brasileira Multiprofissional de Proteção à Infância e Adolescência] Papel da escola \"A escola que afirma não ter bullying ou não sabe o que é ou está negando sua existência\", diz o médico pediatra Lauro Monteiro Filho, fundador da Associação Brasileira Multiprofissional de Proteção à Infância e Adolescência (Abrapia), que estuda o problema há nove anos.",
+      "4": "Segundo o médico, o papel da escola começa em admitir que é um local passível de bullying, informar professores e alunos sobre o que é e deixar claro que o estabelecimento não admitirá a prática - prevenir é o melhor remédio.",
+      "5": "O papel dos professores também é fundamental.",
+      "6": "\"Há uma série de atividades que podem ser feitas em sala de aula para falar desse problema com os alunos.",
+      "7": "Pode ser tema de redação, de pesquisa, teatro etc.",
+      "8": "É só usar a criatividade para tratar do assunto\", diz.",
+      "9": "[Revista Nova escola ] Baixa autoestima \"O bullying está relacionado ao desenvolvimento de baixa autoestima, ao isolamento social e à depressão.",
+      "10": "Influencia a capacidade produtiva do adolescente-vítima, enquanto o agressor pode ser levado a adotar comportamentos de risco durante a fase adulta, como alcoolismo, dependência de drogas e até mesmo o uso da violência explícita.",
+      "11": "\" [Aramis Lopes, coordenador do Programa Anti-Bullying da ABRAPIA, in Universia ] Cyberbullying A prática do cyberbullying, ou intimidação virtual, representa um dos maiores riscos da internet para 16% dos jovens brasileiros conectados à rede.",
+      "12": "Isso é o que mostra uma pesquisa realizada em fevereiro de 2010 pela Safernet, ONG de defesa dos direitos humanos na internet, envolvendo 2.",
+      "13": "160 internautas do país com idades entre 10 e 17 anos.",
+      "14": "Esse mesmo estudo indica que 38% dos jovens reconhecem ter um amigo que já foi vítima de cyberbullying - quando sofrem atitudes agressivas, intencionais e repetitivas no universo virtual, vindas de uma pessoa ou de um grupo.",
+      "15": "Os números mostram, no entanto, que apenas 7% dos entrevistados já ouviram o desabafo de seus amigos sobre a vivência de situações de agressão e humilhação na internet.",
+      "16": "[Juliana Carpanez, UOL Tecnologia ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Muitos jovens vêm sendo descriminados  e se deparando com várias formas de violência, desde verbais até físicas, dentro das próprias instituições de ensino.",
+    "1": "Essa prática, conhecida como bullyng  , tem estado cada vez mais presente entre os jovens das mais variadas classes sociais, gerando várias consequências muitas vezes irrepareáveis  , como: baixa autoestima, isolamento social, medo e vergonha que levam muito tempo para serem superadas.",
+    "2": "Além dos traumas físicos que trazem marcas para o resto da vida.",
+    "3": "Os que mais sofrem com isso são aqueles que ''fogem dos padrões'', como: negros, pobres, de muita ou pouca estatura, gordos, homossexuais e aqueles que têm geito  ou estilo diferentes da maioria.",
+    "4": "Outra prática que está bastante relacionada é o cyberbulling , onde  as agressões são feitas pela internet e é a mais difícil de ser combatida, pois muitas vezes não se sabe quem são os  autores.",
+    "5": "A escola tem um papel fundamental contra o bulling  e o cyberbullyng  , na sensibilização e na                 socialização dos estudantes, na tentativa de prevenir e também no incentivo para aqueles que sofrerem denunciarem os agressores para que sejam devidamente punidos."
+  },
+  "redacao_gerada": {
+    "0": "A persistência do bullying, tanto no ambiente escolar quanto na esfera digital, configura-se como um flagelo social que compromete o desenvolvimento pleno de crianças e adolescentes.",
+    "1": "Essa forma de violência, caracterizada por agressões intencionais e repetidas, tem suas raízes na desumanização do outro e na falha de mecanismos preventivos eficazes.",
+    "2": "Diante desse cenário, torna-se imperativo que a sociedade, por meio de suas instituições, articule estratégias robustas para mitigar e erradicar tais práticas.",
+    "3": "A solução para o problema do bullying e do cyberbullying reside, fundamentalmente, na implementação de programas educacionais abrangentes que fomentem a empatia e na rigorosa aplicação de políticas institucionais de combate e acolhimento às vítimas.",
+    "4": "Em primeiro lugar, a lacuna na educação socioemocional e na cidadania digital contribui significativamente para a perpetuação do bullying.",
+    "5": "Conforme as premissas de Paulo Freire, a educação deve ser um processo libertador que estimule a reflexão crítica e a humanização, em contraposição à mera transmissão de conteúdos.",
+    "6": "No entanto, muitas escolas ainda negligenciam a formação de valores como respeito e alteridade, essenciais para desconstruir a lógica agressora.",
+    "7": "A ausência de debates francos sobre as consequências do assédio e a cultura de impunidade, especialmente no ambiente virtual, onde o anonimato pode encorajar agressores, reforça a necessidade de uma abordagem pedagógica mais engajada e proativa.",
+    "8": "Ademais, a insuficiência na fiscalização e na aplicação de políticas anti-bullying, aliada à carência de suporte adequado às vítimas, agrava o problema.",
+    "9": "A teoria de Michel Foucault sobre o poder disciplinar evidencia como as instituições moldam comportamentos através de normas e sanções.",
+    "10": "Contudo, a mera existência de regulamentos é ineficaz sem a devida observância e a garantia de que as vítimas encontrem canais seguros e eficazes para denunciar.",
+    "11": "Frequentemente, a falta de preparo dos profissionais da educação para identificar e intervir em casos de bullying, ou a ausência de amparo psicológico para os envolvidos, perpetua um ciclo de silêncio e sofrimento, minando a confiança no sistema e na possibilidade de resolução.",
+    "12": "Portanto, para que se possa efetivamente solucionar o persistente problema do bullying e do cyberbullying, é imprescindível uma ação coordenada e multifacetada.",
+    "13": "Propõe-se que o Ministério da Educação (MEC), em parceria com as secretarias estaduais e municipais de educação, implemente e fiscalize programas pedagógicos obrigatórios.",
+    "14": "Tal iniciativa deve ocorrer através de currículos que contemplem a educação socioemocional, a ética digital e a cultura da paz, além de canais de denúncia acessíveis e anônimos, visando a formação de cidadãos mais empáticos e responsáveis, coibindo a prática do bullying e garantindo um ambiente seguro para o desenvolvimento de todos.",
+    "15": "Tais programas devem incluir capacitação contínua para professores e psicólogos escolares, e campanhas de conscientização para pais e alunos, utilizando mídias sociais e palestras interativas."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "6"
+      ],
+      "textos_motivadores": [
+        "0",
+        "10",
+        "11"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "4",
+        "6"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "4",
+        "6"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "6",
+        "11"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "5",
+        "9"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "4",
+        "5"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "4",
+        "6",
+        "11"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "4",
+        "5",
+        "6"
+      ]
+    }
+  }
+}

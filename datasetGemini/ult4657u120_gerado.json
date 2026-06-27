@@ -1,0 +1,184 @@
+{
+  "tema": "a-gramatica-facilita-ou-dificulta-a-comunicacao",
+  "comando_tematico": {
+    "frases": {
+      "0": "A gramática facilita ou dificulta a comunicação?",
+      "1": "As regras gramaticais têm como objetivo uniformizar a língua de um povo, padronizá-la, de modo a torná-la comum e acessível a todos os usuários.",
+      "2": "Em poucas palavras, a gramática deve facilitar a comunicação.",
+      "3": "No entanto, a imensa dificuldade dos estudantes em aprendê-la sugere que isso talvez não ocorra de fato.",
+      "4": "O grande número de normas - às vezes sobre detalhes aparentemente insignificantes - não acaba complicando e criando confusão?",
+      "5": "Que importância tem, por exemplo, a troca de uma única letra na grafia de uma palavra?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 A língua é viva, quem não sabe?",
+      "1": "Basta ver o que acontece a ela, sempre aberta aos modismos.",
+      "2": "Agora mesmo está nas ruas uma maré de jeitos novos de falar, extrídos do filme \"Tropa de Elite\".",
+      "3": "A língua se enriquece, sai da boca do povo para os dicionários, amolda-se às regras gramaticais.",
+      "4": "Mas o problema são as regras, ah as regras!",
+      "5": "Se fizessem um plebiscito, é possível que as regras fossem banidas do Brasil.",
+      "6": "Aí todo mundo falaria e escreveria à vontade, sem ser vigiado por esses \"manuais de censura\" que são as gramáticas.",
+      "7": "Falaríamos gostosamente, sem receios e seríamos talvez mais felizes.",
+      "8": "Nada de escolher entre x e ch, entre s e z, e adeus acentos.",
+      "9": "Caso isso acontecesse, no entanto, estariam oficializados o descaso e o desrespeito ao idioma que falamos.",
+      "10": "Que conseqüências poderiam decorrer disso?",
+      "11": "Crime contra a gramática Texto 2 Um erro literalmente federal \"Um único carimbo fabricado com pouco zelo em relação à língua portuguesa fez com que milhares de documentos oficiais da Câmara e do Senado trouxessem um 'Congreço Nacional' estampado nos cantos inferiores de suas páginas.",
+      "12": "O tropeço vocabular está grafado em documentos como medidas provisórias enviadas pelo Executivo.",
+      "13": "O carimbo, fabricado em meados de agosto, está em documentos com datas até cerca de três semanas atrás, quando finalmente alguém descobriu o erro.",
+      "14": "\" Folha On-Line - 03 - 09h24 Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Uma das características mais marcantes de um povo, é a sua língua , indispensável meio de comunicação.",
+    "1": "A língua portuguesa então...",
+    "2": "show de bola.",
+    "3": "Dá de dez a zero em muitas por aí.",
+    "4": "Língua riquíssima, com palavras nascidas das nossas várias raízes.",
+    "5": "Mas com um porém:as temidas e discutidas regras gramaticais.",
+    "6": "A compreensão da regras gramaticais nunca foi fácil.",
+    "7": "O grande número de normas e complexos detalhes fazem da nossa Língua uma das mais complicadas.",
+    "8": "O que é estranho.",
+    "9": "Um país tão fraco em educação, \"dá um nó na cabeça\" daqueles que a utilizam.",
+    "10": "Os mais estudados é que se dão bem .",
+    "11": "Muito cobrado em vestibulares, concursos e por muitas provas pelo Brasil a fora, quem fala e escreve dentro da modalidade culta passa na frente de muitos.",
+    "12": "O conhecimento da gramática torna-se indicador social de nível de educação.",
+    "13": "Então vem a dúvida: seria correto banir as regras gramaticais?",
+    "14": "Muitos detalhes dentro da nossa gramática são essenciais para uma boa escrita, para diferenciação de palavras e para uma boa fala.",
+    "15": "Mas outras são superficiais, não importantes e nunca serão decorados por inteiro, a menos que se queira tornar-se um especialista em Língua Portuguesa.",
+    "16": "O investimento em educação, que é a base para a compreensão da nossa língua faz-se fundamental.",
+    "17": "A simplificação das complexas regras gramaticais torna-se necessário para facilitar a comunicação de seus usuários."
+  },
+  "redacao_gerada": {
+    "0": "A língua portuguesa, enquanto sistema vivo e dinâmico, é alicerçada por um conjunto de normas gramaticais que visam, em tese, a sua padronização e clareza.",
+    "1": "Contudo, a complexidade inerente a essas regras e a forma como são ensinadas e aplicadas geram um paradoxo: ao invés de facilitar, a gramática muitas vezes dificulta a comunicação e perpetua a exclusão linguística.",
+    "2": "Tal fenômeno decorre, primordialmente, da rigidez normativa que obscurece a funcionalidade comunicativa e, secundariamente, da instrumentalização da norma culta como ferramenta de distinção social.",
+    "3": "Em primeira análise, a abordagem prescritiva da gramática, frequentemente desvinculada do uso real da língua, estabelece um labirinto de preceitos que desestimulam a expressão.",
+    "4": "Conforme assevera o sociólogo Pierre Bourdieu, a língua é um mercado simbólico onde o \"capital linguístico\" é valorizado, e a rigidez gramatical eleva a barreira de entrada para esse mercado.",
+    "5": "A obsessão por minúcias ortográficas, sintáticas ou morfológicas, que por vezes pouco afetam a inteligibilidade da mensagem, desvia o foco do propósito comunicativo para a mera correção formal.",
+    "6": "Isso gera insegurança nos falantes e escritores, inibindo a fluidez do pensamento e a espontaneidade da interação.",
+    "7": "Outrossim, a imposição de uma gramática normativa inflexível pode atuar como um mecanismo de segregação social, estigmatizando aqueles que não dominam a chamada \"norma culta\".",
+    "8": "O filósofo Michel Foucault, ao discorrer sobre as relações de poder e saber, expõe como as normas podem ser utilizadas para disciplinar e controlar.",
+    "9": "No contexto linguístico, o \"erro\" gramatical torna-se um estigma, associado à falta de educação ou capacidade intelectual, marginalizando dialetos e formas de fala populares.",
+    "10": "Tal preconceito linguístico, velado ou explícito, impede que vozes diversas se manifestem plenamente, transformando a gramática de ponte em barreira para o diálogo social.",
+    "11": "Dessarte, é imperativo que a gramática seja ressignificada para cumprir sua função primordial de ferramenta comunicativa.",
+    "12": "Para tanto, o Ministério da Educação (MEC), em colaboração com as secretarias estaduais e municipais de ensino, deve reformular o currículo de Língua Portuguesa nas escolas.",
+    "13": "Essa ação deve pautar-se na adoção de uma abordagem mais descritiva e funcional, que valorize a diversidade linguística e foque na inteligibilidade da mensagem, em vez da memorização exaustiva de regras, por meio da capacitação continuada de professores e da produção de materiais didáticos que reflitam a riqueza da variação do idioma.",
+    "14": "Assim, promover-se-á uma comunicação mais inclusiva e eficaz, desmistificando a gramática como instrumento de exclusão e reconhecendo-a como essencial para a clareza."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0",
+        "3"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "4",
+        "8"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "6",
+        "7"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

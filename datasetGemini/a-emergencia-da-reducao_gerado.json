@@ -1,0 +1,198 @@
+{
+  "tema": "deve-se-reduzir-a-maioridade-penal-no-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "Deve-se reduzir a maioridade penal no Brasil?",
+      "1": "Toda vez que um crime cometido por um menor de idade ganha evidência na mídia, cria-se uma comoção nacional e a polêmica envolvendo a maioridade penal vem à tona.",
+      "2": "Isso ocorreu recentemente, após um jovem prestes a completar 18 anos ter assassinado um universitário por causa de um celular, no início de abril, em São Paulo.",
+      "3": "Pesquisa Datafolha, uma semana depois do fato, revelou que 93% dos paulistanos eram favoráveis à redução da maioridade penal, uma vez que, no Brasil, os menores de 18 anos não respondem criminalmente por seus atos.",
+      "4": "Dezesseis anos é a idade mais cogitada para marcar esse limite.",
+      "5": "A principal alegação apresentada na defesa dessa mudança é o precoce amadurecimento do jovem, que hoje tem fácil acesso a informações e discernimento suficiente inclusive para votar.",
+      "6": "No entanto, os opositores dessa mudança alegam que outros casos surgirão com jovens (ou até crianças) com idades inferiores a essa, uma vez que as causas do problema não estariam sendo combatidas.",
+      "7": "Queremos saber qual é a sua opinião sobre esse assunto.",
+      "8": "Deve-se alterar a maioridade penal no Brasil?",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "93% a favor da redução Pesquisa Datafolha mostra que 93% dos moradores da capital paulista concordam com a diminuição da idade em que uma pessoa deve responder criminalmente por seus atos.",
+      "1": "Outros 6% são contra, e 1% não soube responder.",
+      "2": "Em consultas anteriores, em 2003 e 2006, a aprovação à medida pelos moradores da cidade foi de 83% e 88%, respectivamente -a margem de erro era de dois pontos.",
+      "3": "Sobre a idade a partir da qual um adolescente deveria passar a ser responsabilizado criminalmente, parte dos entrevistados, em respostas espontâneas (sem haver opções no questionário), defende que menores de 16 anos sejam enquadrados.",
+      "7": ") Um levantamento da Secretaria Especial de Direitos Humanos da Presidência da República em 53 países aponta que 42 adotam a maioridade penal a partir dos 18 anos.",
+      "8": "Entre os que responsabilizam mais jovens estão os EUA -a partir dos 12 anos, dependendo do Estado.",
+      "9": "O debate sobre a alteração na legislação voltou à tona depois do assassinato do universitário Victor Hugo Deppman, 19, mesmo sem ter reagido a um roubo de celular no último dia 9 em São Paulo.",
+      "10": "O suspeito pelo crime é um jovem que estava a três dias de fazer 18 anos.",
+      "11": "Ele foi detido e levado para a Fundação Casa (antiga Febem).",
+      "12": "Na avaliação de Paulino, a alta aprovação à redução da maioridade penal está dentro do contexto de violência praticada por um adolescente.",
+      "13": "O levantamento feito em 2003 também foi realizado pouco tempo depois da morte de um casal de namorados (Liana Friedenbach, 16, e Felipe Caffé, 19) por um jovem que na época tinha 16 anos - conhecido como Champinha.",
+      "14": "[ Folha de S.",
+      "15": "Paulo, 17 ] OAB: redução não resolve Brasília – O assassinato, na semana passada, do estudante Victor Hugo Deppman, de 19 anos, com um tiro disparado por um adolescente de 17 anos, em São Paulo, trouxe de volta ao debate a redução da maioridade penal, tema controverso sobre o qual a Ordem dos Advogados do Brasil (OAB) sempre se posicionou contrariamente.",
+      "16": "Segundo o presidente nacional da entidade, Marcus Vinicius Furtado, a criminalidade envolvendo crianças e adolescentes requer atenção especial das autoridades e de toda a sociedade, mas não se deve deixar que a comoção leve a caminhos que não irão resolver o problema, mas apenas agravá-lo.",
+      "17": "“Seria um retrocesso para o país, além de transformar o menino num delinquente sujeito à crueldade das prisões”, afirmou.",
+      "18": "“É a negação de tudo que podemos imaginar para o futuro”.",
+      "19": "Para Marcus Vinicius, a criminalidade e a violência entre os jovens precisam ser enfrentados a partir de um trabalho social muito forte.",
+      "20": "“Um pouco de dignidade já resolveria muita coisa”, disse, lembrando a falta de perspectiva que leva muitos adolescentes a buscar o caminho das drogas e da criminalidade.",
+      "24": ") [ Ordem dos Advogados do Brasil ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "A maioridade penal ou a idade na qual um indivíduo deve responder criminalmente pelos seus atos, vem sido questionada pela população, trazendo a  tona problemas antigos como a          infraestrutura e a desigualdade social.",
+    "1": "Vivemos em um país com uma infraestrutura precária.",
+    "2": "As pessoas temem que o indivíduo não seja recuperado, porém com investimentos na construção de novos presídios, tais como os terceirizados, essa situação pode ser revertida pois são oferecidas condições mais humanas para o retorno em sociedade.",
+    "3": "Políticos e representantes do judiciário muitas vezes citam a educação como a forma mais eficaz de combater a impunidade, mais  se esquecem que eles mesmos vivem em uma sociedade indiferente          .",
+    "4": "O governo tem falhado em educar, e eles confirmam isso ao colocar os seus filhos em colégios privados.",
+    "5": "Precisamos tratar a violência como um câncer, que enfraquece todo o sistema.",
+    "6": "A sociedade está ferida e sangrando, e é dever do Estado agir com medidas emergenciais, como a redução da maioridade penal.",
+    "7": "Só assim pode-se dar continuidade á  um tratamento eficaz."
+  },
+  "redacao_gerada": {
+    "0": "A questão da redução da maioridade penal no Brasil é um debate recorrente, intensificado a cada crime chocante cometido por adolescentes.",
+    "1": "A comoção social e a sensação de impunidade frequentemente impulsionam a opinião pública a clamar por medidas mais severas, como a diminuição da idade em que um indivíduo pode ser responsabilizado criminalmente.",
+    "2": "Contudo, essa proposta, embora popular, carece a uma análise mais profunda sobre suas reais implicações e sua eficácia no combate à criminalidade juvenil no país.",
+    "3": "É inegável que a criminalidade juvenil é um problema sério, e a sociedade busca respostas rápidas.",
+    "4": "No entanto, a simples redução da maioridade penal, jogando jovens infratores em um sistema prisional adulto já superlotado e falho, pode gerar mais problemas do que soluções.",
+    "5": "As penitenciárias brasileiras são, em sua maioria, escolas do crime, onde a reabilitação é uma exceção e não a regra.",
+    "6": "Colocar adolescentes nesses ambientes, ao invés de ressocializá-los, pode transformá-los em criminosos mais perigosos e articulados, sem dar-lhes a chance de se recuperar.",
+    "7": "A Fundação Casa, com seus desafios, ainda oferece um ambiente teoricamente mais propício a socioeducação do que o sistema carcerário adulto.",
+    "8": "Ademais, a tese do “amadurecimento precoce” muitas vezes ignora as complexas raízes sociais da delinquência.",
+    "9": "Muitos jovens envolvidos em atos infracionais provêm de contextos de extrema vulnerabilidade, marcados pela ausência de estrutura familiar, falta de acesso à educação de qualidade e oportunidades de emprego.",
+    "10": "A criminalidade é, para muitos, um reflexo da desigualdade social e da falha do estado em garantir direitos básicos.",
+    "11": "Reduzir a maioridade penal sem atacar essas causas estruturais é como tentar secar gelo; foca-se no sintoma e ignora-se a doença, perpetuando o ciclo de violência e marginalização.",
+    "12": "As causas da violência não são combatidas.",
+    "13": "Portanto, faz-se urgente que o estado brasíleiro e a sociedade civil voltem seus esforços para soluções mais eficazes e de longo prazo.",
+    "14": "É fundamental que se invista massivamente em políticas públicas de educação, esporte, cultura e geração de oportunidades para a juventude, especialmente para aqueles em situação de risco.",
+    "15": "Aprimorar o sistema socioeducativo existente, garantindo sua real função de reabilitação e reinserção social, é um caminho mais promissor do que a mera punição, que apenas agrava a situação e não resolve o problema.",
+    "16": "A sociedade precisa de segurança, e não de mais prisões cheia de jovens sem futuro."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "8"
+      ],
+      "textos_motivadores": [
+        "9",
+        "15"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "3",
+        "8"
+      ],
+      "textos_motivadores": [
+        "0",
+        "12",
+        "16"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "15",
+        "16",
+        "17"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "17"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "17"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "11"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "19",
+        "20"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "19",
+        "20"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "6",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "19"
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "19"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "15",
+        "16"
+      ]
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "tema": "ha-limites-para-a-liberdade-de-expressao",
+  "comando_tematico": {
+    "frases": {
+      "0": "Há limites para a liberdade de expressão?",
+      "1": "No dia 7 de janeiro deste ano, terroristas islâmicos mataram a tiros de fuzil 12 pessoas e feriram 11 na Redação do jornal satírico \"Charlie Hebdo\", em Paris, a pretexto de vingar o profeta Maomé, alvo frequente das charges da publicação.",
+      "2": "Apesar das muitas manifestações de repúdio ao ato terrorista, o atentado também acabou provocando uma polêmica sobre a liberdade de expressão.",
+      "3": "Para alguns, ela deve ser geral e irrestrita, pois, se houver limites, não existirá liberdade de fato.",
+      "4": "Outros, consideram que há temas como a religião, que devem ser preservados, pois o direito de se expressar livremente não inclui a possibilidade de ofender.",
+      "5": "Há ainda quem defenda que a liberdade tem de coexistir com a responsabilidade e se submeter a uma ética.",
+      "6": "Como você se coloca diante desse debate?",
+      "7": "Exponha seu ponto de vista e o defenda com argumentos numa dissertação que discuta a liberdade de expressão, com ou sem limites.",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Capas do jornal satírico \"Charlie Hebdo\": humor provocativo, que entrou na mira de grupos terroristas \"Não concordo com nenhuma palavra do que dizes, mas defenderei até morrer o teu direito de dizê-lo.",
+      "1": "\" [ Frase atribuída a Voltaire, filósofo iluminista francês ] Expressão e democracia A liberdade de expressão, sobretudo sobre política e questões públicas é o suporte vital de qualquer democracia.",
+      "2": "Os governos democráticos não controlam o conteúdo da maior parte dos discursos escritos ou verbais.",
+      "3": "Assim, geralmente as democracias têm muitas vozes exprimindo idéias e opiniões diferentes e até contrárias.",
+      "4": "[ site da Embaixada dos Estados Unidos no Brasil ] O papa se pronuncia Um dia depois da publicação da nova edição do jornal satírico francês \"Charlie Hebdo\", o papa Francisco afirmou que a liberdade de expressão tem limite e não se pode \"provocar\" nem \"insultar\" a fé das pessoas.",
+      "8": ") \"Temos a obrigação de falar abertamente [sobre religião], temos esta liberdade.",
+      "9": "Mas sem ofender.",
+      "10": "Não se pode provocar, não se pode insultar a fé dos outros, não se pode tirar sarro dela\", disse.",
+      "11": "[ Folha de S.",
+      "12": "Paulo ] Liberdade de insultar O primeiro-ministro islamita-conservador turco, Ahmet Davutoglu, denunciou nesta quinta-feira (15 ) a publicação de uma nova charge do profeta Maomé na capa da revista satírica “Charlie Hebdo”, ao considerar que a liberdade de expressão não é \"a liberdade de insultar\".",
+      "13": "\"A publicação da charge é uma grande provocação (.",
+      "16": ") liberdade de imprensa não significa liberdade de insultar\", declarou Davutoglu à imprensa em Ancara antes de viajar a Bruxelas.",
+      "17": "\"Não podemos aceitar os insultos ao profeta Maomé”, insistiu.",
+      "18": "[ Correio Braziliense ] Liberdade com responsabilidade Podemos pôr em risco a segurança e a vida de outras pessoas em nome da liberdade de expressão e do livre pensar?",
+      "19": "A liberdade de opinião e o direito de expressá-la são uma conquista social, não apenas um direito individual para servir aos interesses e ao narcisismo de pessoas ou de grupos.",
+      "20": "Portanto o livre exercício do direito de opinar, criticar, caricaturar e denunciar exige reflexão, responsabilidade e ética.",
+      "24": ") Não podemos transformar a liberdade de expressão em um dogma, pois os dogmas são antidemocráticos e geram autoritarismo e posições extremistas.",
+      "25": "[ Luiz Carlos Barreto, Folha de S.",
+      "26": "Paulo ] Sem mas.",
+      "29": "O problema da liberdade da expressão é o \"mas.",
+      "32": "\", assim, com reticências.",
+      "33": "\"Sou a favor da liberdade de expressão, mas.",
+      "36": "\" E cada um tem o seu mas e as suas reticências.",
+      "37": "Se os mas e as reticências de todo mundo forem levados em conta, a liberdade de expressão simplesmente deixará de existir.",
+      "38": "[ Carlos Lana, colaborador da Página 3 Pedagogia & Comunicação ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "A liberdade de manifestar idéias e opiniões, sem que haja punição, consta como um direito fundamental do ser humano, garantido pela Declaração Universal dos Direitos Humanos.",
+    "1": "Reflexões sobre os limites desta  liberdade vêm sendo discutidos, para que ela possa ser exercida de forma correta.",
+    "2": "Muitos afirmam ser necessária a criação de limites, para que as opiniões das pessoas não ofendam os valores de outro indivíduo  .",
+    "3": "Outros, entretanto, acreditam que a liberdade de expressão deva ser irrestrita, pois  caso não seja, não existirá de fato.",
+    "4": "O principal problema é que muitos confundem o direito de expressar          com a imoralidade ou o pensamento destrutivo de conceitos .",
+    "5": "Se restringirmos o direito a  expressão, ele deixará de exercer sua função de forma plena.",
+    "6": "Por outro lado, não é correto que este  seja confundido com          banalização ou inversão de valores , pois \"a liberdade de cada um acaba onde começa a liberdade do outro\".",
+    "7": "Portanto  deve haver uma distinção entre o direito de expressar opiniões e o ato de insultar ou ofender outra pessoa.",
+    "8": "Para que isso seja feito de modo correto, é necessário que          a liberdade coexista com os outros direitos ."
+  },
+  "redacao_gerada": {
+    "0": "A discussão acerca dos limites da liberdade de expressão tem ganhado notório destaque na contemporaneidade, especialmente em um cenário globalizado onde informações se disseminam com velocidade.",
+    "1": "Questiona-se, portanto, se o direito fundamental de expressar ideias deve ser absoluto ou se, ao contrário, precisa ser balizado por certas restrições para garantir a convivência harmônica e o respeito mútuo.",
+    "2": "Este debate complexo implica em diferentes perspectivas sobre os alcances e as responsabilidades inerentes a essa liberdade.",
+    "3": "De um lado, argumenta-se que a ausência total de limites à expressão pode resultar em discursos de ódio, difamação e incitação à violência.",
+    "4": "A história demonstra que a livre manifestação, quando desprovida de responsabilidade ética, tem o potencial de ferir grupos minoritários e desestabilizar a ordem social.",
+    "5": "Assim, a liberdade individual de se expressar não pode sobrepor-se ao direito coletivo à segurança e à dignidade sendo fundamental estabelecer fronteiras que impeçam abusos e salvaguardem a integridade de todos os cidadãos.",
+    "6": "Por outro lado, a imposição excessiva de limites pode configurar-se como censura, cerceando o debate público e fragilizando a democracia.",
+    "7": "A livre circulação de ideias, mesmo as controversas, é um pilar essencial para a construção de uma sociedade plural e crítica.",
+    "8": "Governos autoritários frequentemente utilizam a justificativa de \"proteger\" a sociedade para suprimir vozes dissonantes, o que impede o controle social sobre o poder e o avanço do pensamento crítico.",
+    "9": "Desse modo, a busca por um equilíbrio é crucial, onde a liberdade de expressão seja ampla, mas não irresponsável.",
+    "10": "Diante do exposto, é evidente que a liberdade de expressão, para ser efetivamente um instrumento de progresso e não de conflito, necessita de balizas.",
+    "11": "Urge que o Estado, em colaboração com a sociedade civil, promova uma educação cívica que enfatize a responsabilidade inerente ao ato de se expressar.",
+    "12": "Além disso, é preciso que as leis sejam claras e aplicáveis, coibindo discursos que comprovadamente atentem contra a dignidade humana ou incitem a crimes, sem, contudo, tolher a crítica ou a sátira construtiva.",
+    "13": "Assim, garante-se uma liberdade que fortaleça a democracia e o respeito mútuo."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": [
+        "32",
+        "33"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "textos_motivadores": [
+        "1",
+        "5",
+        "18",
+        "19",
+        "20"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "6",
+        "7"
+      ],
+      "textos_motivadores": [
+        "36"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "5",
+        "9",
+        "10",
+        "12",
+        "16",
+        "17",
+        "18"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "20"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "18",
+        "19",
+        "20"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "1",
+        "3"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "1",
+        "3"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "20",
+        "33"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": [
+        "5",
+        "20"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "20"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10",
+        "12",
+        "16"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "1"
+      ]
+    }
+  }
+}

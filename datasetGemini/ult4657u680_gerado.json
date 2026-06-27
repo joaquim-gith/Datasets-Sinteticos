@@ -1,0 +1,175 @@
+{
+  "tema": "qual-o-papel-da-imprensa-numa-sociedade-democratica",
+  "comando_tematico": {
+    "frases": {
+      "0": "Qual o papel da imprensa numa sociedade democrática?",
+      "1": "Pesquisa do Instituto Análise revela que 91% dos brasileiros pensam que a imprensa ajuda a combater a corrupção ao divulgar escândalos que envolvem políticos e autoridades.",
+      "2": "Trata-se de uma grande maioria, que aumenta, passando para 97%, quando se pergunta se a imprensa tem o dever de investigar e divulgar esses problemas.",
+      "3": "Mas há quem pense que a imprensa vê as coisas por um prisma negativo, dando especial destaque aos aspectos ruins ou prejudiciais de certos fatos.",
+      "4": "É claro que nem só de denúncias pode viver o jornalismo, mas, de qualquer forma, ninguém se declara a favor da censura e todos concordam que a imprensa livre é fundamental para o funcionamento da democracia.",
+      "5": "O que você tem a dizer sobre esse tema?",
+      "6": "Qual é, a seu ver, o papel da imprensa numa sociedade democrática?",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O papel social da imprensa O século 21 nasceu numa sociedade baseada na informação.",
+      "1": "No mundo de hoje, o grande jogo do poder se dá na mídia.",
+      "2": "Ao menos contar com sua isenção pode eleger ou defenestrar governantes e aprovar ou rechaçar esta ou aquela política pública.",
+      "3": "Nesse contexto, essa mídia - e sobretudo a imprensa que a pauta - assume, antes de mais nada, um papel social de altíssima responsabilidade e que deve ser exercido com absoluta transparência sob pena de ameaça à democracia e aos direitos de cidadãos por conta de etnia, credo, grau de instrução, posições político-ideológicas ou de estrato social a que pertençam.",
+      "4": "É esperável, portanto, que aquela pautadora da mídia, a imprensa, compreenda seu papel social e aceite submeter-se a uma única e plausível exigência: equilíbrio.",
+      "5": "Ao decidir tender para algum lado sem dar ao que pensa diferente a mesma oportunidade que a sua de se manifestar, a imprensa rouba o direito da sociedade de decidir com base em análise equilibrada, que para sê-la precisa de informações equilibradas que lhe deem acesso a ambos os lados de todas as questões - e agora peço que se releve que todas as questões têm dois ou mais lados.",
+      "6": "[Eduardo Guimarães, artigo no Observatório da Imprensa, 17 ] Duas declarações do presidente FOLHA - Um dos papéis da imprensa é fiscalizar o poder.",
+      "7": "O sr.",
+      "8": "não está incomodado com a imprensa cumprindo o seu papel?",
+      "9": "LULA - Não incomoda.",
+      "10": "FOLHA - O sr.",
+      "11": "disse que tem azia quando lê jornais.",
+      "12": "LULA - Como presidente, nunca fico incomodado.",
+      "13": "Não acho que o papel da imprensa é fiscalizar.",
+      "14": "O papel é informar.",
+      "15": "FOLHA - A imprensa não tem de ser fiscal do poder?",
+      "16": "LULA - Para ser fiscal, tem o Tribunal de Contas da União, a Corregedoria-Geral da República, tem um monte de coisas.",
+      "17": "A imprensa tem de ser o grande órgão informador da opinião pública.",
+      "18": "Essa informação pode ser de elogios ao governo, de denúncias sobre o governo, de outros assuntos.",
+      "19": "A única que peço a Deus é que a imprensa informe da maneira mais isenta possível, e as posições políticas sejam colocadas nos editoriais.",
+      "20": "[Folha de S.",
+      "21": "Paulo, 22 de outubro de 2009] Na abertura da 1ª Conferência Nacional de Comunicação, ontem, em Brasília, o presidente Luiz Inácio Lula da Silva disse ter \"compromisso sagrado\" com a liberdade de imprensa, mas criticou excessos cometidos por jornais, rádios e TVs.",
+      "22": "\"Tenho orgulho de dizer que a imprensa no Brasil é livre.",
+      "23": "Ela apura e deixa de apurar o que quer.",
+      "24": "Publica e deixa de publicar o que deseja.",
+      "25": "Opina e deixa de opinar sobre o que bem entende.",
+      "26": "Meu compromisso com a liberdade de imprensa é sagrado\", afirmou o presidente.",
+      "27": "Falando para cerca de 1.",
+      "28": "400 delegados de empresas, movimentos sociais e órgãos públicos, o presidente ressalvou que essa mesma imprensa também \"se excede, despreza os fatos e embarca em campanhas, divulga inverdades ou mesmo dissemina calúnias e infâmias\".",
+      "29": "[Folha de S.",
+      "30": "Paulo, 15 de dezembro de 2009] A imprensa, a democracia e a cidadania O conceito clássico de democracia pressupõe três poderes - Executivo, Legislativo e Judiciário - equilibrados e exercendo mútuo controle em benefício do conjunto da sociedade.",
+      "31": "A imprensa, ou para sermos mais genéricos, os meios de comunicação, formam hoje uma parte indissolúvel do sistema democrático moderno.",
+      "32": "Não há como conceber democracia sem uma imprensa livre e vigorosa.",
+      "33": "A imprensa é um dos canais por meio dos quais a sociedade civil se manifesta, emite opiniões, troca informações, vigia, denuncia e cobra dos três poderes clássicos o perfeito funcionamento daquilo que entendemos como democracia.",
+      "34": "[Jorge Werthein - Representante da UNESCO no Brasil, 8 de julho de 2004]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "A impresa  tem um grande papel perante a sociedade, tem a função de informar sobre fatos recentes, entreter, fornecer conhecimentos de maneiras mais rápidas, fiscalizar os governantes.",
+    "1": "Com isso  a liberdade de impressa  é fundamental,         no         Brasil a imprensa tem liberdade de cobrar  do poder um governo justo e alertar a sociedade dos golpes descobertos.",
+    "2": "Antes da invenção da imprensa, as noticias  demoravam para chegar, hoje o que aconteceu de importante pode ser visto quase que instantaneamente pelos espectadores .",
+    "3": "Um terremoto no Haiti, no Chile, no México é apresentado a  sociedade naquela hora,           ao contrario  do que aconteceria antes dos meios de comunicação.",
+    "4": "Para que seu papel seja exercido com responsabilidade é preciso existir o equilíbrio  , não se pode criticar um governo só porque é contra este.",
+    "5": "A tranparência  é um fator importante na impresa  , os fatos tem  que ser averiguados e confirmados, uma noticia  sobre o poder público não pode ser publicada  com base em suposição, sendo que fato mal interpretado             pode causar movimentações indesejadas .",
+    "6": "A defamação  e as calunias  não fazem parte do jonalismo  , os meios de comunicação devem possuir responsabilidade ao divulgar determinadas noticias  , mostrar fatos reais, tem  um dever com a sociedade e cabe a ela  a responsabilidade de divulgar as informações.",
+    "7": "Outro fator importante é a renovação dos fatos que acontecem, fatos repetidos e antigos não interessam ao público .",
+    "8": "Noticias  é o que não faltam no mundo moderno, todos os dias são mais e mais fatores ocorrendo no mundo todo, e é o papel da imprensa divulgar, mantendo a sociedade informada.",
+    "9": "A liberdade de imprensa foi uma conquista adquirida no Brasil só no fim do século XX, com o fim da ditatura  , portanto todos têm direito de ficarem                 informados tanto sobre o poder que governa o país, quanto sobre fatores naturais, sendo dever da televisão, do radio  , da internet, dos jornais e revistas divulgar os acontecimentos.",
+    "10": "Os meios de comunicação trazem informações de modo mais rápido e eficaz para a sociedade, podendo assim expandir seus conhecimentos sobre assuntos gerais,                 que são de grande importância tanto para o atual e quanto para o futuro profissional ."
+  },
+  "redacao_gerada": {
+    "0": "No mundo de hoje, a comunicação é uma coisa muito importante para todo mundo, tipo assim, as pessoas precisam se comunicar sempre para saber das coisas que estão acontecendo.",
+    "1": "A imprensa, ela é um jeito de fazer essa comunicação ser mais fácil e chegar em mais gente, mas nem todo mundo entende bem o que ela faz de verdade, e isso é um problema que a gente vê por aí.",
+    "2": "A imprensa, então, tem um papel muito importante, ela tem que mostrar o que tá acontecendo na sociedade, tipo os fatos, sabe?",
+    "3": "Ela mostra as notícias para a gente, e isso é bom para todo mundo ficar sabendo de tudo, se não tivesse a imprensa, as pessoas não saberia das notícias, e isso seria muito ruim para a sociedade toda, que ficaria sem informação e sem saber o que fazer.",
+    "4": "É uma coisa que faz a gente parar para pensar sobre o mundo e suas coisas.",
+    "5": "As vezes, a imprensa também tem que falar das coisas que não são tão boas, tipo corrupção e esses problemas com os políticos, porque se não falar, as pessoas não vai saber que tem um problema sério acontecendo.",
+    "6": "E numa sociedade democrática, que é onde a gente vive e escolhe nossos representantes, é importante que todo mundo saiba de tudo para poder decidir melhor.",
+    "7": "Mas tem gente que acha que a imprensa só fala mal e só mostra o lado ruim, e isso é um problema que precisa ser resolvido para que a gente confie mais no que é dito.",
+    "8": "Para resolver isso, a imprensa deveria ser mais equilibrada, sabe?",
+    "9": "Falar das coisas boas e das coisas ruins, para todo mundo ter uma visão completa dos fatos e não só um pedaço.",
+    "10": "O governo podia ajudar nisso, fazendo campanhas de conscientização para a população entender melhor o jornalismo e não achar que é tudo manipulação.",
+    "11": "Assim, a democracia seria mais forte e as pessoas ficariam mais informadas de verdade sobre o que acontece no país, tendo mais certeza do que acreditar e do que não.",
+    "12": "É importante que todos façam sua parte."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "14",
+        "17"
+      ]
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "17"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "32",
+        "33"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4",
+        "5"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4",
+        "5"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "32",
+        "33"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

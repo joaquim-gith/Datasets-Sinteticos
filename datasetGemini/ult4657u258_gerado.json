@@ -1,0 +1,207 @@
+{
+  "tema": "o-famoso-conflito-de-geracoes-ainda-existe-hoje",
+  "comando_tematico": {
+    "frases": {
+      "0": "O famoso conflito de gerações ainda existe hoje?",
+      "1": "Com o avanço tecnológico, tudo acontece mais rápido na atualidade.",
+      "2": "Isso aproxima as idades, bem como o seu modo de ser, de pensar e de se comportar.",
+      "3": "A transformação dos costumes, ocorrida a partir da década de 1960 e que teve como marco mais célebre o ano de 1968, fez a família se modernizar e mudar de estilo.",
+      "4": "Entretanto, muitos afirmam que ainda existe o célebre conflito entre gerações.",
+      "5": "Pais e filhos continuam com relacionamento difícil e raramente conseguem chegar a um acordo sobre questões essenciais da vida cotidiana.",
+      "6": "O que você pensa disso?",
+      "7": "Justifique suas opiniões com fatos e argumentos.",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Filhos são o melhor radar para o sucesso Andrew Lippman, fundador do Institulo de Tecnologia de Massachutsetts (EUA), afirma que \"a velocidade com que as gerações surgem, hoje, diminuiu de 30 para três anos, e que, para estar atualizado, um empresário [que quiser ter sucesso] deve perceber quais produtos mais atraem seus filhos.",
+      "4": ") Folha de S.",
+      "5": "Paulo.",
+      "6": "8 de junho de 2008.",
+      "7": "Caderno \"Negócios\", pág.",
+      "8": "4 Maitena, Folha de S.",
+      "9": "Paulo, 25 de maio de 2008 Honrar pai e mãe (.",
+      "12": ") \"Foi-se o patriarcado, em que havia regras rígidas.",
+      "13": "Eu não quereria estar na pele dos infratores de então, os filhos que ousavam discordar.",
+      "14": "Em lugar da antiga rigidez e distância, estabeleceu-se a alegre bagunça, com mais demonstrações de afeto, mais liberdade, mais respeito pelas individualidades - muitas vezes com resultados dramáticos.",
+      "15": "Lembro a frase que já escrevi nesta coluna, do psicólogo que me revelou: \"a maior parte dos jovens perturbados que atendo não tem em casa pai e mães, tem uma gatão e uma gatinha (.",
+      "19": "Pais bonzinhos são tão danosos quanto pais indiferentes\".",
+      "20": "Lya Luft, Veja, 11 de junho de 2008, pág.",
+      "21": "18 Escândalo social \" No meu tempo não havia essa história de responder para o pai ou para mãe e ter vontades egoístas.",
+      "22": "Todos obedeciam com um olhar, comiam o que tinha, pediam licença pra tudo.",
+      "23": "O menino e a menina já sabiam o seu futuro.",
+      "24": "Se o pai tinha um açougue, ele também ia ser açougueiro.",
+      "25": "Se a mãe era professora, a filha tinha de ser um pouco mais: talvez advogada.",
+      "26": "Hoje o mundo está de cabeça para baixo, porque os filhos é que mandam nos pais, os filhos mudam o jeito dos pais, até o jeito de lidar com os negócios familiares.",
+      "27": "Criticam tudo, fazem barulho, ouvem músicas absurdas, não respeitam a geração dos avós, vivem no computador mas, apesar de tudo, ficam um tempo enorme morando na mesma casa.",
+      "28": "É um escândalo social.",
+      "29": "\" Érica Winsburg, professora universitária aposentada, 70 anos, em entrevista a Flávia Di Roberto.",
+      "30": "Texto inédito."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Rebeldia.",
+    "1": "Pseuda-independência.",
+    "2": "Confusos.",
+    "3": "Esses adjetivos acompanham muitos jovens .",
+    "4": "De carona, os pais embarcam nas aflições e dúvidas de seus filhos.",
+    "5": "É certo que nessa idade é, de certa forma, normal a agitação dos adolescentes, mas muitas vezes os pais contribuem.",
+    "6": "A indiferença dos pais com \"o mundo dos adolescentes\" não ajuda para a construção de um relacionamento amigo e solidário.",
+    "7": "É preciso flexibilidade para lidar com a juventude.",
+    "8": "Educar - e não impor -, demonstrar os valores da cidadania, a importância do fortalecimento das famílias e, principalmente, o prejuízo das condutas imorais e ilícitas.",
+    "9": "Entretanto, pais demasiadamente liberais prejudicam o desenvolvimento dos filhos.",
+    "10": "É importante, de forma controlada, permitir que os filhos encarem algumas situações da vida.",
+    "11": "Delegar, proporcionalmente à idade, algumas responsabilidades.",
+    "12": "Acima de tudo, saber dizer: sim ou não.",
+    "13": "Porém, há casos notórios de sucesso de relacionamento entre esses pólos.",
+    "14": "O equilíbrio e respeito se sobressaem nesses casos.",
+    "15": "A família, então unida, encara com mais força os desafios da vida.",
+    "16": "Percebe-se nesses casos uma estrutura familiar sólida, baseada no diálogo e na educação.",
+    "17": "Portanto, a sociedade, como nunca, deve investir cada vez mais no fortalecimento da família.",
+    "18": "O Estado, por sua vez, deve incentivar o planejamento familiar.",
+    "19": "Os pais devem sempre buscar o diálogo com seus filhos.",
+    "20": "E caso tenham problemas, procurem orientações de especialistas.",
+    "21": "Afinal, os jovens não são problemas, e sim, o futuro de um país."
+  },
+  "redacao_gerada": {
+    "0": "É um tema muito falado hoje em dia, esse tal conflito de gerações.",
+    "1": "Muita gente pensa que ele já não existe mais, por causa da tecnologia que aproxima as pessoas.",
+    "2": "Mas outros fala que pais e filhos ainda tem muita briga e não se entende direito.",
+    "3": "Eu acho que sim, que o conflito ainda tá lá, só que de um jeito diferente, mais moderno.",
+    "4": "Antigamente, os pais mandava e os filhos obedecia sem questionar.",
+    "5": "Hoje em dia, os jovens tem suas própria ideias e não aceita tudo o que os mais velho diz.",
+    "6": "Eles passam muito tempo no computador, ouvindo músicas que os pais não compreende e falando gírias estranhas.",
+    "7": "Isso gera muito atrito em casa, sobre o horário de chegar, o que vestir, e o futuro também, porque os filhos não quer seguir o caminho dos pais, eles quer escolher.",
+    "8": "É verdade que a família mudou bastante depois dos anos sessenta, com a modernização dos costumes.",
+    "9": "Não tem mais tanta rigidez como antes, os pais são mais amigos dos filhos, quase um gatão e uma gatinha.",
+    "10": "A velocidade das coisa hoje em dia, com a internet, faz todo mundo ficar por dentro de tudo, e as idades se aproximam.",
+    "11": "Mas mesmo assim, a diferença de cabeça entre eles continua, e os pais não sabe lidar com a liberdade dos filhos, que as vezes parece um escândalo social.",
+    "12": "Então, dá pra ver que o conflito de gerações não sumiu, ele só se transformou.",
+    "13": "Agora é sobre outros problemas, tipo tecnologia, respeito e a autonomia dos jovens.",
+    "14": "É importante que todos tentem se entender, para que a convivência seja mais tranquila e feliz.",
+    "15": "Porque no fim, todo mundo quer o bem da família, e o diálogo é sempre o melhor caminho para isso."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "21",
+        "22"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "26",
+        "27"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "27"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "23",
+        "24",
+        "25",
+        "26"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "14",
+        "17",
+        "18"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "14",
+        "28"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

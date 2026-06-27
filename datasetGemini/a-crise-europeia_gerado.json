@@ -1,0 +1,223 @@
+{
+  "tema": "qual-a-importancia-para-o-brasil-e-para-o-mundo-da-crise-financeira-dos-paises-da-zona-do-euro",
+  "comando_tematico": {
+    "frases": {
+      "0": "Qual a importância, para o Brasil e para o mundo, da crise financeira dos países da zona do euro?",
+      "1": "Faz dez anos que o euro passou a ser usado como moeda única em países que compõem a União Europeia, porém, com as recentes divulgações das fortes crises econômicas enfrentadas por países como a Grécia, a ligação política da chamada zona do euro teve seu prestígio abalado.",
+      "2": "Especialistas explicam que o descontrole econômico na região deu-se, fundamentalmente, por problemas fiscais, já que, nos últimos anos, alguns países pertencentes ao grupo gastaram mais dinheiro do que puderam arrecadar com impostos.",
+      "3": "A desconfiança de que os governos da região teriam dificuldade para honrar suas dívidas fez com que os investidores passassem a temer possuir ações, bem como títulos públicos e privados europeus.",
+      "4": "A crise, além de provocar problemas sociais e políticos na Europa, pode atingir o mundo todo, já que a redução nas importações europeias compromete o comércio internacional.",
+      "5": "Leia os textos da coletânea e depois"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Crise do Euro União monetária faz dez anos na Europa Há dez anos, em 1º.",
+      "1": "de janeiro de 2002, entrou oficialmente em circulação o euro, a moeda única em países que compõem a União Europeia (UE).",
+      "2": "O lastro monetário simbolizava a integração do continente que, no século 20, enfrentou duas guerras mundiais e uma divisão ideológica que quase provocou uma terceira.",
+      "3": "A Eurozona é composta por 17 dos 27 Estados-membros da UE: Alemanha, Áustria, Bélgica, Chipre, Eslováquia, Eslovênia, Espanha, Estônia, Finlândia, França, Grécia, Irlanda, Itália, Luxemburgo, Malta, Países Baixos e Portugal.",
+      "4": "A moeda é usada diariamente por 332 milhões de europeus.",
+      "5": "O euro também é a segunda maior reserva monetária internacional e a segunda maior comercial, atrás somente do dólar americano.",
+      "6": "A moeda que passou a ser usada pelos europeus, há uma década já era corrente entre os mercados financeiros desde 1999.",
+      "7": "Nesse ano, os governos aboliram moedas locais nas transações comerciais entre países.",
+      "8": "O objetivo era unir mais as nações e gerar mais desenvolvimento econômico.",
+      "9": "Apesar disso, a Europa enfrenta desde 2009 uma crise de débito que ameaça a estabilidade do bloco, obrigando os governos a fazerem reformas impopulares que já derrubaram nove líderes político nos últimos três anos.",
+      "10": "Em países como Grécia, Espanha, Portugal e Irlanda, a dívida pública e o déficit no orçamento ultrapassam em muito os limites estabelecidos para a Eurozona.",
+      "11": "[ UOL Educação ] A crise na Grécia quase põe o euro em xeque e a Europa em crise Euro cai a menor nível frente ao dólar em dois anos Segundo analistas, otimismo em relação à Europa desapareceu completamente O euro caiu no início da tarde para 1,2266 dólar, o menor nível ante o dólar desde julho de 2010.",
+      "12": "Além do relatório sobre emprego nos EUA, que veio abaixo do esperado, os investidores ainda digerem as ações anunciadas na quinta-feira por importantes bancos centrais.",
+      "13": "O fato de o Banco Central Europeu (BCE) ter cortado sua taxa básica de juros para a mínima histórica de 0,75% e de o Banco do Povo da China (PBOC, na sigla em inglês) ter reduzido seus juros pela segunda vez em um mês mostra que a preocupação das autoridades com a situação da economia é grande.",
+      "17": ") Analistas apontam que o otimismo em relação à Europa, após a cúpula realizada no fim da semana passada, desapareceu completamente, até porque os líderes da União Europeia ainda precisam implementar vários acordos para fortalecer a confiança dos investidores nas economias da zona do euro.",
+      "18": "[ Revista Veja ] Com crise europeia e China, Brasil dependerá mais de si O Brasil vai depender cada vez mais de suas próprias forças para ter um crescimento sustentado nos próximos anos, em meio à crise na zona do euro e à desaceleração da economia chinesa, segundo o presidente do BNDES, Luciano Coutinho.",
+      "19": "Segundo ele, o país não pode se limitar à produção e exportação de commodities, mas precisa reinventar sua indústria e o setor de serviços para enfrentar a concorrência mundial.",
+      "20": "\"Precisamos ter (cuidado) para não cair em simplismos.",
+      "21": "É difícil, mas o Brasil pode escapar de forma criativa\", disse.",
+      "22": "Para Coutinho, o Brasil tem oportunidades na área de commodities, mas precisa ter uma indústria robusta e dinâmica, e que o banco vai ter um papel importante nesse processo.",
+      "23": "Coutinho reforçou ainda a necessidade de o país ampliar suas taxas de poupança para assegurar um crescimento sustentável.",
+      "24": "\"O Brasil tem uma fronteira de investimentos em infraestrutura, energia e logística, importante para melhorar a competitividade.",
+      "25": "Essa fronteira pode ser induzida pelo governo para aumentar a taxa de poupança \", disse.",
+      "26": "Coutinho participou da abertura do seminário \"O Brasil e o Mundo em 2022\", em comemoração pelos 60 anos do BNDES.",
+      "27": "[ Da Reuters, no UOL Economia ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "A Europa, sempre lembrada como uma região de altíssimo desenvolvimento econômico e bem estar social, agora tem sua imagem associada a  turbulência de mercado devido a  crise econômica que afeta a Zona do Euro.",
+    "1": "Embora o Brasil não esteja incluso entre os países que são afetados diretamente por essa crise  é importante saber como esse cenário negativo afeta nosso país.",
+    "2": "Os motivos dessa crise se deram pelo Endividamento  público elevado, principalmente de países como a Grécia, Portugal, Espanha, Itália e Irlanda e também por Falta  de coordenação política da União Europeia para resolver questões de endividamento público das nações do bloco.",
+    "3": "A crise pode, de acordo com alguns economistas, causar recessão econômica mundial.",
+    "4": "O Brasil veio a se contaminar com a crise, pois assim como ele, outros países fora do bloco mantinham relações comerciais com a região europeia.",
+    "5": "O mercado europeu sempre foi muito importante para o Brasil.",
+    "6": "Se o crescimento da Europa vai ser menor, a capacidade que temos de exportar para eles também é menor.",
+    "7": "Por outro lado, como há uma injeção de dinheiro muito forte para resolver o problema do ponto de vista financeiro, acaba havendo um excedente de dinheiro na economia global que automaticamente aumenta a inflação, inclusive no Brasil.",
+    "8": "Medidas efetivas devem ser tomadas urgentemente para solucionar a situação, o Brasil deve usar de criatividade e investir em uma forma de economia nova, onde  esta venha a aumentar seu desenvolvimento interno  reduzindo ao máximo a dependência de outros países, medidas  como essa já foram eficientes, temos como exemplo          a substituição das importações implementada por Getúlio Vargas que fez com que o Brasil viesse a desenvolver sua industrialização.",
+    "9": "Fica evidente que a crise europeia tem afetado muitos países que mantém  relações comercias com o bloco, sendo assim, devem ser tomadas medidas inovadoras que venham a propiciar a independência de nosso país,e  ajudar a combater consequências drásticas."
+  },
+  "redacao_gerada": {
+    "0": "A crise financeira que tá rolando nos paises da zona do euro é uma coisa muito séria e de grande importancia pra o Brasil e para o mundo.",
+    "1": "Essa situação dificil lá na Europa tem muitas consequencias, e é algo que todos devem prestar atenção.",
+    "2": "O euro, que era uma moeda forte, agora está em crise, e isso afeta a economia global de diversas maneiras que ainda não sabemos direito o que fazer com tudo isso.",
+    "3": "É fato que lá na Europa, os paises tá tudo em crise.",
+    "4": "Tipo, a Grécia e outros, eles gastaram muito dinheiro e agora tá sem ter como pagar.",
+    "5": "Isso faz com que as pessoas não confie mais neles, sabe?",
+    "6": "Os investidor não quer mais botar dinheiro lá.",
+    "7": "É um problema que já derrubou vários governos e deixa a população numa situação bem complicada, e isso é ruim pra eles e pra todo mundo.",
+    "8": "O Brasil, por sua vez, também é afetado por essa crise.",
+    "9": "Se a Europa não compra mais nossas coisas, a gente vende menos.",
+    "10": "Isso prejudica a economia do Brasil.",
+    "11": "Também tem a questão do dólar, que fica mais forte ou mais fraco, e isso mexe com tudo.",
+    "12": "O mundo é um lugar conectado, e por isso, o que acontece lá, chega aqui.",
+    "13": "É uma situação que exige muita atenção de todo mundo e que o Brasil tem que se virar.",
+    "14": "Então, pra concluir, a crise do euro é muito importante e afeta todo mundo.",
+    "15": "É preciso que os paises se ajudem e que o governo faça alguma coisa pra melhorar.",
+    "16": "O Brasil tem que se virar e não pode depender só dos outros.",
+    "17": "É uma lição pra todo mundo, que temos que ter cuidado com as finanças e pensar no futuro pra não ter mais crises assim, porque ninguém quer isso."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "9",
+        "18"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "1",
+        "4"
+      ],
+      "textos_motivadores": [
+        "0",
+        "5",
+        "11"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10",
+        "11"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "17"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "11",
+        "12"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "18",
+        "19"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "0",
+        "9",
+        "18"
+      ]
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "13",
+        "17"
+      ]
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "18",
+        "19"
+      ]
+    },
+    "17": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "23"
+      ]
+    }
+  }
+}

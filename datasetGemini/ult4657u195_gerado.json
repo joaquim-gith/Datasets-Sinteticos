@@ -1,0 +1,160 @@
+{
+  "tema": "fomos-dominados-pelas-maquinas-que-inventamos",
+  "comando_tematico": {
+    "frases": {
+      "0": "Fomos dominados pelas máquinas que inventamos?",
+      "1": "Já não conseguimos viver sem celular, computador, internet e outros poderosos recursos tecnológicos.",
+      "2": "Queiramos ou não, eles transformaram o mundo durante o século 20 e ingressaram no século 21 com uma velocidade espantosa.",
+      "3": "Muita gente se adapta rapidamente às novidades e nem lembra como era a vida sem elas.",
+      "4": "Para outros, porém, ocorre uma dúvida: nossa existência seria melhor ou pior sem tudo isso?",
+      "5": "Seríamos diferentes?",
+      "6": "Há quem odeie e quem ame irrestritamente essas máquinas.",
+      "7": "Qual é nossa relação com os avanços da tecnologia?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ser humano se tornou uma extensão da roda O Rio chegou a 2 milhões de carros; São Paulo, a 6 milhões.",
+      "1": "No Rio, é um carro para cada três habitantes; em São Paulo, são dois.",
+      "2": "O automóvel venceu.",
+      "3": "O comunicólogo Marshal McLuhan, talvez a única voz otimista de 1968, errou feio: o ser humano é que se tornou uma extensão da roda.",
+      "4": "Mas, em 2008, quem quiser chegar rapidinho a qualquer lugar, é melhor que vá a pé.",
+      "5": "Ruy Castro, \"Folha de S.",
+      "6": "Paulo\", 17 Estresse ou vida partilhada Glauco, \"Folha de S.",
+      "7": "Paulo\", 05 A máquina e o poeta Cota Zero Stop.",
+      "8": "A vida parou Ou foi o automóvel?",
+      "9": "Carlos Drummond de Andrade (1902-1987, \"Alguma Poesia\", 1930) Os sábios e a cultura \"Com o aparecimento da escrita, alguns sábios temeram que o conhecimento, que antes estava vivo na cabeça, viria a morrer, esquecido nas páginas de um livro.",
+      "10": "Com a expansão dos meios de comunicação e a conseqüente chuva de informações, alguns sábios temeram que o conhecimento (.",
+      "13": ") viria a degenerar-se em papel de embrulhar peixe e ondas espalhadas no espaço.",
+      "14": "Com a explosão da internet (.",
+      "17": "), e a extrema facilidade de encontrar uma informação, alguns sábios temem que tudo acabe em desinteresse.",
+      "18": "Luiz Zico Rocha Soares, (\"Internet, um mundo paralelo\".",
+      "19": "Melhoramentos, 2007,."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Segundo estudos recentes, houve um aumento considerável do número de carros comprados por brasileiros nos últimos anos, assim como o de televisões de tela plana, tocadores de música, celulares multifuncionais e câmeras digitais.",
+    "1": "A baixa dos preços no mercado provocou a socialização da tecnologia, e com isso a dependência em relação a esta aumentou expressivamente.",
+    "2": "O ser humano não consegue mais imaginar-se sem esses aparatos tecnológicos.",
+    "3": "Considera a vida mais prática, mais rápida e apesar do prolongamento da expectativa de vida, a qualidade desta não seguiu as mesmas proporções.",
+    "4": "Hospitais e escolas ainda perecem devido à sua péssima qualidade, enquanto os cidadãos comemoram a chegada da TV digital ao país.",
+    "5": "Não se pode negar os avanços que a tecnologia propiciou no campo das pesquisas científicas , entretanto, deve-se reconhecer o quanto esta nos fez reféns e quantas mudanças negativas provocou.",
+    "6": "Jovens passam noites inteiras em frente a telas de computadores e a maior parte sofre de distúrbios causados por estresse; distúrbios que antes só eram verificados entre adultos.",
+    "7": "É impossível regredir e tentar viver sem um computador com conexão à Internet, entretanto, devemos nos policiar quanto ao seu uso.",
+    "8": "Não nascemos grudados a esses aparelhos, portanto podemos e devemos nos desligar deles algumas horas por dia."
+  },
+  "redacao_gerada": {
+    "0": "A incessante evolução tecnológica tem redefinido os contornos da existência humana, especialmente à partir do século XXI.",
+    "1": "Celulares, computadores e a vasta rede de internet, antes meras ferramentas, hoje parecem partes intrínsecas do cotidiano, levando a uma reflexão crucial: fomos dominados pelas máquinas que inventamos?",
+    "2": "Essa questão reside na ambiguidade de um progresso que, ao mesmo tempo que facilita, gera uma dependência crescente e, por vezes, alienante.",
+    "3": "É inegável que a vida contemporânea se tornou intrinsecamente ligada à tecnologia.",
+    "4": "A incapácidade de muitos de passar um dia sem o celular, por exemplo, ilustra uma dependência que transcende a mera conveniência.",
+    "5": "O comunicólogo Marshal McLuhan, em sua visão otimista, previu que as máquinas seriam extensões do homem; contudo, a realidade atual parece inverter essa lógica, onde o próprio ser humano se tornou uma extensão da engrenagem tecnológica.",
+    "6": "Tal cenário sugere que a autonomia individual pode estar sendo corroída pela constante necessidade de conexão e acesso à informação, transformando o que era auxílio em um novo tipo de jugo.",
+    "7": "Ademais, essa dominação não se restringe à dependência prática, mas adentra o campo cognitivo e social.",
+    "8": "A enxurrada de informações proporcionada pela internet, embora pareça enriquecedora, por vezes deságua à uma superficialidade do conhecimento e um desinteresse generalizado.",
+    "9": "Assim como sábios antigos temeram que a escrita matasse o conhecimento vivo, ou que a expansão da mídia o degenerasse, hoje o excesso de dados e a facilidade de acesso podem levar a um paradoxo: a informação abundante resultando em uma menor capacidade de aprofundamento e pensamento crítico.",
+    "10": "A vida, antes pautada por interações mais profundas, agora se dilui em telas e algoritmos.",
+    "11": "Diante desse panorama de interconexão e dependência, é imperativo que a sociedade repense sua relação com o aparato tecnológico.",
+    "12": "Para mitigar os efeitos de uma possível dominação, faz-se necessário que os indivíduos, por meio da educação e da auto-reflexão, cultivem o uso consciente e moderado dessas ferramentas.",
+    "13": "Somente assim será possível reverter a lógica de ser uma extensão da máquina, resgatando a autonomia e o discernimento, para que a tecnologia sirva ao homem, e não o contrário."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "4",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "3"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "10",
+        "17"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9",
+        "10",
+        "17"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0",
+        "3"
+      ]
+    }
+  }
+}

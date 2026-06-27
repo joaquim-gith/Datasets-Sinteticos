@@ -1,0 +1,197 @@
+{
+  "tema": "a-gramatica-facilita-ou-dificulta-a-comunicacao",
+  "comando_tematico": {
+    "frases": {
+      "0": "A gramática facilita ou dificulta a comunicação?",
+      "1": "As regras gramaticais têm como objetivo uniformizar a língua de um povo, padronizá-la, de modo a torná-la comum e acessível a todos os usuários.",
+      "2": "Em poucas palavras, a gramática deve facilitar a comunicação.",
+      "3": "No entanto, a imensa dificuldade dos estudantes em aprendê-la sugere que isso talvez não ocorra de fato.",
+      "4": "O grande número de normas - às vezes sobre detalhes aparentemente insignificantes - não acaba complicando e criando confusão?",
+      "5": "Que importância tem, por exemplo, a troca de uma única letra na grafia de uma palavra?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 A língua é viva, quem não sabe?",
+      "1": "Basta ver o que acontece a ela, sempre aberta aos modismos.",
+      "2": "Agora mesmo está nas ruas uma maré de jeitos novos de falar, extrídos do filme \"Tropa de Elite\".",
+      "3": "A língua se enriquece, sai da boca do povo para os dicionários, amolda-se às regras gramaticais.",
+      "4": "Mas o problema são as regras, ah as regras!",
+      "5": "Se fizessem um plebiscito, é possível que as regras fossem banidas do Brasil.",
+      "6": "Aí todo mundo falaria e escreveria à vontade, sem ser vigiado por esses \"manuais de censura\" que são as gramáticas.",
+      "7": "Falaríamos gostosamente, sem receios e seríamos talvez mais felizes.",
+      "8": "Nada de escolher entre x e ch, entre s e z, e adeus acentos.",
+      "9": "Caso isso acontecesse, no entanto, estariam oficializados o descaso e o desrespeito ao idioma que falamos.",
+      "10": "Que conseqüências poderiam decorrer disso?",
+      "11": "Crime contra a gramática Texto 2 Um erro literalmente federal \"Um único carimbo fabricado com pouco zelo em relação à língua portuguesa fez com que milhares de documentos oficiais da Câmara e do Senado trouxessem um 'Congreço Nacional' estampado nos cantos inferiores de suas páginas.",
+      "12": "O tropeço vocabular está grafado em documentos como medidas provisórias enviadas pelo Executivo.",
+      "13": "O carimbo, fabricado em meados de agosto, está em documentos com datas até cerca de três semanas atrás, quando finalmente alguém descobriu o erro.",
+      "14": "\" Folha On-Line - 03 - 09h24 Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A língua portuguesa, falada e escrita por nós brasileiros, é generosa em regras .",
+    "1": "Esta talvez seja uma de suas principais características.",
+    "2": "Estas regras foram criadas para unificar a língua, tornando seu entendimento e seu desenvolvimento, acessível a qualquer brasileiro.",
+    "3": "Porém, o que podemos notar no nosso cotidiano, é o exato contrário do objetivo das regras .",
+    "4": "A cada dia, escrevemos um português mais distante daquele idealizado pelos gramáticos e falamos um português mais diversificado, e ainda mais distante daquilo que a gramática nos ensina.",
+    "5": "Na escola,aprendemos a norma culta da língua, aquela que nos faz, ou deveria nos fazer, escrever e falar, de forma coerente com as regras pré estabelecidas, e estas por vezes não nos parecerão muito claras e tão pouco úteis diante da realidade de um povo que escreve pouco, lê menos ainda e atravessa a vida, falando.",
+    "6": "A verdade é que as regras, acabaram por cair no desuso , em detrimento da língua falada, um tanto quanto diferente da língua escrita.",
+    "7": "É muito mais dinâmica, e utilizada por qualquer sociedade e classe social, isto é, falamos mais do que escrevemos.",
+    "8": "As regras que aprendemos, são pouco utilizadas pelos brasileiros , até porque o sistema de ensino público no Brasil é de baixa qualidade, não ensinando nem tudo e nem a todos, aquilo que deveriam aprender como regras da própria língua.",
+    "9": "Criou-se daí, um abismo entre classes sociais, os que podem estudar em colégio particulares e em consequência, não cometem ou cometem menos erros gramaticais, por serem melhores conhecedores das regras, e os mais humildes, que não podem pagar um escola particular e acabam falando errado, escrevendo errado e sendo ridicularizados.",
+    "10": "O fato é que existe um \"português\", criado pelo povo comum, sem acesso a educação, paralelo ao português ensinado pelos gramáticos.",
+    "11": "E dentro do mesmo país, acabamos falando de uma forma completamente diferente do que escrevemos, e apesar disso, das regras em desuso e do abismo \"gramático-social\" em que nossa sociedade vive, nos entendemos muito bem.",
+    "12": "Isso tudo talvez prove que algumas regras, podem ser importantes , até para que cada um não invente uma linguagem própria de acordo com o que acham mais correto, mas acima das regras está a criatividade daqueles que podem até não saber de tudo, mas com o pouco que sabem interpretam muito bem o mundo que está a sua volta.",
+    "13": "Ter regras para unificar é plausível, mas para segregar é heresia.",
+    "14": "Façamos o melhor da interpretação de nossa língua, usemos as regras para torná-la mais audível aos sensíveis ouvidos dos conhecedores da gramática, mas acima de tudo, deixemos nossa língua evoluir e tornar-se menos burocrática e mais democrática para nós, brasileiros."
+  },
+  "redacao_gerada": {
+    "0": "A linguagem, enquanto pilar fundamental da interação humana, configura-se como um sistema dinâmico e complexo, cuja estrutura é frequentemente balizada pela gramática.",
+    "1": "Nesse cenário, emerge um dilema persistente: a gramática, com seu arcabouço normativo, realmente facilita ou, ao contrário, dificulta a comunicação entre os indivíduos?",
+    "2": "Embora seja inegável que a padronização linguística promovida pelas regras gramaticais é crucial para a clareza e uniformidade em contextos formais, a intrínseca complexidade e a rigidez da norma culta podem, paradoxalmente, impor obstáculos à fluidez expressiva e fomentar a exclusão social, gerando insegurança e distanciamento.",
+    "3": "Primordialmente, a gramática normativa desempenha um papel inegável na garantia da inteligibilidade e da uniformidade linguística, especialmente em ambientes que demandam precisão.",
+    "4": "Conforme os preceitos do linguista Ferdinand de Saussure, a língua é um sistema de signos sociais e arbitrários, cuja eficácia depende da adesão a um conjunto de convenções compartilhadas.",
+    "5": "Nesse sentido, a padronização gramatical assegura que documentos legais, textos científicos e comunicações oficiais sejam compreendidos por um universo amplo de falantes, evitando ambiguidades e garantindo a eficácia de leis, políticas públicas e informações cruciais.",
+    "6": "A capacidade de um Estado-nação de se comunicar de forma coesa com seus cidadãos, por exemplo, é intrinsecamente ligada à existência de uma norma linguística estabelecida, que transcende as variantes regionais e sociais para promover uma compreensão universalizada.",
+    "7": "Contudo, a despeito de sua função estruturante, a excessiva rigidez e a intrincada malha de preceitos gramaticais podem, paradoxalmente, obstruir a comunicação e gerar exclusão social.",
+    "8": "O sociólogo Pierre Bourdieu, ao abordar o conceito de capital linguístico, evidencia como o domínio da norma culta se torna um instrumento de distinção e poder, resultando em uma \"violência simbólica\" contra aqueles que não a possuem.",
+    "9": "A dificuldade de aprendizado da gramática, muitas vezes focada em detalhes aparentemente insignificantes, gera insegurança linguística em grande parte da população, inibindo a espontaneidade e a livre expressão.",
+    "10": "Assim, a exigência intransigente da norma padrão em todos os contextos, inclusive os informais, transforma a língua de ferramenta de união em barreira, marginalizando e silenciando vozes que não se enquadram nos padrões preestabelecidos, o que contradiz o propósito primordial de facilitar a comunicação.",
+    "11": "Dessarte, a gramática se revela um fenômeno ambivalente, essencial para a ordem e a clareza formal, mas potencialmente excludente em sua aplicação rígida.",
+    "12": "Para mitigar os entraves à comunicação e promover uma relação mais saudável com a língua, o Ministério da Educação (MEC), em parceria com instituições de ensino e linguistas, deve promover uma reavaliação e modernização do ensino de língua portuguesa.",
+    "13": "Tal ação deve ocorrer por meio da adoção de abordagens pedagógicas que valorizem a diversidade linguística e o uso contextualizado da gramática, em detrimento da memorização pura de regras.",
+    "14": "Essa medida visa a democratização do acesso ao conhecimento linguístico e o desenvolvimento de uma comunicação mais inclusiva e eficaz, que reconheça a língua como um organismo vivo e plural, sem estigmatizar as variantes populares, garantindo que a gramática seja um instrumento de facilitação, e não de segregação."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "M0",
+        "M1",
+        "M3"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "C0"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "textos_motivadores": [
+        "M4"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "C1"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "C1",
+        "C2"
+      ],
+      "textos_motivadores": [
+        "M11",
+        "M12"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "C1"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "C3",
+        "C4"
+      ],
+      "textos_motivadores": [
+        "M4"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "C3",
+        "C4",
+        "C5"
+      ],
+      "textos_motivadores": [
+        "M6",
+        "M7",
+        "M8"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "C3",
+        "C4"
+      ],
+      "textos_motivadores": [
+        "M6"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "C0",
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "textos_motivadores": [
+        "M4",
+        "M9",
+        "M10"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "C3",
+        "C4"
+      ],
+      "textos_motivadores": [
+        "M6",
+        "M8"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "textos_motivadores": [
+        "M0",
+        "M1",
+        "M3",
+        "M6"
+      ]
+    }
+  }
+}

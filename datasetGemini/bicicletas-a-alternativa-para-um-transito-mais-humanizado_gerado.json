@@ -1,0 +1,190 @@
+{
+  "tema": "bicicletas-e-ciclofaixas-estao-chegando-para-ficar",
+  "comando_tematico": {
+    "frases": {
+      "0": "Bicicletas e ciclofaixas estão chegando para ficar?",
+      "1": "O uso da bicicleta como alternativa para o transporte nas grandes cidades brasileiras está na ordem do dia.",
+      "2": "As bikes contribuiriam para resolver problemas de mobilidade urbana, por ajudar a retirar carros das ruas e ocupar menos espaço do que eles.",
+      "3": "Além disso, trata-se de um meio de transporte que não produz poluição, nem do ar, nem sonora.",
+      "4": "Contudo, ao lado dos inegáveis pontos positivos, há vários problemas em fazer das bicicletas um meio de transporte viável no Brasil: como torná-las seguras em meio ao trânsito caótico e como obrigar os motoristas respeitarem os ciclistas?",
+      "5": "A implantação de ciclovias, em São Paulo, por exemplo, tem gerado polêmicas.",
+      "6": "Há também quem argumente que aqui não é a França ou a Holanda, onde o uso da bicicleta como meio de transporte (e não apenas de lazer) é uma realidade.",
+      "7": "Como você se coloca diante dessa discussão?",
+      "8": "Acredita que a bicicleta é uma opção viável ou acha que, independentemente de intervenções governamentais, as bikes não deixarão de ser utilizadas somente como meio de esporte e lazer?",
+      "9": "Leia a seguir algumas informações que podem ajudá-lo a refletir sobre o assunto e discuta-o numa dissertação argumentativa.",
+      "10": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Em Brasília, o ministro das Cidades, Gilberto Occhi, inaugura 30 vagas para bicicletas no Ministério e enviou documento a todos os diretores de órgãos federais pedindo que estimulem o uso das bikes Fatos estatísticos Segundo a pesquisa Datafolha, 80% dos paulistanos dizem ser a favor da implantação dessas vias e 60% acreditam que a bicicleta é um meio de transporte viável para o dia a dia.",
+      "1": "Apesar disso, o número de adeptos é tímido - 3% dizem usar a bike com frequência.",
+      "2": "Um em cada três paulistanos tem bicicleta.",
+      "3": "Nesse grupo, 47% dizem já haver usado uma ciclovia da cidade.",
+      "4": "A maioria, porém, declara pedalar nessas vias no máximo duas vezes por semana.",
+      "5": "Dos que não têm bicicleta, 22% afirmam que pretendem comprar no futuro próximo.",
+      "6": "[ Folha de S.",
+      "7": "Paulo ] Cidadãos descontentes Moradores e comerciantes de Santa Cecília, no centro de São Paulo, marcaram um protesto contra a implantação de ciclovias no bairro e ameaçam registrar boletim de ocorrência contra a prefeitura para tentar barrar a iniciativa.",
+      "8": "Além da falta de aviso prévio ou de debate sobre os impactos das novas ciclovias, os moradores e comerciantes reclamam das alterações provocadas no trânsito com a criação das pistas para bicicletas.",
+      "9": "Entre elas está a restrição do espaço dos outros veículos, a eliminação de vagas de estacionamento gratuito e de Zona Azul, proibição de parar e estacionar, a alteração de sentido e a redução da velocidade máxima.",
+      "10": "[ Folha de S.",
+      "11": "Paulo ] Potencial Trata-se, não por acaso, de tendência nas principais metrópoles do mundo [o uso das bikes].",
+      "12": "A bicicleta é um meio de transporte limpo, que ocupa muito menos espaço do que um carro (embora não seja \"a\" solução para os problemas de mobilidade urbana) e oferece a seus usuários a possibilidade de não ficar refém das condições do trânsito.",
+      "13": "Numa cidade como São Paulo, porém, nunca foi fácil usar bicicletas, e não surpreende que apenas 3% dos paulistanos digam se valer desse transporte com frequência.",
+      "14": "Construir 400 km de ciclovias, como quer Haddad, decerto não aplainará o terreno acidentado nem tornará a metrópole mais segura, mas ao menos dará aos ciclistas alguma proteção num sistema tão hostil quanto caótico.",
+      "15": "O potencial de atração dessas vias é significativo.",
+      "16": "Entre os entrevistados, 22% declaram intenção de, nos próximos seis meses, comprar uma bicicleta (32% já têm uma), e 41% indicam ser grande a chance de usar as ciclovias.",
+      "17": "[ Folha de S.",
+      "18": "Paulo ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Congestionamentos, estresse, barulho, poluição e rompimento das relações sociais .",
+    "1": "Os problemas gerados pelo uso do transporte individual motorizado são visíveis e presentes diariamente na vida do brasileiro.",
+    "2": "Em meio a esse caos, surge o ciclista: indefeso, porém ecológico, ocupando menos espaço, exercitando-se e  percorrendo  de forma mais rápida em meio aos congestionamentos.",
+    "3": "Será a bicicleta a solução?",
+    "4": "No espaço urbano atual, não a  espaço  para a bicicleta.",
+    "5": "Aliás, nos grandes centros, não há espaço nem para os carros.",
+    "6": "O planejamento é todo voltado para o veículo motorizado e o ciclista se sente intimidado a disputar espaço com os carros, pois a bicicleta não oferece segurança ao condutor.",
+    "7": "Além disso, os motoristas dos carros se impõem sobre as bicicletas, desrespeitando o ciclista, o que inibe ainda mais o uso das bikes.",
+    "8": "No Brasil, na cidade de São Paulo , por exemplo, o governo criou diversas ciclofaixas para uso exclusivo de bicicletas nos grandes centros para estimular o uso , mas a sinalização é desrespeitada e é comum ver carros trafegando sobre elas.",
+    "9": "Nas redes sociais, os que são contra a instalação dos corredores para bicicletas afirmam que elas estão tomando o espaço dos carros e congestionando mais ainda o trânsito.",
+    "10": "No entanto, não levam em conta que a instalação das mesmas é justamente para estimular o trabalhador e o estudante a deixar seu carro em casa e ir de bicicleta para que as vias fiquem menos saturadas.",
+    "11": "Em países europeus como Holanda, o transporte não motorizado funciona.",
+    "12": "Os cidadãos utilizam a bicicleta para o lazer e também para ir ao trabalho, escola, entre outros.",
+    "13": "Existe uma infraestrutura muito boa para os ciclistas: uma malha viária de ciclovias muito extensas  , além de estacionamentos exclusivos para bicicletas.",
+    "14": "Além disso, o          povo europeu está acostumado com esse modal  e por isso há o respeito mútuo entre o ciclista e o motorista de carro.",
+    "15": "Assim percebe-se que a bicicleta é um modal necessário e fundamental para a terra do samba, pois estimula o motorista a pedalar .",
+    "16": "No entanto, é necessário que sejam criadas  pelo poder público a infraestrutura necessária  como as ciclofaixas, os estacionamentos, ou até mesmo um sistema público de locação          para que o cidadão que não tem uma bicicleta possa utilizar.",
+    "17": "É interessante também que o povo seja educado por meio de campanhas  a fim de mostrar os benefícios do veículo não motorizado.",
+    "18": "Dessa maneira, o trânsito se torna mais humanizado e          democrático ."
+  },
+  "redacao_gerada": {
+    "0": "A crescente complexidade da mobilidade urbana nas grandes metrópoles contemporâneas impulsiona a busca por soluções inovadoras e sustentáveis.",
+    "1": "Nesse cenário, o advento e a expansão das bicicletas e de suas infraestruturas dedicadas, as ciclofaixas e ciclovias, transcendem o caráter de mera alternativa para se consolidarem como elementos permanentes e essenciais do planejamento urbano.",
+    "2": "Essa evolução representa não apenas uma resposta à crise ambiental e à necessidade de promoção da saúde pública, mas também uma reconfiguração do espaço urbano que favorece a inclusão e a eficiência, apesar dos desafios inerentes à sua implementação em contextos de trânsito já caótico.",
+    "3": "Primordialmente, a adesão à bicicleta como meio de transporte coaduna-se com a crescente conscientização acerca da urgência climática e da promoção do bem-estar individual.",
+    "4": "Em uma sociedade pautada pela aceleração e pelo consumo, conforme criticado por Zygmunt Bauman em sua análise da modernidade líquida, a bicicleta emerge como um contraponto, oferecendo um deslocamento limpo, silencioso e que fomenta a atividade física.",
+    "5": "Ao substituir veículos motorizados, ela contribui para a redução significativa da emissão de poluentes atmosféricos e sonoros, mitigando os impactos negativos à saúde humana e ao meio ambiente, além de otimizar o uso do espaço público.",
+    "6": "Outrossim, a proliferação da infraestrutura cicloviária redefine a dinâmica das cidades e fomenta uma interação mais humana com o ambiente urbano.",
+    "7": "A filósofa e urbanista Jane Jacobs, em \"Morte e Vida das Grandes Cidades Americanas\", já defendia a importância das ruas como espaços de convivência e vitalidade.",
+    "8": "Nesse sentido, a implementação de ciclovias, ao criar corredores seguros para os ciclistas, não só alivia o congestionamento veicular e diminui a necessidade de grandes espaços para estacionamento, mas também democratiza o acesso ao transporte, tornando as cidades mais acessíveis e equitativas.",
+    "9": "Contudo, é imperativo que essa expansão seja acompanhada de um planejamento urbano criterioso para evitar conflitos e garantir a segurança de todos os usuários.",
+    "10": "Em suma, a permanência das bicicletas e ciclofaixas no panorama urbano brasileiro é um imperativo social e ambiental inquestionável.",
+    "11": "Para consolidar essa transformação, o Ministério das Cidades, em colaboração com as prefeituras e a sociedade civil organizada, deve implementar programas de incentivo ao uso da bicicleta e expandir a malha cicloviária.",
+    "12": "Isso deve ser feito através de investimentos em infraestrutura segura e bem sinalizada, campanhas educativas de conscientização para a convivência pacífica no trânsito e a facilitação do acesso a sistemas de compartilhamento de bicicletas, a fim de promover uma mobilidade urbana mais sustentável, saudável e inclusiva.",
+    "13": "Tais ações devem assegurar que as novas vias sejam estrategicamente conectadas a pontos-chave da cidade e que a legislação de trânsito seja rigorosamente fiscalizada, garantindo o respeito mútuo entre todos os modais e a efetividade da proposta."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "11"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "2",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "2",
+        "3"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "12",
+        "14"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "11"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "4",
+        "8"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

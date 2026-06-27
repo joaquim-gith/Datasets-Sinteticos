@@ -1,0 +1,194 @@
+{
+  "tema": "por-que-as-pessoas-mentem-pela-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Por que as pessoas mentem pela internet?",
+      "1": "Pesquisa realizada pela Universidade de Cornell, nos Estados Unidos, revelou que 81% das pessoas que utilizam sites de relacionamento na internet mentem para aqueles com quem se comunicam.",
+      "2": "Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas a seus parceiros de chat.",
+      "3": "Quais os motivos dessa atitude?",
+      "4": "Trata-se apenas da vontade de impressionar o outro?",
+      "5": "Ou haverá um motivo mais profundo: a insatisfação consigo mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Quem está atrás do teclado?",
+      "1": "Um indivíduo isolado envia mensagens solitárias e busca o amor por meio de imagens virtuais.",
+      "2": "Ele se realiza em casa, protegido, à distância, e corre o risco de se decepcionar, quando, e se, um encontro real vier a ser marcado.",
+      "3": "Estamos no século do amor via internet com pessoas namorando virtualmente sem o calor dos corpos que se entregam.",
+      "4": "Mas, afinal, que tipo de relação se estabelece via computador?",
+      "5": "Existe vínculo?",
+      "6": "Se houver traição virtual, como fica o relacionamento entre os namorados?",
+      "7": "Basta se desconectar para pôr fim a um envolvimento emocional.",
+      "8": "Jairo Bouer comenta a pesquisa Texto 2 Segundo o filósofo francês Jean-Paul Sartre, \"o ser humano possui uma atração doentia pela verdade\".",
+      "9": "Sartre considera que o desejo da verdade aparece muito cedo nos seres humanos e se manifesta como vontade de confiar nas coisas e nas pessoas, isto é, de acreditar que as coisas são exatamente como o indivíduo as percebe e o que as pessoas lhe dizem é digno de confiança e crédito.",
+      "10": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Já estamos acostumados a nos esconder atrás de codinomes e \"nicknames\" no mundo da Internet.",
+    "1": "É um modo mais seguro e também mais divertido, que nos caracteriza, geralmente destacando algo de nossa personalidade.",
+    "2": "Mas na hora de nos revelarmos também nos escondemos atrás de falsas idades, características e até de personalidades, os conhecidos \"fakes\".",
+    "3": "Geralmente isso é feito por questão de segurança, pois ao revelar seu nome, idade, e foto para um desconhecido, representa muito risco hoje em dia.",
+    "4": ".",
+    "5": "Então o melhor a fazer é inventar dados, e após um certo tempo havendo confiança, começar a revelar os verdadeiros dados, mas nada mais do que o básico.",
+    "6": "Em sites de relacionamento como o orkut, além dessa omissão de alguns dados há dois outros modos de mentir sobre si mesmo.",
+    "7": "O primeiro é tentar criar uma nova personalidade.",
+    "8": "Fazer-se sentir na moda, na onda momentânea, publicando fotos editadas, com roupas que não são suas, ou que você nem mesmo usaria normalmente, e criando perfis descrevendo coisas que você não é.",
+    "9": "Isso pode ser entendido como uma frustração, uma crise de identidade, ou como uma forma de chamar atenção dos amigos, de parecer legal diante às pessoas de sua idade.",
+    "10": "Outro modo é a criação de \"fakes\", em que a pessoa seleciona um artista ou personagem de seu agrado, um ídolo, e cria um perfil com o nome da pessoa e fotos.",
+    "11": "Para isso pode haver muitos motivos.",
+    "12": "O primeiro é apenas o fanatismo por alguém, o segundo é medo com a própria segurança, em que a pessoa prefere não publicar dados nem fotos na Internet, e se comunicar com os amigos através de um perfil simbólico.",
+    "13": "Há o terceiro motivo, em que o dono do perfil o cria com o intuito de criticar ou xingar alguém de um modo que não seja descoberto.",
+    "14": "Então o que não podemos negar é que as pessoas nunca admitem ser quem realmente são, o que com certeza é mais seguro e indicado, mas também pode ser prejudicial à própria identidade dependendo a que grau de seriedade a pessoa levar."
+  },
+  "redacao_gerada": {
+    "0": "A internet hoje em dia eh um lugar aonde muita gente passa o tempo.",
+    "1": "E nesses lugares, tipo redes sociais, as pessoas mentem bastante.",
+    "2": "Isso acontece pq eh fácil inventar umas coisas sobre vc mesmo.",
+    "3": "Tipo, vc pode ser outra pessoa, sabe?",
+    "4": "É uma coisa que faz parte da vida online.",
+    "5": "Agente mente pra impressionar os outros, isso eh claro.",
+    "6": "Ninguém quer parecer feio ou pobre na internet, entaum colocam fotos boas e falam que tem uma vida melhor.",
+    "7": "As vezes a pessoa naum gosta de quem ela eh de verdade, porisso inventa um personagem.",
+    "8": "É tipo uma fuga da realidade, eh uma coisa que acontece muito.",
+    "9": "E tbm tem a questão da segurança, né?",
+    "10": "As pessoas naum querem mostrar tudo sobre elas.",
+    "11": "Mas isso naum eh bem mentir, eh mais se proteger.",
+    "12": "Mas voltando as mentiras, tipo idade e peso, isso eh pra se sentir melhor, sabe?",
+    "13": "A insatisfação com a própria imagem faz as pessoas quererem seje diferentes no mundo virtual.",
+    "14": "Entaum, por tudo isso, as mentiras na internet são uma coisa complicada.",
+    "15": "É um problema que afeta todo mundo, porque ninguém sabe em quem confiar.",
+    "16": "As autoridades deviam fazer algo pra que as pessoas parassem de mentir tanto, tipo campanhas de conscientização.",
+    "17": "E as pessoas tbm tem que ser mais verdadeiras com elas mesmas e com os outros."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "tema": "organismos-transgenicos-fonte-de-problemas-ou-de-solucoes",
+  "comando_tematico": {
+    "frases": {
+      "0": "Organismos transgênicos: fonte de problemas ou de soluções?",
+      "1": "A discussão não chega a ser recente, mas nem por isso deixa de ter grande importância.",
+      "2": "Com a evolução da ciência e da tecnologia, o ser humano passou a criar organismos transgênicos, com finalidades variadas.",
+      "3": "Eles podem ser usados na agricultura, produzindo espécies de plantas capazes de enfrentar as mudanças climáticas; na criação de animais, com frangos resistentes à gripe aviária; na indústria farmacêutica, com pesquisas sobre algas cujas moléculas são capazes de inibir a replicação do HIV - o vírus da Aids.",
+      "4": "No entanto, há outros aspectos dos transgênicos que devem ser considerados.",
+      "5": "Muitos críticos do uso dessa tecnologia, particularmente na produção de alimentos, alertam para os seus riscos, tanto os presumíveis quanto os imponderáveis, para a saúde do ser humano e do meio ambiente.",
+      "6": "Leia os textos da coletânea, informe-se sobre a questão dos transgênicos e redija um texto dissertativo-argumentativo, expondo sua opinião sobre o problema: para você, os transgênicos geram problemas ou soluções?",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Plantação no RS: a soja geneticamente modificada ocupou cerca de 92% da área plantada com essa oleaginosa entre 2013 e 2014.",
+      "1": "Você sabia?",
+      "2": "De acordo com um relatório do Serviço Internacional para Aquisição de Aplicações em Agrobiotecnologia (cuja sigla em inglês é ISAAA), o Brasil ocupa o segundo lugar no mundo entre os países que mais cultivam variedades geneticamente modificadas de grãos e fibras.",
+      "3": "Perdemos apenas para os Estados Unidos.",
+      "4": "Atualmente, quase 90% do milho e da soja plantados no Brasil são transgênicos.",
+      "5": "[ ISAAA ] Produtos de alto risco Os transgênicos, ou organismos geneticamente modificados, são produtos de cruzamentos que jamais aconteceriam na natureza, como, por exemplo, arroz com bactéria.",
+      "6": "Por meio de um ramo de pesquisa relativamente novo (a engenharia genética), fabricantes de agroquímicos criam sementes resistentes a seus próprios agrotóxicos, ou mesmo sementes que produzem plantas inseticidas.",
+      "7": "As empresas ganham com isso, mas nós pagamos um preço alto: riscos à nossa saúde e ao ambiente onde vivemos.",
+      "8": "Diante da crise climática em que vivemos, a preservação da biodiversidade funciona como um seguro, uma garantia de que teremos opções viáveis de produção de alimentos no futuro e estaremos prontos para os efeitos das mudanças climáticas sobre a agricultura.",
+      "9": "Nesse cenário, os transgênicos representam um duplo risco.",
+      "10": "Primeiro por serem resistentes a agrotóxicos, ou possuírem propriedades inseticidas, o uso contínuo de sementes transgênicas leva à resistência de ervas daninhas e insetos, o que por sua vez leva o agricultor a aumentar a dose de agrotóxicos ano a ano.",
+      "11": "[ Greenpeace ] Resistência às mudanças climáticas O presidente da Monsanto no Brasil aposta que as empresas de biotecnologia se dedicarão nos próximos anos a criar plantas menos sensíveis às variações do clima, fazendo com que o aquecimento global não impeça o aumento da produção de comida.",
+      "12": "Numa entrevista à Folha de S.",
+      "13": "Paulo , ele declarou:“Acho que a importância da biotecnologia perante as mudanças climáticas vai ficar cada vez mais clara.",
+      "14": "Podemos desenvolver plantas com maior tolerância à seca, maior tolerância a variações de temperatura, germinação mesmo em condições não ideais.",
+      "15": "A outra tendência é agregar valor para o consumidor final.",
+      "16": "O arroz dourado é um dos maiores exemplos [geneticamente modificado para ser enriquecido com vitamina A].",
+      "17": "[ Folha de S.",
+      "18": "Paulo ] Um outro aspecto da questão O brasileiro José Graziano, presidente da FAO, o órgão da ONU que trata de alimentação e agricultura, declarou em entrevista concedida a uma revista especializada em avicutura industrial: “Os transgênicos são um avanço científico muito importante para a humanidade exatamente porque não é tão somente um tema de alimentos.",
+      "19": "Tende-se a confundir os transgênicos com as sementes de soja.",
+      "20": "Este, no entanto, não é um tema de monopólio das sementes.",
+      "21": "Há as mais diversas aplicações para os transgênicos.",
+      "22": "Estou vindo agora de Barão Geraldo [ distrito do município de Campinas-SP ], onde há uma infestação de dengue.",
+      "23": "Uma das soluções encontradas para solucionar o problema é soltar um macho geneticamente modificado do mosquito Aedes aegypti [ vetor da doença ] que não procria.",
+      "24": "” [ Avicultura Industrial ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "A transgenia alimentar engloba diversos aspectos, tais como ambientais, éticos e de saúde.",
+    "1": "Enquanto uns acreditam que nela esta  a solução, outros divergem, afirmando que ela acarreta ainda mais problemas.",
+    "2": "A gama de possibilidades que os transgênicos nos oferecem, é  realmente grande, mas até que ponto o homem pode interferir no curso da natureza?",
+    "3": "Até que ponto a transgenia pode ser favorável e até que ponto ela pode ser letal?",
+    "4": "Aí esta o grande empasse  dos alimentos transgênicos.",
+    "5": "Os favoráveis a esse tipo de tecnologia afirmam que ela pode acabar com a fome no mundo, uma vez que          a mesma, aumenta em até 80% a produção de alimentos.",
+    "6": "Porém é sabido que o problema da fome não está na sua produção, mas sim em sua distribuição, que é feita de forma irregular .",
+    "7": "Há ainda os que dizem que esses alimentos não fazem mal nenhum a  saúde e que as pesquisas comprovam isso.",
+    "8": "Mas se analisarmos, vemos que as pesquisas são feitas a curto prazo, de até no máximo 90 dias.",
+    "9": "No entanto  um grupo de pesquisadores da Europa, realizou  uma pesquisa em ratos de laboratório, durante 2  anos, que é um tempo considerável, e as cobaias apresentaram câncer e tumores.",
+    "10": "Ao levarmos esses aspectos em consideração, vemos que a transgenia é um desconhecido e que é preciso calma e muitas análises antes de utilizá-la.",
+    "11": "Mas infelizmente o ser humano é escravo da ganância e somente visa lucros e mais lucros, cabe  a nós, consumidores, exigir que esses alimentos sejam rotulados, para que possamos escolher se queremos ou não correr esse risco."
+  },
+  "redacao_gerada": {
+    "0": "No mundo de hoje, cheio de inovações, a gente vê muito avanço.",
+    "1": "Um desses avanços, que gera grande discussão, são os organismos transgênicos.",
+    "2": "Eles são tipo um negócio que a ciência criou pra ajudar, mas também tem gente que não gosta muito disso, porque pode dar problema.",
+    "3": "É uma questão complexa que merece ser olhada com cuidado.",
+    "4": "Muita gente fala que os transgênicos ajudam a ter mais comida.",
+    "5": "Tipo, as planta ficam mais forte e não morre com as pragas, o que é bom para os fazendeiros e para os população, que tem mais o que comer.",
+    "6": "Então, a fome seria combatida com essas coisa.",
+    "7": "É uma solução que parece boa para o nosso país e o mundo, garantindo alimento pra todo mundo e evitando perdas na lavoura.",
+    "8": "Mas, por outro lado, tem um monte de gente que tem medo dos transgênicos.",
+    "9": "Eles falam que faz mal para a saude das pessoas, que pode dar doença nova.",
+    "10": "E também pro meioambiente, tipo desequilibrar a natureza e os bichos.",
+    "11": "Não se sabe bem o que acontece no futuro, se comer muito dessas coisa.",
+    "12": "É um risco que não podemos ignorar, porque a vida da gente é importante e o planeta também presisa de atenção.",
+    "13": "Então, diante de tudo isso, fica claro que os transgênicos são um tema com dois lados.",
+    "14": "Eles podem trazer coisas boas, mas também ruins.",
+    "15": "O governo, as empresas e a sociedade precisa pensar melhor nisso.",
+    "16": "É preciso que se faça mais pesquisas e que se informe a população direito, para que todos saibam o que estão comendo e o que estão fazendo com o planeta.",
+    "17": "Assim, podemos ter um futuro melhor para todos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "5"
+      ],
+      "textos_motivadores": [
+        "7"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "11",
+        "13",
+        "14"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "6",
+        "11",
+        "14"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "11"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "11",
+        "14"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "7"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "7"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

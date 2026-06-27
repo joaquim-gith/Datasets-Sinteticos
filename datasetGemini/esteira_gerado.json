@@ -1,0 +1,221 @@
+{
+  "tema": "qual-a-relacao-entre-o-estudo-e-uma-carreira-profissional-bem-sucedida",
+  "comando_tematico": {
+    "frases": {
+      "0": "Qual a relação entre o estudo e uma carreira profissional bem sucedida?",
+      "1": "A educação costuma ser apontada como um dos principais direitos sociais, devido aos benefícios que pode proporcionar ao cidadão.",
+      "2": "Uma recente pesquisa internacional, por exemplo, revelou que quem estuda é mais feliz.",
+      "3": "Outro argumento muito usado em favor da educação formal são os índices econômicos e trabalhistas, pois quem estuda normalmente ocupa os postos de trabalho mais bem pagos e consegue uma qualidade de vida melhor.",
+      "4": "Mas há exceções: de Sílvio Santos a Bill Gates, são vários os exemplos de indivíduos que conquistaram sucesso pessoal e profissional sem possuir um diploma universitário, assim como muitos também são os casos de pessoas formadas que não se sentem realizadas.",
+      "5": "O que você pensa disso?",
+      "6": "Estudar pode tornar as pessoas mais felizes?",
+      "7": "Qual a relação entre o estudo e uma carreira profissional bem sucedida?",
+      "8": "Veja os textos de apoio e discuta essas questões em uma dissertação argumentativa de até 30 linhas.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Estudar faz pessoas serem mais felizes e viverem mais Um estudo recente sobre aspectos da educação mostra que quem estuda mais tende a ser mais feliz e ter uma expectativa de vida maior.",
+      "1": "O levantamento What are the social benefits of education?",
+      "2": "(Quais são os benefícios sociais da educação?",
+      "3": ", em tradução livre) foi produzido pela OCDE (Organização para a Cooperação e Desenvolvimento Econômico) e realizado em 15 países membros da organização – do qual o Brasil não faz parte.",
+      "4": "\"A educação ajuda as pessoas a desenvolver habilidades, melhorar a sua condição social e ter acesso a redes que podem ajudá-las a terem mais conquistas sociais\", dizem os autores da pesquisa.",
+      "5": "Segundo o estudo, as pessoas que estudam mais são mais felizes porque têm maior satisfação em diferentes esferas de sua vida.",
+      "6": "Esse nível de satisfação pessoal é de, em média, 18% a mais para quem tem nível superior em relação àquelas que pararam no ensino médio.",
+      "7": "Em relação ao aumento da expectativa de vida, o estudo mostra que um homem de 30 anos, por exemplo, pode viver mais 51 anos, caso tenha formação superior, enquanto aquele que cursou apenas o ensino médio viveria mais 43, ou seja, oito anos menos.",
+      "8": "Essa disparidade é mais acentuada na República Tcheca, onde os graduados podem viver 17 anos a mais.",
+      "9": "Já os portugueses, asseguraram a diferença mais baixa, apenas 3.",
+      "13": ") Participação política Em outro capítulo desse mesmo levantamento, realizado com um grupo de 27 países, a OCDE chegou à conclusão de que 80% dos jovens com ensino superior vão às urnas, enquanto o número cai para 54% entre aqueles que não têm formação superior.",
+      "14": "Os adultos mais escolarizados também são mais engajados quando o assunto é voluntariado, interesse político e confiança interpessoal.",
+      "15": "[ UOL Educação ] Milionários sem diploma Bill Gates abandonou Harvard, montou a Microsoft, e se tornou um dos homens mais ricos do mundo com uma fortuna de US$ 58 bilhões.",
+      "16": "Samuel Klein veio da Polônia para o Brasil fugido de um campo de concentração nazista durante a Segunda Guerra Mundial, começou a vender utensílios domésticos de porta em porta, fundou as Casas Bahia e hoje é o rei do varejo brasileiro com uma empresa que faturou R$ 12,5 bilhões em 2007.",
+      "17": "Silvio Santos, um camelô no Rio de Janeiro, virou dono de mais de 30 empresas e do canal de televisão SBT.",
+      "18": "O que todos esses empresários com histórias tão diferentes têm em comum?",
+      "19": "Além de patrimônios que ultrapassam nove dígitos, nenhum possui diploma de curso superior.",
+      "20": "Ou abandonaram o mundo acadêmico antes de conquistar o diploma ou nem mesmo tiveram a chance de chegar lá.",
+      "21": "Aprenderam na marra, quebraram a cara em algumas ocasiões, porém, triunfaram.",
+      "25": ") [ Istoé Dinheiro ] Hall da fama da evasão Veja Álbum de fotos sobre celebridades que abandonaram os estudos."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "O que antes era  apenas praticado por ricos, hoje em dia os estudos  vem  atingindo qualquer tipo de classe social.",
+    "1": "Por  apenas um objetivo: ter uma boa vida.",
+    "2": "De fato, do jeito em que esta  o mercado de trabalho, aqueles que não tem  um currículo apresentável não precisa  nem sair de casa.",
+    "3": "O mercado de trabalho está um tanto que  exigente por parte dos seus operarios.",
+    "4": "Já foi o tempo em que aceitavam qualquer um que estava passando na rua.",
+    "5": "Hoje eles querem mais  que apenas ler e escrever.",
+    "6": "Querem destreza, querem abilidade,querem  conhecimento.",
+    "7": "Ou seja,uma pessoa cursada  e qualificada.",
+    "8": "O problema é com aquelas pessoas,que realmente não querem estudar.",
+    "9": "Até  correm atrás de emprego e as  vezes até conseguem um trabalhinho aqui e outro ali.",
+    "10": "Porem são temporários  e não são bem remunerados.",
+    "11": "A pessoa acaba ficando assim, indo de um lado para o outro, mas sem resultados.",
+    "12": "Devido ao que foi exposto, fica claro que, nos dias de hoje, a população que não tem nenhuma escolaridade fica muito distante da tão sonhada \"vida boa\".",
+    "13": "Praticamente fica sem chão , é como uma esteira onde você pode caminhar à vontade porém nunca irá chegar a lugar algum.",
+    "14": "Pois  este é um problema que estamos vivendo no Brasil.",
+    "15": "Obrigar as pessoas a estudarem seria radical demais, porem insentivar  os governantes do nosso país          a ??espalhar??",
+    "16": "por ai mais escolas técnicas, escolas preparatórias e ejas  totalmente publicos,já  seria um ótimo começo."
+  },
+  "redacao_gerada": {
+    "0": "A relação entre o estudo e uma carreira proficional bem sucedida é um assunto muito falado hoje em dia.",
+    "1": "É tipo, todo mundo quer ter sucesso na vida, né?",
+    "2": "Essa é uma questão crucial que afeta a vida de muitas pessoa.",
+    "3": "E aí, o estudo aparece como uma ferramenta, ou melhor, a coisa mais importante pra isso acontecer.",
+    "4": "Sem estudo, a vida é bem mais complicada, com menos oportunidades e tal, e a gente não consegue o que quer.",
+    "5": "As pessoas que estudam mais, elas tendem a ser mais feliz e a ter uma vida melhor.",
+    "6": "Isso por que o estudo abre muitas porta e faz a pessoa ter mais conhecimento.",
+    "7": "Conhecimento é poder, e com poder a pessoa consegue muita coisa.",
+    "8": "Aí, com mais conhecimento, a pessoa consegue um emprego melhor, ganha mais dinheiro e pode comprar as coisas que quer, como uma casa e um carro.",
+    "9": "É uma coisa meio óbvia, mas muita gente esquece de como isso é fundamental para o futuro de qualquer um, e para a sociedade em geral.",
+    "10": "Alguns pensam que não precisa tanto assim.",
+    "11": "Tem gente famosa que ficou rica sem ir pra faculdade, tipo uns cara que largaram o curso e viraram milionário.",
+    "12": "Isso mostra que o diploma não é tudo.",
+    "13": "Mas isso é exceção, não pode ser a regra pra todo mundo.",
+    "14": "A maioria das pessoas precisa sim de um diploma pra ter uma carreira boa, por que o mercado de trabalho exige qualificassão e conhecimento técnico, que só a escola e a faculdade dão.",
+    "15": "Sem isso, fica muito dificil competir e ter um bom lugar ao sol.",
+    "16": "Para que mais pessoas atinjam esse objetivo, é preciso que o governo ajude.",
+    "17": "É necessário investir mais em escolas e em universidades, para que todos tem acesso a educação de qualidade.",
+    "18": "Também é importante que a família incentive os filhos a estudar, por que o apoio em casa faz muita diferença.",
+    "19": "Assim, o país melhora e as pessoas ficam mais contentes com suas carreira.",
+    "20": "É importante que todos pensam nisso e ajudem a mudar essa situação, por que é o melhor pra todo mundo e para o crescimento da nação."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "2",
+        "6"
+      ],
+      "textos_motivadores": [
+        "0",
+        "5"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "15",
+        "16",
+        "17",
+        "19",
+        "20"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "19"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "18": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "19": {
+      "comando_tematico": [
+        "1",
+        "6"
+      ],
+      "textos_motivadores": [
+        "0",
+        "5"
+      ]
+    },
+    "20": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

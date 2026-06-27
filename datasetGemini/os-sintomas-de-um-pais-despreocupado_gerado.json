@@ -1,0 +1,175 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "frases": {
+      "0": "Automedicação: por que a prática é tão comum entre os jovens?",
+      "1": "Uma pesquisa do ICTQ (Instituto de Ciência Tecnologia e Qualidade), feita em 12 capitais do país, mostrou que a automedicação é praticada por 76,4% dos brasileiros, a maioria dos quais (90,1%) jovens entre 16 e 24 anos.",
+      "2": "Além disso a pesquisa apontou ainda que quase um terço (32%) dos brasileiros que se automedicam costuma aumentar a dose do remédio por conta própria, sem orientação do médico ou do farmacêutico.",
+      "3": "Leia a seguir trechos de dois artigos sobre o tema e, considerando as posições neles apresentadas, redija uma dissertação, expondo sua posição sobre o assunto: você costuma se automedicar?",
+      "4": "Sim ou não e por quê?",
+      "5": "Com qual dos dois textos você tende a concordar?",
+      "6": "A partir de suas considerações pessoais, é possível explicar por que a automedicação é tão comum entre os jovens?",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Comprimidos também podem virar um objeto de desejo ou o consumidor sabe o que ingere?",
+      "1": "Fenômeno desejável, dentro de limites Antes de demonizar a automedicação e pintá-la como grande vilã da saúde pública, deve-se ter em mente que, dentro de certos limites, ela é um fenômeno desejável.",
+      "2": "A OMS, por exemplo, a descreve como “necessária” e com função complementar a todo sistema de saúde.",
+      "3": "O importante aqui é não perder de vista a totalidade do espaço amostral.",
+      "4": "Se olharmos só para as intoxicações involuntárias e óbitos daí decorrentes, fica mesmo parecendo que a automedicação é um mal a eliminar.",
+      "5": "Mas é preciso considerar também que a esmagadora maioria das doenças que afetam a população é autolimitada, não requerendo mais do que o alívio dos sintomas.",
+      "6": "Fazer com que a legião de pessoas que são diariamente acometidas por quadros virais menores e dores de cabeça benignas passe por um médico antes de ter acesso a um analgésico levaria os já saturados sistemas público e privado de atendimento ao colapso.",
+      "7": "A última coisa de que o SUS necessita é uma explosão da demanda motivada por casos triviais.",
+      "8": "O desafio diante das autoridades é encontrar o ponto ótimo na regulação que não onere demais o sistema com consultas desnecessárias nem estimule voos muito arriscados na automedicação.",
+      "9": "[ Hélio Schwartsman, Folha de S.",
+      "10": "Paulo ] A prática tem de parar A automedicação é um dos maus (e perigosos) hábitos mais difundidos no mundo.",
+      "11": "Mais do que uma atitude esporádica, trata-se de uma prática corriqueira – e de alto risco.",
+      "12": "Assim como em qualquer setor de mercado, os consumidores de remédios se julgam aptos a decidir qual produto adquirir.",
+      "13": "No entanto, os danos da ingestão inadequada de medicamentos, inclusive os isentos de prescrição médica, podem ser graves e até fatais.",
+      "14": "Segundo a Fundação Oswaldo Cruz (Fiocruz), quase 35 mil pessoas sofreram este tipo de intoxicação, em 2007, sendo que 90 morreram.",
+      "15": "Ouvir a experiência do vizinho ou somente ler a bula não basta: medicamentos fazem parte da prescrição de um tratamento e precisam ser indicados por profissional habilitado: o médico.",
+      "16": "Há décadas, o Ministério da Saúde divulga a orientação “Se persistirem os sintomas, o médico deverá ser consultado”, após as propagandas dos laboratórios farmacêuticos.",
+      "17": "Um encaminhamento completamente equivocado, segundo a Associação Paulista de Medicina (APM): “É uma premissa absurda, invertida, um convite à automedicação que coloca a procura do atendimento como uma simples alternativa à falha daquele produto”, protesta o diretor de Comunicação da APM, Renato Françoso Filho.",
+      "18": "Na tentativa de corrigir este equívoco, o projeto de lei 328 , que tramita no Senado, propõe a substituição da referida frase por “Antes de consumir qualquer medicamento, consulte um médico”.",
+      "19": "[ Acontece Comunicação e Notícias ção Paulista de Medicina ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A utilizaçao  de medicamentos por conta própria vem preocupando médicos e farmacêuticos do Brasil.",
+    "1": "Segundo uma recente pesquisa realizada pelo ICTQ (Instituto de Ciência Tecnologia e Qualidade), a prática da automedicação é constante entre a maioria da população (76,1%) destes,  (90,1%) sao de  jovens entre 16 à  24 anos.",
+    "2": "Apontar  os motivos dessa conduta arriscada pode nos levar a questões políticas e culturais.",
+    "3": "Vejamos, a cobertura por planos de saúde privados ainda é cara e de difícil acesso para a maioria da população, estima-se  que apenas 25% dos brasileiros estão vinculados a algum destes  sistemas.",
+    "4": "Somando a este fato  encontra-se o frágil sistema público de saúde, o SUS, com as mínimas condições  de atendimentos e qualidade.",
+    "5": "Carente  de mais atençao  .",
+    "6": "Por outro lado  vemos a facilidade na obtenção de medicamentos em farmácias, alguns de forma ilegal.",
+    "7": "Tudo isso leva as pessoas, principalmente os jovens, a buscarem em primeira opçao  , mais simples e rápida, a compra e o cunsumo  por conta própria  baseando-se em em experiencias  de terceiros e deixando o atendimento especializado em segundo plano, tal pratica  arriscada, sendo que todo e qualquer remédio tem efeitos colateráis  .",
+    "8": "Portanto, a automedicação é o reflexo da frágil estrutura de saúde do Brasil, que necessita de uma melhor qualidade  que pode e deveria ser concebida através de um repasse maior das receitas da união para a saúde.",
+    "9": "E usar os meios          mídianos para a conscientização dos riscos que o consumo de medicamentos sem prescrição de um profissional capacitado pode trazer.",
+    "10": "Afim  de combater a tal prática, de risco."
+  },
+  "redacao_gerada": {
+    "0": "A automedicação, prática disseminada na contemporaneidade, revela-se um fenômeno de particular relevância e preocupação quando analisada no contexto da juventude brasileira.",
+    "1": "Longe de ser um mero hábito esporádico, sua constância entre os jovens aponta para uma complexa interação de fatores sociais e culturais.",
+    "2": "Nesse cenário, o uso indiscriminado de fármacos por essa parcela da população é impulsionado, principalmente, pela lacuna na educação sanitária formal e pela influência de uma cultura consumista que naturaliza a busca por soluções imediatas para o bem-estar.",
+    "3": "Inicialmente, a carência de uma educação em saúde pública robusta e sistemática contribui significativamente para a desinformação juvenil acerca dos perigos intrínsecos à automedicação.",
+    "4": "Em uma sociedade que, conforme Michel Foucault, medicaliza progressivamente a vida, transformando questões existenciais em problemas passíveis de intervenção farmacológica, a ausência de um arcabouço educacional sólido impede que os jovens desenvolvam um senso crítico apurado.",
+    "5": "Assim, a dependência de fontes informais e, muitas vezes, duvidosas, como redes sociais e conselhos de pares, eleva a percepção de autossuficiência no diagnóstico e tratamento de enfermidades, ignorando as potenciais interações medicamentosas e efeitos adversos graves.",
+    "6": "Ademais, a sociedade contemporânea, imersa em um ethos consumista e na busca incessante por gratificação instantânea, fomenta a cultura da autodiagnose e do consumo irrefletido de fármacos.",
+    "7": "Segundo Zygmunt Bauman, a liquidez das relações e a efemeridade das soluções caracterizam a modernidade, onde até mesmo a saúde pode ser percebida como um produto a ser adquirido ou um incômodo a ser rapidamente eliminado.",
+    "8": "A facilidade de acesso a medicamentos, aliada à publicidade (direta ou indireta) que propaga a ideia de alívio imediato, transforma o fármaco em uma commodity, desvinculando-o de sua natureza de intervenção médica especializada e encorajando a experimentação sem acompanhamento profissional.",
+    "9": "Dessarte, para mitigar a alarmante prevalência da automedicação entre os jovens, faz-se imperativa uma ação coordenada.",
+    "10": "O Ministério da Saúde e o Ministério da Educação, em colaboração com entidades de saúde e a mídia, devem implementar programas educativos abrangentes.",
+    "11": "Tais iniciativas seriam realizadas através de campanhas informativas multimídia em redes sociais e plataformas digitais, bem como pela inserção de conteúdos sobre saúde responsável e riscos da automedicação nos currículos escolares, desde o ensino fundamental.",
+    "12": "O objetivo é capacitar os jovens a discernir informações confiáveis, fortalecer a percepção de risco e incentivar a busca por orientação profissional qualificada, promovendo uma cultura de saúde consciente e segura.",
+    "13": "As campanhas devem utilizar linguagem acessível e plataformas digitais populares entre os jovens, enquanto a escola deve promover debates e projetos práticos sobre saúde responsável, desmistificando o uso de medicamentos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "10",
+        "11"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "11"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "13",
+        "15"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "0",
+        "12"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "0",
+        "12",
+        "15"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "10",
+        "11"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "15"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

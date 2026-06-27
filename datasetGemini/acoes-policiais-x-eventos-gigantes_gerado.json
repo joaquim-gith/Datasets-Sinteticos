@@ -1,0 +1,185 @@
+{
+  "tema": "terrorismo-o-brasil-tem-razoes-para-teme-lo",
+  "comando_tematico": {
+    "frases": {
+      "0": "Terrorismo: o Brasil tem razões para temê-lo?",
+      "1": "Neste mês de junho, o Brasil vai receber a Copa das Confederações, um importante torneio esportivo internacional.",
+      "2": "O evento está sendo visto como um \"treino\" para dois outros acontecimentos de destaque do esporte mundial, que também serão sediados pelo país: a Copa do Mundo, em 2014, e as Olimpíadas, em 2016.",
+      "3": "A exemplo da Maratona de Boston, eventos desse tipo são considerados alvos privilegiados para organizações terroristas, num contexto internacional em que o terrorismo é uma ameaça sempre presente, com ações que visam chamar a atenção do maior número de pessoas para uma causa, por meio de atentados que provoquem impacto pela sua violência.",
+      "4": "Assim, jornalistas, autoridades e especialistas em segurança têm discutido se o Brasil está preparado para prevenir e enfrentar uma eventual ação terrorista, como se pode ver pelos textos abaixo.",
+      "5": "Leia-os, reflita e responda, por meio de uma dissertação, qual é a sua opinião sobre o assunto.",
+      "6": "Há razões para temor ou tranquilidade?",
+      "7": "Por quê?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Segurança nos eventos esportivos: Exército e Guarda Municipal do Rio de Janeiro fazem simulação de enfrentamento a manifestações no Maracanã Pode acontecer aqui?",
+      "4": ") o ministro da Defesa, Celso Amorim, reuniu-se com seus principais auxiliares.",
+      "5": "Queria saber como andam os preparativos para garantir a segurança durante a Copa das Confederações, marcada para junho próximo, e na Copa do Mundo, no ano que vem.",
+      "6": "A reunião ganhou contornos mais preocupantes após o atentado à bomba em Boston.",
+      "7": "Amorim estava especialmente interessado nas informações do general Marco Antônio Freire Gomes, comandante da Brigada de Operações Especiais, localizada em Goiânia.",
+      "8": "Freire Gomes é o responsável pelo destacamento encarregado das ações contraterrorismo durante grandes eventos.",
+      "9": "Essa elite militar conta com 1.",
+      "10": "200 homens especializados em atividades delicadas, como o desarme de bombas e artefatos químicos e radiativos.",
+      "11": "Entram em ação em situações extremas.",
+      "12": "Para um país com histórico pacífico, tamanha preparação pode até parecer desmedida.",
+      "13": "A natureza do terrorismo, revelada na tragédia de Boston, prova que não é.",
+      "14": "Os preparativos para a segurança dos grandes eventos começaram há cerca de dois anos.",
+      "15": "[ Revista Época ] Estamos preparados?",
+      "16": "O terrorista não mata por prazer ou sadismo, mas pela convicção de que a sua causa deve ser defendida e difundida a qualquer custo.",
+      "17": "O ato terrorista não é cometido a esmo.",
+      "18": "Ao escolher um alvo, uma organização terrorista avalia vários aspectos, dentre eles a competência do Estado em antever e prevenir o atentado e de neutralizar os seus executores.",
+      "19": "Ou seja, é levada em conta a capacidade de resposta do país-alvo.",
+      "23": ") No Brasil, o maior entrave às atividades de prevenção e combate ao terrorismo é a legislação (ou a falta dela).",
+      "24": "No vasto ordenamento jurídico brasileiro não há conceituação de terrorismo, nem previsão de penas a serem aplicadas a terroristas.",
+      "25": "O projeto de reforma do Código Penal prevê pela primeira vez o crime de terrorismo.",
+      "26": "Caso não sofra alterações, o texto legal passa a combinar as prováveis motivações terroristas com as diversas condutas que podem ser adotadas.",
+      "27": "Mas, caso haja um ataque antes que a nova lei entre em vigor, a polícia, o Judiciário, os legisladores e a sociedade ficarão se perguntado o que fazer.",
+      "31": ") Além das lacunas legais, existem outros aspectos relevantes.",
+      "32": "Em 2011, a diretoria de Fiscalização de Produtos Controlados do Exército divulgou relatório no qual informa que mais de uma tonelada de emulsão de nitrato de amônia e de dinamite foi roubada ou furtada (e não recuperada) de pedreiras e obras no Brasil.",
+      "33": "Isso significa que os recursos materiais a serem empregados num eventual atentado terrorista em território brasileiro podem ser facilmente obtidos aqui mesmo, sem que haja preocupação com a transposição de fronteiras.",
+      "34": "[ Carta Capital ] O Brasil está seguro?",
+      "35": "O ataque terrorista na Maratona de Boston, nos Estados Unidos, na semana passada, fez acender a luz amarela no Brasil.",
+      "36": "Embora o País não faça parte da rota do terror, os grandes eventos internacionais que acontecerão aqui nos próximos anos irão atrair para as cidades brasileiras dezenas de autoridades e milhares de jornalistas e cidadãos de diferentes nações.",
+      "37": "Em junho, Rio de Janeiro, Brasília, Belo Horizonte, Salvador, Recife e Fortaleza receberão jogos da Copa das Confederações e, no mês seguinte, o Rio será palco da Jornada Mundial da Juventude, com a presença do papa Francisco.",
+      "38": "Serão eventos-teste para a Copa do Mundo de 2014, que incluirá outras seis capitais, e, dois anos depois, para os Jogos Olímpicos, majoritariamente sediados na capital fluminense.",
+      "39": "Quanto mais visibilidade, maior a comoção diante de tragédias – e é isso que os terroristas buscam.",
+      "40": "Por isso, as autoridades estão se preparando para todo tipo de emergência.",
+      "41": "O governo federal investirá, em parceria com os 12 Estados-sede da Copa e a iniciativa privada, mais de R$ 2 bilhões em segurança.",
+      "42": "Ao todo, serão cerca de 142 mil policiais de todas as esferas em ruas e em pontos estratégicos.",
+      "43": "[ Revista Istoé ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Sediar eventos de grande porte em qualquer país que seja, requer  um investimento alto em segurança, para que desta  forma,          situações de terrorismo sejam inibidas.",
+    "1": "A mídia especula diariamente se o Brasil está realmente preparado para previnir eventuais ações de terror como aconteceu em Boston, onde          lançou-se uma bomba em meio a uma maratona.",
+    "2": "O governo brasileiro aplicou cerca de dois bilhões de reais em ações policiais para receber a Copa das Confederações e a Jornada Mundial da Juventude, como eventos teste para realizar ações contraterrorismo, caso venha a ocorrer.",
+    "3": "Tendo em vista que estes  eventos internacionais estão perto de acontecer, o Brasil se arma a fim de que tenha  um bom desempenho, principalmente na segurança, pois eventos como este, atrai  milhares de pessoas de diversas nações , e com isto deve-se atentar os olhos  para os riscos de uma possível violência.",
+    "4": "Então espera-se que o policiamento seja eficaz e traga excelentes resultados para que o país esteja apto a sediar a Copa.",
+    "5": "Por essa razão, para que não seja grande o número de boletim de ocorrências  em delegacias, o governo apostou no alto investimento a segurança, com policiais com treinamentos diversos, afim  de proteger a sociedade contra possíveis ataques."
+  },
+  "redacao_gerada": {
+    "0": "Terrorismo é um problema mundial muito grave, de verdade, que afeta muitas nações, e a gente vê na televisão que isso acontece muito em lugares como os EUA, causando muito sofrimento e uma grande destruição para as pessoas.",
+    "1": "O Brasil, que sempre foi um país de paz e alegria, sem esses tipos de problemas tão sérios, agora está recebendo muitos eventos grandes, tipo a Copa das Confederações, a Copa do Mundo em 2014 e também as Olimpíadas em 2016, e isso faz as pessoas se perguntarem, com razão, se a gente tem motivos para ter medo também, se o terrorismo pode chegar aqui e atrapalhar tudo.",
+    "2": "É um fato que o Brasil nunca teve histórico de atos terroristas em seu próprio território, o que é bom, mas com esses eventos internacionais tão importantes, o país fica muito visível para o mundo todo, e isso é um prato cheio para quem quer chamar atenção de um jeito ruim.",
+    "3": "A segurança pública é uma coisa muito, muito importante, essencial mesmo, mas parece que as autoridades ainda não sabem direito o que fazer para proteger a população e os muitos visitantes que virão.",
+    "4": "A lei brasileira, ela é muito antiga e não ajuda muito porque não fala sobre terrorismo de forma clara, o que é um grande problema e deixa a gente desprotegido, sem saber como agir em uma situação dessas tão complicadas.",
+    "5": "Também tem a questão dos materiais perigosos que podem ser usados para fazer ataques e causar estragos.",
+    "6": "Dizem que muitos explosivos, tipo dinamite e outras coisas que explodem, sumiram de pedreiras e obras por aí pelo Brasil, e isso é um perigo que tá aqui dentro do país mesmo, sem precisar vir de fora, o que é ainda mais preocupante.",
+    "7": "Se tem esses materiais perigosos por aí, as pessoas ruins que querem fazer o mal podem pegar e usar eles, e aí a gente não sabe o que pode acontecer, pode ser uma tragédia horrível para todos.",
+    "8": "Precisa de mais controle sobre esses materiais para evitar que essas coisas aconteçam de verdade, para a segurança de todos os cidadãos brasileiros.",
+    "9": "Então, sim, o Brasil tem sim muitas razões pra temer o terrorismo, por causa dos grandes eventos que vão vir e da falta de preparo em vários aspectos que já falamos.",
+    "10": "O governo deveria investir mais em segurança, contratar mais gente e melhorar o treinamento das forças de segurança, e fazer umas leis novas e específicas sobre o terrorismo, para que a população possa ficar mais tranquila e não ter que se preocupar com essas coisas ruins que a gente vê em outros países.",
+    "11": "É preciso agir logo, de forma rápida e eficiente, para garantir a paz."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "13",
+        "16"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "2",
+        "6"
+      ],
+      "textos_motivadores": [
+        "12",
+        "36",
+        "37",
+        "38"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "12",
+        "36",
+        "39"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "15"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "23",
+        "24",
+        "27"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "31",
+        "32",
+        "33"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "32",
+        "33"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "33"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "34"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "34",
+        "35"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "41",
+        "42",
+        "25",
+        "26"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "tema": "por-que-as-pessoas-mentem-pela-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Por que as pessoas mentem pela internet?",
+      "1": "Pesquisa realizada pela Universidade de Cornell, nos Estados Unidos, revelou que 81% das pessoas que utilizam sites de relacionamento na internet mentem para aqueles com quem se comunicam.",
+      "2": "Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas a seus parceiros de chat.",
+      "3": "Quais os motivos dessa atitude?",
+      "4": "Trata-se apenas da vontade de impressionar o outro?",
+      "5": "Ou haverá um motivo mais profundo: a insatisfação consigo mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Quem está atrás do teclado?",
+      "1": "Um indivíduo isolado envia mensagens solitárias e busca o amor por meio de imagens virtuais.",
+      "2": "Ele se realiza em casa, protegido, à distância, e corre o risco de se decepcionar, quando, e se, um encontro real vier a ser marcado.",
+      "3": "Estamos no século do amor via internet com pessoas namorando virtualmente sem o calor dos corpos que se entregam.",
+      "4": "Mas, afinal, que tipo de relação se estabelece via computador?",
+      "5": "Existe vínculo?",
+      "6": "Se houver traição virtual, como fica o relacionamento entre os namorados?",
+      "7": "Basta se desconectar para pôr fim a um envolvimento emocional.",
+      "8": "Jairo Bouer comenta a pesquisa Texto 2 Segundo o filósofo francês Jean-Paul Sartre, \"o ser humano possui uma atração doentia pela verdade\".",
+      "9": "Sartre considera que o desejo da verdade aparece muito cedo nos seres humanos e se manifesta como vontade de confiar nas coisas e nas pessoas, isto é, de acreditar que as coisas são exatamente como o indivíduo as percebe e o que as pessoas lhe dizem é digno de confiança e crédito.",
+      "10": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "As salas de bate-papo estão entre as páginas da internet mais acessadas no mundo inteiro.",
+    "1": "Desde profissionais que utilizam os 'chats' procurando contatos até crianças que procuram diversão no mundo virtual, todos estão conectados e podem se comunicar com qualquer pessoa em qualquer lugar.",
+    "2": "Porém, as pessoas acabam esquecendo de um dos maiores perigos a que estão sujeitas na internet: o contato com desconhecidos.",
+    "3": "Quando se conversa com alguém através de uma sala de bate-papo, é impossível saber se a pessoa está falando a verdade ou não, e, assim, muitos jovens acabam se deixando seduzir por seus \"novos amigos\" e acabam sofrendo graves conseqüências, como, em certos casos, a morte.",
+    "4": "É crescente o número de vítimas de assassinato e estupro entre crianças que utilizam erroneamente as salas de bate-papo.",
+    "5": "Entretanto, nem todas os usuários da internet são pessoas mal intencionadas: algumas pessoas mentem seu peso, idade, altura, a aparência no geral, com o único intuito de impressionar seus interlocutores, com a idéia pré-estabelecida de que não se encontrarão pessoalmente.",
+    "6": "Percebe-se, então, que nem todas os navegantes mentem ou ocultam informações pelo mesmo motivo.",
+    "7": "Há os mal intencionados, que utilizam um meio popular de comunicação como forma de encontrar vítimas para seus crimes, e pessoas inseguras com sua aparência física em busca de amigos.",
+    "8": "Com isso, conclui-se que, qualquer que seja o caso, é necessária muita atenção por parte dos pais de crianças que passam muito tempo em frente ao computador, e cautela por parte dos jovens antes de passarem informações pessoais a estranhos."
+  },
+  "redacao_gerada": {
+    "0": "A internet hoje em dia é uma coisa muito usada por todo mundo, né?",
+    "1": "As pessoas usam pra tudo, pra conversar, pra ver coisas, pra trabalhar e se divertir.",
+    "2": "E nela, as vezes, as pessoas não falam a verdade, tipo, elas mentem descaradamente.",
+    "3": "Isso é um problema que acontece bastante e que a gente precisa pensar sobre com muita atenção, porque a internet é um lugar onde as coisas não são sempre o que parecem ser de fato.",
+    "4": "É tipo um mundo paralelo que não é de verdade, onde tudo pode ser inventado sem ninguem perceber.",
+    "5": "Um dos motivos porque as pessoas mentem na internet é que elas querem muito parecer melhor do que elas são de verdade, na vida real.",
+    "6": "Tipo, mudar a idade ou a foto, colocar uma imagem que não é a sua, essas coisas que todo mundo faz.",
+    "7": "Elas fazem isso pra que os outros gostem mais delas, pra atrair atenção, sabe?",
+    "8": "É como se fosse uma máscara que elas usam porque tem vergonha de quem elas são de verdade, por causa da insegurança.",
+    "9": "As vezes a vida real é muito chata e sem graça, e a internet da uma chance de ser outra pessoa, mais interessante, mais bonita, mais feliz.",
+    "10": "Isso é bem comum e acontece o tempo todo.",
+    "11": "Além disso, a internet é um lugar onde é muito fácil mentir e ninguem ve a gente na hora, não tem contato fisico.",
+    "12": "Não tem como a gente saber se a pessoa ta falando a verdade ou não naquele momento, porque é tudo virtual.",
+    "13": "Então, algumas pessoas aproveitam essa grande oportunidade pra inventar coisas sobre si mesmas e sobre sua vida.",
+    "14": "É tipo um jogo pra elas, de criar um personagem totalmente novo, que não existe de fato.",
+    "15": "E também tem a ver com a auto estima baixa, porque elas não se aceita do jeito que é, com seus defeitos e qualidades.",
+    "16": "Entao criam um personagem que é melhor, mais feliz e que não tem problemas, pra enganar os outros e a si mesmas.",
+    "17": "Pra resolver esse problema grave de mentiras na internet, é importante que as pessoas aprendam a ser mais verdadeiras consigo mesmas e com os outros.",
+    "18": "As escolas poderiam ensinar sobre isso, a ética e a moral, e os pais também em casa, a importancia da verdade desde cedo.",
+    "19": "O governo devia fazer alguma coisa também, criar leis ou fiscalizar mais, mas não sei o que exatamente, é uma questão muito complexa.",
+    "20": "É complicado e a gente tem que pensar mais sobre isso pra que a internet seja um lugar mais seguro, mais honesto e confiável pra todos os usuários, sem distinção."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "0",
+        "9"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "18": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "19": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "20": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    }
+  }
+}

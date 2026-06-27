@@ -1,0 +1,149 @@
+{
+  "tema": "o-que-voce-acha-do-ensino-nas-escolas-do-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "O que você acha do ensino nas escolas do Brasil?",
+      "1": "Políticos, educadores, professores, pesquisadores e alunos têm falado muito sobre a qualidade da aprendizagem nas escolas e faculdades do país.",
+      "2": "Muitos pais estão satisfeitos; os alunos falam bem ou mal de suas aulas (o que sempre aconteceu); professores reclamam dos salários, mas, em geral, se consideram aptos para ensinar; os governos anunciam incansáveis medidas para a melhoria do ensino.",
+      "3": "Entretanto, se há situações de excelente formação Brasil afora, o país tem ocupado posições muito baixas nos rankings mundiais de ensino e aprendizagem.",
+      "4": "Você, que já foi à escola e que vai para a universidade ou já foi: o que acha educação no Brasil?",
+      "5": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Pais e professores estão satisfeitos \"De modo geral, [.",
+      "3": "] os pais brasileiros não se envolvem como deveriam na vida escolar dos filhos.",
+      "4": "Os mais pobres dão graças aos céus pelo fato de a escola fornecer merenda, segurança e livros didáticos gratuitos.",
+      "5": "Os de classe média se animam com as quadras esportivas, a limpeza e [.",
+      "8": "] exigências [.",
+      "11": "] calibradas 'para não forçar o ritmo dos menos capazes'.",
+      "12": "Para 89% dos pais com filhos em escolas particulares, o dinheiro é bem gasto e tem bom retorno.",
+      "13": "No outro campo, 90% dos professores se consideram bem preparados para a tarefa de ensinar.",
+      "14": "\" [Monica Weinberg e Camila Pereira.",
+      "15": "Veja, 20 de agosto, 2008,.",
+      "16": "72] Constatação jornalística A educação vai bem, obrigado.",
+      "19": "\"Já estou um pouco cansada de responsabilizar apenas os sistemas pelos problemas de uma sociedade.",
+      "24": "Não sou professora, mas se fosse não gostaria de ser culpada pela existência de alunos como este (acima).",
+      "25": "Já disse uma vez nesse blog e repito: nenhum sistema educacional e nenhum professor pode fazer pelo aluno algo que cabe só a ele: estudar [Arthemísia 3 ; http: ] O que dizem outras pesquisas \"O Brasil está em 52º lugar em ciências e em 53º em matemática - em uma lista de 57 países.",
+      "26": "E 60% dos estudantes chegam ao fim da 8ª série sem saber interpretar um texto ou efetuar operações matemáticas simples\" [Inep e OCDE, agosto ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "A Educação é das mais agitadas discussões contemporâneas, em seus mais variados temas, nos quais rodeia toda a sociedade.",
+    "1": "Difícil ver um discurso político que não fale que a educação consiste em um dos principais motivos pelo atraso de um país e sem dúvida este é o maior desafio do Brasil.",
+    "2": "Pesquisa na área de educação aponta que um terço dos brasileiros freqüenta diariamente a escola, entre professores e alunos, porem não adianta super lotar as salas, sem ter a garantia do aprendizado,o que tem gerado violência nas escolas.",
+    "3": "esteprimandoondeestãoano o Brasil recebeu inúmeros casos de pessoas vitimadas dentro das escolas, o q nos permite analisar a sociedade,por fatores históricos, econômicos e culturais na tentativa de compreender tais casosa raiz de todos os conflitos,disparates, agressões,sim no modo de fazer educação na nossa sociedade e nos colégios.",
+    "4": "Por tudo esta cada vez mais difícil educar no Brasil, e cada um atribui a culpa a um determinado problema, professores reclamam que recebem poucos recursos e baixos salários, mas afirmam estarem aptos a ensinar, estudantes e pais falam bem ou mal do ensino com poucas bases e certezas, a maioria ainda aprovam as instituições, os governantes que apresentam varias propostas para capacitar os alunos, mas a verdade é que nenhuma medida foi efetivada com êxito total.",
+    "5": "É preciso que estejamos repensando, o que queremos da educação e a daí colaborar para que seja uma realidade em nosso país, quem sabe ate seguindo o exemplo das instituições de ensino de países desenvolvidos.",
+    "6": "A educação é responsabilidade social, governamental e fundamentalmente familiar, somos responsáveis por incentivar a criança a estudar e oferecer recursos para que isso aconteça com tranqüilidade."
+  },
+  "redacao_gerada": {
+    "0": "O ensino nas escola do Brasil é um tema que sempre gera muita discussão, e todo mundo tem a sua opinião.",
+    "1": "Eu acho que a educação no nosso país tem muitos desafios, mas também tem seus pontos forte.",
+    "2": "É uma área complexa que exige atenção de todos para que possamos avançar.",
+    "3": "Um dos principais problema que vejo é a falta de estrutura em muitas escolas.",
+    "4": "As vezes, falta material didático as salas de aula são antigas e não tem os recursos adequados para os alunos aprender.",
+    "5": "Isso dificulta o trabalho do professor que não conseguir dar uma aula boa sem as ferramenta.",
+    "6": "O governo deveria investir mais dinheiro na infraestrutura das instituições de ensino.",
+    "7": "Outro ponto importante é a valorização dos professores.",
+    "8": "Eles ganha pouco e trabalha muito o que desanima bastante a categoria.",
+    "9": "Além disso, muitos alunos não se importa com a escola e acaba atrapalhando quem quer estudar.",
+    "10": "A família também tem um papel crucial e a participação dos pais na vida escolar dos filho faz toda a diferença para o sucesso.",
+    "11": "Portanto para melhorar o ensino no Brasil é preciso um esforço conjunto.",
+    "12": "Mais investimento em infraestrutura e na valorização dos profissionais da educação é essencial.",
+    "13": "Também é importante que os alunos e suas famílias se envolva mais para que a escola possa realmente cumprir seu papel e oferecer um futuro melhor para todo o país."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "24",
+        "25"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "2",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "2",
+        "3"
+      ],
+      "textos_motivadores": [
+        "3",
+        "25"
+      ]
+    }
+  }
+}

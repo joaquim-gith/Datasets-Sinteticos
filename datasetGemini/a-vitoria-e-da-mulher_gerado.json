@@ -1,0 +1,187 @@
+{
+  "tema": "qual-o-papel-da-mulher-na-sociedade-brasileira-atual",
+  "comando_tematico": {
+    "frases": {
+      "0": "Qual o papel da mulher na sociedade brasileira atual?",
+      "1": "Dilma Rousseff elegeu-se Presidente da República, cargo ocupado pela primeira vez por uma mulher no Brasil.",
+      "2": "Isso é um marco na história democrática do país e na da luta feminina por igualdade social.",
+      "3": "A eleição presidencial de 2010 contou também com outro fato significativo no que se refere à participação feminina na política: o índice de aprovação de Marina Silva.",
+      "4": "Mas as mulheres não conquistaram posição apenas na política.",
+      "5": "Elas estão dirigindo empresas, ocupam espaço de destaque no telejornalismo e começam a aparecer até nos mais fechados redutos masculinos.",
+      "6": "O Flamengo, por exemplo, clube conhecido pela tradição do seu futebol, dono de uma das maiores torcidas do Brasil, é agora presidido por uma mulher.",
+      "7": "O que essas conquistas revelam sobre as relações sociais entre homens e mulheres?",
+      "8": "Discuta a situação social da mulher no Brasil de hoje, em uma dissertação argumentativa em prosa.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Mulher na política brasileira As desigualdades de gênero possuem raízes profundas na história do Brasil.",
+      "1": "Porém, as mulheres brasileiras já conseguiram reverter diversas situações desfavoráveis em diferentes áreas, menos nos espaços de poder.",
+      "2": "A primeira experiência de políticas de cotas para aumentar a presença da mulher brasileira na política aconteceu logo após a IV Conferência Mundial de Mulheres, ocorrida em Beijing, em 1995.",
+      "3": "Ainda no mês de setembro, o Congresso Nacional aprovou a Lei 9.",
+      "4": "100, de 1995, na qual, em seu § 3º do artigo 11º, se estabeleceu o seguinte: \"Vinte por cento, no mínimo, das vagas de cada partido ou coligação deverão ser preenchidas por candidaturas de mulheres\".",
+      "5": "Esta redação deu margem ao questionamento sobre a inconstitucionalidade do artigo, pois estabeleceu um tratamento diferenciado para o sexo feminino.",
+      "6": "Realmente, a forma como estava redigida a política de cotas expressa uma visão focalizada e não universalista da representação de gênero.",
+      "7": "Dois anos depois desta primeira formulação, o Congresso Nacional aprovou a Lei 9.",
+      "8": "504, de 30 de setembro de 1997, sendo que o parágrafo terceiro do artigo 10º desta Lei ficou assim redigido: \"Do número de vagas resultantes das regras previstas neste artigo, cada partido ou coligação deverá reservar o mínimo de trinta por cento e o máximo de setenta por cento para candidaturas de cada sexo\".",
+      "9": "Esta nova formulação abandonou a política focalizada e assumiu uma concepção universalista, evitando questionamentos sobre a constitucionalidade da lei, já que se estabeleceu a mesma regra de representação para os dois sexos.",
+      "10": "Ou seja, homens e mulheres são iguais perante a lei (de cotas), sendo que o Congresso Nacional apenas formalizou uma regra de representação que garante um mínimo e um máximo de vagas para cada sexo nas listagens partidárias em cada pleito.",
+      "11": "[ José Eustáquio Diniz Alves.",
+      "12": "A lei de cotas e as mulheres na política em 2010 ] A primeira presidente da República [Fábio R Pozzebon ] Algumas conquistas femininas no Brasil e no mundo 1827 - Surgiu a primeira lei sobre educação das mulheres, permitindo que frequentassem as escolas elementares.",
+      "13": "Instituições de ensino mais adiantado ainda eram proibidas a elas.",
+      "14": "1879 - As mulheres têm autorização do governo para estudar em instituições de ensino superior; mas as que seguiam este caminho eram criticadas pela sociedade.",
+      "15": "1932 - Getúlio Vargas promulga o novo Código Eleitoral, garantindo finalmente o direito de voto às mulheres brasileiras.",
+      "16": "1945 - A igualdade de direitos entre homens e mulheres é reconhecida em documento internacional, através da Carta das Nações Unidas.",
+      "17": "1951 - Aprovada pela Organização Internacional do Trabalho a igualdade de remuneração entre trabalho masculino e feminino para função igual.",
+      "18": "1985 - Surge a primeira Delegacia de Atendimento Especializado à Mulher - DEAM (SP) e muitas são implantadas em outros estados brasileiros.",
+      "19": "Ainda neste ano, com a Nova República, a Câmara dos Deputados aprova o Projeto de Lei que criou o Conselho.",
+      "20": "1996 - A escritora Nélida Piñon é a primeira mulher a ocupar a presidência da Academia Brasileira de Letras.",
+      "21": "Exerce o cargo até 1997 e é membro da ABL desde 1990.",
+      "22": "Super-Homem, a Canção Um dia vivi a ilusão de que ser homem bastaria Que o mundo masculino tudo me daria Do que eu quisesse ter Que nada, minha porção mulher que até então se resguardara É a porção melhor que trago em mim agora É o que me faz viver Quem dera pudesse todo homem compreender, ó mãe, quem dera Ser o verão no apogeu da primavera E só por ela ser Quem sabe o super-homem venha nos restituir a glória Mudando como um deus o curso da história Por causa da mulher [ Gilberto Gil ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Nos dias de hoje, o papel da mulher na sociedade brasileira se mostra diferente do que se via há alguns anos atrás  .",
+    "1": "Quando se fala em participação feminina nos diferentes patamares da sociedade, temos mais inclusão das mulheres nos papéis antes associados somente aos homens.",
+    "2": "Foi devido a inúmeras conquistas que as mulheres garantiram seu espaço no mundo de hoje.",
+    "3": "Entre algumas delas, em 1879 as mulheres passaram a ter autorização para ingressar no ensino superior e em 1951 foi garantida, através da OIT , a igualdade de remuneração entre homens e mulheres de mesma função  .",
+    "4": "Essas e várias outras possibilitaram a inserção das mulheres em setores antes dominados por homens, como no setor político e empresarial.",
+    "5": "Um grande passo que foi dado, se deu na  primeira eleição de uma mulher para a Presidência da República, Dilma Rousseff, juntamente com a enorme aprovação que Marina Silva obteve nesta útlima eleição, apesar de não se candidatar  .",
+    "6": "Atualmente, as grandes gestões empresariais contam com mulheres em seu controle, o que confere a elas um grande poder sobre as decisões a serem tomadas nestas  empresas.",
+    "7": "As relações sociais entre homens e mulheres estão se estreitando cada vez mais, devido ao alcance das mulheres no que diz respeito à educação, que engrandece sua capacidade de administrar          grandes projetos.",
+    "8": "A partir desse pressuposto é que vemos as vitórias alcançadas por cada mulher que lutou e luta,  por um Brasil de mais inclusão e oportunidades, onde não exista a grande diferença entre funções ocupadas por um homem e por uma mulher.",
+    "9": "No mundo em que vivemos, o que prevalece é a inteligência dos que são mais capazes de realizar aquilo que foi imposto por tal instituição, e as mulheres tem  realizado um papel brilhante, alcançando lugares no topo do ranking socioeconômico          ."
+  },
+  "redacao_gerada": {
+    "0": "O papel da mulher na sociedade brasileira hoje em dia é uma coisa muito importante.",
+    "1": "As mulheres sempre fizeram muitas coisas, desde antigamente, e agora elas fazem ainda mais.",
+    "2": "É tipo, elas estão por toda parte, em tudo que é lugar, e isso é bom pra todo mundo.",
+    "3": "A sociedade, ela muda, e a mulher também muda junto com a sociedade, entao o papel dela muda tambem.",
+    "4": "Antigamente, a mulher ficava em casa, cuidava dos filhos e do marido.",
+    "5": "Mas hoje não e mais assim, ela trabalha fora, ganha seu dinheiro, e ajuda a família.",
+    "6": "Tem muitas mulheres que são fortes e independentes, e elas merece ser respeitadas.",
+    "7": "Isso é um avanço, sabe, porque mostra que as coisas tão melhorando para elas.",
+    "8": "A mulher moderna é diferente da mulher de antes, muito diferente.",
+    "9": "A questão da mulher na política é um assunto que aparece na televisão.",
+    "10": "Algumas mulheres consegue ser eleitas, mas ainda é pouco.",
+    "11": "Deveria ter mais mulheres em cargos importantes, porque elas tem uma visão diferente.",
+    "12": "Tipo, se tiver mais mulheres, talvez as coisas seria melhor.",
+    "13": "E não é só na política, mas em outras áreas também, como no esporte ou na arte, onde as mulheres também se destaca.",
+    "14": "Então, para resolver essa situação, é preciso que as pessoas pensem mais sobre o assunto.",
+    "15": "O governo deveria fazer alguma coisa para ajudar as mulheres.",
+    "16": "E as próprias mulheres devem lutar pelos seus direito, para que elas consigam o que querem.",
+    "17": "Assim, o papel da mulher vai ser ainda mais reconhecido e valorizado, e todo mundo vai viver melhor."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "2",
+        "7"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "1",
+        "3"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "1",
+        "3"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "4",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "tema": "o-que-voce-acha-do-ensino-nas-escolas-do-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "O que você acha do ensino nas escolas do Brasil?",
+      "1": "Políticos, educadores, professores, pesquisadores e alunos têm falado muito sobre a qualidade da aprendizagem nas escolas e faculdades do país.",
+      "2": "Muitos pais estão satisfeitos; os alunos falam bem ou mal de suas aulas (o que sempre aconteceu); professores reclamam dos salários, mas, em geral, se consideram aptos para ensinar; os governos anunciam incansáveis medidas para a melhoria do ensino.",
+      "3": "Entretanto, se há situações de excelente formação Brasil afora, o país tem ocupado posições muito baixas nos rankings mundiais de ensino e aprendizagem.",
+      "4": "Você, que já foi à escola e que vai para a universidade ou já foi: o que acha educação no Brasil?",
+      "5": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Pais e professores estão satisfeitos \"De modo geral, [.",
+      "3": "] os pais brasileiros não se envolvem como deveriam na vida escolar dos filhos.",
+      "4": "Os mais pobres dão graças aos céus pelo fato de a escola fornecer merenda, segurança e livros didáticos gratuitos.",
+      "5": "Os de classe média se animam com as quadras esportivas, a limpeza e [.",
+      "8": "] exigências [.",
+      "11": "] calibradas 'para não forçar o ritmo dos menos capazes'.",
+      "12": "Para 89% dos pais com filhos em escolas particulares, o dinheiro é bem gasto e tem bom retorno.",
+      "13": "No outro campo, 90% dos professores se consideram bem preparados para a tarefa de ensinar.",
+      "14": "\" [Monica Weinberg e Camila Pereira.",
+      "15": "Veja, 20 de agosto, 2008,.",
+      "16": "72] Constatação jornalística A educação vai bem, obrigado.",
+      "19": "\"Já estou um pouco cansada de responsabilizar apenas os sistemas pelos problemas de uma sociedade.",
+      "24": "Não sou professora, mas se fosse não gostaria de ser culpada pela existência de alunos como este (acima).",
+      "25": "Já disse uma vez nesse blog e repito: nenhum sistema educacional e nenhum professor pode fazer pelo aluno algo que cabe só a ele: estudar [Arthemísia 3 ; http: ] O que dizem outras pesquisas \"O Brasil está em 52º lugar em ciências e em 53º em matemática - em uma lista de 57 países.",
+      "26": "E 60% dos estudantes chegam ao fim da 8ª série sem saber interpretar um texto ou efetuar operações matemáticas simples\" [Inep e OCDE, agosto ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "É engraçado, é instigante e preocupante.",
+    "1": "Muitas bocas pra falar, nenhum ouvido para ouvir.",
+    "2": "O país está um caos, e ninguém quer saber de nada, ninguém faz nada, está prestes a explodir.",
+    "3": "A mesmice e a ignorância estão cada vez mais estampadas em rostos juvenis.",
+    "4": "Vão para a escola para passar o tempo, ou só para não ficar em casa entediados com os pais.",
+    "5": "A palavra estudo, já não pertence mais aos seus vocabulários.",
+    "6": "Não pensam no futuro e ficam de baixo da saia dos pais até Deus sabe quando.",
+    "7": "Na tv, a notícia relata que a educação está melhorando, e que falta apenas décimos para chegar a nível de países desenvolvidos, mera utopia.",
+    "8": "Alunos saem da escola analfabetos, sem metas e sem rumos.",
+    "9": "De quem será a culpa?",
+    "10": "Professores, que estão cada dia mais despreparados para ensinar?",
+    "11": "Governo, que apresenta um descaso total com os jovens?",
+    "12": "Ou pais, que deveriam ter sido mais rigorosos com os filhos?",
+    "13": "A culpa é multípla.",
+    "14": "Zeca Pagodinho em seus versos \"Deixa a vida me levar\", retrata bem o \"sossego\" do povo brasileiro em relação ao futuro.",
+    "15": "Por sua vez, o povo, enche o peito e sai por aí, assinando sua sentença e colocando em sua própria testa uma placa: \"eu sou idiota\".",
+    "16": "A vida nos dá o que merecemos e buscamos.",
+    "17": "Tem gente que vive apenas por viver.",
+    "18": "Uns andam de carros importados, viajam em cruzeiros, moram em mansões, enquanto outros vivem alí apertados e economizando, por simples azar do destino.",
+    "19": "São alienados e não acreditam no poder da palavra mudança e se tornam escravos da inveja e do ódio.",
+    "20": "Vivem o resto de suas vidas na miséria, vegetando, esperando seus minutos finais e então não a mais nada que se possa fazer é tarde demais."
+  },
+  "redacao_gerada": {
+    "0": "A educação nas escolas do Brasil é um assunto que muita gente fala.",
+    "1": "Eu penso que tem coisas boas e ruins e precisa melhorar em varios aspectos.",
+    "2": "Um problema é que as escolas públicas muitas vezes não tem dinheiro suficiente.",
+    "3": "Falta material a infraestrutura é antiga e os professores ganham pouco.",
+    "4": "Isso faz com que o ensino não seja tão bom de quanto poderia.",
+    "5": "Outra coisa é que nem todos os aluno se interessa pela escola.",
+    "6": "Muitas vezes a família não ajuda muito em casa e o aluno fica desmotivado.",
+    "7": "Acho que a participação dos pais é muito importante para os filhos aprenderem mais.",
+    "8": "Então, para melhorar ensino no Brasil precisa de mais investimento.",
+    "9": "É preciso dar melhores condições para professores e escolas.",
+    "10": "E também a família precisa participar mais para que os alunos valorizem os estudos.",
+    "11": "Assim, todo mundo sai ganhando com uma educação melhor."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "26"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "25"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "3",
+        "25"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "4"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

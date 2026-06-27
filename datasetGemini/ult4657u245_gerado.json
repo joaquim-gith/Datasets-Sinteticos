@@ -1,0 +1,234 @@
+{
+  "tema": "o-famoso-conflito-de-geracoes-ainda-existe-hoje",
+  "comando_tematico": {
+    "frases": {
+      "0": "O famoso conflito de gerações ainda existe hoje?",
+      "1": "Com o avanço tecnológico, tudo acontece mais rápido na atualidade.",
+      "2": "Isso aproxima as idades, bem como o seu modo de ser, de pensar e de se comportar.",
+      "3": "A transformação dos costumes, ocorrida a partir da década de 1960 e que teve como marco mais célebre o ano de 1968, fez a família se modernizar e mudar de estilo.",
+      "4": "Entretanto, muitos afirmam que ainda existe o célebre conflito entre gerações.",
+      "5": "Pais e filhos continuam com relacionamento difícil e raramente conseguem chegar a um acordo sobre questões essenciais da vida cotidiana.",
+      "6": "O que você pensa disso?",
+      "7": "Justifique suas opiniões com fatos e argumentos.",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Filhos são o melhor radar para o sucesso Andrew Lippman, fundador do Institulo de Tecnologia de Massachutsetts (EUA), afirma que \"a velocidade com que as gerações surgem, hoje, diminuiu de 30 para três anos, e que, para estar atualizado, um empresário [que quiser ter sucesso] deve perceber quais produtos mais atraem seus filhos.",
+      "4": ") Folha de S.",
+      "5": "Paulo.",
+      "6": "8 de junho de 2008.",
+      "7": "Caderno \"Negócios\", pág.",
+      "8": "4 Maitena, Folha de S.",
+      "9": "Paulo, 25 de maio de 2008 Honrar pai e mãe (.",
+      "12": ") \"Foi-se o patriarcado, em que havia regras rígidas.",
+      "13": "Eu não quereria estar na pele dos infratores de então, os filhos que ousavam discordar.",
+      "14": "Em lugar da antiga rigidez e distância, estabeleceu-se a alegre bagunça, com mais demonstrações de afeto, mais liberdade, mais respeito pelas individualidades - muitas vezes com resultados dramáticos.",
+      "15": "Lembro a frase que já escrevi nesta coluna, do psicólogo que me revelou: \"a maior parte dos jovens perturbados que atendo não tem em casa pai e mães, tem uma gatão e uma gatinha (.",
+      "19": "Pais bonzinhos são tão danosos quanto pais indiferentes\".",
+      "20": "Lya Luft, Veja, 11 de junho de 2008, pág.",
+      "21": "18 Escândalo social \" No meu tempo não havia essa história de responder para o pai ou para mãe e ter vontades egoístas.",
+      "22": "Todos obedeciam com um olhar, comiam o que tinha, pediam licença pra tudo.",
+      "23": "O menino e a menina já sabiam o seu futuro.",
+      "24": "Se o pai tinha um açougue, ele também ia ser açougueiro.",
+      "25": "Se a mãe era professora, a filha tinha de ser um pouco mais: talvez advogada.",
+      "26": "Hoje o mundo está de cabeça para baixo, porque os filhos é que mandam nos pais, os filhos mudam o jeito dos pais, até o jeito de lidar com os negócios familiares.",
+      "27": "Criticam tudo, fazem barulho, ouvem músicas absurdas, não respeitam a geração dos avós, vivem no computador mas, apesar de tudo, ficam um tempo enorme morando na mesma casa.",
+      "28": "É um escândalo social.",
+      "29": "\" Érica Winsburg, professora universitária aposentada, 70 anos, em entrevista a Flávia Di Roberto.",
+      "30": "Texto inédito."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Aparentemente, desde que o ser humano passou a se organizar em grupos socias baseados na estrutura familiar, há conflitos de gerações.",
+    "1": "É evidente que não se pode comparar as experiências vividas por nosso pais com as nossas.",
+    "2": "Em primeiro lugar, porque ocorreram em momentos culturais diversos, em segundo lugar, porque nossos pais, quer queiramos ou não, possuem mais tempo de experiências acumuladas.",
+    "3": "Com nossos pais, em geral, aprendemos a delinear os traços básicos de nosso caráter e postura diante das principais questões que enfrentaremos em nossa vida.",
+    "4": "Eles nos oferecem da melhor maneira que podem, com base em suas próprias experiências, estrutura para enfrentar todos os tipos de situações.",
+    "5": "De outro lado, a nossa vivência em ambientes externos ao lar, comumente associada a escolas, amigos e convivência com a sociedade em geral, conduzem-nos a experiências particulares , nas quais aplicaremos, ao nosso modo, as bases culturais fornecidas por nossos \"velhos pais\".",
+    "6": "É evidente que as experiências de vida são diferenciadas para cada indivíduo.",
+    "7": "Em nossas experiências buscamos, de alguma forma a vivência em sociedade e isso ocorre independente de uma determinada geração.",
+    "8": "Essas vivências são por sua vez conduzidas por transformações culturais que ocorrem naturalmente com o passar dos anos.",
+    "9": "Felizmente, apregoa-se atualmente, o valor dos diálogos e entendimento entre pais e filhos.",
+    "10": "Isso sugere, que o respeito mútuo seja uma conquista e não uma imposição.",
+    "11": "Desse modo, os diálogos fornecem possibilidades reais de entendimento , que no entanto, por vezes são mal interpretados.",
+    "12": "Diálogo envolve exposição de idéias, princípios, argumentos que nem sempre estão em concordância.",
+    "13": "Diálogos envolvem palavras com \"não\", \"talvez\", \"vou pensar\", \"discordo\", \"sim\".",
+    "14": "Os diálogos portanto , contemplam também conflitos de opiniões e são essenciais para identificar a essência de cada indivíduo.",
+    "15": "Em situações ideais em que há de fato diálogos entre pais e filhos, no entanto, identifica-se, ainda assim, o chamado \"conflito de gerações\".",
+    "16": "Qualquer ser humano vivencia dificuldades na vida, diante de novos desafios.",
+    "17": "A nós cabe enfrentá-los e seguir nosso próprio caminho.",
+    "18": "O maior desafio, no entanto parece ainda ser o de conciliar os primeiros aprendizados, aqueles, que nossos \"velhos pais\" nos forneceram, com as situações que a vida diária nos coloca.",
+    "19": "E é claro, a vida diária vivenciada por nós, é muito diferente da vivenciada por nossos pais."
+  },
+  "redacao_gerada": {
+    "0": "O conflito de gerações é um assunto que sempre ta em pauta, as pessoas falam muito sobre se ele ainda existe ou não.",
+    "1": "Alguns acham que sim, que pais e filhos nunca vão se entender direito, enquanto outros pensam que hoje em dia as coisas mudaram e todo mundo é mais igual.",
+    "2": "É uma questão importante para a sociedade de hoje.",
+    "3": "É verdade que tem muitas diferenças entre as gerações.",
+    "4": "Por exemplo, os mais velhos não entende muito de tecnologia, enquanto os jovens já nasceu com um celular na mão.",
+    "5": "Isso causa briga na hora de usar o computador ou de escolher o que assistir na televisão.",
+    "6": "Também, a música que os pais ouvia é bem diferente daquela que os filhos gosta, e isso gera um certo choque de ideias e modos de ver a vida.",
+    "7": "Mas, por outro lado, também tem quem diga que essa distância diminuiu.",
+    "8": "Com a internet, todo mundo tem acesso as mesmas informações e tendências, o que aproxima as idades.",
+    "9": "As famílias de hoje está mais aberta pra conversar, e os pais bonzinhos tentar ser amigo do filho, o que antes não acontecia.",
+    "10": "Então, nao e que o conflito sumiu, mas ele se transformou, ficando menos rigido.",
+    "11": "Em conclusão, parece que o conflito de gerações ainda existe sim, mas de um jeito diferente.",
+    "12": "Não é mais aquela briga de antes onde os filhos não podia nem questionar.",
+    "13": "Hoje, é mais uma questão de adaptação e de tentar entender o ponto de vista do outro, mesmo com as diferenças claras.",
+    "14": "As famílias precisam se esforçar para se dar bem, pois a vida moderna exige essa união, ou se não, os problemas aumenta."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "14",
+        "21",
+        "26",
+        "27"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "21",
+        "26",
+        "27"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "27"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "27"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "2",
+        "5"
+      ],
+      "textos_motivadores": [
+        "27"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "27"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "2",
+        "3"
+      ],
+      "textos_motivadores": [
+        "14",
+        "15",
+        "19",
+        "21"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "12",
+        "14"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "12",
+        "14"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "12",
+        "13",
+        "21"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "2",
+        "5"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "1",
+        "5"
+      ],
+      "textos_motivadores": [
+        "14",
+        "15",
+        "19"
+      ]
+    }
+  }
+}

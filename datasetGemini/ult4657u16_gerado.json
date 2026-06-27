@@ -1,0 +1,220 @@
+{
+  "tema": "cientistas-preveem-futuro-sombrio-para-terra",
+  "comando_tematico": {
+    "frases": {
+      "0": "Cientistas prevêem futuro sombrio para Terra A idéia de um fim, de termo absoluto do mundo em que vivemos é de tal forma fantástica que, talvez por isso, a tratemos com algum descrédito.",
+      "1": "É difícil compreender que tudo o que somos, tudo o que fizemos e conseguimos poderá desaparecer.",
+      "2": "Mas é tempo de acordarmos, de nos conscientizarmos, dos homens que governam o mundo se unirem para impedir que o que vemos em ficção se torne realidade.",
+      "3": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "A inteligência artificial A temperatura da Terra subirá até o fim do século, diz o mais importante relatório sobre o aquecimento global, produzido por 600 cientistas de 40 países.",
+      "1": "A geleira sobre a Groenlândia pode sumir em milênios, os furacões ficarão mais fortes e o nível do mar subirá pelos próximos mil anos - de 18 cm a 59 cm até 2100.",
+      "2": "O relatório responsabiliza a ação humana pelo aquecimento global.",
+      "3": "(Textos extraídos de Folha de S.",
+      "4": "Paulo - 03 ) Tecnologia a serviço do homem Pôr-do-sol na Praia de Jacaré, em João Pessoa: espetáculo natural em risco.",
+      "5": "Foto: SOLANGE L.",
+      "6": "MARCONDES O pôr-do-sol na Praia de Jacaré, em João Pessoa, é um momento dos mais deslumbrantes e poéticos que a natureza ainda nos oferece.",
+      "7": "O colorido das nuvens tentando encobrir o astro-rei que se recolhe; o vermelho-púrpura dominando o horizonte, refletindo os últimos raios nas plácidas águas do rio quase mar e o Bolero de Ravel ao som de um safoxe elevam ainda mais a alma e o pensamento de quem está ali presente.",
+      "8": "Na velocidade do pensamento MARCELO LEITE, Folha de S.",
+      "9": "Paulo - 03 Agora tem força de lei: não importa o que façam homens e mulheres daqui para a frente, seu planeta ficará bem menos hospitaleiro.",
+      "10": "Tempestades e secas serão mais freqüentes.",
+      "11": "Furacões e tufões, mais intensos.",
+      "12": "O nível do mar subirá pelos próximos mil anos -mesmo que a espécie desapareça da face da Terra nesse meio tempo.",
+      "13": "Esta é a mensagem da primeira parte do quarto relatório de avaliação da saúde da atmosfera produzido pelo IPCC (Intergovernmental Panel on Climate Change, ou Painel Intergovernamental sobre Mudança Climática).",
+      "14": "O órgão criado pela ONU congregou 600 especialistas de 40 países para redigir o sumário executivo divulgado ontem em Paris.",
+      "15": "O primeiro computador quântico já existe Já vimos o cenário em muitos filmes sobre catástrofes.",
+      "16": "Neles a civilização quase deixa de existir em razão de ataques de extraterrestres, da explosão de corpos celestiais cujos fragmentos atingem a Terra ou, ainda, de uma formidável revolta dos oceanos cujas águas invadem os continentes.",
+      "17": "O \"quase deixa de existir\" fica por conta das mensagens otimistas em finais apressados nos quais uns poucos humanos sobrevivem e parecem aptos a iniciar um novo mundo, mais justo e respeitoso com a natureza.",
+      "18": "De repente a nossa rotina é invadida por informes pouco comuns de uma comissão de cientistas.",
+      "19": "O dia 02 de fevereiro de 2007 passa à História como o marco em que soubemos que a natureza não mais suporta as nossas agressões e o ambiente prepara-se para responder a elas com força descomunal.",
+      "20": "O aquecimento global tornou-se irreversível; as geleiras se derreterão, o nível dos mares se elevará, ilhas e cidades costeiras desaparecerão, grandes tempestades e furacões nos atingirão, a floresta Amazônica tornar-se-á uma savana e assim por diante.",
+      "21": "Infelizmente, desta vez, não se trata de um filme e sabemos que, caso não façamos nada para preservar a natureza o final não será feliz: não teremos aqueles poucos sobreviventes bem intencionados e dispostos a criar um novo mundo.",
+      "22": "Ao invés deles, talvez, a paisagem desoladora de um mundo vazio e em compasso de espera por alguns milhões de anos até que moléculas surjam nos mares e novamente dêem início a um conjunto de reações químicas que desencadeie o aparecimento de um primeiro ser vivo e, a partir dele, o processo evolutivo em direção a uma nova civilização.",
+      "23": "A idéia de um fim, de termo absoluto do mundo em que vivemos é de tal forma fantástica que, talvez por isso, a tratemos com algum descrédito.",
+      "24": "É difícil compreender que tudo o que somos, tudo o que fizemos e conseguimos poderá desaparecer.",
+      "25": "Mas é tempo de acordarmos, de nos conscientizarmos, dos homens que governam o mundo se unirem para impedir que o que vemos em ficção se torne realidade.",
+      "26": "Só assim as gerações futuras prevalecerão e viverão num mundo melhor.",
+      "27": "(SOLANGE L.",
+      "28": "MARCONDES) Tendo como base as ideias apresentadas nos textos acima, os inscritos fizeram uma dissertação sobre o tema Cientistas prevêem futuro sombrio para Terra Leia as redações avaliadas ÍNDICE DE TEMAS IMPRIMIR ENVIAR COMUNICAR ERRO Os textos publicados antes de 1º de janeiro de 2009 não seguem o novo Acordo Ortográfico da Língua Portuguesa.",
+      "29": "A grafia vigente até então e a da reforma ortográfica serão aceitas até 2012"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Pelo mundo inteiro, os mais diversos meios de comunicação transmitem informações a respeito de futuras catástrofes da natureza no mundo; catástrofes essas põem em risco o futuro da humanidade no planeta.",
+    "1": "Cientistas alertam e escolas tentam conscientizar a todos sobre a preservação da natureza para a sobrevivência dos seres vivos, mas tal conscientização não tem sido suficiente para evitar mudanças climáticas e catástrofes acontecem por todo o mundo nos últimos anos.",
+    "2": "Essa falta de consciência existe pelo fato de o homem não ser capaz de enxergar o mundo sendo destruído num futuro próximo em consequência de seus próprios atos, e por isso não adquire a responsabilidade necessária para evitar a poluição e desmatamento que ocorre em grande escala.",
+    "3": "Belas paisagens, matéria-prima necessária para se sustentar, água abundante e clima agradável são sempre muito desfrutados pelo homem hoje, mas falta consciência de preservação desses recursos para que as próximas gerações também os aproveitem, sem que precisem passar por mudanças climáticas, aumento do nível do mar ou qualquer outra catástrofe, talvez até mais trágica, em consequência das atitudes do homem atual.",
+    "4": "A humanidade sem essa visão de futuro compromete seu próprio bem-estar, esgotando o meio ambiente, e impede ainda o desenvolvimento de gerações futuras, que nada têm a ver com a falta de responsabilidade do homem atual."
+  },
+  "redacao_gerada": {
+    "0": "A iminência de um futuro sombrio para a Terra, conforme reiteradamente prognostica a comunidade científica global, emerge como um dos mais prementes desafios da contemporaneidade.",
+    "1": "As advertências sobre o colapso climático, o esgotamento de recursos naturais e a perda irreversível de biodiversidade não são mais meras conjecturas, mas sim conclusões embasadas em dados empíricos robustos.",
+    "2": "Tal perspectiva, embora alarmante, serve como catalisador para a reflexão sobre a responsabilidade intrínseca da ação humana e a urgência inadiável de ações coletivas, que se veem obstaculizadas tanto pela inação frente às evidências científicas quanto pela ausência de um paradigma ético e político verdadeiramente sustentável.",
+    "3": "Primeiramente, a negligência humana em face dos prognósticos científicos é um dos pilares que sustentam a projeção de um cenário catastrófico.",
+    "4": "A dificuldade em internalizar a gravidade das ameaças ambientais, muitas vezes postergando a tomada de decisões eficazes, remete à \"Tragédia dos Comuns\", conceito de Garrett Hardin, onde interesses individuais e de curto prazo prevalecem sobre o bem-estar coletivo e a sustentabilidade a longo prazo.",
+    "5": "A exploração desenfreada de recursos naturais, a emissão descontrolada de gases de efeito estufa e a poluição sistêmica dos ecossistemas são manifestações dessa lógica predatória, que ignora as consequências futuras em prol de benefícios imediatos.",
+    "6": "Ademais, para reverter tal quadro, é imperativo que se opere uma profunda metamorfose na relação entre a sociedade e o meio ambiente, pautada por uma ética de responsabilidade.",
+    "7": "Nesse sentido, a filosofia de Hans Jonas, exposta em seu \"Princípio Responsabilidade\", preconiza a necessidade de considerar as implicações futuras das ações presentes, especialmente em relação à perpetuação da vida no planeta e à dignidade das gerações vindouras.",
+    "8": "A ausência de um compromisso ético global e a fragilidade das políticas públicas internacionais em coibir práticas insustentáveis perpetuam um ciclo de degradação que compromete irremediavelmente a habitabilidade da Terra.",
+    "9": "Portanto, é inegável que o futuro sombrio prognosticado pela ciência demanda uma resposta contundente da humanidade.",
+    "10": "O Estado, em colaboração com organizações internacionais como a ONU, por meio de seu Painel Intergovernamental sobre Mudanças Climáticas (IPCC), deve fomentar a transição energética global e a implementação de políticas de descarbonização.",
+    "11": "Isso se dará por meio de investimentos maciços em energias renováveis, taxação de emissões de carbono e incentivos fiscais para tecnologias sustentáveis, a fim de mitigar o aquecimento global e preservar os ecossistemas.",
+    "12": "Promovendo, ainda, campanhas de educação ambiental que engajem a sociedade civil na adoção de práticas conscientes e sustentáveis, assegurando um futuro habitável para as próximas gerações."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0",
+        "9",
+        "13",
+        "14",
+        "18",
+        "19",
+        "20"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "19",
+        "20"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "2",
+        "25"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "9",
+        "19",
+        "20"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "2",
+        "9",
+        "19",
+        "24"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "19",
+        "20"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "25"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "9",
+        "12",
+        "24",
+        "25",
+        "26"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "9",
+        "19",
+        "20",
+        "21",
+        "22"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "9",
+        "13",
+        "18",
+        "19",
+        "20",
+        "25"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "13",
+        "14",
+        "25"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "2",
+        "20",
+        "25"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "25",
+        "26"
+      ]
+    }
+  }
+}

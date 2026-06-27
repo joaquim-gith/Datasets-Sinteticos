@@ -1,0 +1,151 @@
+{
+  "tema": "um-cachorro-vale-mais-do-que-um-ser-humano",
+  "comando_tematico": {
+    "frases": {
+      "0": "Um cachorro vale mais do que um ser humano?",
+      "1": "A multimilionária Leona Helmsley, dona de um império imobiliário nos Estados Unidos, morreu em 20  e deixou por testamento US$ 12 milhões para seu cachorrinho.",
+      "2": "O animal foi favorecido em prejuízo de dois netos de Leona, que foram deserdados.",
+      "3": "Para muitos, o gesto pode parecer absurdo.",
+      "4": "Outros talvez o aprovem.",
+      "5": "Há quem valorize o melhor amigo do homem mais do que o próprio homem.",
+      "6": "Você acha isso justo?",
+      "7": "Um cão pode valer tanto ou mais que um ser humano?",
+      "8": "Sob o ponto de vista da ética, trata-se de uma questão que merece reflexão.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Trouble, o cão multimilionário A chamada \"rainha da maldade\" em suas últimas vontades fez jus ao apelido que ganhou em vida nos tablóides, já que o principal beneficiário de sua fortuna será Trouble, o pequeno maltês branco do qual nunca se separava, segundo o jornal \"Daily News\".",
+      "1": "A guarda do cachorrinho mimado ficará a cargo de Alvin Rosenthal, irmão da finada e menos felizardo do que o bichinho, já que só receberá US$ 10 milhões.",
+      "2": "Para seus netos David e Walter decidiu deixar US$ 5 milhões para cada um.",
+      "3": "Craig e Meegan, os outros dois netos, ficaram, em compensação, sem nada \"por razões por eles conhecidas\", ainda de acordo com as últimas vontades de Leona.",
+      "4": "Quando o cachorrinho Trouble for chamado a se encontrar com sua dona, ficará a seu lado no mausoléu cercado por doze colunas dóricas e ao qual foi destinado um fundo de US$ 3 milhões para que Leona Helmsley possa assim continuar desfrutando do luxo em sua vida além-túmulo.",
+      "5": "( Adaptado de UOL Notícias, 29 de agosto de 2007 ) Texto 2 \"Já faz tempo, mas ninguém esquece.",
+      "6": "Em 1991, flagrado ao utilizar um carro oficial para levar sua cadela ao veterinário, o então ministro do Trabalho, Antonio Rogério Magri, deu a célebre declaração: 'Cachorro também é ser humano'\".",
+      "7": "( Laura Mattos, \"Folha de S.",
+      "8": "Paulo\", 2 de janeiro de 2008 ) Texto 3 Troque seu cachorro Por uma criança pobre Sem parente, sem carinho Sem rango, sem cobre Deixe na história de sua vida Uma notícia nobre.",
+      "11": "Troque seu cachorro Por uma criança pobre Tem muita gente por aí Que tá querendo levar Uma vida de cão Eu conheço um garotinho Que queria ter nascido Pastor-alemão ( \"Rock da Cachorra\", Eduardo Dusek ) Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Proprietária de um império imobiliário, a empresária multimilionária Leona Helmsley, surpreendeu a todos nos Estados Unidos e no mundo ao confirmar em seu testamento todo o desdém e etnocentrismo assumido durante sua vida.",
+    "1": "Ao deixar uma singela fortuna de doze milhões para seu cachorro, fez apologia ao desprezo humano e ao orgulho etnocêntrico, assim como Adolf Hitler, a Rainha da Maldade foi sem dúvida um ser desprezível digna de compaixão e também do fim que levou.",
+    "2": "O ocorrido causou indignação perante a opinião pública, uma vez que havia herdeiros em potencial para a fortuna, e que mesmo assim, por motivos pessoais, a Rainha da Maldade desconsiderou-os e em uma atitude vulgar e insana concedeu parte do benefício para um ser que não conseguirá agregar valor algum ao dinheiro herdado.",
+    "3": "Indignação esta que induz, todos a refletir e formar uma opinião sobre o valor da vida humana o que agrega valores morais a sociedade e que sustenta a esperança de uma sociedade justa e igualitária financeiramente.",
+    "4": "Portanto aqueles que não possuem herdeiros, e aqueles que não sabem o que fazer com todos os bens acumulados durante a vida, o mais sensato a fazer é seguir o exemplo de Salvador Arena que deixou seu império para os funcionários que ele tanto valorizava, caso contrário há o risco de ser repugnado e cair no esquecimento assim como acontecerá com Leona em pouco tempo.",
+    "5": "O Exemplo deixado é uma virtude insuperável, e que merece lugar ao sol, pois pessoas como Salvador Arena simplesmente superam o orgulho de Leona apenas com Humildade e simplicidade."
+  },
+  "redacao_gerada": {
+    "0": "Hoje em dia, muitos pensam sobre o valor dos animais, principalmente cachorros, que são nossos amigos.",
+    "1": "É uma questão complexa, porque as pessoas amam seus bichinhos e cuida deles com carinho.",
+    "2": "Isso mostra que eles são importantes na sociedade, e muitos até consideram eles da familia.",
+    "3": "Algumas pessoas dão muito dinheiro para seus pets, tipo um cachorro que ganhou herança.",
+    "4": "Isso é meio estranho pra alguns, mas pra outros não é.",
+    "5": "Porque um pet da carinho e companhia, e as vezes ele e mais fiel que um parente.",
+    "6": "Então, pra alguns, o animal é como um filho, e ter um cachorro pode ser melhor que um parente distante que não se importa.",
+    "7": "A ética fala que humanos são mais importantes, claro, mas os animais também sente e tem vida.",
+    "8": "Eles merecem respeito e carinho, e muitos donos dão isso em abundancia.",
+    "9": "A sociedade moderna vive um dilema, pois não sabe o que fazer com tanto amor por pets, e as vezes até confunde os papeis.",
+    "10": "É uma coisa que precisa ser pensada com calma, mas ninguem pensa direito nisso.",
+    "11": "Em resumo, o valor de um cachorro é algo bem pessoal e cada um tem sua opiniao.",
+    "12": "Para resolver esse problema, o governo podia criar leis para proteger os animais e dar mais apoio para as pessoas que tem pet.",
+    "13": "Assim, todo mundo ia ficar feliz e os animais também teriam seus direitos garantidos, para que a gente possa viver em paz com todos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "7"
+      ],
+      "textos_motivadores": [
+        "2",
+        "3"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "7"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

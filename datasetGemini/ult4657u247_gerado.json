@@ -1,0 +1,227 @@
+{
+  "tema": "o-famoso-conflito-de-geracoes-ainda-existe-hoje",
+  "comando_tematico": {
+    "frases": {
+      "0": "O famoso conflito de gerações ainda existe hoje?",
+      "1": "Com o avanço tecnológico, tudo acontece mais rápido na atualidade.",
+      "2": "Isso aproxima as idades, bem como o seu modo de ser, de pensar e de se comportar.",
+      "3": "A transformação dos costumes, ocorrida a partir da década de 1960 e que teve como marco mais célebre o ano de 1968, fez a família se modernizar e mudar de estilo.",
+      "4": "Entretanto, muitos afirmam que ainda existe o célebre conflito entre gerações.",
+      "5": "Pais e filhos continuam com relacionamento difícil e raramente conseguem chegar a um acordo sobre questões essenciais da vida cotidiana.",
+      "6": "O que você pensa disso?",
+      "7": "Justifique suas opiniões com fatos e argumentos.",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Filhos são o melhor radar para o sucesso Andrew Lippman, fundador do Institulo de Tecnologia de Massachutsetts (EUA), afirma que \"a velocidade com que as gerações surgem, hoje, diminuiu de 30 para três anos, e que, para estar atualizado, um empresário [que quiser ter sucesso] deve perceber quais produtos mais atraem seus filhos.",
+      "4": ") Folha de S.",
+      "5": "Paulo.",
+      "6": "8 de junho de 2008.",
+      "7": "Caderno \"Negócios\", pág.",
+      "8": "4 Maitena, Folha de S.",
+      "9": "Paulo, 25 de maio de 2008 Honrar pai e mãe (.",
+      "12": ") \"Foi-se o patriarcado, em que havia regras rígidas.",
+      "13": "Eu não quereria estar na pele dos infratores de então, os filhos que ousavam discordar.",
+      "14": "Em lugar da antiga rigidez e distância, estabeleceu-se a alegre bagunça, com mais demonstrações de afeto, mais liberdade, mais respeito pelas individualidades - muitas vezes com resultados dramáticos.",
+      "15": "Lembro a frase que já escrevi nesta coluna, do psicólogo que me revelou: \"a maior parte dos jovens perturbados que atendo não tem em casa pai e mães, tem uma gatão e uma gatinha (.",
+      "19": "Pais bonzinhos são tão danosos quanto pais indiferentes\".",
+      "20": "Lya Luft, Veja, 11 de junho de 2008, pág.",
+      "21": "18 Escândalo social \" No meu tempo não havia essa história de responder para o pai ou para mãe e ter vontades egoístas.",
+      "22": "Todos obedeciam com um olhar, comiam o que tinha, pediam licença pra tudo.",
+      "23": "O menino e a menina já sabiam o seu futuro.",
+      "24": "Se o pai tinha um açougue, ele também ia ser açougueiro.",
+      "25": "Se a mãe era professora, a filha tinha de ser um pouco mais: talvez advogada.",
+      "26": "Hoje o mundo está de cabeça para baixo, porque os filhos é que mandam nos pais, os filhos mudam o jeito dos pais, até o jeito de lidar com os negócios familiares.",
+      "27": "Criticam tudo, fazem barulho, ouvem músicas absurdas, não respeitam a geração dos avós, vivem no computador mas, apesar de tudo, ficam um tempo enorme morando na mesma casa.",
+      "28": "É um escândalo social.",
+      "29": "\" Érica Winsburg, professora universitária aposentada, 70 anos, em entrevista a Flávia Di Roberto.",
+      "30": "Texto inédito."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Os anos vão se passando, o mundo muda, e consequentemente, quem vive nesse mundo também sofre alterações .",
+    "1": "O tempo passa e novos costumes acabam sendo adquiridos por toda uma população, que as vezes até mesmo sem perceber, em pouco tempo já mudou o seu jeito de ser de alguns anos atrás.",
+    "2": "Com o avanço tecnológico a mudança do jeito de pensar das pessoas deve ser mudado sim ; porém, nem todos se acostumam com isso, e como conseqüência novos problemas e conflitos surgem como desafios de tantas \"avançadas\", as quais nem todos se acostumam rápido.",
+    "3": "O mundo mudou e isso já é fato.",
+    "4": "Quem nasceu há até 35 anos atrás já pode ser considerado de uma outra geração, devido as influências que a atual sociedade impõe a todos, e ao \"reformulado\" caráter do jovem de hoje se compararado com o de antigamente.",
+    "5": "A principal causa disso tudo, são os avanços tecnológicos.",
+    "6": "Novas coisas são lançadas, um novo pensamento é gerado.",
+    "7": "Como exemplo das alterações vividas por todos, podem ser ditas as propagandas de televisão.",
+    "8": "Hoje em dia, a mídia traz todas as informações do mundo, e os problemas que ninguém está livre de sofrer.",
+    "9": "Atualmente, por exemplo, existe uma grande campanha de conscientização dos jovens sobre a importância do uso de preservativos.",
+    "10": "Com isso, doenças podem ser evitadas, e pode-se dizer que a adolescência de vários jovens pode não ser marcada pela gravides ; a causa é justa, mas nem todos entendem que isso é preciso.",
+    "11": "Por causa dessas diferentes formas de pensar dos mais velhos e dos mais tradicionais, um sofrimento que poderia ser evitado acaba não sendo.",
+    "12": "Além da propaganda sobre a importância do uso de preservativos ser bastante questionada, vários outros temas podem gerar discussões.",
+    "13": "Anos atrás, a mulher que se vestia com roupas mais curtas, ou que se casava sem ser virgem era recriminada.",
+    "14": "Hoje isso já não acontece mais, e mulher que casa virgem nos tempos atuais pode até ser considerada \"santa\", tamanho é a dificuldade dessas serem encontradas .",
+    "15": "Quem mais se beneficiou com essas mudanças foram as mulheres, que tiverem sua imagem mais valorizada, e ganharam um respeito mais amplo diante da sociedade.",
+    "16": "Elas receberam mais prestígio e isso é realidade; porém, nem em todos os lugarem isto acontece.",
+    "17": "As vezes por causa da cultura do país e de seu povo; mas na maioria das vezes por causa do pensamento antigo de que a mulher não serve para muita coisa, idéia essa que ainda não foi extinta e que infelizmente gera muita polêmica.",
+    "18": "Tudo mudou, e todo cidadão querendo ou não, deve estar ciente disso.",
+    "19": "Não adianta dizer que prefere ser e ter um caráter mais tradicional, pois os jovens estão aí para debater e tentar excluir essa forma de pensar.",
+    "20": "Já está na hora de toda a sociedade reavaliar seus conceitos e chegar a conclusão de que de que se o mundo muda, quem vive nesse mundo também deve mudar.",
+    "21": "Só assim novos conflitos serão evitados, e a vida poderá se modernizar de uma forma mais acelerada e tranqüila , de um jeito que ninguém se aborreça por coisas que são impossíveis de se evitar."
+  },
+  "redacao_gerada": {
+    "0": "A questão do famoso conflito de gerações e algo que sempre se discuti.",
+    "1": "Muitas pessoas pensa que, com a rapidez dos tempos atuaís e o avanço da tecnologia, as diferenças entre as idades diminuiu muito.",
+    "2": "Isso porque o modo de ser e de pensar das pessoas se aproximam, fazendo com que pais e filhos tenha mais coisa em comum.",
+    "3": "No entanto, ainda existe uma corrente que afirma que essa briga entre gerações continua forte na sociedade de hoje.",
+    "4": "É verdade que a tecnologia e a internet mudou muito o jeito das pessoas se relacionar.",
+    "5": "Hoje em dia, um jovem e um adulto podem gostar das mesma música ou de um jogo de vídeo game.",
+    "6": "A informação chega rápido para todo mundo, então não tem mais aquela distância de conhecimento que existia antigamente.",
+    "7": "Por exemplo, os pais de agora ja cresceram com o celular, e isso facilita o diálogo com os filhos, porque eles entende o mundo digital.",
+    "8": "Essa modernização dos costumes, que começou la nos anos 60, fez a família se adaptar e ficar mais aberta.",
+    "9": "Mas, apesar de tudo isso, o conflito tambem aparece.",
+    "10": "É comum ver pais e filhos que não conseguem chegar num acordo sobre questões do dia a dia, como horário de voltar pra casa, o uso excessivo do celular ou as escolhas de carreira.",
+    "11": "Os valores dos mais velhos muitas vezes não batem com os dos mais novos.",
+    "12": "Os pais, por exemplo, quer mais estabilidade e os filhos, liberdade total.",
+    "13": "Essa dificuldade de aceitar a visão do outro gera atritos e mostra que as gerações ainda se chocam, mesmo com todas as facilidades modernas.",
+    "14": "Portanto, o famoso conflito de gerações e um problema complexo que ainda existe hoje, mesmo com as mudanças.",
+    "15": "Se por um lado a tecnologia e a modernidade tentam aproximar as pessoas, por outro lado as diferenças de valores e expectativas ainda criam barreiras.",
+    "16": "É um desafio constante para as famílias conseguir conviver em harmonia, mostrando que a briga de gerações, em certa medida, continua presente em nossa sociedade."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "21",
+        "26"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "21",
+        "27"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "1",
+        "2",
+        "4"
+      ],
+      "textos_motivadores": [
+        "0",
+        "21",
+        "26",
+        "27"
+      ]
+    },
+    "16": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    }
+  }
+}

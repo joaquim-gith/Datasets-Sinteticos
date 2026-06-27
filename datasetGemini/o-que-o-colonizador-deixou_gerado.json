@@ -1,0 +1,195 @@
+{
+  "tema": "intolerancia-religiosa-regra-ou-excecao-no-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "Intolerância religiosa: regra ou exceção no Brasil?",
+      "1": "No mês , no Rio de Janeiro, uma menina de 11 anos, praticante de Candomblé, foi apedrejada na cabeça e insultada por dois homens que portavam Bíblias na mão e que supostamente pertencem a seitas cristãs evangélicas ou neopentecostais.",
+      "2": "O fato despertou a atenção do público para a intolerância religiosa na sociedade brasileira.",
+      "3": "Que o problema existe, é inegável.",
+      "4": "Mas o Brasil não tem um histórico de conflitos armados motivados pela religião, como ocorrem no Oriente Médio ou na Índia, por exemplo, ou como ocorreram historicamente entre católicos e protestantes na Europa.",
+      "5": "Diante disso, é o caso de perguntar: que dimensões assume a intolerância religiosa no Brasil?",
+      "6": "É grande ou pequena?",
+      "7": "É explícita ou camuflada?",
+      "8": "É regra ou exceção?",
+      "9": "Por quê?",
+      "10": "Escreva um texto dissertativo-argumentativo expondo sua visão sobre o tema.",
+      "11": "Considere na sua argumentação as informações apresentadas na coletânea.",
+      "12": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O direito de criticar dogmas é assegurado como liberdade de expressão.",
+      "1": "Atitudes agressivas, ofensas e tratamento diferenciado a alguém em função de crença ou de não ter religião são crimes sem fiança.",
+      "2": "Lembre-se que crítica não é o mesmo que intolerância.",
+      "3": "(Página do Ministério da Justiça no Facebook) Alguns fatos 1) No domingo passado, Kayllane Campos, de 11 anos, e outras sete pessoas voltavam de um evento religioso caminhando pela avenida Meriti, na Vila da Penha, quando dois homens que estavam em um ponto de ônibus do outro lado da rua começaram a insultar o grupo.",
+      "4": "Com Bíblias sob os braços, os agressores gritavam \"Sai demônio, vão queimar no inferno, macumbeiros\" e lançaram a pedra contra o grupo, segundo Kátia Marinho.",
+      "5": "A pedra bateu em um poste antes de atingir Kayllane, que chegou a desmaiar.",
+      "6": "Os dois agressores fugiram de ônibus.",
+      "7": "2) Católicos, evangélicos, adeptos do candomblé, da umbanda e de outras religiões se reuniram em um ato contra a intolerância religiosa na manhã deste domingo (21 de junho), no largo do Bicão, na Vila da Penha, zona norte do Rio.",
+      "8": "A manifestação ocorre uma semana depois de a estudante Kayllane ter levado uma pedrada na cabeça quando voltava de uma festividade do candomblé.",
+      "9": "Cerca de 400 pessoas participam do ato neste domingo.",
+      "10": "[ UOL Notícias ência Estado ] 3) Em 2014, o Disque 100 registrou 149 denúncias de discriminação religiosa no país.",
+      "11": "Mais de um quarto (26,17%) ocorreu no estado do Rio de Janeiro e 19,46%, em São Paulo.",
+      "12": "O número total caiu em relação a 2013, quando foram registradas 228 denúncias, mas, mesmo assim, mostra que a questão não foi superada no país.",
+      "13": "As principais vítimas são as religiões de matriz africana, como o candomblé e a umbanda.",
+      "14": "[ Carta Capital ] Conceitos Alguém já conceituou com propriedade: \"A intolerância religiosa é um conjunto de ideologias e atitudes ofensivas a crenças e práticas religiosas ou mesmo a quem não segue uma religião.",
+      "15": "É um crime de ódio que fere a liberdade e a dignidade humana.",
+      "16": "\" Diante deste conceito amplo, poderemos, portanto, resumir como liberdade religiosa: 1) O direito de ter uma religião e crer num ser divino; 2) O direito de não ter uma religião e não crer em um ser divino; 3) O direito à neutralidade religiosa em espaços de uso comum (públicos).",
+      "17": "[ Michael Pereira de Lira, site JusBrasil ] Uma explicação “O neopentecostalismo, em conseqüência da crença de que é preciso eliminar a presença e a ação do demônio no mundo, tem como característica classificar as outras denominações religiosas como pouco engajadas nessa batalha, ou até mesmo como espaços privilegiados da ação dos demônios, os quais se \"disfarçariam\" em divindades cultuadas nesses sistemas.",
+      "18": "É o caso, sobretudo, das religiões afro-brasileiras, cujos deuses, principalmente os exus e as pombagiras, são vistos como manifestações dos demônios.",
+      "19": "” [ Vagner Gonçalves da Silva, professor de Antropologia, USP ] Um ateu Sou ateu e mereço o mesmo respeito que tenho pelos religiosos.",
+      "23": ") Fui educado para respeitar as crenças de todos, por mais bizarras que a mim pareçam.",
+      "24": "Se a religião ajuda uma pessoa a enfrentar suas contradições existenciais, seja bem-vinda, desde que não a torne intolerante, autoritária ou violenta.",
+      "25": "Quanto aos religiosos, leitor, não os considero iluminados nem crédulos, superiores ou inferiores, os anos me ensinaram a julgar os homens por suas ações, não pelas convicções que apregoam.",
+      "26": "[ Drauzio Varella, Folha de S.",
+      "27": "Paulo ] Um debate Para o pastor Sezar Cavalcante, reitor da Faculdade Teológica Betesda, de Campinas (SP), os evangélicos têm o direito de pregar contra as religiões de matriz afrobrasileiras, como a umbanda e o candomblé, desde que não usem de força –como invadir terreiros.",
+      "28": "Preceitos desses credos, como o culto politeísta aos orixás, seriam pecado, diz, se entendermos que pecado \"é o que errou o alvo\" de Deus, diz.",
+      "29": "Rodney William, doutorando em antropologia em PUC e babalorixá do terreiro de candomblé Ilê Obá Ketu Axé Omi Nlá (zona norte de São Paulo), argumentou que cada religião tem sua própria régua para determinar o que é pecado.",
+      "30": "[ TV Folha ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Diferente de  países do Oriente Médio, a intolerância religiosa não teve  conflitos armados no Brasil.",
+    "1": "Contudo, não anula a gravidade dessa situação.",
+    "2": "Enquanto a constituição  condena a intolerância de cunho religioso, líderes de algumas denominações religiosas defendem a intolerância contra  ateus e praticantes de religiões de matriz africana.",
+    "3": "Com o avanço do pentecostalismo e neopentecostalismo no Brasil, a influência dessas religiosas  se manifesta na sociedade brasileira.",
+    "4": "O proselitismo religioso é  presente no Brasil, a bancada evangélica é uma prova disso.",
+    "5": "Deputados que são  eleitos por estes fiéis  , para privilegiar esse mesmo grupo com leis discrepantes ao estado laico  que é institucionalizado no Brasil.",
+    "6": "A perseguição dos praticantes de religiões de matriz africana é sistemática desde a época do Brasil colonial, quando o país ainda era considerada uma \"nação cristã\".",
+    "7": "Nos libertamos  das mãos do colonizador e mantemos maus hábitos e preconceitos do colonizador  .",
+    "8": "A intolerância religiosa, como todo preconceito, é fruto da ignorância.",
+    "9": "Este quadro vergonhoso é, também, culpa do não cumprimento das leis que são bem claras.",
+    "10": "O preconceito é a parte mais abjeta da mente humana."
+  },
+  "redacao_gerada": {
+    "0": "A questão da intolerância religiosa no Brasil, frequentemente discutida sob a ótica de ser regra ou exceção, revela uma complexidade que transcende a aparente harmonia social.",
+    "1": "Embora o país não registre conflitos armados de cunho religioso como em outras nações, a persistência de atos discriminatórios e violentos contra praticantes de diversas fés, em especial as de matriz africana, sugerem que o problema está longe de ser uma mera anomalia isolada.",
+    "2": "É imperativo, portanto, analisar as dimensões desse fenômeno, que se manifesta de maneira explícita e camuflada para compreender sua verdadeira extensão na sociedade brasileira.",
+    "3": "Um dos pilares para entender a intolerância religiosa no Brasil reside na sua manifestação, muitas vezes velada, mas com momentos de brutalidade chocante.",
+    "4": "Casos como o apedrejamento de uma menina praticante de Candomblé no Rio de Janeiro, um evento que ganhou notoriedade e chocou a nação, evidenciam que a violência física é um triste desdobramento do preconceito enraizado.",
+    "5": "Tais ocorrências, embora pontuais, não podem ser desconsideradas como exceções, pois refletem uma estrutura social onde a liberdade de culto é constantemente desafiada, principalmente para grupos minoritários que sofrem com a estigmatização e a demonização de suas crenças.",
+    "6": "A Constituição Federal garante a liberdade religiosa, mas a realidade prática ainda diverge significativamente deste preceito.",
+    "7": "Ademais, a linha tênue entre a liberdade de expressão e o discurso de ódio contribuem para a perpetuação da intolerância.",
+    "8": "Muitos indivíduos e grupos religiosos se valem da prerrogativa de criticar dogmas alheios, o que é um direito, para proferir ofensas e incitar a discriminação, confundindo crítica com intolerância.",
+    "9": "Essa distorção é particularmente perigosa quando se direciona a religiões que já enfrentam preconceito histórico, como as afro-brasileiras, cujos rituais e divindades são frequentemente atacados e desrespeitados.",
+    "10": "A falta de conhecimento e o proselitismo agressivo alimentam um ciclo vicioso de desrespeito, onde a fé do outro é vista como algo a ser combatido, e não como uma expressão legítima da diversidade cultural e espiritual do país.",
+    "11": "Diante desse cenário, conclui-se que a intolerância religiosa no Brasil, embora não se materialize em guerras, é uma regra sutil e perigosa, que exige ações contundentes.",
+    "12": "É fundamental que o Estado, por meio de suas instituições, atue de forma mais enérgica na fiscalização e punição dos crimes de ódio religioso, garantindo que as leis sejam efetivamente aplicado.",
+    "13": "Além disso, a promoção de uma educação pluralista, que valorize e respeite a diversidade de crenças desde cedo, é essencial para construir uma sociedade mais justa e inclusiva onde a fé de cada um seja motivo de celebração e não de conflito."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "4",
+        "3"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "5",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4",
+        "5",
+        "8"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": [
+        "13",
+        "17",
+        "18",
+        "19"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "16",
+        "17"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "2"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "13",
+        "18",
+        "19",
+        "28"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "17",
+        "18",
+        "19"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "4",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "23",
+        "24"
+      ]
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "tema": "a-energia-nuclear-e-uma-boa-solucao-para-o-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "A energia nuclear é uma boa solução para o Brasil?",
+      "1": "O país possui duas usinas nucleares: Angra 1 e Angra 2, no Estado do Rio de Janeiro.",
+      "2": "O governo planeja a instalação de Angra 3.",
+      "3": "Mas o uso de energia nuclear tem dividido a opinião dos especialistas.",
+      "4": "O benefício é que ela não polui a atmosfera nem contribui para o aquecimento global.",
+      "5": "Há também vantagens na sua utilização em medicina, agropecuária, indústria, etc.",
+      "6": "Porém, o grande problema dessa matriz energética é que os restos do urânio enriquecido viram um lixo perigoso, sem falar no risco de acidentes.",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Angra 2 A Usina de Angra 2, em Angra dos Reis (RJ) \"Fruto de um acordo nuclear Brasil-Alemanha, a construção e a operação de Angra 2 ocorreram conjuntamente à transferência de tecnologia para o país, o que levou também o Brasil a um desenvolvimento tecnológico próprio, do qual resultou o domínio sobre praticamente todas as etapas de fabricação do combustível nuclear.",
+      "1": "Desse modo, a Eletronuclear e a indústria nuclear nacional reúnem, hoje, profissionais qualificados e sintonizados com o estado da arte do setor.",
+      "2": "\" Do site da Eletronuclear.",
+      "3": "Vídeo divulgado em 13 pelo UOL NEWS.",
+      "4": "Césio 137: Vinte anos depois do acidente, vítimas ainda lutam por indenização e contra o preconceito.",
+      "5": "Radioatividade: Mal ou bem depende do uso que é feito dela.",
+      "6": "Para o mal Imagine o acidente de Goiânia acontecendo no centro de São Paulo ou Rio de Janeiro.",
+      "7": "Você sabia que, no Brasil, existe um número muito grande de cápsulas com material radioativo em utilização neste momento?",
+      "8": "Mas não precisa se preocupar.",
+      "9": "As rigorosas autoridades brasileiras possuem total controle sobre todas elas.",
+      "10": "Aliás, essas notícias que periodicamente você escuta por aí sobre roubos de carros com essas cápsulas, normalmente são fantasiosas e o ladrão está mais interessado no carro do que no material radioativo, é claro.",
+      "11": "Ou seja, em países que não o Brasil, existem falhas de segurança que possibilitam aos interessados conseguir material radioativo para a construção de uma bomba suja.",
+      "12": "Para o bem Convém lembrar que essas cápsulas não geram somente destruição nem causam problemas.",
+      "13": "Ao contrário, elas estão em funcionamento exatamente para o seu uso industrial (gamografia), medicinal (tratamento de câncer, diagnósticos com contrastes radioativos etc.",
+      "14": "), agricultura etc.",
+      "15": "Muitas vidas já foram salvas com a sua utilização.",
+      "16": "O que é absolutamente necessário é um controle maior da segurança com esse material, não só aqui, mas em todo o mundo.",
+      "17": "(Carlos Alberto Campagner, engenheiro mecânico, com mestrado em mecânica, professor de pós-graduação e consultor de informática, no artigo Radioatividade , do site Lição de Casa ).",
+      "18": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Lavoisier, francês, pai da Química moderna, dizia em sua teoria que \"na natureza nada se cria, nada se destrói, tudo se transforma\".",
+    "1": "Este é praticamente o mesmo princípio da conservação de energia, que diz que esta não se cria nem se destrói, mas é transformada, com a sua quantidade total permanecendo sempre constante.",
+    "2": "A energia constitui uma das coisas do universo que não possuem definição e simplesmente não se vive sem.",
+    "3": "O conceito de energia dialoga tanto com as necessidades pessoais e familiares, passando pelo âmbito do comércio e economia, quanto com as relações internacionais.",
+    "4": "As fontes energéticas de que dispomos hoje em nosso país são as mais variadas.",
+    "5": "Utilizamos os combustíveis fósseis como o carvão e o petróleo (largamente empregado na geração de energia e na movimentação da economia brasileira), a energia hidrelétrica, uma das mais utilizadas, e também a energia nuclear, fonte moderna, mas até então pouco utilizada apesar das suas grandes vantagens.",
+    "6": "O Brasil possui hoje duas instalações geradoras de energia nuclear, as usinas Angra I e Angra II, que não podem ser consideradas exemplos de sucesso.",
+    "7": "A instalação das usinas, tendo sido feita no mar, prejudica a fauna e a flora da circunscrição com os detritos nucleares que atingem o oceano.",
+    "8": "As usinas pecam pelas relapsas atenção e manutenção dispensadas ao lixo radioativo, que configura a maior desvantagem desse tipo de fonte energética.",
+    "9": "Além disso, as usinas hoje são consideradas obsoletas.",
+    "10": "No entanto, se as autoridades competentes dessem a devida atenção às usinas, a energia nuclear se tornaria se não a melhor, uma das melhores opções de obtenção de energia para o nosso país.",
+    "11": "A energia nuclear não é poluente e, como não lança dióxido de carbono na atmosfera, não contribui para o aquecimento global, uma das maiores preocupações da atualidade.",
+    "12": "A energia nuclear poderia substituir a hidrelétrica, amplamente utilizada no nosso país, mas que contribui para o escasseamento dos recursos hídricos do planeta.",
+    "13": "Poderia também fornecer energia no lugar do petróleo, combustível fóssil, findável, e que contribui em grande parcela para a poluição e o aquecimento global.",
+    "14": "Para isso, basta o empenho do Estado ou até de iniciativas privadas no desenvolvimento do projeto recém-nascido Angra III e também no cuidado com o lixo radioativo.",
+    "15": "Assim, não presenciaremos novamente acidentes como o de Goiânia - césio 137 e também não teremos nossa natureza degradada, já que nela nada se cria."
+  },
+  "redacao_gerada": {
+    "0": "A busca por uma matriz energética sustentável e eficiente configura-se como um dos maiores desafios contemporâneos para nações em desenvolvimento, como o Brasil.",
+    "1": "Nesse contexto, a energia nuclear emerge como uma alternativa complexa, suscitando debates acalorados acerca de sua viabilidade e segurança.",
+    "2": "Embora apresente o benefício inegável de uma baixa emissão de gases do efeito estufa e o potencial para o avanço tecnológico nacional, sua implementação massiva esbarra em dilemas éticos e práticos inerentes à gestão de resíduos radioativos e ao risco latente de acidentes catastróficos.",
+    "3": "A questão central, portanto, reside em ponderar os ganhos potenciais frente aos perigos intrínsecos a essa fonte de energia.",
+    "4": "Sob uma perspectiva de mitigação das mudanças climáticas, a energia nuclear destaca-se por não emitir dióxido de carbono durante sua operação, contrastando fortemente com as fontes fósseis que impulsionam o aquecimento global.",
+    "5": "Ademais, a experiência brasileira com as usinas de Angra 1 e Angra 2, no litoral fluminense, ilustra o desenvolvimento tecnológico e a capacitação de engenheiros e técnicos nacionais, fruto de acordos que promoveram a transferência de conhecimento.",
+    "6": "Tal progresso, conforme destaca a Eletronuclear, posiciona o país com domínio sobre etapas cruciais da fabricação do combustível nuclear, evidenciando um benefício estratégico para a soberania energética.",
+    "7": "A aposta em Angra 3, nesse sentido, é vista por alguns como uma continuidade dessa trajetória de inovação e independência.",
+    "8": "Contudo, os riscos inerentes à exploração nuclear representam um contraponto substancial aos seus benefícios.",
+    "9": "A principal preocupação reside no descarte do lixo radioativo, um material de altíssima periculosidade e longa vida útil, para o qual ainda não há solução definitiva globalmente.",
+    "10": "O trágico acidente do Césio 137 em Goiânia, que causou mortes e contaminação duradoura, serve como um sombrio lembrete dos perigos da negligência com materiais radioativos, evidenciando que falhas de segurança podem ter consequências devastadoras.",
+    "11": "O filósofo Hans Jonas, em sua obra \"O Princípio Responsabilidade\", alertava para a necessidade de um novo imperativo ético diante do poder tecnológico humano de alterar irreversivelmente o planeta e a vida futura, um presságio que ressoa na discussão sobre os riscos da energia nuclear.",
+    "12": "Em vista do exposto, percebe-se que a energia nuclear no Brasil é uma solução de dupla face, demandando cautela e responsabilidade.",
+    "13": "Para mitigar os riscos e otimizar os benefícios dessa matriz, o Ministério de Minas e Energia (MME), em colaboração com a Eletronuclear e agências reguladoras internacionais, deve intensificar a pesquisa e o desenvolvimento de tecnologias de reprocessamento e descarte seguro de resíduos nucleares, além de aprimorar os protocolos de segurança operacional.",
+    "14": "Tal ação deve ser realizada por meio de investimentos em centros de pesquisa, parcerias com universidades e a implementação de auditorias rigorosas, baseadas em padrões internacionais, a fim de minimizar os riscos ambientais e de saúde pública, garantindo a sustentabilidade da matriz energética e a confiança da população.",
+    "15": "Promovendo, ademais, campanhas educativas que esclareçam os benefícios e os perigos da energia nuclear, fomentando o debate público informado e a participação social."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "4",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "4",
+        "6"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

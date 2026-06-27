@@ -1,0 +1,238 @@
+{
+  "tema": "terrorismo-o-brasil-tem-razoes-para-teme-lo",
+  "comando_tematico": {
+    "frases": {
+      "0": "Terrorismo: o Brasil tem razões para temê-lo?",
+      "1": "Neste mês de junho, o Brasil vai receber a Copa das Confederações, um importante torneio esportivo internacional.",
+      "2": "O evento está sendo visto como um \"treino\" para dois outros acontecimentos de destaque do esporte mundial, que também serão sediados pelo país: a Copa do Mundo, em 2014, e as Olimpíadas, em 2016.",
+      "3": "A exemplo da Maratona de Boston, eventos desse tipo são considerados alvos privilegiados para organizações terroristas, num contexto internacional em que o terrorismo é uma ameaça sempre presente, com ações que visam chamar a atenção do maior número de pessoas para uma causa, por meio de atentados que provoquem impacto pela sua violência.",
+      "4": "Assim, jornalistas, autoridades e especialistas em segurança têm discutido se o Brasil está preparado para prevenir e enfrentar uma eventual ação terrorista, como se pode ver pelos textos abaixo.",
+      "5": "Leia-os, reflita e responda, por meio de uma dissertação, qual é a sua opinião sobre o assunto.",
+      "6": "Há razões para temor ou tranquilidade?",
+      "7": "Por quê?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Segurança nos eventos esportivos: Exército e Guarda Municipal do Rio de Janeiro fazem simulação de enfrentamento a manifestações no Maracanã Pode acontecer aqui?",
+      "4": ") o ministro da Defesa, Celso Amorim, reuniu-se com seus principais auxiliares.",
+      "5": "Queria saber como andam os preparativos para garantir a segurança durante a Copa das Confederações, marcada para junho próximo, e na Copa do Mundo, no ano que vem.",
+      "6": "A reunião ganhou contornos mais preocupantes após o atentado à bomba em Boston.",
+      "7": "Amorim estava especialmente interessado nas informações do general Marco Antônio Freire Gomes, comandante da Brigada de Operações Especiais, localizada em Goiânia.",
+      "8": "Freire Gomes é o responsável pelo destacamento encarregado das ações contraterrorismo durante grandes eventos.",
+      "9": "Essa elite militar conta com 1.",
+      "10": "200 homens especializados em atividades delicadas, como o desarme de bombas e artefatos químicos e radiativos.",
+      "11": "Entram em ação em situações extremas.",
+      "12": "Para um país com histórico pacífico, tamanha preparação pode até parecer desmedida.",
+      "13": "A natureza do terrorismo, revelada na tragédia de Boston, prova que não é.",
+      "14": "Os preparativos para a segurança dos grandes eventos começaram há cerca de dois anos.",
+      "15": "[ Revista Época ] Estamos preparados?",
+      "16": "O terrorista não mata por prazer ou sadismo, mas pela convicção de que a sua causa deve ser defendida e difundida a qualquer custo.",
+      "17": "O ato terrorista não é cometido a esmo.",
+      "18": "Ao escolher um alvo, uma organização terrorista avalia vários aspectos, dentre eles a competência do Estado em antever e prevenir o atentado e de neutralizar os seus executores.",
+      "19": "Ou seja, é levada em conta a capacidade de resposta do país-alvo.",
+      "23": ") No Brasil, o maior entrave às atividades de prevenção e combate ao terrorismo é a legislação (ou a falta dela).",
+      "24": "No vasto ordenamento jurídico brasileiro não há conceituação de terrorismo, nem previsão de penas a serem aplicadas a terroristas.",
+      "25": "O projeto de reforma do Código Penal prevê pela primeira vez o crime de terrorismo.",
+      "26": "Caso não sofra alterações, o texto legal passa a combinar as prováveis motivações terroristas com as diversas condutas que podem ser adotadas.",
+      "27": "Mas, caso haja um ataque antes que a nova lei entre em vigor, a polícia, o Judiciário, os legisladores e a sociedade ficarão se perguntado o que fazer.",
+      "31": ") Além das lacunas legais, existem outros aspectos relevantes.",
+      "32": "Em 2011, a diretoria de Fiscalização de Produtos Controlados do Exército divulgou relatório no qual informa que mais de uma tonelada de emulsão de nitrato de amônia e de dinamite foi roubada ou furtada (e não recuperada) de pedreiras e obras no Brasil.",
+      "33": "Isso significa que os recursos materiais a serem empregados num eventual atentado terrorista em território brasileiro podem ser facilmente obtidos aqui mesmo, sem que haja preocupação com a transposição de fronteiras.",
+      "34": "[ Carta Capital ] O Brasil está seguro?",
+      "35": "O ataque terrorista na Maratona de Boston, nos Estados Unidos, na semana passada, fez acender a luz amarela no Brasil.",
+      "36": "Embora o País não faça parte da rota do terror, os grandes eventos internacionais que acontecerão aqui nos próximos anos irão atrair para as cidades brasileiras dezenas de autoridades e milhares de jornalistas e cidadãos de diferentes nações.",
+      "37": "Em junho, Rio de Janeiro, Brasília, Belo Horizonte, Salvador, Recife e Fortaleza receberão jogos da Copa das Confederações e, no mês seguinte, o Rio será palco da Jornada Mundial da Juventude, com a presença do papa Francisco.",
+      "38": "Serão eventos-teste para a Copa do Mundo de 2014, que incluirá outras seis capitais, e, dois anos depois, para os Jogos Olímpicos, majoritariamente sediados na capital fluminense.",
+      "39": "Quanto mais visibilidade, maior a comoção diante de tragédias – e é isso que os terroristas buscam.",
+      "40": "Por isso, as autoridades estão se preparando para todo tipo de emergência.",
+      "41": "O governo federal investirá, em parceria com os 12 Estados-sede da Copa e a iniciativa privada, mais de R$ 2 bilhões em segurança.",
+      "42": "Ao todo, serão cerca de 142 mil policiais de todas as esferas em ruas e em pontos estratégicos.",
+      "43": "[ Revista Istoé ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Ao longo dos anos  o assunto \"terrorismo\" é  sinônimo de países como:  Paquistão, Iraque ou Afeganistão, mas essa realidade mudou.",
+    "1": "Recentemente o ataque à Maratona em Boston, nos Estados Unidos, mostrou ao mundo essa mudança.",
+    "2": "E com esses importantes eventos que aconteceram  em nosso país, como a Copa das Confederações, nos deixa em dúvida, será que corremos o risco de sermos atacádos  por bombas ou algo do gênero?",
+    "3": "Sabemos que existem meios de defesa e não ficaremos sem essas seguranças simplesmente por ainda estarmos na lista de países subdesenvolvidos.",
+    "4": "Os terroristas buscam atentar locais com mais visibilidade pública, em um desses casos, pessoas do mundo todo estaram presentes.",
+    "5": "E agora?",
+    "6": "Temer ou não temer um ataque?",
+    "7": "Sim  devemos temer e prevenir, não sabemos quando ou onde ocorrerá.",
+    "8": "E não podemos sair por aí com medo de tudo e de todos.",
+    "9": "Suponhamos que na entrada dos estádiuns instalem  máquinas detectoras de metais e outros elementos,          assim saberemos exatamente quem está armado ou não.",
+    "10": "Brigas entre times rivais ou gangues também  é um tipo de terrorismo e isso deve ser combatido,          pois crianças entre outras pessoas indefesas estaram  no recinto.",
+    "11": "Com o apôio  e colaboração de todos evitaremos essas péssimas situações devastadoras  ."
+  },
+  "redacao_gerada": {
+    "0": "O terrorismo é um assunto muito sério que todo mundo fala, e no Brasil a gente também tem que pensar se é perigoso pra nós.",
+    "1": "Eu acho que sim, porque o mundo tá muito violento e as coisas ruins acontecem em todo lugar, não é só lá fora.",
+    "2": "Então, é importante a gente conciderar essa ameaça, porque pode acontecer alguma coisa por aqui também, tipo uma bomba ou algo assim.",
+    "3": "A gente vai sediar eventos grandes, tipo a Copa e as Olimpíadas, e isso atraí muita gente.",
+    "4": "Daí, os terrorista gosta de lugar com muita gente pra fazer bagunça e chamar atenção.",
+    "5": "Então, o Brasil tem que ficar esperto.",
+    "6": "Mas, por outro lado, o Brasil não tem histórico de terrorismo, então talvez a gente não seja um alvo tão bom.",
+    "7": "Mas nunca se sabe né, o mundo muda muito rápido e a segurança é importante.",
+    "8": "As autoridades tem que fazer a parte deles para previnir esses ataques.",
+    "9": "A lei aqui no Brasil não é muito boa pra isso, e os bandidos pode roubar explosivos fácil, como já aconteceu em alguns lugares.",
+    "10": "Isso é um problema grave que o governo precisa resolver logo.",
+    "11": "Porque se não resolver, a gente vai ficar mais vulnerável e não vai ter como se defender direito, e aí vai ser tarde demais.",
+    "12": "Pra concluir, eu acho que o Brasil tem sim razões para ter medo do terrorismo, por causa dos eventos e da falta de preparo.",
+    "13": "É preciso que o governo faça mais, tipo, melhorar as leis e treinar mais pessoas pra lidar com isso.",
+    "14": "E a população também precisa ficar atenta e ajudar, porque a segurança é dever de todos.",
+    "15": "Assim, a gente consegue ficar mais seguro e evitar que coisas ruins aconteçam no nosso país."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "13",
+        "35"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "5",
+        "37",
+        "38"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "17",
+        "39"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "35"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "12",
+        "36"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "4",
+        "5",
+        "15",
+        "18",
+        "40"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "23",
+        "24",
+        "27",
+        "31",
+        "32",
+        "33"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "23",
+        "34"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "19",
+        "27"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "15",
+        "34",
+        "35"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "23",
+        "25",
+        "40"
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

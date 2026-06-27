@@ -1,0 +1,247 @@
+{
+  "tema": "um-cachorro-vale-mais-do-que-um-ser-humano",
+  "comando_tematico": {
+    "frases": {
+      "0": "Um cachorro vale mais do que um ser humano?",
+      "1": "A multimilionária Leona Helmsley, dona de um império imobiliário nos Estados Unidos, morreu em 20  e deixou por testamento US$ 12 milhões para seu cachorrinho.",
+      "2": "O animal foi favorecido em prejuízo de dois netos de Leona, que foram deserdados.",
+      "3": "Para muitos, o gesto pode parecer absurdo.",
+      "4": "Outros talvez o aprovem.",
+      "5": "Há quem valorize o melhor amigo do homem mais do que o próprio homem.",
+      "6": "Você acha isso justo?",
+      "7": "Um cão pode valer tanto ou mais que um ser humano?",
+      "8": "Sob o ponto de vista da ética, trata-se de uma questão que merece reflexão.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Trouble, o cão multimilionário A chamada \"rainha da maldade\" em suas últimas vontades fez jus ao apelido que ganhou em vida nos tablóides, já que o principal beneficiário de sua fortuna será Trouble, o pequeno maltês branco do qual nunca se separava, segundo o jornal \"Daily News\".",
+      "1": "A guarda do cachorrinho mimado ficará a cargo de Alvin Rosenthal, irmão da finada e menos felizardo do que o bichinho, já que só receberá US$ 10 milhões.",
+      "2": "Para seus netos David e Walter decidiu deixar US$ 5 milhões para cada um.",
+      "3": "Craig e Meegan, os outros dois netos, ficaram, em compensação, sem nada \"por razões por eles conhecidas\", ainda de acordo com as últimas vontades de Leona.",
+      "4": "Quando o cachorrinho Trouble for chamado a se encontrar com sua dona, ficará a seu lado no mausoléu cercado por doze colunas dóricas e ao qual foi destinado um fundo de US$ 3 milhões para que Leona Helmsley possa assim continuar desfrutando do luxo em sua vida além-túmulo.",
+      "5": "( Adaptado de UOL Notícias, 29 de agosto de 2007 ) Texto 2 \"Já faz tempo, mas ninguém esquece.",
+      "6": "Em 1991, flagrado ao utilizar um carro oficial para levar sua cadela ao veterinário, o então ministro do Trabalho, Antonio Rogério Magri, deu a célebre declaração: 'Cachorro também é ser humano'\".",
+      "7": "( Laura Mattos, \"Folha de S.",
+      "8": "Paulo\", 2 de janeiro de 2008 ) Texto 3 Troque seu cachorro Por uma criança pobre Sem parente, sem carinho Sem rango, sem cobre Deixe na história de sua vida Uma notícia nobre.",
+      "11": "Troque seu cachorro Por uma criança pobre Tem muita gente por aí Que tá querendo levar Uma vida de cão Eu conheço um garotinho Que queria ter nascido Pastor-alemão ( \"Rock da Cachorra\", Eduardo Dusek ) Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Na minha opnião, essa senhora pela qual deserdou dois netos e deu todo o seu dinheiro em testamento para seu cão, fez o que ela achou melhor a ser feito.",
+    "1": "Se fosse a minha pessoa eu jamais deixaria toda minha fortuna para um cão, mesmo se me extimasse muito.",
+    "2": "Eu poderia deixar uma quantia em dinheiro para que cuidasse dele em minha ausencia, e os demais eu daria para um orfanato, ou algum local que precisa-se muito de verba para ser dirigido.",
+    "3": "E também tenho por opnião, que alguns animais valem mais que um ser humano sim, pois são companheiros e sinceros.",
+    "4": "E muitos ser humanos não tem o cuidado que um cachorro tem pelo seu dono ( ou melhor amigo).Se minha familia na se importa-se comigo, eu não deixaria meus bens pra eles, pois se antes não se importavam comigo, depois que eu morresse também não queria que se importasse com meu dinheiro.",
+    "5": "Espero que no caso dessa senhora, ela tenha tido um motivo em especial, e não por desturbio , ou qualquer outra coisa que de motivo de força maior.",
+    "6": "Pois hoje em dia o valor das pessoas estão no que elas têem e não pelo que elas são!Não sei se foi o caso dessa senhora, mais seja qual for eu concordo com ela em dar a sua fortuna para alguém que mereça e se ela percebeu que o cachorro merecia, como o dinheiro era dela, então ela tinha esse direito de fazer o que quiser."
+  },
+  "redacao_gerada": {
+    "0": "Hoje em dia, a gente ve um monte de cachorro por ai, em todo lugar.",
+    "1": "As pessoas gosta muito de seus bicho de estimação, e isso é um fato que todo mundo sabe.",
+    "2": "Mas será que um cachorro pode valer mais do que um ser humano, tipo assim, ter mais valor?",
+    "3": "Essa é uma pergunta que muita gente faz e que é muito dificil de responder, porque cada um pensa de um jeito diferente, sabe.",
+    "4": "É bem complicado falar sobre isso, porque tem gente que ama animal demais e tem gente que nem liga tanto, é uma coisa de opnião pessoal de cada um, entende.",
+    "5": "É claro que um cachorro é um companheiro muito fiel, um amigo de verdade.",
+    "6": "Ele tá sempre lá, abanando o rabo pra gente, e nunca reclama de nada, sempre feliz.",
+    "7": "Isso é muito bom para as pessoas que estão sozinhas, que não tem ninguem, ou que precisa de um apoio emocional, né.",
+    "8": "Eu acho que isso faz com que o animal seja bem especial e muito importante na vida das pessoas.",
+    "9": "Muita gente dá comida boa e casa pra os cachorro, e eles merecem mesmo um bom tratamento.",
+    "10": "Mas as vezes as pessoas esquece dos outros, dos humanos, que também precisa de ajuda e carinho, e as vezes não tem nem o que comer.",
+    "11": "A sociedade tem que pensar nisso, não é mesmo?",
+    "12": "É uma questão de bondade com todo mundo, não só com um.",
+    "13": "Algumas pessoa acha que dar muito dinheiro pra cachorro é muito errado, tipo assim, um absurdo.",
+    "14": "Tem umas historia que a gente ouve de gente rica que deixa toda a sua herança para um animal, um cachorro ou um gato.",
+    "15": "Isso é meio estranho, porque tem tanta gente passando fome e necessidade, crianças e adultos.",
+    "16": "Um cachorro não precisa de tanto dinheiro assim, ele só precisa de amor e comida.",
+    "17": "O dinheiro poderia ajudar um monte de gente que tá sofrendo, tipo criança pobre sem casa, ou gente doente.",
+    "18": "Então, a gente tem que ve o que é mais importante de verdade.",
+    "19": "É uma escolha dificil, mas acho que o humano vem primeiro, mas o cachorro também é importante, tem que ter um balanço entre os dois.",
+    "20": "Portanto, para resolver esse problema de quem vale mais, é preciso que a sociedade e o governo pensa melhor sobre o assunto.",
+    "21": "As pessoas deveria ajudar os outros, tipo, os humanos que precisam de ajuda urgente, os mais pobres.",
+    "22": "E também cuidar dos animais, porque eles são seres vivos, mas sem esquecer da gente, dos humanos, que também tem direitos.",
+    "23": "É importante ter mais concientização sobre tudo isso, sobre valorizar a vida.",
+    "24": "Assim, todo mundo vive melhor e os animais também, num mundo mais justo.",
+    "25": "É uma questão de equilibrio e respeito pra todo mundo, sabe?",
+    "26": "Todo mundo tem que fazer a sua parte pra isso acontecer, é o certo a se fazer."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "3",
+        "11"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "3",
+        "11"
+      ]
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "3",
+        "11"
+      ]
+    },
+    "18": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "19": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "20": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "21": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "3",
+        "11"
+      ]
+    },
+    "22": {
+      "comando_tematico": [
+        "0",
+        "6",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "23": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "24": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "25": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "26": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

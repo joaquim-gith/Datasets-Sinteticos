@@ -1,0 +1,199 @@
+{
+  "tema": "lixo-questao-de-cidadania-e-responsabilidade-social",
+  "comando_tematico": {
+    "frases": {
+      "0": "Lixo: questão de cidadania e responsabilidade social A excessiva produção de lixo continua sendo um grave problema vivido por nossa sociedade e sua tradição consumista.",
+      "1": "São toneladas de restos de plásticos, papéis, vidros, detritos orgânicos e uma infinidade de materiais que saem de nossas casas, lojas e fábricas todos os dias.",
+      "2": "O cidadão que fabrica esse lixo diário e que, muitas vezes, não o separa nem o encaminha para postos de coleta, sabe onde será despejado?",
+      "3": "Conhece a realidade dos catadores de lixo, pessoas que vivem do desperdício dos outros?",
+      "4": "Alguns documentários, como Estamira (2004) e Lixo Extraordinário, que concorreu ao Oscar em 2011, revelam, além da miséria em que vivem essas comunidades, sua força e dignidade dos sobreviventes.",
+      "5": "A questão que se coloca, com urgência, é buscar alternativas para lidar com o lixo e com todo o sistema que se construiu a partir dele.",
+      "6": "Na sua opinião, qual é a responsabilidade do cidadão diante desse cenário social?"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "1": "Leia as redações avaliadas Elabore uma dissertação considerando as ideias a seguir: A destinação do lixo coletado nas grandes cidades tem-se tornado um problema no que diz respeito ao impacto ambiental.",
+      "2": "Cidadania sf.",
+      "4": "Condição de cidadão, com seus direitos e obrigações.",
+      "6": "Conjunto dos direitos civis, políticos e sociais dos cidadãos, ou dos mecanismos para o estabelecimento e garantia desses direitos.",
+      "12": "ext.",
+      "13": "Exercício consciente da condição de cidadão; atuação na sociedade, em defesa da ampliação e fortalecimento da cidadania.",
+      "14": "[ Dicionário Aulete ] Um a cada quatro sacos de lixo vai para local impróprio Problema ambiental com resíduos ainda é crônico no Estado mais rico do país.",
+      "15": "Dados são de associação de empresas coletoras de lixo; agência estatal paulista vê avanço na destinação dos detritos.",
+      "16": "Enquanto as discussões mais avançadas sobre a destinação do lixo se concentram na reciclagem, São Paulo, o Estado mais rico do país, ainda é obrigado a lidar com um problema bem mais arcaico: os lixões a céu aberto.",
+      "17": "De cada quatro sacos de lixo residencial coletados pelos serviços oficiais, um vai parar em local inadequado, segundo dados da Abrelpe (Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais).",
+      "18": "Além dos lixões, vários aterros precários espalhados pelo Estado contaminam o ambiente e são fonte de risco à saúde da população.",
+      "19": "São 11.",
+      "20": "800 toneladas de resíduos ao dia que não recebem o tratamento devido, diz o estudo da associação.",
+      "21": "O valor representa 24,9% das 49.",
+      "22": "323 toneladas coletadas todos os dias nas residências.",
+      "23": "\"Existem problemas graves inclusive na Grande São Paulo\", afirma Carlos Silva, diretor-executivo da instituição, que reúne várias empresas do setor de limpeza.",
+      "24": "[ Folha de S.",
+      "25": "Paulo ] \"Lixo Extraordinário\" é tão mega quanto Vik Longa indicado ao Oscar usa artifícios do artista e revela mecanismos de valor por trás da arte contemporânea.",
+      "26": "Está registrado em \"Lixo Extraordinário\".",
+      "27": "No momento do documentário em que ele se encontra pela primeira vez com Sebastião Carlos dos Santos, o Tião, Vik Muniz não faz rodeios sobre quem é.",
+      "28": "\"Eu sou o artista brasileiro que mais vende, talvez a pessoa mais em voga no exterior\", diz o artista plástico.",
+      "29": "Tião, líder agora célebre da associação de catadores do Jardim Gramacho, no Rio, responde: \"Parabéns, cara\".",
+      "30": "E a conversa segue para estabelecer detalhes dos planos de Muniz para os trabalhadores desse que é o maior aterro sanitário do mundo, a saga que está contada no filme indicado ao Oscar de melhor documentário do ano.",
+      "34": "] Ele deixa seu estúdio em Nova York e embarca numa missão impossível de \"ajudar aquelas pessoas\", \"viciados em drogas que vivem no fim da linha, para onde tudo que não é bom acaba indo\".",
+      "38": "] Mostra como uma grife que é Vik Muniz consegue atenção mundial para uma catástrofe urbanística ao mesmo tempo em que se valoriza em leilões e vira a coqueluche de colecionadores.",
+      "39": "Estabelece uma rota conhecida do seu protagonista como caminho possível, o sonho americano, a receita para transformar lixo em luxo.",
+      "40": "[ Folha de S.",
+      "41": "Paulo ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Cotidianamente descartamos restos de alimentos, objetos frívolos , e até roupas no lixo.",
+    "1": "Todavia temos conhecimento de aonde vão estas  coisas?",
+    "2": "Coisas que foram úteis outrora e que agora não o são.",
+    "3": "No entanto vale frisar que mesmo sem utilidades para nós, elas podem ajudar          outrem , outrem como catadores de reciclagem e pessoas que até alimentam-se dos alimentos desperdiçados por nós .",
+    "4": "Nas ruas principalmente vemos muito lixo, a sordidez é comum mesmo em frente às nossas casas, e o pior, somos os responsáveis por toda esta  podridão .",
+    "5": "A questão da quantidade deve-se ao aumento da população, ou seja, quanto mais cidadãos mais lixo.",
+    "6": "Para reverter esta situação, o governo recorre a três lugares para despejar todo este lixo: aterro sanitário, reciclagem e a incineração.",
+    "7": "O que é bom ressaltar é que os cidadãos não sabem disto,  e das suas consequências.Por exemplo no caso dos aterros sanitários, o lixo pode danificar o solo e impedir talvez uma futura utilização daquele lugar.",
+    "8": "Por isto  a reciclagem é a melhor opção.",
+    "9": "A reciclagem além de gerar empregos  é uma forma ecologicamente correta, já que não polui, no entanto o mais importante é que levemos ela a sério.",
+    "10": "Portanto para mudarmos a sordidez que cobre nossas cidades,          hemos de insvestir  (governo)          na reciclagem, pois dar-nos-á empregos e respeito da natureza conosco, pois nós é que produzimo-lo."
+  },
+  "redacao_gerada": {
+    "0": "O lixo é um problema grande que a sociedade tem hoje em dia.",
+    "1": "Muitas pessoas joga coisas fora sem pensar o que acontece depois.",
+    "2": "Isso mostra que a responsabilidade social e a cidadania não ta muito presente na vida de todo mundo.",
+    "3": "É uma questão importante pra o meio ambiente e pra as pessoas mesmo, porque afeta a qualidade de vida de todos.",
+    "4": "A gente produz muito lixo todo dia, em casa, nas lojas e nas fabricas.",
+    "5": "Porem, a maioria não sabe aonde o lixo vai ou se separa pra reciclagem, o que é um erro.",
+    "6": "Essa falta de preocupação faz o problema crescer mais e mais, poluindo a natureza.",
+    "7": "É papel do cidadão fazer a sua parte, como jogar o lixo no lugar certo e separar o que pode ser reaproveitado, para ajudar o planeta.",
+    "8": "Além disso, tem as pessoas que vive do lixo, os catadores, que passa por muitas dificuldades.",
+    "9": "Eles trabalham em condições muito ruins, e isso é triste de ver, mostrando uma realidade dura.",
+    "10": "Filmes já mostraram a vida difícil dessas comunidades, que vivem com pouco, e a dignidade deles.",
+    "11": "A sociedade precisa olhar pra isso e pensar em soluções pra não ter tanto desperdício, e sim, mais respeito.",
+    "12": "Então, pra resolver o problema do lixo, é preciso que todos façam sua parte com urgência.",
+    "13": "O governo, as empresas e cada um de nos tem que ter mais consciência e agir diferente.",
+    "14": "Só assim vamos ter um futuro melhor, com menos lixo e mais respeito com o planeta e com a vida.",
+    "15": "É uma questão de cidadania, de ter responsabilidade com o coletivo, e não só com o individual."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4",
+        "13"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "18"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "29",
+        "30"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "34"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "26",
+        "30"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4",
+        "13"
+      ]
+    }
+  }
+}

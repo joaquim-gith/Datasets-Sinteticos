@@ -1,0 +1,176 @@
+{
+  "tema": "cultura-do-estupro-a-culpa-e-da-vitima",
+  "comando_tematico": {
+    "frases": {
+      "0": "\"Cultura do estupro\": a culpa é da vítima?",
+      "1": "Poucos dias depois da divulgação de atos de assédio sexual no metrô de São Paulo e da revelação da existência de uma página intitulada \"Encoxadores\", no Facebook, o Ipea (Instituto de Pesquisa Econômica Aplicada), órgão vinculado ao Governo Federal, divulgou dados de uma pesquisa sobre o estupro, segundo a qual 65% dos entrevistados (homens e mulheres) concordaram em que mulher que exibe seu corpo, usando roupas curtas e decotadas, \"merece ser atacada\".",
+      "2": "(Atenção, veja observação no início da proposta!",
+      "3": ") A partir dos dados, uma socióloga declarou existir no país uma \"cultura do estupro\", que considera a vítima responsável pela violência (sexual) que sofreu.",
+      "4": "Acerca do estupro, o Ipea apresentou outro estudo, que você pode ver a seguir, juntamente com mais informações afins.",
+      "5": "A partir disso, exponha sua opinião sobre o tema, numa dissertação argumentativa, procurando explicar as causas desse problema social brasileiro.",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Atenção!",
+      "1": "Devido ao erro na divulgação dos dados da pesquisa cometido pelo Ipea, você pode considerar as novas informações sobre a pesquisa ao desenvolver sua redação.",
+      "2": "Veja aqui.",
+      "3": "De qualquer modo, mesmo com os novos fatos, a proposta continua válida e as questões que ela apresenta continuam sendo a base para a sua reflexão.",
+      "4": "Supostos estudantes da UnB (Universidade de Brasília) seguram cartaz com apologia ao estupro durante trote Mulher com roupa curta merece ser atacada Um estudo divulgado nesta quinta-feira (27) pelo Ipea revela que a maioria da população brasileira acredita que “mulheres que usam roupas que mostram o corpo merecem ser atacadas” e que “se as mulheres soubessem como se comportar, haveria menos estupros”.",
+      "8": "] A pesquisa [.",
+      "11": "] sobre a tolerância social à violência contra as mulheres, entrevistou 3.",
+      "12": "810 pessoas em todas as unidades da federação durante os meses de maio e junho de 2013, sendo que as próprias mulheres representaram 66,5% do universo de entrevistados.",
+      "16": "] Na pesquisa do Ipea, os entrevistados foram questionados se concordavam ou não com frases sobre o tema.",
+      "17": "Nada menos que 26% concordaram que a mulher que usa roupa que mostra o corpo merece ser atacada.",
+      "18": "[ UOL Cotidiano ] Cultura do estupro Na opinião da professora do Departamento de Sociologia da PUC-SP Carla Cristina Garcia, os resultados [da pesquisa] mostram uma inversão de papéis entre mulheres e agressores.",
+      "19": "\"O comportamento da vítima jamais pode ser apontado como motivo da violência\", alerta.",
+      "20": "\"É preciso acabar com essa cultura do estupro, que está naturalizada.",
+      "24": "] Segundo Carla, é comum educar a mulher para sobreviver em um mundo sexista e violento, com restrições sobre roupas e lugares que frequenta.",
+      "25": "\"Já as campanhas contra assédio no trabalho e no transporte público, por exemplo, aparecem menos.",
+      "26": "\" [ Estadão ] Perfil das vítimas Os registros demonstram que 89% das vítimas são do sexo feminino e possuem, em geral, baixa escolaridade.",
+      "27": "Do total, 70% são crianças e adolescentes.",
+      "28": "“As consequências, em termos psicológicos, para esses garotos e garotas são devastadoras, uma vez que o processo de formação da autoestima - que se dá exatamente nessa fase - estará comprometido, ocasionando inúmeras vicissitudes nos relacionamentos sociais desses indivíduos”, aponta a pesquisa.",
+      "29": "Em metade das ocorrências envolvendo menores, há um histórico de estupros anteriores.",
+      "30": "Para o diretor do Ipea, “o estudo reflete uma ideologia patriarcal e machista que coloca a mulher como objeto de desejo e propriedade”.",
+      "31": "[ Ipea ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "O estupro é considerado um ato brutal cometido pelo ser humano, é tido como crime na maioria dos países e reflexo de uma sociedade defasada de ética e preceitos morais.",
+    "1": "No Brasil observa-se um aumento dos casos de estupro, principalmente entre jovens e adolescentes de baixa renda.",
+    "2": "Segundo as autoridades, há ainda outros casos em que a vítima prefere não registrar ocorrência por constrangimento ou medo.",
+    "3": "Uma pesquisa realizada por órgão do governo,  divulgou  que o principal motivo para a ocorrência do estupro é o tipo de vestimenta utilizado pelas vítimas.",
+    "4": "Esse dado gerou grande revolta em parcela da sociedade, em especial no segmento feminino, culminando em movimentos de combate ao estupro.",
+    "5": "Segundo integrantes do movimento, o fato de uma pessoa utilizar roupas curtas ou provocantes, não  faz dela uma vítima em potencial a ser estuprada.",
+    "6": "Argumenta-se, também, que o fato de convivermos em uma sociedade democrática, garante  liberdade ao indivíduo de utilizar a vestimenta que for conveniente e ter seus direitos garantidos.",
+    "7": "Com isso, percebe-se que faz-se necessario  uma ação mais rigoroza  das autoridades e um planejamento adequado do governo a fim de instituir programas de ética e concientização com o objetivo de reduzir esse drama social."
+  },
+  "redacao_gerada": {
+    "0": "A persistência da ideia de que a vítima de estupro possui alguma parcela de culpa pela violência sofrida é um sintoma alarmante de uma arraigada cultura patriarcal no Brasil.",
+    "1": "Essa mentalidade, que inverte os papéis de agressor e agredido, naturaliza a violência sexual e desvia o foco da responsabilidade do perpetrador para o comportamento da mulher, perpetuando um ciclo vicioso de impunidade e sofrimento.",
+    "2": "Um dos pilares dessa cultura se manifesta na crença equivocada de que a vestimenta ou o ambiente frequentado por uma mulher pode justificar ou mesmo provocar a agressão.",
+    "3": "Essa visão, profundamente machista, desconsidera a autonomia individual e responsabiliza a mulher por atos que são exclusivamente de responsabilidade do agressor.",
+    "4": "É comum que se instrua meninas a evitar certas roupas ou lugares, em vez de educar menino sobre o respeito e o consentimento, revelando uma falha estrutural em nossa sociedade que prioriza a restrição feminina em detrimento da reeducação masculina.",
+    "5": "Ademais, a naturalização da violência sexual é reforçada pela subnotificação de casos e pela impunidade que muitas vezes cerca os agressores.",
+    "6": "A dificuldade em denunciar, o medo do julgamento social e a morosidade da justiça contribue para que a violência se perpetue, fazendo com que muitos crimes fica sem a devida punição.",
+    "7": "Essa lacuna na responsabilização dos culpados envia uma mensagem perigosa de que tais atos são toleráveis, alimentando ainda mais a cultura do estupro e desamparando as vítimas.",
+    "8": "Portanto, para desmantelar essa nefasta cultura, é imperativo que o Estado, em conjunto com as instituições de ensino e a mídia, promova uma ampla reeducação social.",
+    "9": "Campanhas de conscientização devem ser constantemente veiculadas, enfatizando que a culpa é sempre do agressor e que o corpo da mulher não é à público.",
+    "10": "A escola, por sua vez, tem o papel fundamental de introduzir o debate sobre consentimento e respeito às diferenças de gênero desde cedo, formando cidadãos mais conscientes e empáticos.",
+    "11": "Somente através de um esforço conjunto e contínuo será possível construir uma sociedade aonde a mulher seja livre de violência e de qualquer culpabilização."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "18",
+        "30"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "18",
+        "19",
+        "20"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "4",
+        "17"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "18",
+        "19",
+        "30"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "24"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "20"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "20"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "20"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "19",
+        "25"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "24"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "19",
+        "20"
+      ]
+    }
+  }
+}

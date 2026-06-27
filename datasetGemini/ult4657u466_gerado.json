@@ -1,0 +1,179 @@
+{
+  "tema": "combate-ao-fumo-autoritarismo-ou-dever-do-governo",
+  "comando_tematico": {
+    "frases": {
+      "0": "Combate ao fumo: autoritarismo ou dever do governo?",
+      "1": "Foi aprovada, no dia 7 , pelo governador de São Paulo, uma lei antifumo válida para todo o Estado.",
+      "2": "A partir de 7 de agosto, está proibido fumar cigarros, cachimbos ou charutos em todos os lugares públicos fechados ou semifechados.",
+      "3": "Só será possível fumar no próprio carro, dentro de casa ou no meio da rua, desde que não haja tetos, toldos, ou guarda-sóis.",
+      "4": "Essa lei, aplaudida por muitas entidades e autoridades ligadas à saúde, é também criticada com violência por pessoas que a consideram radical e autoritária, pois tiraria do cidadão boa parte de sua liberdade, que passa a ser vigiada, e o livre-arbítrio para fumar ou não.",
+      "5": "Como você se posiciona diante dessa questão?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Sou a favor do tabagismo Na verdade, sou a favor do direito ao tabagismo.",
+      "4": "]; claro que os não fumantes têm direito de não respirar a fumaça alheia e manter seus pulmões limpinhos e suas roupas cheirosas[.",
+      "8": "Onde vamos fumar nosso cigarrinho em paz?",
+      "12": "] Fumantes são tratados como anomalias: seres imundos e fedorentos que devem ficar lá fora, longe [.",
+      "16": "Nada de errado em avisar que o fumo faz mal, [.",
+      "20": "Mas tentar proibir as pessoas de fazer o que elas bem entendem é terrível.",
+      "21": "Dá licença se eu quiser morrer?",
+      "22": "[Clarah Averbuch, escritora.",
+      "23": "Revista da Folha.",
+      "24": "17 de maior de 2009] Fumaça do cigarro: ignorância ou má-fé.",
+      "25": "Volto à proibição do fumo em ambientes fechados.",
+      "26": "Incrível como esse tema ainda gera discussões acaloradas.",
+      "27": "Como é possível considerar a proibição de fumar nos lugares em que outras pessoas respiram uma afronta à liberdade individual?",
+      "28": "As evidências científicas de que o fumante passivo também fuma são tantas e tão contundentes que os defensores do direito de encher de fumaça restaurantes e demais espaços públicos só podem fazê-lo por duas razões: ignorância ou interesse financeiro.",
+      "32": "] Depois de uma manhã de trabalho num escritório em que várias pessoas fumam, a concentração de nicotina no sangue de um abstêmio pode atingir os níveis de quem tivesse fumado três a cinco cigarros.",
+      "33": "Empregados de bares e restaurantes que passam seis horas em ambientes carregados de fumaça, chegam a ter concentrações sanguíneas de nicotina equivalentes a de quem fumou cinco ou mais cigarros.",
+      "37": "] [Drauzio Varella, médico.",
+      "38": "Folha de S.",
+      "39": "Paulo, 25 de abril de 2009] Pobre Cigarro!",
+      "40": "Dezoito deputados votaram contra e 69 a favor do projeto.",
+      "41": "[ Bruno ] Fumar ou não fumar eis a questão.",
+      "42": "O ponto é simples: por que não permitir que um dono de bar ou restaurante coloque uma placa na frente de seu estabelecimento dizendo: \"aqui é permitido fumar\", ou \"fumantes são bem-vindos\".",
+      "43": "Logo, sabendo disso, não só os fumantes, mas seus amigos não-fumantes ou simplesmente aqueles que não trocam a vida pela saúde poderão entrar.",
+      "47": "] Enfim, algo bem singelo que atende pelo nome de liberdade individual.",
+      "48": "Ah, os coletivistas dirão: mas e a proteção aos funcionários do bar?",
+      "52": "] E o garçom que não fuma?",
+      "53": "Ele será coagido a aspirar a fumaça dos clientes.",
+      "54": "Ora, ora.",
+      "55": "Ninguém é coagido a trabalhar num bar que aceita fumantes.",
+      "56": "Na verdade, que eu saiba ninguém é coagido a trabalhar em lugar nenhum.",
+      "57": "[Aguinaldo Pavão.",
+      "58": "Jornal de Londrina, 15 de abril de 2009]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "As questões ligadas ao tabagismo ainda causam diversas polêmicas ao redor do planeta.",
+    "1": "Apesar de serem conhecidos os riscos que os cigarros causam a saúde humana, muitos optam por não parar e continuam a fumar normalmente.",
+    "2": "A grande questão é que         estes fumantes além de se prejudicarem, acabam causando danos à saúde de várias outras pessoas , que         acabam tornando-se fumantes passivos e consequentemente acabam introduzindo no seu corpo, substâncias nocivas presentes em cada cigarro.",
+    "3": "Acredito que a lei antifumo, aprovada no dia 07 de maio de 2009, pelo governador de São Paulo, proibindo o uso de cigarros e similares em todos os lugares públicos fechados ou semifechados, ajudará os fumantes passivos que são obrigados, muitas vezes, a conviverem com pessoas fumantes e que não respeitam o ambiente e o lugar.",
+    "4": "É completamente admissível que os fumantes tenham livre-arbítrio optando pelo uso dos cigarros, porém é completamente inadmissível que estes coloquem em risco a saúde de outras pessoas que não fumam, inclusive colocando em risco o bem-estar de recém-nascidos, crianças e idosos.",
+    "5": "Diante disso , o governo tem o dever de lutar pelo             melhor da população em geral, creio que o combate ao fumo é sim, dever do governo.",
+    "6": "Porém, além de leis, o governo deveria investir             pesado em campanhas que estimulassem o abandono dos cigarros pelos fumantes, mostrando-os as verdadeiras consequências que um cigarro causa no organismo e na sociedade.",
+    "7": "Pois como muitas leis brasileiras, acredito que esta será mais uma,             onde a população encontrará um jeito de             desrespeitá-la ."
+  },
+  "redacao_gerada": {
+    "0": "A crescente implementação de legislações restritivas ao tabagismo em espaços públicos tem suscitado debates acalorados acerca dos limites da intervenção estatal na esfera individual.",
+    "1": "Enquanto alguns defendem tais medidas como um avanço civilizatório em prol da saúde coletiva, outros as percebem como um cerceamento autoritário da liberdade pessoal.",
+    "2": "Contudo, é imperativo reconhecer que o combate ao fumo, longe de configurar uma imposição arbitrária, consubstancia-se em um dever inalienável do governo, pautado na salvaguarda da saúde pública e na minimização dos custos sociais e econômicos decorrentes das enfermidades tabagismo-relacionadas.",
+    "3": "Em primeiro plano, a defesa da saúde pública emerge como o alicerce fundamental para justificar a atuação governamental.",
+    "4": "Conforme preconizado por John Stuart Mill em sua obra \"Sobre a Liberdade\", a única justificativa para a interferência na liberdade de ação de um indivíduo é a prevenção de danos a terceiros.",
+    "5": "Nesse contexto, o fumo passivo representa uma externalidade negativa inquestionável, expondo não-fumantes a substâncias tóxicas e aumentando significativamente o risco de doenças respiratórias e cardiovasculares, conforme atestam vastas pesquisas médicas.",
+    "6": "Assim, a proibição de fumar em ambientes coletivos não visa a tutelar o fumante de si mesmo, mas sim a proteger a integridade física e o direito à saúde daqueles que optaram por não inalar a fumaça alheia.",
+    "7": "Ademais, a perspectiva do dever estatal é reforçada pela consideração dos impactos socioeconômicos do tabagismo.",
+    "8": "A teoria do contrato social, notadamente em sua vertente hobbesiana, postula que os indivíduos abdicam de certas liberdades em prol de um Estado que lhes garanta segurança e bem-estar coletivo.",
+    "9": "Sob essa ótica, o governo possui a prerrogativa de intervir em questões que sobrecarregam o sistema de saúde público e comprometem a produtividade nacional, como é o caso das inúmeras patologias associadas ao consumo de tabaco.",
+    "10": "O tratamento de enfermidades como câncer de pulmão, enfisema e doenças cardíacas demanda vultosos recursos, que poderiam ser direcionados para outras áreas essenciais, configurando, portanto, um ônus coletivo que legitima a intervenção regulatória.",
+    "11": "Dessarte, depreende-se que a imposição de restrições ao tabagismo não se configura como um ato autoritário que tolhe arbitrariamente a liberdade individual, mas sim como uma manifestação legítima do dever do Estado de proteger a saúde pública e o bem-estar coletivo.",
+    "12": "Para consolidar essa premissa, o Ministério da Saúde e as Secretarias Estaduais devem ampliar as campanhas de conscientização e a fiscalização.",
+    "13": "Tal ação se daria por meio da veiculação de informações em mídias de massa e da promoção de programas educativos em escolas, bem como do fortalecimento da vigilância sanitária, a fim de reduzir o número de fumantes, proteger a saúde dos não-fumantes e desmistificar a percepção de autoritarismo.",
+    "14": "Dessa forma, será possível edificar uma sociedade mais saudável e equitativa, em que a liberdade individual coexiste harmoniosamente com a responsabilidade social."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "20",
+        "26",
+        "47"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "20",
+        "47"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4",
+        "28",
+        "32",
+        "33"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "2",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4",
+        "27"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "20",
+        "47"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4",
+        "16"
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "47"
+      ]
+    }
+  }
+}

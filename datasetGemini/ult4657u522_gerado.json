@@ -1,0 +1,226 @@
+{
+  "tema": "toque-de-recolher-protege-juventude-e-sociedade",
+  "comando_tematico": {
+    "frases": {
+      "0": "Toque de recolher protege juventude e sociedade?",
+      "1": "O toque de recolher, à noite, para menores de 18 anos tem sido visto por algumas autoridades como o grande trunfo no combate às drogas e às infrações juvenis no país.",
+      "2": "Já foi implantado em vários municípios de São Paulo e também no Paraná.",
+      "3": "Os jovens não podem frequentar bares, lanchonetes, lan houses ou bailes após certo horário.",
+      "4": "Uma parte da sociedade, porém, está chocada com o que chama de preconceito inconstitucional de juízes e incompetência educacional e social do Estado.",
+      "5": "O que você acha: o toque de recolher realmente protege a juventude e a sociedade?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Justiça impõe toque de recolher \"Quatro anos após ser introduzido pela primeira vez em uma cidade no Estado de São Paulo, o toque de recolher para menores de 18 anos é apontado pelas autoridades como responsável pela redução de 80% dos atos infracionais e de 82% das reclamações do Conselho Tutelar, no município de Fernandópolis.",
+      "1": "A medida que proíbe a permanência de menores nas ruas após as 23 horas foi imposta em maio de 2005 pelo juiz da Infância e da Juventude de Fernandópolis [.",
+      "4": "] para reduzir a delinquência juvenil e evitar que os menores ficassem até tarde nas ruas consumindo bebidas alcoólicas e entorpecentes.",
+      "5": "\" [Chico Siqueira.",
+      "6": "Agência Estado.",
+      "7": "26 ] Como se constrói um preconceito \"[.",
+      "10": "] Talvez fosse interessante, então, que não houvesse menores de idade e que nascêssemos todos adultos, já que eles são um problema e cabe à polícia \"tomar alguma ação\"?",
+      "11": "É curioso como [.",
+      "14": "] certos procedimentos são usados ao longo da história por regimes autoritários como marca da intolerância, discriminando e separando os diferentes do convívio social.",
+      "15": "O nazismo, com apoio da opinião pública [.",
+      "18": "] isolou os judeus nos guetos, impedindo-os de ir e vir livremente pelas cidades, depois implantou o toque de recolher confinando-os em casa a partir de certo horário e, finalmente os exterminou.",
+      "22": "] Mas do que eram mesmo culpados judeus e imigrantes para merecerem tal discriminação?",
+      "23": "Isso é o que menos importa quando a opinião pública é conduzida por um sentimento de preconceito e intolerância [.",
+      "27": "\" [Paulo Machado,Ouvidor Adjunto da EBC - Empresa Brasileira de Comunicação] Parabéns ao Senhor Juiz \"Está de parabéns o Dr.",
+      "28": "Evandro Peralin em Fernandópolis.",
+      "29": "Essa medida é de extrema necessidade, [.",
+      "33": "A garotada de hoje precisa dessa mão firme da autoridade pública porque os pais já não conseguem mais manter a ordem como desejam.",
+      "34": "Gostaria que essa postura fosse tomada em todo o País enquanto é tempo.",
+      "35": "\" [Bruna O.",
+      "36": "Garcia.",
+      "37": "Painel (seção de cartas do leitor).",
+      "38": "O Estado de S.",
+      "39": "Paulo.",
+      "40": "] Toque de recolher é ilegal?",
+      "44": "] o especialista em direito da criança e do adolescente, Ricardo Cabezon, não vê nada de \"divino\" na lei do juiz.",
+      "45": "Segundo ele, o toque de recolher é abusivo e fere liberdades constitucionais.",
+      "46": "As medidas ferem a liberdade de ir e vir, liberdade de educar, liberdade de poder escolher entre o que é certo e o que é errado [.",
+      "50": "\" [Ricardo Cabezon, presidente da Comissão de Direitos da Criança e do Adolescente]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Viver em democracia é também oferecer às pessoas oportunidade de elas entenderem o peso dos seus atos.",
+    "1": "Baseado neste conceito foi implantado em diversos municípios brasileiros o toque de recolher menores.",
+    "2": "Porém,         esta medida está         contemporâneamente, passível a diversas análises e questionamentos.",
+    "3": "Fernandinópolis , primeiro município paulista a adotar essa lei, apregoa com louvor a redução dos crimes após tal medida preventiva.",
+    "4": "Só para se ter uma ideia entre 2005 e 2008 o registro de delitos cometidos caiu 29% e as reclamações no conselho tutelar reduziram consideravelmente.",
+    "5": "Mas é importante ressaltar que pouco resolverá várias estipulações e regimentos de horários, leis, idade; sendo que grande parte dos direitos estabelecidos à sociedade são muitas das vezes condicionados como educação, saúde e outros.",
+    "6": "E talvez, o problema crítico da violência, não precisamente se resolva por criações de leis e sim pela melhoria das condições sociais.",
+    "7": "O fato de um adolescente estar na rua a noite não significa que ele, esteja , necessariamente, sob risco ou que vá infringir a lei, ou seja, para que a liberdade de alguém seja privada, é preciso que haja uma infração               e isto ocasiona uma certa revolta em algumas pessoas, que consequentemente se               sentem como cobaias de uma lei adversa que origina uma preconceito inconstitucional.",
+    "8": "Assim, considerando tais aspectos, não é difícil compreender que o toque de recolher, não seria a cura,                 mais um bom remédio para a diminuição da violência juvenil."
+  },
+  "redacao_gerada": {
+    "0": "A questão do toque de recolher para os jovens é um assunto que gera muitas discusões na sociedade atual.",
+    "1": "Algumas pessoas acha que isso proteje os jovem e a sociedade, mas outras não concorda.",
+    "2": "É um tema complexo que precisa ser bem pensado por todos.",
+    "3": "É verdade que os jovem nas ruas de noite pode ser perigoso.",
+    "4": "Lá eles estão mais sujeito a coisa ruim, tipo droga e violencia.",
+    "5": "O toque de recolher então é uma solução para que os pais e as autoridade consiga controlar melhor onde os filho estão e o que eles estão fasendo.",
+    "6": "Isso é bom para eles não se envolver em problema.",
+    "7": "Por outro lado, alguns dizem que essa medida tira a liberdade dos jovem.",
+    "8": "Mas a liberdade tem limite, né?",
+    "9": "A sociedade precisa de ordem para funcionar direito.",
+    "10": "Além disso, muitos problema acontece porque os pais não consegue educar seus filho direito e a escola também não ajuda muito.",
+    "11": "Então, o toque de recolher é uma ajuda pra isso, pra manter a ordem na cidade.",
+    "12": "Assim, para resolver esse problema, é importante que o governo invista mais em educação e também em segurança.",
+    "13": "As familia também precisa fazer sua parte, conversando mais com os filho.",
+    "14": "O toque de recolher pode ser uma parte da solução, mas não é a unica.",
+    "15": "Deve-se pensar em mais coisas para que os jovem e a sociedade viva melhor."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "45"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "27",
+        "33",
+        "45"
+      ]
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "1",
+        "3"
+      ],
+      "textos_motivadores": [
+        "1",
+        "4"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0",
+        "4"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "4",
+        "33"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "4"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "14",
+        "45",
+        "46"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "33"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "5"
+      ],
+      "textos_motivadores": [
+        "33"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "33"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "5"
+      ],
+      "textos_motivadores": [
+        "33"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "33"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "45"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

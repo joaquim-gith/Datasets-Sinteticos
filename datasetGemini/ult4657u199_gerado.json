@@ -1,0 +1,180 @@
+{
+  "tema": "fomos-dominados-pelas-maquinas-que-inventamos",
+  "comando_tematico": {
+    "frases": {
+      "0": "Fomos dominados pelas máquinas que inventamos?",
+      "1": "Já não conseguimos viver sem celular, computador, internet e outros poderosos recursos tecnológicos.",
+      "2": "Queiramos ou não, eles transformaram o mundo durante o século 20 e ingressaram no século 21 com uma velocidade espantosa.",
+      "3": "Muita gente se adapta rapidamente às novidades e nem lembra como era a vida sem elas.",
+      "4": "Para outros, porém, ocorre uma dúvida: nossa existência seria melhor ou pior sem tudo isso?",
+      "5": "Seríamos diferentes?",
+      "6": "Há quem odeie e quem ame irrestritamente essas máquinas.",
+      "7": "Qual é nossa relação com os avanços da tecnologia?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ser humano se tornou uma extensão da roda O Rio chegou a 2 milhões de carros; São Paulo, a 6 milhões.",
+      "1": "No Rio, é um carro para cada três habitantes; em São Paulo, são dois.",
+      "2": "O automóvel venceu.",
+      "3": "O comunicólogo Marshal McLuhan, talvez a única voz otimista de 1968, errou feio: o ser humano é que se tornou uma extensão da roda.",
+      "4": "Mas, em 2008, quem quiser chegar rapidinho a qualquer lugar, é melhor que vá a pé.",
+      "5": "Ruy Castro, \"Folha de S.",
+      "6": "Paulo\", 17 Estresse ou vida partilhada Glauco, \"Folha de S.",
+      "7": "Paulo\", 05 A máquina e o poeta Cota Zero Stop.",
+      "8": "A vida parou Ou foi o automóvel?",
+      "9": "Carlos Drummond de Andrade (1902-1987, \"Alguma Poesia\", 1930) Os sábios e a cultura \"Com o aparecimento da escrita, alguns sábios temeram que o conhecimento, que antes estava vivo na cabeça, viria a morrer, esquecido nas páginas de um livro.",
+      "10": "Com a expansão dos meios de comunicação e a conseqüente chuva de informações, alguns sábios temeram que o conhecimento (.",
+      "13": ") viria a degenerar-se em papel de embrulhar peixe e ondas espalhadas no espaço.",
+      "14": "Com a explosão da internet (.",
+      "17": "), e a extrema facilidade de encontrar uma informação, alguns sábios temem que tudo acabe em desinteresse.",
+      "18": "Luiz Zico Rocha Soares, (\"Internet, um mundo paralelo\".",
+      "19": "Melhoramentos, 2007,."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Rádio-relógio toca, você acorda, vai tomar café, coloca o pão num forno elétrico e esquenta o leite no microondas.",
+    "1": "Assiste ao noticiário da televisão, se veste e vai trabalhar.",
+    "2": "Antes, no carro, liga o GPS para saber se há muito trânsito no caminho do trabalho.",
+    "3": "Chegando lá, liga o computador e fala ao celular.",
+    "4": "Enfim, querendo ou não, não podemos negar essa tecnologia que deixa nosso dia-a-dia mais rápido.",
+    "5": "Não dá para imaginar uma vida primária, tendo que esquentar algo no fogão à lenha, estudar à luz de velas e dormir às oito horas da noite.",
+    "6": "Anos se passaram e com eles vieram as tecnologias, aquelas que facilitam o cotidiano, mas torna o ser humano impensável .",
+    "7": "\"É só ligar o TV num jornal eletrônico e assisti-lo.",
+    "8": "Pronto, estou informado\".",
+    "9": "Em partes.",
+    "10": "Informado está, porém não está exercitando sua mente, o que acontece ao ler um jornal impresso ou uma revista.",
+    "11": "A criatividade vem das coisas mais simples da vida, como por exemplo, uma criança que sempre brinca com seus amigos na rua, inventando novos jogos , e uma criança que nunca largou de seu video-game e computador.",
+    "12": "A vivência é outra; a primeira usa a mente como principal instrumento de brincadeira, já a segunda usa a mão, uma vez que ela não precisa criar nada, só jogar.",
+    "13": "A questão é : conseguiríamos sobreviver, já que no mundo de hoje tudo vem pronto?",
+    "14": "Viver conseguiríamos, sobreviver não.Os objetos de tomada trazem alguns benefícios, como por exemplo, o avanço da ciência na descoberta de doenças e na cura delas; mas também, como desvantangem, tira do ser humano sua capacidade de pensar e de criar , que é algo que não se compra na loja de eletro-eletrônicos, vem conosco, mas o eletrônico acaba nos tirando esse dom."
+  },
+  "redacao_gerada": {
+    "0": "A sociedade contemporânea testemunha uma integração tecnológica sem precedentes, onde dispositivos e sistemas digitais permeiam cada aspecto da existência humana.",
+    "1": "Essa onipresença levanta um questionamento crucial: estariamos nós, de fato, sendo dominados pelas máquinas que criamos, ou ainda mantemos o controle sobre nosso destino e as ferramentas que nos servem?",
+    "2": "A complexa relação entre o homem e a tecnologia sugere uma dependência crescenti, que, por vezes, confunde os limites entre utilidade e submissão.",
+    "3": "Um dos principais indícios dessa dominação reside na indispensabilidade dos recursos digitais para as atividades cotidiana.",
+    "4": "Smartfones, computadores e a internet não são mais meros acessórios, mas pilares sobre os quais se erguem a comunicação, o trabalho, o lazer e até mesmo a formação de opinião.",
+    "5": "A medida que a vida se digitaliza, a capacidade de funcionar autonomamente sem essas ferramentas diminui, e qualquer falha tecnológica pode paralisar setores inteiros.",
+    "6": "Tal cenário demonstra que a facilidade proporcionada pela tecnologia se transformou em uma necessidade imperativa, relegando o ser humano a um papel de extensão de suas próprias invenções, em vez de seu mestre.",
+    "7": "Ademais, a forma como as máquinas influenciam nossos pensamentos e comportamentos reforça a ideia de dominação.",
+    "8": "Algoritmos de redes sociais e plataformas de conteúdo, por exemplo, curam informações e experiências de maneira personalizada, criando bolhas de realidade que podem limitar a perspectiva individual e manipular decisões.",
+    "9": "Isso leva a uma passividade intelectual, onde a busca ativa pelo conhecimento é substituída pela entrega ao que é sugerido, comprometendo a autonomia do pensamento crítico.",
+    "10": "Assim, a inteligência artificial, projetada para otimizar, inadvertidamente molda e, em certos casos, restringe a liberdade cognitiva humana.",
+    "11": "Portanto, é evidente que a humanidade se encontra em um ponto crítico de sua relação com a tecnologia.",
+    "12": "Para reverter o quadro de potencial dominação e reafirmar a soberania humana, é fundamental que haja um investimento massivo em educação digital crítica.",
+    "13": "As escolas e famílias devem promover o uso consciente e questionador das ferramentas tecnológicas, ensinando a discernir informações e a não se submeter cegamente a algoritmos.",
+    "14": "Somente assim, por meio da conscientização e da educação, poderemos garantir que as máquinas continuem sendo instrumentos a serviço do progresso humano, e não senhores de nossa existência."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "2",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "1",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0",
+        "3"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "7",
+        "8",
+        "10"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "10"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

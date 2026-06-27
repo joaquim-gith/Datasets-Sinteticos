@@ -1,0 +1,236 @@
+{
+  "tema": "cotas-nas-universidades-voce-e-a-favor-ou-contra",
+  "comando_tematico": {
+    "frases": {
+      "0": "Cotas nas universidades: você é a favor ou contra?",
+      "1": "Poucas iniciativas governamentais têm criado tanta polêmica como esta.",
+      "2": "A implantação do sistema de cotas para afrodescendentes e negros tem produzido manifestações inflamadas e completamente antagônicas.",
+      "3": "Há os que sustentam as cotas como o início da eliminação de diferenças históricas entre negros e brancos.",
+      "4": "Há os que dizem que a medida é absurda, pois discrimina ainda mais o negro, fingindo integrá-lo.",
+      "5": "Outros acham que as cotas devem seguir apenas critério econômico, e não racial.",
+      "6": "Há também os que acham que não deve haver cota, só o mérito pessoal dos candidatos.",
+      "7": "Como você se posiciona nesta polêmica?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O que é o sistema de cotas?",
+      "1": "Estudantes assistem aula em uma sala da Universidade de Brasília - UnB (DF) A política de cotas raciais é uma política de ação afirmativa implantada originalmente nos Estados Unidos.",
+      "2": "No Brasil, ela visa a garantir espaço para negros e pardos nas instituições de ensino superior.",
+      "3": "Hoje, os negros correspondem a apenas 2% do contingente de universitários, apesar de representarem 45% dos brasileiros.",
+      "4": "Essa política foi adotada inicialmente em universidades públicas do Rio de Janeiro, após a promulgação da Lei nº 3.",
+      "5": "708, de 9 de novembro de 2001.",
+      "6": "Cotas: importância histórica para o país.",
+      "7": "\"É um marco.",
+      "8": "É também relevante porque não se trata apenas da reserva de vagas para estudantes negros, mas é, principalmente, uma política de acesso e permanência de estudantes negros na universidade.",
+      "9": "É, portanto, um conjunto de medidas tomadas de maneira democrática.",
+      "13": ") É o ponto de partida e várias universidades seguirão o mesmo caminho e terão a UnB como uma referência positiva.",
+      "14": "Assim possibilita-se a formação de técnicos e quadros superiores (.",
+      "18": "Essa também é uma forma de acesso da população negra jovem aos escalões de tomada de decisão e ultrapassa a barreira do negro como executor e mão de obra barata\".",
+      "19": "[Ubiratan Castro de Araújo, Ex- Presidente da Fundação Cultural Palmares, 2004] Cotas: absurdo total \"Absurda essa política.",
+      "20": "Se você 'oferece cotas', confirma que o negro é marginalizado e incapaz, por isso precisa de ajuda oficial e paternalista.",
+      "21": "Reafirma-se a diferença - e não o contrário, que é a necessidade de eliminá-la.",
+      "22": "A única solução decente para o ingresso democrático da juventude na universidade é lhe dar uma educação de qualidade para que - aí, sim - não haja diferença entre o aluno do colégio público e do colégio \"de elite\".",
+      "23": "E o que é a educação pública hoje?",
+      "24": "Uma calamidade que piora há 40 anos.",
+      "25": "Então quem discrimina, afinal?",
+      "26": "Não é o próprio Estado, que não dá preparo digno aos alunos?",
+      "27": "[Profa.",
+      "28": "dra.",
+      "29": "Márcia Di Roberto, educadora, em palestra proferida na UNIP-SP, em abril de 2008, no curso de Pós-Graduação em Letras] Gêmeo idêntico é barrado em cota Os gêmeos Alan e Alex Teixeira da Cunha, univitelinos, sempre foram considerados idênticos por todos que os conhecem.",
+      "33": ") Candidatos ao sistema de cotas para negros da Universidade de Brasília, (.",
+      "36": ") Alan foi considerado negro.",
+      "37": "Alex, não.",
+      "38": "O sistema de cotas na UnB, ao contrário da maior parte dos existentes no país, leva em conta apenas a cor, não a situação financeira do candidato.",
+      "39": "Na hora da inscrição (.",
+      "42": "), o candidato a uma das vagas pelo sistema precisa tirar uma foto, que é anexada à documentação.",
+      "43": "Nenhum dos dois irmãos têm convicção de que o sistema de cotas é bom, mas ambos decidiram tentar porque a nota de corte nas duas áreas é menor entre os cotistas do que entre os demais alunos (.",
+      "47": "\"Tinha de ser mais para quem precisa\", diz Alan.",
+      "48": "\"O que aconteceu só mostra que não funciona.",
+      "52": ") [\"O Estado de S.",
+      "53": "Paulo\", 29."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Nossa história não nega as injustiças do nosso presente.",
+    "1": "Os governos que tiveram a oportunidade, mas planejaram errado a educação e a diminuição das diferenças sociais, ou simplesmente não planejaram, sempre pensando em curto prazo, executando apenas medidas paliativas .",
+    "2": "O maior exemplo disso: cotas nas universidades para negros.",
+    "3": "O preconceito que muitas pessoas negras sofrem até hoje, é conseqüência do modo em que os mesmos foram tratados em nossa história.",
+    "4": "O Brasil, sendo uma colônia de exploração de Portugal , índios e, sobretudo os negros, foram submetidos ao trabalho desumano, sendo assim subjugados inferiores.",
+    "5": "Depois de muitos anos com o tráfico negreiro, eis a \"solução\" encontrada: a Lei Áurea, na qual a escravidão era extinta.",
+    "6": "Não houve uma política de integração na sociedade com os negros , reflexo disso, é que depois de passado algumas centenas de anos , os negros ainda representam à camada mais pobre de nossa nação e a que tem menos representantes nas universidades.",
+    "7": "Causa disso, o péssimo sistema de educação aplicado por nosso governo em nossa história, em que o professor é mal remunerado, a estrutura é precária na maioria das cidades e o aluno não tem consciência da importância de seus estudos.",
+    "8": "O governo tenta educar alunos, que não tiveram uma base familiar, que muitas vezes vão á escola apenas para comer a merenda ou receber o dinheiro que o governo concede a algumas famílias que têm seus filhos freqüentando a escola.",
+    "9": "É mais fácil dar comida e pouco dinheiro, do que gerar emprego pra família comprar seus alimentos e conscientizar essa família de que o conhecimento é importante na formação do indivíduo.",
+    "10": "As cotas para negros nas universidades, é o maior exemplo que o governo poderia dar de falta de planejamento.",
+    "11": "Ele pensa apenas momentaneamente, impondo de qualquer modo a inclusão do negro na formação superior .",
+    "12": "Não desmerecendo a inteligência da raça negra, que são capazes , porém, com poucas oportunidades em suas péssimas escolas públicas de ensino fundamental e médio.",
+    "13": "Sendo assim, o governo deveria planejar melhor a educação de nosso país, parando de se preocupar com seus \"slogans\" dizendo que somos um \"país de todos\" e dando oportunidade principalmente da raça negra e das outras, de estudar em uma boa escola pública, e por mérito próprio, cursar uma universidade."
+  },
+  "redacao_gerada": {
+    "0": "A implantação do sistema de cotas nas universidades brasileiras tem sido um dos temas mais debatidos na sociedade contemporânea, gerando opiniões diversas e frequentemente polarizadas.",
+    "1": "Enquanto alguns enxergam a medida como uma ferramenta essencial para a reparação histórica e a promoção da equidade, outros a criticam por supostamente ferir o princípio da meritocracia ou até mesmo reforçar a discriminação.",
+    "2": "É inegável, contudo, que a política de ações afirmativas surge em um contexto de profundas desigualdades estruturais, buscando minimizar um abismo social construido ao longo de séculos.",
+    "3": "Historicamente, o Brasil carregou o fardo de uma escravidão prolongada, cujos reflexos ainda se fazem sentir na distribuição de oportunidades e no acesso a bens e serviços essenciais.",
+    "4": "A população negra, majoritariamente marginalizada e com menor acesso à educação de qualidade, tem sido sistematicamente excluída dos espaços de poder e do ensino superior.",
+    "5": "Nesse cenário, as cotas raciais e sociais representam um esforço para corrigir essa distorção, garantindo que parcelas da população que historicamente foram privadas de direitos tenham a chance de ascender academicamente e profissionalmente.",
+    "6": "Não se trata de privilégio, mas de uma tentativa de equilibrar as chances em uma corrida onde alguns largaram muito atrás.",
+    "7": "Ademais, a diversificação do ambiente universitário promovida pelas cotas traz benefícios que vão além da inclusão individual.",
+    "8": "A presença de estudantes de diferentes origens socioeconômicas e étnico-raciais enriquece o debate acadêmico, promove a troca de experiências e prepara os futuros profissionais para atuar em uma sociedade plural.",
+    "9": "É fundamental que as universidades, como centros de produção de conhecimento e de formação de lideranças, reflitam a diversidade da na nação.",
+    "10": "Embora haja quem argumente que apenas o mérito deva prevalecer, é preciso reconhecer que o \"mérito\" muitas vezes é condicionado pela qualidade da educação básica recebida, que é profundamente desigual no país.",
+    "11": "Portanto, é imperativo que as políticas de cotas sejam mantidas e aprimoradas, não como uma solução definitiva, mas como um mecanismo temporário e necessário para a construção de uma sociedade mais justa.",
+    "12": "Para que a intervenção seja eficaz, cabe ao Estado investir massivamente na educação básica pública, garantindo a todos os cidadãos um ensino de excelência que, a longo prazo, torne as cotas desnecessárias.",
+    "13": "Além disso, é crucial que programas de permanência estudantil sejam ampliados, assegurando que os cotistas tenham suporte para concluir seus cursos e integrar-se plenamente ao mercado de trabalho.",
+    "14": "Somente assim poderemos sonhar com uma sociedade verdadeiramente equâne."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "3",
+        "4",
+        "6"
+      ],
+      "textos_motivadores": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "19",
+        "20",
+        "21"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "3",
+        "18"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "2",
+        "6",
+        "8",
+        "9",
+        "14",
+        "18"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "6",
+        "8",
+        "9"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8",
+        "14",
+        "18"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8",
+        "14",
+        "18"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8",
+        "14",
+        "18"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "8",
+        "9"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "6",
+        "7"
+      ],
+      "textos_motivadores": [
+        "22",
+        "26"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "8"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    }
+  }
+}

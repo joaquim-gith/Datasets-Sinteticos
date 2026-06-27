@@ -1,0 +1,188 @@
+{
+  "tema": "o-papel-do-estado-na-vida-do-cidadao-e-das-nacoes",
+  "comando_tematico": {
+    "frases": {
+      "0": "O papel do Estado na vida do cidadão e das nações \"Você só olha da esquerda para a direita, o Estado te esmaga de cima para baixo\".",
+      "1": "Pichada no muro de um presídio do Rio de Janeiro, em circunstâncias muito particulares (veja a coletânea), essa frase traduz um conflito existente entre o Estado e o indivíduo, de um modo geral: em teoria, a máquina estatal existe para beneficiar o cidadão; na prática, essa relação muitas vezes se inverte.",
+      "2": "Há projetos políticos que valorizam o Estado, por entender que ele é o único órgão capaz de reparar as injustiças sociais.",
+      "3": "Outros consideram que o Estado deve ter seu poder muito restringido, para não ferir a liberdade do cidadão.",
+      "4": "Há ainda outros que consideram o Estado desnecessário, afirmando que o mercado e as empresas podem organizar a vida social em sua totalidade: a segurança pública, por exemplo, ficaria a cargo das empresas de seguro.",
+      "5": "Na sua opinião, qual dessas três posições lhe parecem mais sensata?",
+      "6": "Por quê?",
+      "7": "Redija uma dissertação, apresentando argumentos para defender o seu ponto de vista.",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ex-morador de rua Rafael Braga Vieira, 26, único condenado por participação nas manifestações realizadas do ano passado no RJ, foi punido com dez dias de solitária após aparecer em uma foto criticando o Estado nas redes sociais Uma definição de Estado O conceito de Estado - conforme é compreendido hoje - só começou a ser empregado no Renascimento e na Idade Moderna.",
+      "1": "Aproximadamente a partir do século 16, o termo Estado passa a designar uma realidade nova, que abrange um território cujos habitantes são governados por um poder central.",
+      "2": "Identifica-se, também, com a própria organização sociopolítica desse território.",
+      "3": "Portanto, cabe ao Estado fazer e aplicar as leis, recolher impostos, manter um exército que proteja seu território.",
+      "4": "Para garantia da ordem em seu interior e exterior, o Estado monopolizou os serviços essenciais.",
+      "5": "Isso exigiu o desenvolvimento de uma máquina administrativa, uma burocracia, formada por funcionários ou servidores públicos.",
+      "6": "[ UOL Educação ] Política: para quê política?",
+      "7": "O pior problema da política é que ela estimula a obediência e a submissão das massas.",
+      "8": "Enquanto os políticos do partido azul fingem culpar os políticos do partido vermelho, e os políticos vermelhos fingem rivalidade com os políticos azuis, as massas se comportam bovinamente como líderes de torcida, prendendo a respiração a cada embate público entre esses dois times, e sempre se mantendo submissas a ambos -- afinal, se seu time vencer as próximas eleições, aí sim as coisas poderão finalmente melhorar!",
+      "9": "Quando as pessoas pensam no governo, elas normalmente imaginam um grupo de 600 pessoas na capital federal tomando algumas decisões racionais.",
+      "10": "A verdade, no entanto, é que o governo é composto por milhões de empregados, sendo a esmagadora maioria impossível de ser demitida.",
+      "11": "Para piorar tudo, oceanos de dinheiro passam pelas mãos dessas pessoas diariamente.",
+      "12": "Esse arranjo é totalmente propício ao abuso de poder, e sempre será.",
+      "13": "Trata-se de um problema estrutural, o qual não pode ser resolvido apenas “votando nas pessoas certas”.",
+      "14": "[ Instituto Mises Brasil ] Um cidadão esmagado?",
+      "15": "O ex-morador de rua Rafael Braga Vieira, 26, único condenado por participação nas manifestações realizadas do ano passado no Rio de Janeiro, foi punido com dez dias de solitária após aparecer em uma foto criticando o Estado nas redes sociais.",
+      "16": "Na imagem, publicada pelo Facebook do DDH (Instituto de Defensores de Direitos Humanos), onde Rafael trabalha, ele aparece em frente a um muro do Instituto Penal Francisco Spargoli Rocha pichado com os dizeres \"você só olha da esquerda a direita, o Estado te esmaga de cima para baixo\".",
+      "17": "[ UOL Notícias ] Uma definição de liberdade “A única liberdade que merece esse nome é a de buscar nosso próprio bem, por nosso próprio caminho, enquanto não privarmos os outros do seu ou não os impedirmos de se esforçarem por consegui-lo.",
+      "18": "Cada um é o guardião natural de sua própria saúde, seja física, mental ou espiritual.",
+      "19": "A humanidade ganha mais ao consentir a cada um que viva à sua própria maneira do que ao obrigá-lo a viver à maneira dos outros.",
+      "20": "” (John Stuart Mill.",
+      "21": "Sobre a Liberdade.",
+      "22": "Edições 70."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Quando nascemos, nascemos em algum lugar, um território, cercado por pessoas também nascidas neste  território, que trabalham, estudam, ficam doentes, se movimentam, tentam ganhar a vida, casam-se, têm filhos e assim por diante.",
+    "1": "Está aí a Nação.",
+    "2": "No meio disso tudo, faz-se essencial haver algo ou alguém que esteja preparado para servir e ajudar a organizar todo esse processo.",
+    "3": "Eis o Estado.",
+    "4": "O Estado nada mais é que um serviço  que teria como propósitos manter a paz e a ordem entre os cidadãos da Nação,          administrando os conflitos que surgem naturalmente em qualquer sociedade, por meio da Justiça, nos limites de seu território .",
+    "5": "Para que isso aconteça, os cidadãos pagam ao Estado tributos, visando a receber em troca um ambiente social em que cada indivíduo possa adquirir com os frutos de seu trabalho aquilo que lhes proporciona satisfação e bem-estar.",
+    "6": "No entanto, alguns Estados tentam interferir em atividades que não lhe  competem, como criação dos filhos de seus cidadãos,          suas relações afetivas e até suas escolhas políticas.",
+    "7": "Quando o Estado se intromete em atividades que não lhe dizem respeito, quem se beneficia não é o cidadão nem a Nação, mas os servidores públicos, eleitos ou não.",
+    "8": "Sendo assim , torna-se necessário  uma educação mais abrangente e competente que mostre aos cidadãos qual o papel de cada um dos setores em um território, fazendo com que os dois se fortaleçam naquilo que lhes compete."
+  },
+  "redacao_gerada": {
+    "0": "O Estado tem um papel muito importante na vida das pessoas e também das nações.",
+    "1": "Desde sempre, o governo é visto como algo que deve ajudar o cidadão, mas as vezes isso não acontece bem assim.",
+    "2": "É uma relação complicada que sempre gera debate entre a população e os políticos.",
+    "3": "Muitos pensam que o Estado é essencial para arrumar as injustiças sociais.",
+    "4": "Ele deve oferecer saúde, educação e segurança para todos, garantindo que ninguém fique para trás.",
+    "5": "As leis que o Estado fazem é para proteger e organizar a sociedade, assim todo mundo pode viver em paz.",
+    "6": "Sem o Estado, as coisas seria uma bagunça geral, sem ordem.",
+    "7": "Por outro lado, tem gente que acredita que o Estado é grande demais e atrapalha a liberdade.",
+    "8": "Eles acham que o governo cobra muitos impostos e tem uma burocracia que só dificulta a vida.",
+    "9": "As empresas, para esses, poderiam cuidar de tudo, até da segurança, sem precisar de tanta intervenção estatal.",
+    "10": "O poder do Estado, quando é muito, pode esmagar o indivíduo e suas escolhas.",
+    "11": "Então, vemos que o papel do Estado é um tema que tem muitas opiniões.",
+    "12": "É importante encontrar um balanço, onde o Estado ajude sem tirar a liberdade das pessoas.",
+    "13": "Talvez um governo que seja mais eficiente e menos opressor seja o ideal para o futuro, garantindo os direitos e também as liberdades."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "17",
+        "18",
+        "19"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "3",
+        "5"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "3"
+      ],
+      "textos_motivadores": [
+        "0",
+        "15",
+        "16",
+        "12"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "3",
+        "7"
+      ],
+      "textos_motivadores": [
+        "17",
+        "18",
+        "19"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "17",
+        "18",
+        "19",
+        "12"
+      ]
+    }
+  }
+}

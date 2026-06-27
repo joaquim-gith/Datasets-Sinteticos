@@ -1,0 +1,208 @@
+{
+  "tema": "a-necessidade-de-crer-em-herois",
+  "comando_tematico": {
+    "frases": {
+      "0": "A necessidade de crer em heróis No Brasil, super-heróis não morrem.",
+      "1": "O mito do super-herói satisfaz às nostalgias secretas de muitos cidadãos brasileiros que, diante de tantas agruras, sonham encontrar um dia uma \"personagem excepcional\", um \"herói\" que porá fim ao sofrimento, à violência, ao medo, ao desemprego, à fome entre outros problemas.",
+      "2": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Capetão América Assista ao vídeo: Dicionário Aurélio Herói [Do gr.",
+      "1": "héros, héroos, pelo lat.",
+      "2": "*heroe.",
+      "3": "] Substantivo masculino.",
+      "5": "Homem extraordinário por seus feitos guerreiros, seu valor ou sua magnanimidade.",
+      "8": "ext.",
+      "9": "Pessoa que por qualquer motivo é centro de atenções.",
+      "11": "Protagonista de uma obra literária.",
+      "13": "Mit.",
+      "14": "Semideus (2).",
+      "15": "[Fem.",
+      "16": ": heroína.",
+      "17": "] A morte do Capitão América Em 07 , chega às bancas de jornal a revista que conta o trágico destino do super-herói da Marvel, o Capitão América.",
+      "18": "Foram 65 anos lutando contra bandidos e agora foi morto por um franco atirador em frente à Corte Federal de Manhattan.",
+      "19": "Esse herói das histórias em quadrinhos foi criado em 1941 durante a 2ª Guerra Mundial.",
+      "20": "Steve Rogers era um jovem com imensa vontade de servir seu país e defender as pessoas que estavam sendo vítimas dessa guerra.",
+      "21": "Sendo rejeitado no alistamento, por ser franzino, serviu de voluntário ao Dr.",
+      "22": "Abraham Erskine e graças ao soro do supersoldado e aos raios vita tornou-se imbatível.",
+      "23": "A partir daí, jurou lutar contra todo tipo de tirania e terrorismo em nome da justiça e liberdade, combatendo, espancando e eliminando inimigos diplomáticos dos Estados Unidos por onde quer que passasse.",
+      "24": "Heróis morrem quando estão decadentes, mas depois voltam.",
+      "25": "Padrões de consumo A idéia, defendida nas últimas décadas, de que as grandes massas de população dos países pobres, do chamado Terceiro Mundo, podem atingir os padrões de consumo da maioria da humanidade que vive hoje nos países altamente industrializados, como nos Estados Unidos, não passa de um mito.",
+      "26": "Na verdade o que acontece é que essa idéia - do desenvolvimento econômico - serve para levar os povos pobres a aceitar grandes sacrifícios em nome de um futuro que nunca vai acontecer.",
+      "27": "Num país como o Brasil, com tantas desigualdades, a figura de um herói surge como esperança da estratificação e mobilidade social.",
+      "28": "A esse Herói atribui-se o poder imaginário de alterar a realidade, reduzindo as desigualdades e estabelecendo uma nova era de prosperidade.",
+      "29": "Sem a possibilidade da existência desse herói, o dia-a-dia das populações menos favorecidas se tornaria insuportável, pois deixaria de existir a esperança.",
+      "30": "Mas não se pode esquecer do reverso da medalha: a necessidade de heróis gera falsos heróis que, em geral, locupletam-se utilizando os sonhos populares.",
+      "31": "Antes de escrever Ao desenvolver o tema proposto, procure utilizar os conhecimentos adquiridos e as reflexões feitas ao longo de sua formação.",
+      "32": "Selecione, organize e relacione argumentos, fatos e opiniões para defender o seu ponto de vista e suas propostas, sem ferir os direitos humanos."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A imagem do herói, para muitos, remete àquele ser benevolente que nos momentos mais difíceis, mais árduos da trajetória cotidiana pode resolver os problemas alheios sem exigir nada em troca, apenas o bem-estar dos outros.",
+    "1": "Entretanto, o herói não é só isso; ele é a religião do jovem que há dentro de cada um; é aquilo em que se precisa crer para continuar essa viagem pela criatividade infantil.",
+    "2": "A capacidade de imaginar e realizar todos os sonhos!",
+    "3": "Somos heróis de nós mesmos e não sabemos?",
+    "4": "Muito se diz sobre a mente humana, mas o certo é que é preciso ter objetivos para continuar vivendo, mesmo que não se saiba o porquê da existência.",
+    "5": "Justamente pelo pouco que se sabe sobre isso é necessário crer em muitas coisas e, para crer, não é necessário muito, apenas fé, ou seja, acreditar em princípios.",
+    "6": "Na verdade, os heróis não morrem, eles apenas ficam na espera de um momento oportuno para voltar e esse momento é justamente quando mais se precisa deles: para alterar a realidade em que se vive, ele é a esperança de muitos.",
+    "7": "No entanto, heróis são uma criação da mente, nós somos nossos heróis.",
+    "8": "Como diria Tina Turner, na renomada trilha sonora de Mad Max, \"Nós não precisamos de outro herói (...) Tudo que fazemos com nossas vidas deixa marcas, nossas histórias brilharão?\".",
+    "9": "Nós somos responsáveis por nossos atos, vitórias e derrotas, entretanto nunca se deve deixar de crer em si mesmo!"
+  },
+  "redacao_gerada": {
+    "0": "A intrínseca busca humana por significado e a anseio por soluções em face de complexas adversidades sociais têm, historicamente, pavimentado o caminho para a edificação de figuras heroicas.",
+    "1": "Em um cenário global permeado por incertezas e profundas desigualdades, a necessidade de crer em heróis transcende a mera idealização ficcional, configurando-se como um fenômeno sociopsicológico que, embora possa catalisar a esperança e a mobilização, igualmente encerra o risco de fomentar a passividade cívica ou a ascensão de líderes demagógicos.",
+    "2": "Assim, torna-se premente analisar como essa crença, ao mesmo tempo em que oferece um norte em tempos turbulentos, pode fragilizar o senso crítico e a autonomia do corpo social.",
+    "3": "Em primeiro plano, a figura do herói, em diversas culturas e épocas, atuou como um arquétipo fundamental para a manutenção da coesão social e a inspiração para a superação de desafios coletivos.",
+    "4": "Conforme a perspectiva de Joseph Campbell, em sua obra \"O Herói de Mil Faces\", o monomito demonstra que a jornada heroica é um padrão universal, um reflexo das aspirações humanas por transcendência e redenção.",
+    "5": "Em contextos de profunda crise ou injustiça, a personificação de virtudes como coragem, integridade e resiliência em um \"herói\" oferece um símbolo tangível de esperança, galvanizando a população em torno de ideais compartilhados e impulsionando a luta por transformações sociais.",
+    "6": "No Brasil, por exemplo, em meio a desigualdades estruturais, a busca por uma figura capaz de reverter o quadro de iniquidade social manifesta a latente necessidade de um agente de mudança.",
+    "7": "Entretanto, a idealização exacerbada de heróis encerra uma perigosa dualidade, podendo culminar na delegação acrítica de responsabilidades e na fragilização do engajamento cívico.",
+    "8": "A filósofa Hannah Arendt, ao analisar a ascensão de regimes totalitários, alertou para o perigo da massificação e da passividade política, onde a busca por um \"salvador\" pode substituir a ação coletiva e a responsabilidade individual.",
+    "9": "Em sociedades que anseiam por soluções rápidas para problemas estruturais, a crença irrestrita em um líder carismático, rotulado como herói, pode abrir precedentes para a manipulação populista.",
+    "10": "Desse modo, a esperança depositada em um salvador pode ser explorada por \"falsos heróis\" que, movidos por interesses particulares, utilizam os anseios populares para consolidar poder, perpetuando o ciclo de dependência e despolitização.",
+    "11": "Diante do exposto, é imperativo que a sociedade brasileira desenvolva mecanismos para cultivar a esperança sem, contudo, sucumbir à passividade ou à demagogia.",
+    "12": "Para tanto, o Ministério da Educação (MEC), em parceria com as instituições de ensino, deve promover a educação cívica e o pensamento crítico desde os anos iniciais.",
+    "13": "Essa ação pode ser efetivada por meio da implementação de projetos pedagógicos interdisciplinares que estimulem o debate sobre o papel do cidadão na construção social, a análise de figuras históricas e movimentos que demonstraram a força da ação coletiva, e a desconstrução da ideia de um \"salvador\" único.",
+    "14": "O efeito esperado é capacitar os indivíduos a discernir entre lideranças legítimas e oportunistas, fomentando o engajamento ativo e a construção coletiva de soluções, e não a mera idolatria.",
+    "15": "Assim, a verdadeira transformação social advirá da autonomia e responsabilidade cidadã, fortalecendo os pilares da democracia e da justiça."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "27",
+        "28",
+        "30"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "30"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "5",
+        "29"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "5",
+        "11"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "5",
+        "27",
+        "28",
+        "29"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "27",
+        "28"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "30"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "30"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "28",
+        "30"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "30"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "27",
+        "30"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "30"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "30"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "28",
+        "30"
+      ]
+    }
+  }
+}

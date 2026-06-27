@@ -1,0 +1,155 @@
+{
+  "tema": "um-cachorro-vale-mais-do-que-um-ser-humano",
+  "comando_tematico": {
+    "frases": {
+      "0": "Um cachorro vale mais do que um ser humano?",
+      "1": "A multimilionária Leona Helmsley, dona de um império imobiliário nos Estados Unidos, morreu em 20  e deixou por testamento US$ 12 milhões para seu cachorrinho.",
+      "2": "O animal foi favorecido em prejuízo de dois netos de Leona, que foram deserdados.",
+      "3": "Para muitos, o gesto pode parecer absurdo.",
+      "4": "Outros talvez o aprovem.",
+      "5": "Há quem valorize o melhor amigo do homem mais do que o próprio homem.",
+      "6": "Você acha isso justo?",
+      "7": "Um cão pode valer tanto ou mais que um ser humano?",
+      "8": "Sob o ponto de vista da ética, trata-se de uma questão que merece reflexão.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Trouble, o cão multimilionário A chamada \"rainha da maldade\" em suas últimas vontades fez jus ao apelido que ganhou em vida nos tablóides, já que o principal beneficiário de sua fortuna será Trouble, o pequeno maltês branco do qual nunca se separava, segundo o jornal \"Daily News\".",
+      "1": "A guarda do cachorrinho mimado ficará a cargo de Alvin Rosenthal, irmão da finada e menos felizardo do que o bichinho, já que só receberá US$ 10 milhões.",
+      "2": "Para seus netos David e Walter decidiu deixar US$ 5 milhões para cada um.",
+      "3": "Craig e Meegan, os outros dois netos, ficaram, em compensação, sem nada \"por razões por eles conhecidas\", ainda de acordo com as últimas vontades de Leona.",
+      "4": "Quando o cachorrinho Trouble for chamado a se encontrar com sua dona, ficará a seu lado no mausoléu cercado por doze colunas dóricas e ao qual foi destinado um fundo de US$ 3 milhões para que Leona Helmsley possa assim continuar desfrutando do luxo em sua vida além-túmulo.",
+      "5": "( Adaptado de UOL Notícias, 29 de agosto de 2007 ) Texto 2 \"Já faz tempo, mas ninguém esquece.",
+      "6": "Em 1991, flagrado ao utilizar um carro oficial para levar sua cadela ao veterinário, o então ministro do Trabalho, Antonio Rogério Magri, deu a célebre declaração: 'Cachorro também é ser humano'\".",
+      "7": "( Laura Mattos, \"Folha de S.",
+      "8": "Paulo\", 2 de janeiro de 2008 ) Texto 3 Troque seu cachorro Por uma criança pobre Sem parente, sem carinho Sem rango, sem cobre Deixe na história de sua vida Uma notícia nobre.",
+      "11": "Troque seu cachorro Por uma criança pobre Tem muita gente por aí Que tá querendo levar Uma vida de cão Eu conheço um garotinho Que queria ter nascido Pastor-alemão ( \"Rock da Cachorra\", Eduardo Dusek ) Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Desde a arca de noé que sabemos da importância dos animais na vida do homem, sem eles não teríamos uma socialização, digamos integração do humano à sociedade como se diz \"normal\".",
+    "1": "Quando se é criança e é filho único os psicólogos aconselham os pais a comprarem um bichinho de estimação, geralmente são gatos e cachorros.",
+    "2": "A humanidade sempre teve este laço com os cães do que com qualquer outro animal de estimação, o cão serve de companhia, serve para guiar cegos, serve para cuidar da casa, ajuda no trabalho policial farejando drogas, mas também cria conflitos em condôminos, serviçais com raiva dos patrões por fazerem limpar o cocô, os cocos abandonados em calçadas e jardim na qual nós escorregamos e falamos \"QUE MERDA\" , nas despesas com rações e felicidade dos veterinários e pets da vida.",
+    "3": "Não há o que contestar que certos cães vivem melhor do que crianças que pedem esmolas nos sinais de transito das cidades brasileiras, lembrei o caso de Leona com o da socialite Loyola no qual comemorou o aniversario de sua cadela onde foi criticada pela mídia.",
+    "4": "Eu particularmente prefiro pensar que esses cães sortudos como o \"trouble\" que em português quer dizer problema são crianças que morreram de fome em outras vidas e agora vieram ter sua compensação como cães de milionários..."
+  },
+  "redacao_gerada": {
+    "0": "Hoje em dia, a gente vê muito animal por aí, e cachorro é um deles.",
+    "1": "As pessoas gostam muito de ter um bicho de estimação em casa, porque eles são companheiros e dão carinho.",
+    "2": "É uma questão importante pensar se um cachorro vale mais que uma pessoa, mas é difícil saber direito o que pensar sobre isso, cada um pensa diferente.",
+    "3": "Muitos acham que sim, outros acham que não.",
+    "4": "Um cachorro pode ser muito fiel, né?",
+    "5": "Eles sempre tão lá pra gente, abanam o rabo e tudo quando a gente chega.",
+    "6": "Isso faz com que muita gente ache que eles são especiais e merecem tudo de bom.",
+    "7": "Tem gente que até dá mais atenção pro cachorro do que pra família, o que é estranho pra alguns.",
+    "8": "Eles não falam, mas entendem tudo, e isso é legal porque eles nunca te julgam, só te amam de verdade e sem pedir nada em troca.",
+    "9": "Por outro lado, o ser humano é diferente.",
+    "10": "Pessoas constrói cidades, faz arte e cria ciência, tipo a medicina.",
+    "11": "É claro que um humano tem mais valor porque tem inteligência e consegue fazer mais coisas complexas para o mundo.",
+    "12": "Mas alguns humanos fazem coisas ruins, tipo brigar e destruir a natureza, o que faz pensar se eles são tão bons assim.",
+    "13": "Então, a questão do valor é bem complicada e não tem resposta fácil, cada um tem sua opiniao.",
+    "14": "Pra resolver essa questão, é importante que as pessoas reflita mais sobre o valor da vida, seja de bicho ou de gente.",
+    "15": "A sociedade precisa aprender a amar mais e ser mais empática com todos, inclusive os animais que precisam de ajuda.",
+    "16": "Então, devemos criar mais campanhas de conscientização para que todos entendam que o valor de cada um é importante, mas não sei como isso vai acontecer direito e quem vai fazer isso."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

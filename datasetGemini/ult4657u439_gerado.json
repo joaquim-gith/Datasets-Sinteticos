@@ -1,0 +1,198 @@
+{
+  "tema": "mentira-e-doenca-problema-moral-necessidade-ou-brincadeira",
+  "comando_tematico": {
+    "frases": {
+      "0": "Mentira é doença, problema moral, necessidade ou brincadeira?",
+      "1": "Em , o mundo ficou espantado com a violência sofrida por uma advogada brasileira em Dübendorf, cidade da Suíça.",
+      "2": "Ela teria sido agredida e muito machucada por neonazistas, num ataque brutal de xenofobia (desconfiança, temor ou antipatia por estrangeiros).",
+      "3": "A jovem advogada teria, inclusive, sofrido um aborto de gêmeos, sendo encaminhada para o hospital em estado de choque.",
+      "4": "Até o presidente Lula declarou publicamente seu horror diante do acontecido.",
+      "5": "Poucos dias depois, contudo, o mundo inteiro se revoltou, ao descobrir que tudo era uma grande inverdade.",
+      "6": "Todos nós, certamente, conhecemos vários mentirosos.",
+      "7": "Por que eles existem?",
+      "8": "O que é, afinal, a mentira: doença, problema moral, necessidade irresistível, brincadeira?",
+      "9": "Ou o ato de mentir é provocado por todas essas razões?",
+      "10": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Prenda-me se for capaz Leonardo DiCaprio, em Prenda-me se for capaz , de Steven Spielberg Nem sempre a mentira tem perna curta.",
+      "1": "O filme de Steven Spielberg conta a história real de um mestre do disfarce, Frank Abagnale Jr.",
+      "2": "(personificado por Leonardo Di Caprio).",
+      "3": "Ele fez carreira, aproveitando suas habilidades de grande mentiroso.",
+      "4": "Mudou várias vezes de identidade e viveu a vida como quis, aplicando golpes milionários, até ser apanhado pela polícia.",
+      "5": "O impostor, o estelionatário, muitas vezes, é uma figura sedutora, mas isso não diminui a gravidade de seu crime.",
+      "6": "Primeiro de abril!",
+      "7": "\"O hábito de brincar com essa data é universal.",
+      "8": "A origem das brincadeiras nesse dia é desconhecida, mas dizem que tudo começou no século 16, com a mudança para o calendário gregoriano, que trocou a comemoração do Ano Novo para 1º de janeiro (antes a data era móvel, variando de 25 de março a 1º de abril).",
+      "9": "Quem continuava comemorando na antiga data era chamado de \"bobo de abril\".",
+      "10": "Na Inglaterra, quem \"cai em 1º de abril\" é chamado de noodle (pateta).",
+      "11": "Na França, de poisson d'avril (peixe de abril); nos Estados Unidos, de april fool (bobo de abril).",
+      "12": "\" [ IBGE Teen ] O mitômano ou mentiroso patológico Mitômano (.",
+      "15": ") é a pessoa manipuladora e autocentrada que inventa histórias continuamente para conseguir o que quer, com pouca consideração ou respeito pelos interesses dos outros.",
+      "19": ") A causa pode ser mecanismo de defesa ou autoafirmação desenvolvido na primeira infância, associada à alguma desordem mental, caso das personalidades narcísicas ou histriônicas.",
+      "20": "[Quando mentir é um problema, reportagem da revista \"Época\", 19 ] Escritores e a mentira \"A mentira é, muita vez, tão involuntária como a transpiração.",
+      "21": "\" Machado de Assis \"A principal mentira é aquela que contamos a nós mesmos\".",
+      "22": "Nietzsche \"Somente as mulheres e os médicos sabem o quanto a mentira é benéfica aos homens.",
+      "23": "\" Anatole France \"A mentira é uma verdade que se esqueceu de acontecer.",
+      "24": "\" Mario Quintana \"Uma mentira dá uma volta ao mundo antes mesmo de a verdade ter oportunidade de se vestir\".",
+      "25": "Winston Churchill"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Quando uasada  moderadamente a mentira pode ficar sendo uma boa forma para a existência e sobrevivência  pacifica na sociedade.",
+    "1": "todosmentiros seres humanos incondicionalmente precisam  ,mas quando este recurso é usado de forma exarcebada  acaba se tornando uma doença ou um distúrbio de caráter moral.",
+    "2": "A mentira em seu significado bruto e a soma de todos estesadjetivos:doença,problemacaráter,necessidadebrincadeiradee  ;É como um quadradro que em cada lado estivesse cada um desses adjetivos;Cabe a cada ser humano escolher aquele que melhor lhe cabe ; Todosmentiraos humanos já nascem com o dom da  ,começando a usá-la quando chora ou quando faz de tudo pra ter o colo ou ou leite da mãe,é exatamente nesta fase que ele descobre a mentira,mas o que vai formar o caráter desta criança é a família ou o meio em que ela vive,assim ela saberá usufruir melhor da mentira e saber usá-la na momento certo.",
+    "3": "Mentir pode ser uma válvula de escape de situações  indesejáveis seja elas momentâneas ou permantes,como por exemplo um trauma na infância ou fase adulta que faz com que o indivíduo minta para poder escapar daquele momento, é como um submundo no qual ele queira fugir e viver nele;mas como tudo na vida isto pode acarretar em danos pequenos ou grandes como por exemplo o desvio de caráter.",
+    "4": "Contudo mentiraeacessórioque quandotocado liberapossibilidades equilibradasruins,masindivíduosquando,onde,como e com quem.um sensíveldiversasem boas ecabe a cadausá-las"
+  },
+  "redacao_gerada": {
+    "0": "A mentira é algo que esta muito presente na vida de todo mundo.",
+    "1": "Desde as pequenas coisas que a gente inventa, até as histórias mais grandes, ela faz parte do nosso dia a dia.",
+    "2": "Mas o que seria a mentira de verdade?",
+    "3": "Será que é uma doença, um problema de moral, uma coisa que a gente precisa fazer, ou apenas uma brincadeira inofensiva?",
+    "4": "Essa questão complexa precisa ser pensada com mais calma.",
+    "5": "Em primeiro lugar, é importante ver que algumas pessoas parece que não conseguem parar de mentir.",
+    "6": "Elas inventam histórias e vivem num mundo de faz de conta, as vezes para conseguir o que quer ou para se sentir importante.",
+    "7": "Isso pode ser um problema sério, quase como uma doença, que afeta a vida do mentiroso e de quem esta perto dele.",
+    "8": "A psicologia fala de pessoas que mentem sem parar, e isso pode vir de problemas da infância ou de como a cabeça funciona.",
+    "9": "Por outro lado, a mentira também pode aparecer como uma necessidade ou uma forma de brincar.",
+    "10": "Quem nunca contou uma mentirinha branca para não magoar um amigo ou para evitar uma situação chata?",
+    "11": "Essas mentiras pequenas, as vezes, são vistas como algo aceitável, para manter a paz ou a boa convivência.",
+    "12": "Além disso, existe o famoso \"primeiro de abril\", um dia dedicado a fazer pegadinhas e contar mentiras de brincadeira.",
+    "13": "Ninguem se importa muito com essas mentiras, porque são só para rir.",
+    "14": "Portanto, é claro que a mentira não tem uma só cara.",
+    "15": "Ela pode ser um problema grave, quase uma doença que precisa de ajuda, ou uma simples forma de lidar com o mundo.",
+    "16": "As vezes, é um problema moral, quando a gente sabe que esta fazendo algo errado.",
+    "17": "Outras vezes, é uma necessidade ou uma brincadeira que faz parte da cultura.",
+    "18": "Entender isso é importante para a gente saber como lidar com as mentiras que aparecem no nosso caminho."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "15"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "19"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "19"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "6",
+        "7"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "0",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "19"
+      ]
+    },
+    "16": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "6",
+        "7"
+      ]
+    },
+    "18": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

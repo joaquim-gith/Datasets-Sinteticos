@@ -1,0 +1,208 @@
+{
+  "tema": "como-solucionar-o-problema-do-bullying-na-escola-ou-na-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Como solucionar o problema do bullying na escola ou na internet?",
+      "1": "Você já ouviu falar de bullying , se é que não travou conhecimento com o problema pessoalmente.",
+      "2": "De modo geral, bullying é o comportamento agressivo de um ou mais estudantes contra outro(s).",
+      "3": "O termo se origina de bully , que significa \"valentão\", em inglês.",
+      "4": "Esse tipo de violência ocorre principalmente nas escolas, tanto no ensino fundamental quanto no médio, mas não tem se limitado ao âmbito escolar: também já chegou à internet, de onde derivou a expressão cyberbullying.",
+      "5": "Com base nas informações apresentadas na coletânea que segue, faça uma dissertação em que você explique o que é bullying , dê sua opinião sobre o que, a seu ver, motiva aqueles que o praticam - isto é, os agressores - e apresente uma proposta para se lidar com esse grave problema.",
+      "6": "Como solucionar a questão do bullying?",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O que é bullying O termo bullying compreende todas as formas de atitudes agressivas, intencionais e repetidas, que ocorrem sem motivação evidente, adotadas por um ou mais estudantes contra outro(s), causando dor e angústia, e executadas dentro de uma relação desigual de poder.",
+      "1": "Portanto, os atos repetidos entre iguais (estudantes) e o desequilíbrio de poder são as características essenciais, que tornam possível a intimidação da vítima.",
+      "2": "Por não existir uma palavra na língua portuguesa capaz de expressar todas as situações de bullying possíveis, relacionam-se a seguir algumas ações que podem caracterizá-lo: Colocar apelidos, ofender, zoar, gozar, encarnar, sacanear, humilhar, fazer sofrer, discriminar, excluir, isolar, ignorar, perseguir, assediar, aterrorizar, amedrontar, tiranizar, dominar, agredir, bater, chutar, empurrar, ferir, roubar, quebrar pertences.",
+      "3": "[ ABRAPIA - Associação Brasileira Multiprofissional de Proteção à Infância e Adolescência] Papel da escola \"A escola que afirma não ter bullying ou não sabe o que é ou está negando sua existência\", diz o médico pediatra Lauro Monteiro Filho, fundador da Associação Brasileira Multiprofissional de Proteção à Infância e Adolescência (Abrapia), que estuda o problema há nove anos.",
+      "4": "Segundo o médico, o papel da escola começa em admitir que é um local passível de bullying, informar professores e alunos sobre o que é e deixar claro que o estabelecimento não admitirá a prática - prevenir é o melhor remédio.",
+      "5": "O papel dos professores também é fundamental.",
+      "6": "\"Há uma série de atividades que podem ser feitas em sala de aula para falar desse problema com os alunos.",
+      "7": "Pode ser tema de redação, de pesquisa, teatro etc.",
+      "8": "É só usar a criatividade para tratar do assunto\", diz.",
+      "9": "[Revista Nova escola ] Baixa autoestima \"O bullying está relacionado ao desenvolvimento de baixa autoestima, ao isolamento social e à depressão.",
+      "10": "Influencia a capacidade produtiva do adolescente-vítima, enquanto o agressor pode ser levado a adotar comportamentos de risco durante a fase adulta, como alcoolismo, dependência de drogas e até mesmo o uso da violência explícita.",
+      "11": "\" [Aramis Lopes, coordenador do Programa Anti-Bullying da ABRAPIA, in Universia ] Cyberbullying A prática do cyberbullying, ou intimidação virtual, representa um dos maiores riscos da internet para 16% dos jovens brasileiros conectados à rede.",
+      "12": "Isso é o que mostra uma pesquisa realizada em fevereiro de 2010 pela Safernet, ONG de defesa dos direitos humanos na internet, envolvendo 2.",
+      "13": "160 internautas do país com idades entre 10 e 17 anos.",
+      "14": "Esse mesmo estudo indica que 38% dos jovens reconhecem ter um amigo que já foi vítima de cyberbullying - quando sofrem atitudes agressivas, intencionais e repetitivas no universo virtual, vindas de uma pessoa ou de um grupo.",
+      "15": "Os números mostram, no entanto, que apenas 7% dos entrevistados já ouviram o desabafo de seus amigos sobre a vivência de situações de agressão e humilhação na internet.",
+      "16": "[Juliana Carpanez, UOL Tecnologia ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Bullying, um termo inglês, descreve atos de violência física ou psicologia ao individuo  .",
+    "1": "Atualmente os jovens se tornaram cada vez mais agressivos, tanto no meio escolar quando  tem supervisão adulta mínima, como no meio de trabalho.",
+    "2": "Sabe-se que uma parte deles participa de uma forma contrária, ou seja, são as vítimas dessa agressão.",
+    "3": "Pode ocorrer em diversas situações, intimidando outras pessoas que desejam se socializar com a vítima, forçando-a ao isolamento social .",
+    "4": "Todavia, os casos mais comuns são na escola, em ensinos fundamentais .",
+    "5": "Quando isso ocorre, a vitima  não pode comunicar a direção, pois, piora  sua situação com os agressores.",
+    "6": "Com isso, abre  espaço para o medo e depressão, ocorrendo  algum problema psicológico.",
+    "7": "A família deve estar presente, apoiando a criança, fazendo com que ele  fale sobre a situação e o sofrimento.",
+    "8": "Nessa perspectiva,            conversar com a direção da escola é um método eficiente , pois, é dever da instituição promover uma inclusão social e conversar com os pais dos agressores, que precisam ser alertados sobre como seus filhos estão agindo.",
+    "9": "Trata-se de uma forma de inclusão para a vitima  .",
+    "10": "As escolas precisam fazer atividades que incluam todos os alunos,              sem exceção.",
+    "11": "Perpetuando-se  assim, um laço de coleguismo entre os alunos, acabando com o comportamento agressivo e negativo."
+  },
+  "redacao_gerada": {
+    "0": "A persistência do bullying, manifesta tanto nos corredores escolares quanto na vastidão da internet, configura-se como um dos desafios mais prementes à construção de um ambiente social equitativo e seguro para crianças e adolescentes.",
+    "1": "Esse fenômeno, caracterizado por agressões intencionais e repetitivas que estabelecem um desequilíbrio de poder entre agressor e vítima, transcende a mera brincadeira e assume contornos de violência psicológica e física, com sérias repercussões para o desenvolvimento individual e coletivo.",
+    "2": "Diante de tal adversidade, faz-se imperativo que a sociedade promova uma abordagem multifacetada, atuando na carência de programas educacionais preventivos e na insuficiência de mecanismos de responsabilização e apoio às vítimas e agressores.",
+    "3": "Em primeira análise, a lacuna em programas educacionais eficazes perpetua a cultura do bullying, seja em seu formato tradicional ou virtual.",
+    "4": "Muitas instituições de ensino, imersas na primazia do currículo acadêmico, negligenciam a formação socioemocional dos estudantes, falhando em fomentar a empatia e o respeito às diferenças.",
+    "5": "Nesse contexto, a perspectiva de Paulo Freire, que preconizava uma educação libertadora e crítica, torna-se essencial para desconstruir padrões de comportamento opressores, ensinando os indivíduos a questionar as hierarquias e a valorizar a alteridade.",
+    "6": "A ausência de capacitação adequada para docentes, que muitas vezes não sabem como identificar ou intervir em situações de intimidação, agrava o problema, permitindo que a violência se prolifere em ambientes que deveriam ser seguros e inclusivos.",
+    "7": "Ademais, a insuficiência de mecanismos de responsabilização e de apoio psicossocial contribui para a impunidade e para o agravamento das sequelas do bullying.",
+    "8": "A facilidade do anonimato na internet, por exemplo, como demonstrado pela prevalência do cyberbullying, dificulta a identificação dos agressores e a efetivação de sanções, tornando o ambiente virtual um terreno fértil para a violência.",
+    "9": "Tal cenário reflete, em parte, o que o sociólogo Zygmunt Bauman denominava \"modernidade líquida\", onde as relações sociais são fluidas e a responsabilidade individual muitas vezes se dilui, enfraquecendo os laços de solidariedade.",
+    "10": "Consequentemente, vítimas sofrem com baixa autoestima, isolamento e depressão, enquanto agressores podem desenvolver comportamentos de risco na vida adulta, perpetuando um ciclo de violência que demanda intervenções mais robustas e coordenadas.",
+    "11": "Portanto, para mitigar o problema do bullying em suas diversas manifestações, é imprescindível uma ação concertada.",
+    "12": "O Ministério da Educação (MEC), em parceria com as escolas e as famílias, deve implementar programas educacionais contínuos e abrangentes.",
+    "13": "Isso se daria através de palestras, oficinas interativas e a inserção de disciplinas que abordem inteligência emocional, ética e respeito à diversidade, integrando a participação dos pais em workshops de conscientização.",
+    "14": "Essa iniciativa visa a formação de uma cultura escolar mais empática e a prevenção efetiva de práticas agressivas, tanto no ambiente físico quanto virtual, promovendo um convívio harmonioso e seguro para todos os estudantes.",
+    "15": "Adicionalmente, deve-se capacitar professores e psicopedagogos para identificar, intervir e oferecer suporte adequado a vítimas e agressores, além de criar canais seguros e anônimos para denúncias, garantindo o direito à dignidade e ao respeito."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "C0",
+        "C4",
+        "C6"
+      ],
+      "textos_motivadores": [
+        "M11"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "C2"
+      ],
+      "textos_motivadores": [
+        "M0",
+        "M1"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "C0",
+        "C5",
+        "C6"
+      ],
+      "textos_motivadores": [
+        "M4"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "C0",
+        "C6"
+      ],
+      "textos_motivadores": [
+        "M4",
+        "M6"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "M3",
+        "M4"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "M5",
+        "M4"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "C0",
+        "C6"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "C4"
+      ],
+      "textos_motivadores": [
+        "M11",
+        "M13"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "M9",
+        "M10"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "C0",
+        "C5",
+        "C6"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "C0",
+        "C5",
+        "C6"
+      ],
+      "textos_motivadores": [
+        "M4",
+        "M6"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "C0",
+        "C5",
+        "C6"
+      ],
+      "textos_motivadores": [
+        "M4",
+        "M6",
+        "M7",
+        "M8"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "C0",
+        "C4",
+        "C6"
+      ],
+      "textos_motivadores": [
+        "M4"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "C0",
+        "C5",
+        "C6"
+      ],
+      "textos_motivadores": [
+        "M4",
+        "M5"
+      ]
+    }
+  }
+}

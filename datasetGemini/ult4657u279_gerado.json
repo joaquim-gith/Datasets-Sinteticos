@@ -1,0 +1,187 @@
+{
+  "tema": "o-uso-da-maconha-deve-ou-nao-ser-legalizado",
+  "comando_tematico": {
+    "frases": {
+      "0": "O uso da maconha deve ou não ser legalizado?",
+      "1": "A utilização da maconha tem sido alvo cada vez mais freqüente de polêmicas, artigos e debates.",
+      "2": "Há, por exemplo, amplo respaldo médico sobre os efeitos devastadores da maconha no cérebro.",
+      "3": "Segundo muitos cientistas, ela vicia, sim, e encaminha o usuário para drogas mais pesadas.",
+      "4": "Por outro lado, existem estudos científicos que propõem o uso medicamentoso da maconha, mesmo que de forma contínua.",
+      "5": "Há também quem a compare ao álcool e defenda a legalização de seu uso recreativo.",
+      "6": "Além disso, para alguns, uma eventual descriminalização da maconha seria um modo de pôr fim ao tráfico e a violência por ele gerada.",
+      "7": "O que você pensa disso?",
+      "8": "A maconha deve ou não ser legalizada?",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Maconha não é droga leve \"A maioria dos que usam maconha justifica seu uso dizendo que ela faz menos mal que álcool e cigarro.",
+      "1": "Não há por que fazer comparações, saber qual é a pior ou a menos má.",
+      "2": "O casamento com a maconha é sempre destrutivo.",
+      "3": "A droga tem uma substância química chamada ácido delta-9-tetraidrocanabinol (THC), que lentamente mina as capacidades intelectuais: compromete a atenção, a concentração e a memória.",
+      "4": "Produz uma apatia que não é própria da adolescência.",
+      "5": "O jovem prefere ficar sozinho a estar com amigos não-usuários.",
+      "6": "Mas o usuário vive se iludindo em dizer \"que fuma porque quer e pára quando quiser.",
+      "7": "\" [ Içami Tiba , psiquiatra, terapeuta e escritor, no livro \"Juventude e Drogas: Anjos Caídos\".",
+      "8": "São Paulo: Integrare, 2007].",
+      "9": "Bicho de sete cabeças Manifestação pela legalização da maconha diante do Palácio do Planalto em Brasília (DF) \"A erva maldita está se transformando em erva de charme.",
+      "13": ") O baseado - ou beck , ralf , mingote , jererê , conforme se chama por região do país ou mesmo geração - está na boca do povo.",
+      "14": "Na televisão, é zapear pelos canais para encontrar referências ou debates sobre o tema.",
+      "18": ") No cinema, filmes como o brasileiro \"Bicho de 7 Cabeças\" ou o inglês \"O Barato de Grace\" ajudam a acender, pelo país afora, a polêmica que ronda o assunto.",
+      "19": "Nas bancas, revistas científicas, como \"Galileu\", ou focadas no público jovem, como Trip, esgotam a tiragem ao dedicar páginas à discussão médica e jurídica que envolve a droga.",
+      "20": "\" [ Revista Época.",
+      "21": "Edição 183, 19 ] A lei, do jeito que está, não funciona \"Vigora no país uma lei que vale só para alguns.",
+      "26": "Se você é pobre e é pego com maconha, vai preso.",
+      "27": "Se é rico, é possível que a polícia nem o incomode, para evitar problemas - vai que você é filho de alguém importante.",
+      "28": "Ou, quem sabe, um subornozinho livre sua cara.",
+      "29": "Se você é grande traficante, fique sossegado.",
+      "30": "Se é pequeno traficante, ai, ai, ai.",
+      "31": "Se o delegado está de bom humor, você é usuário; se está de mau humor, é traficante - tão vaga é a tipificação dos crimes.",
+      "32": "E, se você quiser discutir o assunto a sério, é acusado de incitar um crime.",
+      "33": "Em resumo, a lei, do jeito que está, não funciona.",
+      "34": "[ Soninha Francine , depois de sua demissão da TV Cultura, em 2001,por ter assumido que fumava maconha.",
+      "35": "] Holanda proíbe cigarro mas permite maconha \"Desde primeiro de julho de 2008 é proibido fumar cigarros em bares, cafés e restaurantes.",
+      "36": "Quer dizer, fumar cigarro comum, de tabaco.",
+      "37": "Consumir maconha e haxixe continua podendo.",
+      "41": ") As drogas são vendidas e consumidas na quantidade máxima de 5 gramas por pessoa, nos cerca de 750 cafés da Holanda (metade em Amsterdã).",
+      "42": "Esses estabelecimentos são beneficiados pela chamada gedoogbeleid , a política de tolerância do Ministério da Justiça em relação às chamadas drogas leves.",
+      "43": "[ Revista VEJA.",
+      "44": "Edição de 9 ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "A maconha é uma droga que é usada por milhares de pessoas.",
+    "1": "Não é importante se ela é menos mal que outra droga ou se causa menos efeito, o que importa é que a maconha não é legalizada e essa lei não é seguida completamente.",
+    "2": "Só de dizer que o pobre vai preso se estiver com maconha, e o rico não, já diz que se o próprio governo do país não consegue obedecer as leis, não é muito difícil de se pensar porque as pessoas não a cumprem.",
+    "3": "A maconha é uma droga.",
+    "4": "Não deve ser legalizada, as pessoas não andam com armas pora aí, andam?",
+    "5": "Mais a maconha hoje em dia é mais conhecida do que qualquer outra droga, e mesmo assim muitas pessoas já à experimentaram, e ainda usam com frequencia .",
+    "6": "Eu mesma conheço várias pessoas que consomem essa droga, não é difícil obtê-la, e ninguém faz nada contra isso.",
+    "7": "Ou melhor, ninguém se importa com isso, simplesmente pelo caso de uma grande parte consumidora ser pobre.",
+    "8": "A simples idéia de fazer a maconha ser legalizada, mostra como as pessoas não se importam com o mal que elas podem fazer a outras pessoas.",
+    "9": "legalizar a maconha é como dar um veneno a pessoa, que vai mata-lá devagar, mais que a pessoa não consiga parar de tomá-lo.",
+    "10": "Será realmente certo que até crianças já convivam com essa droga, e já a tenham consumido?",
+    "11": "A maconha mata, e tudo o que mata, na minha opinião, deveria ser proibido."
+  },
+  "redacao_gerada": {
+    "0": "A sociedade atual enfrenta muitos desafios e dilemas morais, e entre eles, a questão das drogas ilícitas sempre está presente de forma muito contundente.",
+    "1": "A maconha, em particular, tem sido um tópico de grande debate e discussão em todos os lugares, com muitas pessoas se perguntando se o seu uso deve ou não ser permitido de forma ampla.",
+    "2": "Essa é uma questão muito complexa que envolve muitos pontos de vista diferentes e opiniões que se chocam, gerando uma grande polêmica que parece não ter fim.",
+    "3": "É evidente que o uso da maconha traz muitos prejuizos para a saude dos indivíduos que a consomem.",
+    "4": "Médicos e especialistas vivem falando, em programas de televisão e reportagens, que ela faz mal pro cérebro e pode causar uma forte dependência, levando a pessoa a usar outras drogas mais pesadas e perigosas com o tempo.",
+    "5": "Os efeitos são devastadores para o organismo e para a mente, e isso é um perigo grande para os jovens, que são o futuro do pais e precisam estar protegidos de tais males.",
+    "6": "É preciso que as pessoas saibam que maconha não é brincadeira, e que as consequências são sérias e irreversíveis.",
+    "7": "Por outro lado, algumas pessoas argumentam que a maconha poderia ser usada para fins medicinais, como alguns remédios que já existem no mercado.",
+    "8": "E também tem quem compara ela com o álcool, que é legalizado e vendido livremente, e diz que não tem porque proibir uma e permitir outra.",
+    "9": "Mas se legalizar tudo sem pensar nas consequências, vai virar uma bagunça generalizada, e o tráfico de drogas e suas ramificações criminosas não vão sumir assim tão facil como alguns imaginam.",
+    "10": "A violência vai continuar do mesmo geito, porque o problema é a droga em si, e a falta de valores na sociedade, e não apenas a lei que a proíbe.",
+    "11": "Portanto, para resolver esse problema da maconha e das drogas em geral, é necessário que o governo tome medidas enérgicas e eficazes.",
+    "12": "É preciso concientizar a população sobre os perigos e malefícios do uso de qualquer substância ilícita, e fazer muitas campanhas educativas nas escolas e na mídia.",
+    "13": "As familias também tem um papel importante nisso, orientando seus filhos.",
+    "14": "Assim, a sociedade pode melhorar e ter menos problemas com as drogas no futuro, construindo um país mais seguro e saudável para todos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "7",
+        "8"
+      ],
+      "textos_motivadores": [
+        "14",
+        "18",
+        "19"
+      ]
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "2",
+        "3"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "2",
+        "3"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4",
+        "5",
+        "7"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "35",
+        "36",
+        "37"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "tema": "qual-sera-o-legado-da-copa-do-mundo-para-o-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "Qual será o legado da Copa do Mundo para o Brasil?",
+      "1": "\"A Copa será uma grande oportunidade para acelerar o crescimento e fundamental para o desenvolvimento do nosso Brasil\", disse, em 2010, o então presidente Luiz Inácio Lula da Silva, dando o tom da grande expectativa sobre o papel que o torneio poderia ter no país.",
+      "2": "De lá para cá, muito se falou e tem se falado sobre o que a Copa do Mundo iria legar ou deixar ao Brasil, como você pode ver pelos textos apresentados na coletânea a seguir, que trazem reflexões diferentes sobre o que se poderia chamar de \"o legado da Copa\".",
+      "3": "Isso sem falar nos que não acreditam em nenhum legado e protestam contra os gastos para a realização do campeonato.",
+      "4": "Considerando os textos abaixo, bem como seus próprios conhecimentos sobre o assunto, produza um texto dissertativo-argumentativo apresentando qual, em seu ponto de vista, será o legado que o Brasil vai receber com esse evento esportivo.",
+      "5": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "A presidente Dilma Rousseff e o governador do Distrito Federal batem bola na inauguração do Estádio Nacional de Brasília Mané Garrincha Reta final A menos de cinco meses da Copa do Mundo, o Brasil entra na reta final dos preparativos.",
+      "1": "Apesar de não ter desenvolvido um plano de infraestrutura capaz de beneficiar todas as cidades-sede da forma como parte da população esperava, haverá ganhos segundo as avaliações do Sindicato Nacional da Arquitetura e da Engenharia (Sinaenco) e do Ministério do Esporte.",
+      "2": "Para o governo federal, até a frustração com os legados das obras resultaram em algo positivo, já que as manifestações ocorridas durante a Copa das Confederações foram apontadas como a retomada do exercício de cidadania pelos brasileiros.",
+      "3": "“Essas manifestações fizeram da mobilidade urbana a pauta da década e o grande desafio para dar qualidade de vida às cidades brasileiras.",
+      "4": "E isso já chegou [aos ouvidos] do governo federal”, disse à Agência Brasil o vice-presidente do Sinaenco, João Alberto Viol.",
+      "5": "Ele acrescentou que a decisão de fazer a Copa do Mundo no Brasil, possibilitou a discussão dos problemas do país.",
+      "6": "[ Agência Brasil ] Escolas e hospitais \"A Copa será uma grande oportunidade para acelerar o crescimento e fundamental para o desenvolvimento do nosso Brasil\", disse, em 2010, o então presidente Luiz Inácio Lula da Silva, dando o tom da grande expectativa sobre o papel que o torneio em junho de 2014 poderia ter no país.",
+      "7": "Mas a visão de que o evento possa estimular o crescimento ou o desenvolvimento de um país é questionada pelos autores de um livro que analisa o futebol em números e fala sobre o impacto de grandes eventos esportivos sobre a economia de nações que as sediaram.",
+      "8": "\"A ideia de que a Copa vai impulsionar a economia é um mito\", disse à BBC Brasil o jornalista britânico Simon Kuper, autor de Soccernomics , escrito em parceria com o economista britânico Stefan Szymanski.",
+      "9": "\"Sediar uma Copa do Mundo não traz nenhum legado econômico.",
+      "10": "Se você quer impulsionar a economia com o dinheiro do povo, que paga impostos, é melhor investir em escolas e hospitais\", disse Kuper.",
+      "11": "[ BBC Brasil ] Copa das Copas No Ministério do Esporte, há uma percepção de que as seguidas críticas sofridas pelo Mundial são responsáveis pela queda na aprovação [da Copa pela população brasileira], embora se ressalte que a maioria ainda apoia o evento.",
+      "12": "Ainda há uma aposta de que o quadro pode ser revertido com obras entregues próximo ao evento.",
+      "13": "Só que a presidente da República, Dilma Rousseff, já abandonou o discurso de legado da Copa.",
+      "14": "Na segunda-feira, não conectou o Mundial ao desenvolvimento, concentrando-se em alegria e esporte.",
+      "15": "“Eu queria dizer para vocês que a Copa não será apenas um evento esportivo.",
+      "16": "Será um evento esportivo, sim, esse é o principal aspecto da Copa, mas também é uma oportunidade do Brasil se mostrar ao mundo, mostrar a força e a vitalidade da nação brasileira'', afirmou ela, que chama o evento de Copa das Copas”.",
+      "17": "[ Blog do Rodrigo Mattos ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Parte da população brasileira mostra-se insatisfeita com a realização da Copa do Mundo no Brasil.",
+    "1": "Esta insatisfação do povo é oriunda de um grande investimento financeiro do Governo Federal na Copa, que poderia inverter-se em  investimentos para outros setores do país, como em  educação, saúde e melhoria no transporte público.",
+    "2": "A Copa do Mundo está trazendo grandes expectativas para a população brasileira, que irá sediar  pessoas de todo o mundo e com diferentes culturas.",
+    "3": "Embora ela seja  visada como base para um possível avanço econômico do país, a Copa está despertando revoltas em um considerável percentual de pessoas, que começou a mostrar-se ativo em seu exercício de cidadania através de manifestações.",
+    "4": "A desaprovação da Copa por uma parte da população levou o povo a uma busca por melhoras sociais.",
+    "5": "Os manifestantes passaram a exigir menos investimentos na Copa e mais em educação e saúde, pois muitas cidades-sede ainda não possuem uma boa infraestrutura para assistir aos visitantes.",
+    "6": "Sabe-se que a Copa também está trazendo oportunidades de emprego, mas enquanto as exigências dos manifestantes não forem atendidas, a insatisfação do povo irá continuar.",
+    "7": "Diante do exposto, percebe-se que a Copa do Mundo está deixando uma importante herança: o despertar do povo, que começou a ter voz ativa na sociedade para buscar seus direitos.",
+    "8": "Também se percebe uma necessidade de o Governo Federal equilibrar o capital a ser investido, sendo uma parte direcionada para a Copa e outra parte para o povo.",
+    "9": "Desta forma, serão evitadas maiores insatisfações da população."
+  },
+  "redacao_gerada": {
+    "0": "A copa do mundo, um evento de grande porte, sempre traz muita discução para o pais.",
+    "1": "O brasil sediou esse evento importante, e a gente espera que algo de bom aconteça.",
+    "2": "Mas nem sempre é assim, porque as coisas são complicadas e tem muita gente que não gosta.",
+    "3": "Isso gera um clima de incerteza em relação ao futuro do nosso pais, que precisa de muita atenção.",
+    "4": "Os gastos com a copa foi um grande problema, porque o dinheiro podia ir pra outras coisas.",
+    "5": "As pessoas reclamaram muito, e isso é verdade.",
+    "6": "Construíram estádios bonitos, mas e o resto?",
+    "7": "A infraestrutura não ficou boa pra todo mundo, e isso gera um descontentamento na população.",
+    "8": "É algo que se deve pensar, já que a população não teve o retorno que esperava dos investimento feitos.",
+    "9": "Então, o que fica de tudo isso?",
+    "10": "A verdade é que as manifestações que aconteçeram mostrou que o povo brasileiro está mais conciente dos seus direitos.",
+    "11": "Isso é bom, porque a sociedade precisa cobrar.",
+    "12": "A mobilidade urbana, por exemplo, é um problema sério que não foi resolvido.",
+    "13": "E a saúde e educação também, que são muito importante para o nosso pais, seguem com deficiencia.",
+    "14": "Em suma, o legado da copa é uma coisa que ainda se discute.",
+    "15": "Pra que o brasil melhore, é importante que o governo invista mais em áreas sociais.",
+    "16": "As pessoas devem continuar se manifestando e cobrando seus direitos, para que o futuro seja melhor.",
+    "17": "Assim, teremos um país mais justo para todos, e um legado real para as futuras gerações de brasileiros."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": [
+        "5",
+        "11"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "1",
+        "6"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "11"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "11"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "1",
+        "11"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "2",
+        "5"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "3",
+        "4"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": [
+        "5",
+        "13"
+      ]
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "16": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "2",
+        "3"
+      ]
+    },
+    "17": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

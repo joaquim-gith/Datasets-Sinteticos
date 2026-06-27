@@ -1,0 +1,256 @@
+{
+  "tema": "hoje-no-brasil-o-negro-apresenta-o-mesmo-status-social-que-o-branco",
+  "comando_tematico": {
+    "frases": {
+      "0": "Hoje, no Brasil, o negro apresenta o mesmo status social que o branco?",
+      "1": "No dia 20 de novembro celebra-se o Dia da Consciência Negra.",
+      "2": "A data, comemorada nacionalmente desde 1978 e com feriados em algumas cidades desde 1995, marca o aniversário de morte de Zumbi, o líder do Quilombo de Palmares.",
+      "3": "Esse dia serve para motivar uma reflexão sobre a condição racial no Brasil.",
+      "4": "Sobre isso, há muitas polêmicas, retomadas todos os anos: se para a lei todos somos iguais, é possível dizer que ainda existe racismo no Brasil?",
+      "5": "Que desafios os negros enfrentam em relação à inclusão social?",
+      "6": "Como se explica a pequena quantidade de negros em espaços sociais de prestígio no Brasil?",
+      "7": "O que deve ser feito para reduzir os efeitos da escravidão sofridos até hoje?",
+      "8": "Reflita sobre essas questões e desenvolva uma dissertação argumentativa sobre o tema: Atualmente, no Brasil, o negro apresenta o mesmo status social que o branco?",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Diferenciação injusta \"Discriminação é uma diferenciação injusta ou ilegítima, pois vai contra o princípio fundamental da justiça (aquela que os filósofos chamam de 'regra da justiça'), segundo a qual devem ser tratados de modo igual aqueles que são iguais.",
+      "1": "Pode-se dizer que se tem uma discriminação quando aqueles que deveriam ser tratados de modo igual, com base em critérios comumente aceitos nos países civilizados, são tratados de modo desigual.",
+      "2": "\" [Bobbio, Norberto.",
+      "3": "\"Elogio da serenidade e outros escritos morais\".",
+      "4": "São Paulo: Editora UNESP, 2002: 107] Racismo no Brasil O tipo de preconceito mais frequente em nosso país é o racial.",
+      "5": "O racismo no Brasil fica mais evidente quando o brasileiro identifica o negro com seu papel social.",
+      "6": "A constatação, obtida por meio de pesquisa, é da psicóloga e professora da Faculdade de Educação da Universidade Estadual de Campinas, Ângela Fátima Soligo.",
+      "7": "Em sua pesquisa, a professora pediu aos entrevistados que atribuíssem dez adjetivos aos homens e mulheres negros.",
+      "11": ") O resultado final revelou que a maioria dos entrevistados, aí incluídos também os negros, limita-se a reproduzir os chavões sociais.",
+      "12": "O negro é alegre porque gosta de samba e Carnaval, forte porque se dá bem nos esportes e competente para trabalhos braçais.",
+      "13": "\"O adjetivo é positivo, mas o papel social ligado ao negro mostra um preconceito arraigado na nossa cultura\", concluiu a estudiosa.",
+      "17": ") A pesquisa reforçou a tese de que o brasileiro pratica um \"racismo camuflado\": em tese, diz que não tem preconceito, mas prefere limitar as possibilidades e potencialidades da raça negra.",
+      "18": "Por exemplo, na pesquisa, não houve identificação do negro com o intelectual ou o político.",
+      "19": "[ A ética e os estereótipos irracionais , UOL Educação] Constituição Federal de 1988 Título II (Dos Direitos e Garantias Fundamentais), Capítulo I (Dos Direitos e Deveres Individuais e Coletivos): Art.",
+      "20": "5º - Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade (.",
+      "24": "Código Penal Lei Nº 9.",
+      "25": "459, de 13 de maio de 1997.",
+      "26": "Art.",
+      "27": "1º Os arts.",
+      "28": "1º e 20 da Lei nº 7.",
+      "29": "716, de 5 de janeiro de 1989, passam a vigorar com a seguinte redação: Art.",
+      "30": "1º Serão punidos, na forma desta Lei, os crimes resultantes de discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional.",
+      "31": "Art.",
+      "33": "Praticar, induzir ou incitar a discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional.",
+      "34": "Pena: reclusão de um a três anos e multa.",
+      "35": "Quem é A pesquisadora Fátima Oliveira, em seu artigo \"Ser negro no Brasil: alcances e limites\", assim expõe a questão da identidade racial: \"Identidade racial étnica é o sentimento de pertencimento a um grupo racial ou étnico, decorrente de construção social, cultural e política.",
+      "36": "Ou seja, tem a ver com a história de vida (socialização ção) e a consciência adquirida diante das prescrições sociais raciais ou étnicas, racistas ou não, de uma dada cultura.",
+      "37": "Assumir a identidade racial negra em um país como o Brasil é um processo extremamente difícil e doloroso, considerando-se que os modelos \"bons\", \"positivos\" e de \"sucesso\" de identidades negras, que já não são muitos, são pouco divulgados e o respeito à diferença em meio à diversidade de identidades raciais étnicas inexiste.",
+      "38": "\" [ Ser negro no Brasil ] \"Já foi vítima de racismo?",
+      "39": "\" \"Nunca.",
+      "40": "Nem dentro e nem fora de campo.",
+      "41": "Até porque eu não sou preto, né?",
+      "42": "\" [Jogador Neymar, em entrevista para \"O Estado de São Paulo\"].",
+      "43": "Respeitem Meus Cabelos Brancos Respeitem meus cabelos, brancos Chegou a hora de falar Vamos ser francos Pois quando um preto fala O branco cala ou deixa a sala Com veludo nos tamancos (.",
+      "46": ") [Composição: Chico César]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "O conceito histórico nos permite afirmar que houve mudanças nos fundamentos éticos da sociedade nos mais variados setores da filosofia, na politica  fomos dominados pelos grandes líderes da Idade Antiga, que mostravam-se fortes e soberanos para conquistar o povo, na  Idade Média buscava-se seguir a doutrina cristã a fim de ter ou manter o privilégio de sustentar-se no setor mais alto da sociedade, já  na Idade Moderna e Contemporânea, um bom governo deve satisfazer a sede de igualdade social -da classe superior - e manter o país economicamente ativo às vistas do mercado estrangeiro; também no que se refere a  física e a  metafísica, tivemos mudanças de valores importantes, como a oposição da relatividade de Einstein ao mundo mecânico de Newton e a lógica talvez tenha permanecido, sem muitas mudanças significativas.",
+    "1": "Mas nos detenhamos no pensamento político e na relação histórica do negro na sociedade brasileira.",
+    "2": "Sabe-se que após a abolição os negros tiveram, e talvez ainda tenham, dificuldades para se inserir na vida pública.",
+    "3": "Não caracterizando de forma homogênea, mas devemos considerar  que grande parte do           \"lixo social\" (favelas, moquifos  , cortiços etc)           não escolheu ser descartado , no entanto, sofreu as consequências de uma política pública ineficiente dominada ainda no cenário contemporâneo por uma espécie modernizada e mascarada de castas sociais.",
+    "4": "No dicionário temos a definição de classe social como \"grupo de pessoas com status social variado\"; e casta social como \"grupo de pessoas com status social definido\".",
+    "5": "Há, basicamente três formas de estratificação social, ou seja, de arranjo hierárquico: econômica; política; profissional.",
+    "6": "Talvez, o que exista na sociedade brasileira de hoje seja, além da estratificação política, um preconceito inconsciente, o que torna a luta pela igualdade mais difícil, visto que deve-se, antes de atacá-lo com todo pensamento filosófico e religioso devemos reconhecê-lo e  compreender a sua dimensão e seus limites.",
+    "7": "Portanto, a sociedade discrimina os negros, um pouco, pode até ser  concepção histórica mal dissolvida  , no entanto,               se o brasileiro tem \"memória fraca\" para tanta corrupção - não somente econômica, mas principalmente moral - certamente, \"alguém ainda adoça esse café\"."
+  },
+  "redacao_gerada": {
+    "0": "A questão da igualdade social entre negros e brancos no Brasil contemporâneo é um tema complexo e que suscita intenso debate.",
+    "1": "Embora a legislação garanta a isonomia de direitos para todos os cidadãos, a realidade social brasileira ainda reflete as profundas cicatrizes de um passado escravocrata, onde a cor da pele foi e, em certa medida, ainda é um fator determinante para o acesso à oportunidades e espaços de prestígio.",
+    "2": "Assim, é inegável que, na prática, o negro não desfruta do mesmo status social que o branco, uma disparidade que se manifesta em diversas esferas da vida cotidiana.",
+    "3": "Um dos principais fatores que evidenciam essa desigualdade reside na herança histórica da escravidão.",
+    "4": "Por séculos, a população negra foi submetida a um sistema de exploração brutal, cujas consequências perduram até hoje, estruturando uma sociedade onde o acesso à educação de qualidade, saúde e moradia digna é desigualmente distribuído.",
+    "5": "A falta de acesso a esses direitos básicos desde o período pós-abolição, somado à ausência de políticas públicas eficazes, perpetuou um ciclo de marginalização social e econômica.",
+    "6": "Consequentemente, observamos a sub-representação de negros em posições de liderança e em profissões de alto rendimento, ao passo que a maioria se encontra em trabalhos precarizados ou informais, o que demonstra a persistência de barreiras socioeconômicas.",
+    "7": "Diferente de manifestações explícitas de preconceito, que são criminalizadas pela lei, o racismo no Brasil muitas vezes se apresenta de forma sutil, em estereótipos e pré-julgamentos que limitam as possibilidades de desenvolvimento da pessoa negra.",
+    "8": "Por exemplo, a associação de indivíduos negros a papéis sociais específicos, como o de \"bom para o esporte\" ou \"para trabalhos braçais\", desconsidera suas potencialidades intelectuais e de liderança, dificultando sua ascensão em áreas como a política, academia ou o mercado corporativo de alto escalão.",
+    "9": "Essa invisibilidade e a constante necessidade de provar sua capacidade criam um ambiente desfavorável para a plena igualdade.",
+    "10": "Diante do exposto, é evidente que a plena igualdade racial no Brasil ainda é uma meta distante.",
+    "11": "Para reverter esse quadro, faz-se urgente a implementação de políticas públicas mais assertivas.",
+    "12": "O Governo Federal, em parceria com as esferas estaduais e municipais, deve fortalecer programas de ação afirmativa nas universidades e no mercado de trabalho, garantindo o acesso e a permanência de negros em todos os níveis.",
+    "13": "Além disso, é fundamental que o Ministério da Educação promova uma educação antirracista nas escolas, desde o ensino fundamental, visando desconstruir preconceitos e estereótipos desde cedo.",
+    "14": "Somente por meio de ações contínuas e integradas será possível construir uma sociedade verdadeiramente justa e equânime, onde a cor da pele não seja um empecilho para o desenvolvimento pleno do indivíduo."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "8"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "4",
+        "5"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "17",
+        "18",
+        "20",
+        "35",
+        "36",
+        "37"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "5",
+        "17"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "5",
+        "7"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "37"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "5",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "17",
+        "18"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "4",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "4",
+        "5",
+        "17",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "33",
+        "34"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "5",
+        "7",
+        "11",
+        "12",
+        "13",
+        "17",
+        "18"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "37"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "4"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "5",
+        "6",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "13",
+        "17",
+        "37"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "37"
+      ]
+    }
+  }
+}
