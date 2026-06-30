@@ -1,0 +1,138 @@
+{
+  "tema": "a-energia-nuclear-e-uma-boa-solucao-para-o-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "A energia nuclear é uma boa solução para o Brasil?",
+      "1": "O país possui duas usinas nucleares: Angra 1 e Angra 2, no Estado do Rio de Janeiro.",
+      "2": "O governo planeja a instalação de Angra 3.",
+      "3": "Mas o uso de energia nuclear tem dividido a opinião dos especialistas.",
+      "4": "O benefício é que ela não polui a atmosfera nem contribui para o aquecimento global.",
+      "5": "Há também vantagens na sua utilização em medicina, agropecuária, indústria, etc.",
+      "6": "Porém, o grande problema dessa matriz energética é que os restos do urânio enriquecido viram um lixo perigoso, sem falar no risco de acidentes.",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Angra 2 A Usina de Angra 2, em Angra dos Reis (RJ) \"Fruto de um acordo nuclear Brasil-Alemanha, a construção e a operação de Angra 2 ocorreram conjuntamente à transferência de tecnologia para o país, o que levou também o Brasil a um desenvolvimento tecnológico próprio, do qual resultou o domínio sobre praticamente todas as etapas de fabricação do combustível nuclear.",
+      "1": "Desse modo, a Eletronuclear e a indústria nuclear nacional reúnem, hoje, profissionais qualificados e sintonizados com o estado da arte do setor.",
+      "2": "\" Do site da Eletronuclear.",
+      "3": "Vídeo divulgado em 13 pelo UOL NEWS.",
+      "4": "Césio 137: Vinte anos depois do acidente, vítimas ainda lutam por indenização e contra o preconceito.",
+      "5": "Radioatividade: Mal ou bem depende do uso que é feito dela.",
+      "6": "Para o mal Imagine o acidente de Goiânia acontecendo no centro de São Paulo ou Rio de Janeiro.",
+      "7": "Você sabia que, no Brasil, existe um número muito grande de cápsulas com material radioativo em utilização neste momento?",
+      "8": "Mas não precisa se preocupar.",
+      "9": "As rigorosas autoridades brasileiras possuem total controle sobre todas elas.",
+      "10": "Aliás, essas notícias que periodicamente você escuta por aí sobre roubos de carros com essas cápsulas, normalmente são fantasiosas e o ladrão está mais interessado no carro do que no material radioativo, é claro.",
+      "11": "Ou seja, em países que não o Brasil, existem falhas de segurança que possibilitam aos interessados conseguir material radioativo para a construção de uma bomba suja.",
+      "12": "Para o bem Convém lembrar que essas cápsulas não geram somente destruição nem causam problemas.",
+      "13": "Ao contrário, elas estão em funcionamento exatamente para o seu uso industrial (gamografia), medicinal (tratamento de câncer, diagnósticos com contrastes radioativos etc.",
+      "14": "), agricultura etc.",
+      "15": "Muitas vidas já foram salvas com a sua utilização.",
+      "16": "O que é absolutamente necessário é um controle maior da segurança com esse material, não só aqui, mas em todo o mundo.",
+      "17": "(Carlos Alberto Campagner, engenheiro mecânico, com mestrado em mecânica, professor de pós-graduação e consultor de informática, no artigo Radioatividade , do site Lição de Casa ).",
+      "18": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Apesar de muitos cientistas defenderem a energia nuclear, como se ela fosse a solução para o aquecimento global, ela não é a melhor solução para o problema energético brasileiro.",
+    "1": "Até mesmo ambientalistas, como o criador da teoria de Gaya, James Lovelook, defendem a energia nuclear, porém, parecem esquecer-se de dois aspectos negativos, extremamente relevantes: sempre haverá o risco de acidentes em usinas nucleares; e não poderemos armazenar cada vez mais lixo nuclear.",
+    "2": "Hoje, colocam-se os resíduos das usinas nucleares em antigas minas de sal, ou em grandes piscinas com água pesada.",
+    "3": "Mas quantos outros depósitos de lixo nuclear teremos ainda que construir no Brasil?",
+    "4": "Eles são seguros, garantem os defensores dos depósitos, que são geralmente seus responsáveis .",
+    "5": "Mas já não basta a quantidade de lixo doméstico e industrial, que se amontoa em aterros sanitários e lixões Brasil afora?",
+    "6": "Não bastasse a necessidade crescente de locais para armazenar os resíduos destas usinas \"salvadoras do planeta\", há hoje, e sempre haverá, o risco de acidentes em uma ou outra usina.",
+    "7": "Questão de lógica, e muito simples: se com poucas usinas já aconteceram acidentes, certamente com mais unidades ocorrerão mais ocasiões em que o mundo ficará boquiaberto, temendo pelas conseqüências de um novo acidente.",
+    "8": "Se perguntássemos a um antigo morador de Chernobyl, será que ele apoiaria a construção de novas usinas nucleares?",
+    "9": "Será que esta é a nossa única saída?",
+    "10": "Infelizmente, talvez sejam necessários outros desastres como o de Chernobyl para que nosso país veja, finalmente, que esta não é uma boa saída para a produção de energia."
+  },
+  "redacao_gerada": {
+    "0": "A energia nuclear, apesar de controversa, emerge como uma solução promissora para suprir a crescente demanda energética do Brasil, ao mesmo tempo em que se alinha a princípios de sustentabilidade.",
+    "1": "Essa perspectiva se fundamenta, primeiramente, na sua capacidade de gerar eletricidade em larga escala com baixa emissão de gases de efeito estufa, um diferencial crucial diante da crise climática global.",
+    "2": "Ademais, o desenvolvimento tecnológico associado a essa matriz pode impulsionar a soberania nacional e a inovação em setores estratégicos, como a medicina e a indústria, conforme evidenciado por experiências internacionais bem-sucedidas.",
+    "3": "Nesse sentido, a implementação e expansão da energia nuclear no território brasileiro, como a planejada para Angra 3, representam um avanço técnico-científico significativo.",
+    "4": "A transferência de tecnologia e o domínio de todo o ciclo de produção do combustível nuclear, como ocorrido com Angra 2, demonstram o potencial brasileiro em dominar essa complexa área.",
+    "5": "A formação de profissionais qualificados e a sintonia com o estado da arte do setor, como citado por fontes da Eletronuclear, corroboram a capacidade técnica do país para gerir essa fonte de energia com segurança e eficiência.",
+    "6": "Entretanto, a gestão dos resíduos radioativos e o risco inerente de acidentes nucleares constituem desafios que não podem ser negligenciados.",
+    "7": "A história, marcada por incidentes como o de Goiânia, embora não diretamente ligados à energia nuclear, serve como um alerta sobre os perigos da má gestão de materiais radioativos e a necessidade de rigorosos protocolos de segurança.",
+    "8": "A sociedade, ciente das potencialidades e dos riscos, demanda transparência e controle absoluto sobre tais materiais, conforme o princípio de que a radioatividade, em si, é neutra, sendo seu impacto determinado pelo uso e controle.",
+    "9": "Diante do exposto, é imperativo que o Estado brasileiro, por meio do Ministério de Minas e Energia e da Comissão Nacional de Energia Nuclear, invista massivamente em pesquisa e desenvolvimento de tecnologias seguras para o armazenamento e descarte de rejeitos nucleares.",
+    "10": "Paralelamente, deve-se promover um amplo debate público, com participação da sociedade civil e especialistas, sobre os riscos e benefícios, garantindo que as decisões sobre a expansão nuclear sejam tomadas com base em informações claras e consentimento social, visando mitigar os perigos e maximizar os benefícios para o futuro energético do país."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4",
+        "6"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

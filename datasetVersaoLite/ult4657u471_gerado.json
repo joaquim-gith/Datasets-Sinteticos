@@ -1,0 +1,253 @@
+{
+  "tema": "combate-ao-fumo-autoritarismo-ou-dever-do-governo",
+  "comando_tematico": {
+    "frases": {
+      "0": "Combate ao fumo: autoritarismo ou dever do governo?",
+      "1": "Foi aprovada, no dia 7 , pelo governador de São Paulo, uma lei antifumo válida para todo o Estado.",
+      "2": "A partir de 7 de agosto, está proibido fumar cigarros, cachimbos ou charutos em todos os lugares públicos fechados ou semifechados.",
+      "3": "Só será possível fumar no próprio carro, dentro de casa ou no meio da rua, desde que não haja tetos, toldos, ou guarda-sóis.",
+      "4": "Essa lei, aplaudida por muitas entidades e autoridades ligadas à saúde, é também criticada com violência por pessoas que a consideram radical e autoritária, pois tiraria do cidadão boa parte de sua liberdade, que passa a ser vigiada, e o livre-arbítrio para fumar ou não.",
+      "5": "Como você se posiciona diante dessa questão?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Sou a favor do tabagismo Na verdade, sou a favor do direito ao tabagismo.",
+      "4": "]; claro que os não fumantes têm direito de não respirar a fumaça alheia e manter seus pulmões limpinhos e suas roupas cheirosas[.",
+      "8": "Onde vamos fumar nosso cigarrinho em paz?",
+      "12": "] Fumantes são tratados como anomalias: seres imundos e fedorentos que devem ficar lá fora, longe [.",
+      "16": "Nada de errado em avisar que o fumo faz mal, [.",
+      "20": "Mas tentar proibir as pessoas de fazer o que elas bem entendem é terrível.",
+      "21": "Dá licença se eu quiser morrer?",
+      "22": "[Clarah Averbuch, escritora.",
+      "23": "Revista da Folha.",
+      "24": "17 de maior de 2009] Fumaça do cigarro: ignorância ou má-fé.",
+      "25": "Volto à proibição do fumo em ambientes fechados.",
+      "26": "Incrível como esse tema ainda gera discussões acaloradas.",
+      "27": "Como é possível considerar a proibição de fumar nos lugares em que outras pessoas respiram uma afronta à liberdade individual?",
+      "28": "As evidências científicas de que o fumante passivo também fuma são tantas e tão contundentes que os defensores do direito de encher de fumaça restaurantes e demais espaços públicos só podem fazê-lo por duas razões: ignorância ou interesse financeiro.",
+      "32": "] Depois de uma manhã de trabalho num escritório em que várias pessoas fumam, a concentração de nicotina no sangue de um abstêmio pode atingir os níveis de quem tivesse fumado três a cinco cigarros.",
+      "33": "Empregados de bares e restaurantes que passam seis horas em ambientes carregados de fumaça, chegam a ter concentrações sanguíneas de nicotina equivalentes a de quem fumou cinco ou mais cigarros.",
+      "37": "] [Drauzio Varella, médico.",
+      "38": "Folha de S.",
+      "39": "Paulo, 25 de abril de 2009] Pobre Cigarro!",
+      "40": "Dezoito deputados votaram contra e 69 a favor do projeto.",
+      "41": "[ Bruno ] Fumar ou não fumar eis a questão.",
+      "42": "O ponto é simples: por que não permitir que um dono de bar ou restaurante coloque uma placa na frente de seu estabelecimento dizendo: \"aqui é permitido fumar\", ou \"fumantes são bem-vindos\".",
+      "43": "Logo, sabendo disso, não só os fumantes, mas seus amigos não-fumantes ou simplesmente aqueles que não trocam a vida pela saúde poderão entrar.",
+      "47": "] Enfim, algo bem singelo que atende pelo nome de liberdade individual.",
+      "48": "Ah, os coletivistas dirão: mas e a proteção aos funcionários do bar?",
+      "52": "] E o garçom que não fuma?",
+      "53": "Ele será coagido a aspirar a fumaça dos clientes.",
+      "54": "Ora, ora.",
+      "55": "Ninguém é coagido a trabalhar num bar que aceita fumantes.",
+      "56": "Na verdade, que eu saiba ninguém é coagido a trabalhar em lugar nenhum.",
+      "57": "[Aguinaldo Pavão.",
+      "58": "Jornal de Londrina, 15 de abril de 2009]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Cada vez mais , encontramos mais dependentes do fumo.",
+    "1": "Nossa civilização foi criada em um mundo onde fumar em locais impróprios jamais foi proibido.",
+    "2": "O fumo não vai ser combatido apenas com uma simples lei imposta por nossos governantes ,         será os próprios consumidores que precisam ter consciência de que o fumo não trará boas ações no seu futuro.",
+    "3": "Hoje em dia é comum andarmos nas ruas e vermos a quantidade de pessoas           mais idosas usando o tabaco.",
+    "4": "O mundo jamais esteve livre das drogas.",
+    "5": "Porem , é           freqüente encontrarmos adolescentes usando não apenas o tabaco,           mais sim o uso da maconha, do craque e da cocaína .",
+    "6": "Podemos encontrar em todos os lugares conscientização contra o combate ao fumo , mas para combatermos, precisamos que os consumidores tenham em mente o mau em que isso pode lhe             afetar .",
+    "7": "A lei imposta onde visa à proibição do uso do fumo em locais fechados ou semifechados pode ser que diminua o uso de cigarros em certos ambientes.",
+    "8": "Mas afinal, não precisaria de uma lei a ser imposta para que os usuários tenham a consciência e o respeito de que fumar em locais fechados sempre foi uma grande falta de ética.",
+    "9": "Para muitos que pensam que essa lei vai tirar parte de sua liberdade precisamos apenas alertá-los de que a sociedade muda                   , apenas quando os indivíduos que vivem nela mudam.",
+    "10": "Precisamos de um planeta livre do fumo, e depende de cada um de nós fazer com que isso aconteça."
+  },
+  "redacao_gerada": {
+    "0": "O debate acerca da restrição do tabagismo em espaços públicos suscita uma intrincada dicotomia entre o dever do Estado em proteger a saúde coletiva e a garantia da liberdade individual.",
+    "1": "Em um cenário de crescente conscientização sobre os malefícios do fumo, tanto para o fumante quanto para terceiros, legislações que visam mitigar essa prática têm ganhado proeminência, gerando, contudo, reações adversas que questionam a linha tênue entre a regulamentação e o autoritarismo.",
+    "2": "Nesse contexto, é imperativo analisar se o combate ao fumo configura uma ação legítima do poder público ou uma violação dos direitos de autonomia do cidadão.",
+    "3": "Assim, a tese central defende que, embora a liberdade individual deva ser preservada, ela não pode se sobrepor à saúde pública, justificando intervenções governamentais razoáveis.",
+    "4": "A análise da questão sob a ótica da saúde pública revela a necessidade de intervenção estatal para salvaguardar a população dos efeitos nocivos do tabagismo passivo.",
+    "5": "Conforme evidenciado por inúmeros estudos científicos, a exposição à fumaça de terceiros pode desencadear doenças respiratórias e cardiovasculares em não fumantes, configurando um risco direto à integridade física.",
+    "6": "A filosofia utilitarista, em especial o pensamento de Jeremy Bentham, que preza pela maximização da felicidade geral e pela minimização do sofrimento, corrobora a ideia de que a limitação do fumo em locais de convivência coletiva se alinha à busca pelo bem-estar da maioria.",
+    "7": "Portanto, a proibição em ambientes fechados é uma medida prudente que visa proteger os mais vulneráveis e promover um ambiente mais saudável para todos, em detrimento de um direito individual que, quando exercido, prejudica outros.",
+    "8": "Por outro lado, é fundamental ponderar as críticas que associam as restrições ao fumo a um excesso de autoritarismo governamental, retirando do indivíduo o direito de escolha sobre seus próprios hábitos.",
+    "9": "A liberdade de expressão e de comportamento, pilares de sociedades democráticas, pode ser vista como cerceada quando o Estado impõe de forma draconiana as condutas permitidas.",
+    "10": "O filósofo John Locke, em sua teoria do contrato social, argumenta que o governo existe para proteger os direitos naturais dos indivíduos, incluindo a liberdade, e que qualquer intervenção além do necessário para manter a ordem e a segurança seria tirânica.",
+    "11": "Nesse sentido, a regulamentação excessiva pode gerar ressentimento e questionamentos sobre a legitimidade das ações governamentais, especialmente quando não há um debate amplo e transparente sobre os limites da intervenção estatal.",
+    "12": "Diante do exposto, é evidente que o combate ao fumo deve ser encarado como um dever do governo, pautado na proteção da saúde coletiva, sem, contudo, anular a autonomia individual de forma desproporcional.",
+    "13": "Para tanto, o Ministério da Saúde, em parceria com o Ministério da Educação, deve intensificar campanhas de conscientização em larga escala, utilizando mídias diversas (TV, rádio, internet) para informar a população sobre os riscos do tabagismo passivo e ativo.",
+    "14": "Essa ação, veiculada por meio de anúncios educativos e documentários informativos, visa desmistificar crenças e reforçar a importância de ambientes livres de fumaça, com o objetivo de reduzir a incidência de doenças relacionadas ao fumo e promover uma cultura de bem-estar.",
+    "15": "Adicionalmente, o Poder Legislativo deve debater e aprimorar a legislação existente, estabelecendo sanções claras para o descumprimento das normas em ambientes coletivos, assegurando assim a efetividade das medidas e o respeito aos direitos de todos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "26"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4",
+        "16",
+        "20",
+        "26"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4",
+        "20",
+        "47"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4",
+        "20",
+        "27",
+        "47"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "28",
+        "32",
+        "33"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "28",
+        "32",
+        "33"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "27"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "4",
+        "27",
+        "48"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4",
+        "20",
+        "47"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4",
+        "20",
+        "47"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4",
+        "20",
+        "47"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4",
+        "20",
+        "47"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0",
+        "4",
+        "27",
+        "47"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2",
+        "16",
+        "28",
+        "32",
+        "33"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2",
+        "16",
+        "28",
+        "32",
+        "33"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2",
+        "40"
+      ]
+    }
+  }
+}

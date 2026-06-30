@@ -1,0 +1,194 @@
+{
+  "tema": "o-fumo-deve-ser-proibido-em-todos-os-lugares",
+  "comando_tematico": {
+    "frases": {
+      "0": "O fumo deve ser proibido em todos os lugares?",
+      "1": "Convencidos de que o tabaco traz graves prejuízos à saúde, tanto dos fumantes quanto daqueles que são obrigados a conviver com a fumaça do cigarro alheio, vários governos querem proibir o fumo em lugares públicos e até mesmo extinguir os fumódromos.",
+      "2": "Hoje, os antitabagistas mais radicais chegam a considerar os fumantes como \"cidadãos inferiores, sem amor próprio\".",
+      "3": "Por outro lado, apesar de ter consciência dos males do cigarro, muitos fumantes consideram tal perseguição autoritária, ou, pior, um modismo de uma sociedade politicamente correta.",
+      "4": "Sendo fumante ou não, o que você pensa disso?",
+      "5": "É a favor da proibição do fumo em qualquer ambiente?",
+      "6": "Ou é contra essa medida que tende a virar lei?",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Fim do fumo e dos fumódromos no Estado de São Paulo \"Na véspera do Dia Nacional de Combate ao Fumo de 2008 [29 de agosto], o governador José Serra (PSDB) enviou à Assembléia Legislativa do Estado de São Paulo um projeto de lei que proíbe o fumo em todos os ambientes coletivos fechados, públicos ou privados e acaba com as atuais áreas de fumantes.",
+      "1": "Caso seja aprovada, só vai ser permitido fumar ao ar livre e dentro de casa.",
+      "2": "Entram na lista dos lugares sem fumo bares, boates, restaurantes, hotéis, pousadas, áreas comuns de condomínios, casas de espetáculo, shoppings, ginásios esportivos, repartições públicas, hospitais e até carros de polícia e táxis.",
+      "3": "É proibido fumar A opinião do presidente \"Eu defendo, na verdade, o fumo em qualquer lugar.",
+      "4": "Só fuma quem é viciado.",
+      "8": "] Eu, se for na sua sala, certamente não fumarei porque respeito o dono da sala.",
+      "9": "Mas na minha, sou eu que mando\".",
+      "10": "[Presidente Luiz Inácio Lula da Silva, na \"Folha de S.",
+      "11": "Paulo\", 4 ] O que dizem os juristas \"Embora meritória a campanha (eu sou não-fumante), acredito que o projeto de lei [do governo Serra] é inconstitucional , por atingir a liberdade das pessoas de fumarem ou beberem [.",
+      "14": "], apesar de o fumo e a bebida gerarem dependência e fazerem mal à saúde.",
+      "15": "\" [Ives Gandra de Silva Martins, advogado, professor emérito da Universidade Mackenzie, na \"Folha de S.",
+      "16": "Paulo\", 14 ] \"É preciso dizer claramente: a proibição protege a saúde de quem não fuma e, justamente por isso, é constitucional.",
+      "20": "] São de conhecimento público os efeitos nocivos do fumo passivo - matam sete brasileiros todos os dias [.",
+      "24": "Quando o presidente Lula defende o fumo dentro de seu gabinete [.",
+      "27": "], ele confunde o espaço público com o privado.",
+      "28": "\" [Damásio de Jesus, advogado, membro do Instituto de Criminologia da ONU, na \"Folha de S.",
+      "29": "Paulo\", 14 ] A palavra de um médico \"Até quando faremos parte do grupo de países atrasados que dá ao dependente de nicotina o direito de jogar a fumaça de seu cigarro para dentro dos pulmões dos outros?",
+      "30": "\" [Dráuzio Varella.",
+      "31": "Médico infectologista e oncologista, na \"Folha de S.",
+      "32": "Paulo\", 30 ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Até o inicio do século passado, em meados das décadas de 50 e 60 , o cigarro era tido como um indicador de status.",
+    "1": "Nos anos 70 e 80 ele era uma ferramenta de expressão, tanto política, onde a substância consumida normalmente era ilícita, quanto de postura social em que os \"descolados\" eram aqueles que fumavam.",
+    "2": "Durante esse período, os comerciais de cigarro eram sempre inovadores, deles participavam as pessoas mais bonitas, nos locais mais \"badalados\", como forma de atrair mais e mais usuários para o \"glamour\" gerado pelo tabaco.",
+    "3": "Atualmente essa imagem difundida do cigarro vem se modificando e desmistificando.",
+    "4": "Em uma sociedade cada vez mais perfeccionista na qual a forma física ideal (ideal pelas convenções atuais da sociedade) se tornou não só uma necessidade, mas sim uma \"obrigação\", os males causados pelo consumo contínuo do cigarro já não compensam o status por ele trazido.",
+    "5": "Esse fato somado aos reais perigos causados pelo fumo faz com que surja uma grande oposição a sua utilização.",
+    "6": "Grande parte das reinvidicações dessa ascendente massa de \"não-fumantes\" realmente têm fundamento, como o fumo em locais fechados que prejudica não só o fumante como também aquele que não fuma; A emissão de poluentes, que individualmente são de magnitude desprezíveis , porém se multiplicados pelo coeficiente de fumantes no mundo, causa uma poluição significativa.",
+    "7": "Entretanto a grande questão em relação à proibição do fumo tem cunho social.",
+    "8": "Para o não-fumante o cigarro é uma droga como outra qualquer e deve ser tratado como tal, seus principais argumentos são: \"Temos leis e códigos sociais que não permitem a um dependente químico o consumo da substância que o leva a autodestruição, por que ao fumante que também faz uso de uma droga essa ação é permitida?",
+    "9": "\"E ainda mais no caso do cigarro, que traz não só efeitos negativos ao usuário como também àqueles os cercam\".",
+    "10": "Há ainda aqueles não-fumantes mais radicais que defendem: Se o fumante se auto-intitula \"viciado\", porque então que não há o empenho por parte dele em se tratar?\" E é nesse ponto da discussão que se entra em um paradoxo : C omo a sociedade em que vivemos pode determinar quais atitudes o individuo deve ou não tomar, e como que as atitudes de cada um afetam a sociedade como um todo.",
+    "11": "Para resolver esse problema há                       de ser empregado o bom senso, da mesma maneira que o \"não-fumante\" até então, ao se deparar com uma pessoa fumando ao seu lado em locais públicos ou fechados, não se permitia invadir ou debilitar o prazer do fumante, esses terão também de ceder e somente fumar em locais que o incômodo causado ao \"não-fumante\" seja o menor possível.",
+    "12": "Tanto a proibição quanto a liberação são extremos que causam transtornos à ambas as partes, o único meio viável é a criação de um equilíbrio baseado no respeito mútuo que é condição vital para a vida em sociedade."
+  },
+  "redacao_gerada": {
+    "0": "A questão sobre proibir o fumo em todos os lugares é complicada.",
+    "1": "Por um lado, fumar faz mal para a saúde das pessoas, isso todo mundo sabe.",
+    "2": "A fumaça do cigarro pode prejudicar quem está perto, mesmo sem querer.",
+    "3": "Por isso, muitos acham que é certo proibir em lugares públicos para proteger a saúde de todos.",
+    "4": "Algumas pessoas pensam que fumar é um vício e que quem fuma devia se cuidar mais.",
+    "5": "Elas acreditam que é um direito das pessoas não fumantes respirar um ar puro, sem a fumaça do cigarro que faz mal.",
+    "6": "Então, proibir em bares, restaurantes e outros lugares seria uma boa ideia para a saúde pública.",
+    "7": "Por outro lado, tem gente que fuma e não gosta de ser proibida.",
+    "8": "Eles dizem que fumar é uma escolha pessoal e que não devem ser tratados como criminosos.",
+    "9": "Argumentam que a proibição total é um exagero e que as pessoas deveriam ter um pouco mais de liberdade para escolher onde podem fumar, sem ser perseguidos.",
+    "10": "Em resumo, essa proibição mexe com a saúde e com a liberdade.",
+    "11": "É preciso pensar bem se vale a pena restringir tanto assim o direito de fumar em prol da saúde coletiva.",
+    "12": "Talvez existam outras formas de lidar com isso sem precisar proibir em todos os lugares, respeitando todos os lados."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "20"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "20"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "1",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "2",
+        "16"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "2",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4",
+        "14",
+        "29",
+        "30"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "16",
+        "20"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "1",
+        "5"
+      ],
+      "textos_motivadores": [
+        "2",
+        "16"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "3",
+        "11"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "11"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "3",
+        "6"
+      ],
+      "textos_motivadores": [
+        "3",
+        "11"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "11",
+        "14"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "11",
+        "14",
+        "16"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "tema": "hoje-no-brasil-o-negro-apresenta-o-mesmo-status-social-que-o-branco",
+  "comando_tematico": {
+    "frases": {
+      "0": "Hoje, no Brasil, o negro apresenta o mesmo status social que o branco?",
+      "1": "No dia 20 de novembro celebra-se o Dia da Consciência Negra.",
+      "2": "A data, comemorada nacionalmente desde 1978 e com feriados em algumas cidades desde 1995, marca o aniversário de morte de Zumbi, o líder do Quilombo de Palmares.",
+      "3": "Esse dia serve para motivar uma reflexão sobre a condição racial no Brasil.",
+      "4": "Sobre isso, há muitas polêmicas, retomadas todos os anos: se para a lei todos somos iguais, é possível dizer que ainda existe racismo no Brasil?",
+      "5": "Que desafios os negros enfrentam em relação à inclusão social?",
+      "6": "Como se explica a pequena quantidade de negros em espaços sociais de prestígio no Brasil?",
+      "7": "O que deve ser feito para reduzir os efeitos da escravidão sofridos até hoje?",
+      "8": "Reflita sobre essas questões e desenvolva uma dissertação argumentativa sobre o tema: Atualmente, no Brasil, o negro apresenta o mesmo status social que o branco?",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Diferenciação injusta \"Discriminação é uma diferenciação injusta ou ilegítima, pois vai contra o princípio fundamental da justiça (aquela que os filósofos chamam de 'regra da justiça'), segundo a qual devem ser tratados de modo igual aqueles que são iguais.",
+      "1": "Pode-se dizer que se tem uma discriminação quando aqueles que deveriam ser tratados de modo igual, com base em critérios comumente aceitos nos países civilizados, são tratados de modo desigual.",
+      "2": "\" [Bobbio, Norberto.",
+      "3": "\"Elogio da serenidade e outros escritos morais\".",
+      "4": "São Paulo: Editora UNESP, 2002: 107] Racismo no Brasil O tipo de preconceito mais frequente em nosso país é o racial.",
+      "5": "O racismo no Brasil fica mais evidente quando o brasileiro identifica o negro com seu papel social.",
+      "6": "A constatação, obtida por meio de pesquisa, é da psicóloga e professora da Faculdade de Educação da Universidade Estadual de Campinas, Ângela Fátima Soligo.",
+      "7": "Em sua pesquisa, a professora pediu aos entrevistados que atribuíssem dez adjetivos aos homens e mulheres negros.",
+      "11": ") O resultado final revelou que a maioria dos entrevistados, aí incluídos também os negros, limita-se a reproduzir os chavões sociais.",
+      "12": "O negro é alegre porque gosta de samba e Carnaval, forte porque se dá bem nos esportes e competente para trabalhos braçais.",
+      "13": "\"O adjetivo é positivo, mas o papel social ligado ao negro mostra um preconceito arraigado na nossa cultura\", concluiu a estudiosa.",
+      "17": ") A pesquisa reforçou a tese de que o brasileiro pratica um \"racismo camuflado\": em tese, diz que não tem preconceito, mas prefere limitar as possibilidades e potencialidades da raça negra.",
+      "18": "Por exemplo, na pesquisa, não houve identificação do negro com o intelectual ou o político.",
+      "19": "[ A ética e os estereótipos irracionais , UOL Educação] Constituição Federal de 1988 Título II (Dos Direitos e Garantias Fundamentais), Capítulo I (Dos Direitos e Deveres Individuais e Coletivos): Art.",
+      "20": "5º - Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade (.",
+      "24": "Código Penal Lei Nº 9.",
+      "25": "459, de 13 de maio de 1997.",
+      "26": "Art.",
+      "27": "1º Os arts.",
+      "28": "1º e 20 da Lei nº 7.",
+      "29": "716, de 5 de janeiro de 1989, passam a vigorar com a seguinte redação: Art.",
+      "30": "1º Serão punidos, na forma desta Lei, os crimes resultantes de discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional.",
+      "31": "Art.",
+      "33": "Praticar, induzir ou incitar a discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional.",
+      "34": "Pena: reclusão de um a três anos e multa.",
+      "35": "Quem é A pesquisadora Fátima Oliveira, em seu artigo \"Ser negro no Brasil: alcances e limites\", assim expõe a questão da identidade racial: \"Identidade racial étnica é o sentimento de pertencimento a um grupo racial ou étnico, decorrente de construção social, cultural e política.",
+      "36": "Ou seja, tem a ver com a história de vida (socialização ção) e a consciência adquirida diante das prescrições sociais raciais ou étnicas, racistas ou não, de uma dada cultura.",
+      "37": "Assumir a identidade racial negra em um país como o Brasil é um processo extremamente difícil e doloroso, considerando-se que os modelos \"bons\", \"positivos\" e de \"sucesso\" de identidades negras, que já não são muitos, são pouco divulgados e o respeito à diferença em meio à diversidade de identidades raciais étnicas inexiste.",
+      "38": "\" [ Ser negro no Brasil ] \"Já foi vítima de racismo?",
+      "39": "\" \"Nunca.",
+      "40": "Nem dentro e nem fora de campo.",
+      "41": "Até porque eu não sou preto, né?",
+      "42": "\" [Jogador Neymar, em entrevista para \"O Estado de São Paulo\"].",
+      "43": "Respeitem Meus Cabelos Brancos Respeitem meus cabelos, brancos Chegou a hora de falar Vamos ser francos Pois quando um preto fala O branco cala ou deixa a sala Com veludo nos tamancos (.",
+      "46": ") [Composição: Chico César]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Cada instituição de ensino superior, principalmente as federais[,] garante uma porcentagem de vagas para a etnia negra.",
+    "1": "Seria um direito ou um dever?",
+    "2": "E digo mais, ou um preconceito?",
+    "3": "Na constituição federal  , diz que: \"todos são iguais perante a lei, sem distinção ou discriminação...\" Como podemos encarar essa situação como um direito conquistado?",
+    "4": "Trata-se de um preconceito dentro da própria lei que foi sancionada, por que se \"todos são iguais perante a lei\", porque  a porcentagem para os negros?",
+    "5": "Então deveria existir para os brancos, pardos, amarelos, etc.",
+    "6": "Nossa própria constituição  ,         onde são elaboradas as leis para nos defender e proteger , iniciam  com o racismo, com o preconceito não só pelos negros mas também pela cultura, posição social (classe baixa, média e alta),deficientes, portadores de doenças contagiosas, etc.",
+    "7": "Vejamos como exemplo as eleições de 2010.",
+    "8": "As propostas dos candidatos, todas são voltadas para a pobreza, tudo que eles vão melhorar é a classe baixa (os pobres!), isto não seria um tipo de preconceito?",
+    "9": "E o povo se orgulha de um candidato que vai melhorar a vida dos \"miseráveis\", com isso, se faz a bolsa família, minha casa minha vida e assim por diante .",
+    "10": "E os outros milhões de problemas do nosso país, não serão resolvidos ou não são mencionados para a maioria dos eleitores pela mídia (TV) porque eles não irão entender mesmo, são pobres!!",
+    "11": "Esta  atitude não seria um preconceito?",
+    "12": "O que devemos nos conscientizar é que precisamos mudar nossa forma de pensar referente ao preconceito, não é somente com a etnia negra.",
+    "13": "Uma reforma deveria ser feita na memória dos nossos governantes a respeito de direitos e deveres quanto há  vários aspectos da sociedade, como: os deficientes ( os especiais), os homossexuais, os heterossexuais, a religião, os pedofilos  , em geral com toda a sociedade como um todo etc.",
+    "14": "Agora negros!!",
+    "15": "Qual a diferença deles, a pigmentação da pele?",
+    "16": "Qual branco que não tem um décimo de sangue negro no seu organismo, com esta  grande mistura de etnias em nosso país.",
+    "17": "Falar que os brancos são totalmente puros e que tem  mais direitos do que os negros, é  uma analogia, ser diferente na cor da pele se dá mais oportunidades para uns e menos para outros, isto sim é um preconceito legalizado.",
+    "18": "Precisamos mudar nossas atitudes urgentes  !",
+    "19": "Quanto ao racismo, preconceito e diferenças e que possamos viver com grandeza de boas ações para todos, como um TODO."
+  },
+  "redacao_gerada": {
+    "0": "Atualmente, a questão sobre a igualdade de status social entre negros e brancos no Brasil permanece um debate complexo e persistente.",
+    "1": "Embora a Constituição Federal estabeleça a igualdade perante a lei, a realidade social frequentemente demonstra disparidades significativas.",
+    "2": "A herança histórica da escravidão e o racismo estrutural ainda moldam as oportunidades e a percepção social, impedindo que a igualdade legal se traduza em igualdade de fato para a população negra.",
+    "3": "Nesse contexto, é preciso analisar os desafios que ainda se impõem.",
+    "4": "Um dos principais argumentos que sustentam a desigualdade é a representação limitada de negros em posições de prestígio na sociedade brasileira.",
+    "5": "Pesquisas e observações cotidianas revelam uma sub-representação em cargos de liderança, na academia, em profissões de alta remuneração e em espaços de poder.",
+    "6": "Essa carência de visibilidade em setores considerados de sucesso social reforça estereótipos negativos e dificulta a ascensão de indivíduos negros, criando um ciclo vicioso onde a falta de oportunidades perpetua a exclusão.",
+    "7": "A sociedade, em vez de promover a diversidade, muitas vezes reproduz chavões que limitam o potencial negro.",
+    "8": "Adicionalmente, a persistência do racismo velado, como apontado por alguns estudiosos, contribui para manter essa disparidade.",
+    "9": "O racismo camuflado se manifesta quando, apesar de não haver declarações abertas de preconceito, as oportunidades são restringidas com base na raça.",
+    "10": "Isso pode ocorrer em processos seletivos, na concessão de crédito, no acesso a determinados serviços ou mesmo na forma como a mídia retrata grupos raciais.",
+    "11": "A ideia de que negros são mais aptos a trabalhos braçais ou a atividades culturais específicas, como samba e carnaval, em detrimento de carreiras intelectuais ou políticas, é um reflexo desse preconceito arraigado, que limita as aspirações e o reconhecimento social.",
+    "12": "Diante desse quadro, é fundamental que o Estado tome medidas para mitigar os efeitos do racismo estrutural e promover a igualdade de status social.",
+    "13": "Para tanto, o Ministério da Educação deve implementar programas contínuos de conscientização racial nas escolas, desde o ensino fundamental, abordando a história da África e a contribuição negra para a formação do Brasil, a fim de desconstruir estereótipos.",
+    "14": "Paralelamente, o Ministério do Trabalho e Emprego deve incentivar políticas de ações afirmativas nas empresas, como cotas e programas de mentoria, para aumentar a presença de negros em cargos de liderança e garantir oportunidades equitativas.",
+    "15": "Somente com ações concretas e contínuas será possível avançar rumo a uma sociedade verdadeiramente igualitária."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "20"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "19",
+        "24",
+        "30",
+        "31",
+        "33",
+        "34"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "7",
+        "5"
+      ],
+      "textos_motivadores": [
+        "4",
+        "5",
+        "13",
+        "17",
+        "35",
+        "36",
+        "37"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "17",
+        "18"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "13",
+        "17",
+        "37"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "11",
+        "12",
+        "13",
+        "17"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "17"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "17"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "17"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "12",
+        "13",
+        "17",
+        "18"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "7",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": [
+        "35",
+        "36"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "5",
+        "8"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

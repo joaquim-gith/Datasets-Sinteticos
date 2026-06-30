@@ -1,0 +1,223 @@
+{
+  "tema": "quais-as-condicoes-necessarias-para-se-atingir-o-sucesso-profissional",
+  "comando_tematico": {
+    "frases": {
+      "0": "Quais as condições necessárias para se atingir o sucesso profissional?",
+      "1": "Não há como negar que o mercado de trabalho torna-se cada vez mais competitivo.",
+      "2": "Por outro lado, recentemente, as empresas têm revelado precisar de trabalhadores com qualificações específicas, de nível técnico ou superior, que estão em falta no país.",
+      "3": "Além disso, existem vários outros fatores que podem interferir na escolha de uma profissão ou na obtenção de um bom emprego.",
+      "4": "Sorte, vocação, talento, boa formação escolar, estar atento à demanda e às circunstâncias do momento.",
+      "5": "Quais as condições necessárias para se atingir o sucesso profissional?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Mercado imobiliário em alta André Ming Bordokan, 25, não tinha o sonho de ser engenheiro civil quando foi aprovado na Escola Politécnica da Universidade de São Paulo.",
+      "1": "Na escolha da especialização entre as engenharias, no fim do segundo ano, sua preferência era por mecânica, mas, pelas notas no ranking dos alunos, ficou com a segunda opção.",
+      "2": "Hoje, no quinto ano do curso, comemora o fato de o mercado aquecido cimentar a carreira.",
+      "3": "\"No início da faculdade, civil era uma área muito desvalorizada.",
+      "4": "Metade da turma ia trabalhar em banco.",
+      "5": "Agora, temos mais trabalho\", lembra Bordokan, que divide o curso com o estágio na construtora Gafisa.",
+      "6": "Segundo analistas de mercado, a retomada da engenharia civil -após forte decaída nas décadas passadas- se dá sobretudo pelas perspectivas de investimento em infra-estrutura com o PAC (Plano de Aceleração do Crescimento) e o crescimento do crédito imobiliário.",
+      "7": "( Folha de S.",
+      "8": "Paulo , 2 de dezembro de 2007) Muita injustiça Talento, vocação e mercado de trabalho A vocação permite dar sentido de unidade ao exercício de um ou vários talentos, próprios ou alheios.",
+      "9": "O talento, por sua vez, é a estabilização da capacidade para fazer bem alguma coisa.",
+      "10": "O \"mercado de trabalho\" se abre a esta ou àquela pessoa não em virtude de sua vocação, mas do seu talento, pois este é algo atual e útil e não potencial, como a vocação.",
+      "11": "A realização profissional resulta de que o talento seja o prosseguimento harmônico, cultural, da vocação.",
+      "12": "(Joel Nunes dos Santos, psicólogo e orientador profissional, \"Programa de Orientação Profissional\", Univercidade - Rio de Janeiro) Educação de qualidade É indiscutível que uma grande parcela da garantia de sucesso do processo educacional está na sala de aula, nas mãos do professor.",
+      "13": "O professor Zeferino Vaz, quando criou a Unicamp, em precárias instalações que tinham sido uma propriedade rural, disse que uma universidade se faz primeiro com cérebros, depois com cérebros, depois com cérebros, depois com bibliotecas e laboratórios e somente depois com prédios.",
+      "14": "Sem dúvida nenhuma, se oferecermos tudo o que se refere a equipamentos e condições de trabalho para que uma escola funcione, mas colocarmos ali professores mal formados, não teremos uma educação de qualidade.",
+      "15": "Enquanto o inverso pode até acontecer: uma educação razoável, apesar de condições materiais desfavoráveis.",
+      "16": "(Lucília Helena do Carmo Garcez, prof.",
+      "17": "dra.",
+      "18": "em lingüística aplicada, aposentada da Universidade de Brasília, escritora, consultora do MEC.",
+      "19": "- TVE Brasil) Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "O ato de trabalhar é inerente ao ser humano.",
+    "1": "Na escala evolutiva, o Homo sapiens é o mais bem colocado, devido à observação e à codificação de técnicas que, em benefício da comunidade, contituíram trabalho .",
+    "2": "Hoje, trabalho é mais que o desenvolvimento técnico; é também um conjunto complexo de relações inter-pessoais.",
+    "3": "Exige, portanto, seleção de aptidões, que nem sempre são auto-reconhecidas.",
+    "4": "Vocação é algo restrito a poucas pessoas; quanto às outras, resta-lhes descobrir-se e ter condições favoráveis ao sucesso profissional.",
+    "5": "A escolha da carreira é questão difícil, pela existência de muitas.",
+    "6": "Uma decisão errada pode prejudicar a construção da história profisional .",
+    "7": "Por outro lado, fatores como boa formação escolar e demanda do mercado de trabalho auxiliam a obtenção do sucesso: enquanto este torna fácil a inserção no mundo das profissões, aquele promove maior capacitação.",
+    "8": "A sorte também \"favorece a mente bem preparada\", como disse o cientista francês Pasteur.",
+    "9": "Uma condição essencial para o sucesso, porém, é o autoconhecimento.",
+    "10": "É necessário conhecer-se para depois conhecer o mundo.",
+    "11": "Saber próprios limites , prazeres e aptidões enriquece o indivíduo, tornando-o ímã de boas oportunidades.",
+    "12": "Talento só não basta, ao que diz a bailarina Anna Pavlova: \"ninguém pode chegar ao topo armado apenas de talento (...); o trabalho transforma o talento em gênio\".",
+    "13": "O que realmente garantirá o sucesso profissional é o conhecimento e a manutenção de características próprias.",
+    "14": "É certo que fatores como sorte e demanda influenciam, mas o modo de encarar a vida é fundamental."
+  },
+  "redacao_gerada": {
+    "0": "Para ter sucesso na vida profissional, a gente precisa estudar bastante e ter um bom emprego.",
+    "1": "É importante também ter amigos que ajudem a gente a conseguir um trabalho melhor.",
+    "2": "A sorte também conta muito, porque às vezes as coisas acontecem sem a gente planejar.",
+    "3": "É preciso estar sempre ligado nas novidades do mundo do trabalho para não ficar para trás.",
+    "4": "O sucesso vem para quem se esforça e tem um pouco de sorte.",
+    "5": "As empresas buscam pessoas qualificadas, então a educação é fundamental.",
+    "6": "Quem tem diploma tem mais chance de conseguir um bom salário e uma boa carreira.",
+    "7": "Mas não é só isso, tem que ter também uma boa comunicação e saber lidar com as pessoas.",
+    "8": "Um bom profissional é aquele que sabe se comunicar bem e que tem paciência para resolver os problemas.",
+    "9": "O mercado de trabalho está muito difícil hoje em dia, com muita gente querendo o mesmo emprego.",
+    "10": "Por isso, é importante se destacar dos outros, mostrando o que a gente sabe fazer de melhor.",
+    "11": "A vocação ajuda a gente a gostar do que faz, mas o talento é o que realmente importa para o patrão.",
+    "12": "Tem que ter talento para ser bom no que faz.",
+    "13": "Para ter sucesso, é preciso ter um bom emprego, estudar muito e ter sorte.",
+    "14": "A gente precisa se esforçar e ter um bom relacionamento com os outros.",
+    "15": "Se a gente fizer tudo isso, as coisas vão dar certo.",
+    "16": "Um bom profissional é aquele que tem todas essas qualidades e sabe usá-las no dia a dia."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "12",
+        "14"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "10",
+        "11"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "12",
+        "14"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "12",
+        "14"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "4",
+        "8",
+        "12",
+        "14"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

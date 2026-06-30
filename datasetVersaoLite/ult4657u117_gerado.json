@@ -1,0 +1,157 @@
+{
+  "tema": "a-gramatica-facilita-ou-dificulta-a-comunicacao",
+  "comando_tematico": {
+    "frases": {
+      "0": "A gramática facilita ou dificulta a comunicação?",
+      "1": "As regras gramaticais têm como objetivo uniformizar a língua de um povo, padronizá-la, de modo a torná-la comum e acessível a todos os usuários.",
+      "2": "Em poucas palavras, a gramática deve facilitar a comunicação.",
+      "3": "No entanto, a imensa dificuldade dos estudantes em aprendê-la sugere que isso talvez não ocorra de fato.",
+      "4": "O grande número de normas - às vezes sobre detalhes aparentemente insignificantes - não acaba complicando e criando confusão?",
+      "5": "Que importância tem, por exemplo, a troca de uma única letra na grafia de uma palavra?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 A língua é viva, quem não sabe?",
+      "1": "Basta ver o que acontece a ela, sempre aberta aos modismos.",
+      "2": "Agora mesmo está nas ruas uma maré de jeitos novos de falar, extrídos do filme \"Tropa de Elite\".",
+      "3": "A língua se enriquece, sai da boca do povo para os dicionários, amolda-se às regras gramaticais.",
+      "4": "Mas o problema são as regras, ah as regras!",
+      "5": "Se fizessem um plebiscito, é possível que as regras fossem banidas do Brasil.",
+      "6": "Aí todo mundo falaria e escreveria à vontade, sem ser vigiado por esses \"manuais de censura\" que são as gramáticas.",
+      "7": "Falaríamos gostosamente, sem receios e seríamos talvez mais felizes.",
+      "8": "Nada de escolher entre x e ch, entre s e z, e adeus acentos.",
+      "9": "Caso isso acontecesse, no entanto, estariam oficializados o descaso e o desrespeito ao idioma que falamos.",
+      "10": "Que conseqüências poderiam decorrer disso?",
+      "11": "Crime contra a gramática Texto 2 Um erro literalmente federal \"Um único carimbo fabricado com pouco zelo em relação à língua portuguesa fez com que milhares de documentos oficiais da Câmara e do Senado trouxessem um 'Congreço Nacional' estampado nos cantos inferiores de suas páginas.",
+      "12": "O tropeço vocabular está grafado em documentos como medidas provisórias enviadas pelo Executivo.",
+      "13": "O carimbo, fabricado em meados de agosto, está em documentos com datas até cerca de três semanas atrás, quando finalmente alguém descobriu o erro.",
+      "14": "\" Folha On-Line - 03 - 09h24 Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Todas as normas, leis, códigos, regras e tradições foram criadas , teoricamente para promoverem a vida em sociedade, proporcionando equilíbrio e harmonia aos diferentes tipos de relações humanas.",
+    "1": "Na pior das hipóteses, as normatizações servem como mecanismo de controle aos grupos dominantes para estes submeterem aos seus interesses os demais grupos sociais, porém, se não priorizam o bem-estar comum, as regras ao menos padronizam as interações e atitudes humanas, impedindo que aspectos vitais da vida dependam apenas do, nem sempre presente, bom-senso individual.",
+    "2": "Por isso, caso sejam falhas, as leis não devem ser abolidas, devem ser melhoradas.",
+    "3": "A gramática, assim como qualquer outra regra, se insere nesse contexto, serve como um mecanismo de padronização que impede que as interações se tornem caóticas.",
+    "4": "Sem um mínimo de uniformização, as línguas teriam fracassado: elas não teriam sido formadas, talvez nem mesmo os dialetos tribais existiriam; é provável que os humanos ainda estariam se comunicando através de linguagem não-verbal.",
+    "5": "Abolir a gramática seria um retrocesso capaz de desintegrar a língua em diversos dialetos incompreensíveis.",
+    "6": "A gramática pode ser falha ou ter características que favoreçam uma minoria, mas, assim como as leis, não pode ser abolida, necessita ser aprimorada.",
+    "7": "O imenso número de regras gramaticais, muitas delas dedicadas a reger aspectos irrelevantes, favorece a elitização da língua.",
+    "8": "Faz-se necessária uma reforma lingüística que a torne mais simples, mais acessível.",
+    "9": "Não se trata de vulgarizar a língua, adaptá-la à ignorância ou extirpar a complexidade que torna o português tão rico, trata-se de torná-la mais didática, menos acadêmica, para que deixe de ser mais um mecanismo de manutenção da desigualdade social.",
+    "10": "É evidente que a dificuldade sentida pela maioria na assimilação da língua não se deve exclusivamente à gramática.",
+    "11": "As imensas deficiências no sistema educacional inviabilizam um aprendizado adequado da língua, mesmo que a gramática seja simplificada.",
+    "12": "Caso a simplificação da gramática seja acompanhada de uma substancial melhoria na qualidade de ensino, ela poderá assumir sua função imprescindível de mantenedora da integridade lingüística.",
+    "13": "Dessa forma, a gramática deixará de ser um entrave para vir a ser uma facilitadora da comunicação."
+  },
+  "redacao_gerada": {
+    "0": "A comunicação interpessoal, pilar da sociedade humana, é intrinsecamente moldada pela linguagem.",
+    "1": "Nesse contexto, a gramática, enquanto conjunto de regras que regem o uso de um idioma, suscita um debate perene sobre seu papel: facilitador ou empecilho?",
+    "2": "Embora a norma culta vise à clareza e à universalidade da compreensão, sua complexidade e rigidez podem, paradoxalmente, criar barreiras.",
+    "3": "Dessa forma, a discussão se centra em como a gramática impacta a fluidez e a acessibilidade da comunicação humana.",
+    "4": "A gramática, em sua essência, busca estabelecer um padrão linguístico que permita a coesão social e a transmissão eficaz de ideias, conforme preconiza a ideia de que as regras visam a uniformizar a língua.",
+    "5": "A organização sintática e a precisão vocabular, ferramentas gramaticais, são fundamentais para evitar ambiguidades e garantir que a mensagem seja recebida como pretendido pelo emissor.",
+    "6": "A padronização, portanto, permite que indivíduos de diferentes origens geográficas ou sociais se comuniquem com maior segurança.",
+    "7": "Por outro lado, a percepção de que a gramática dificulta a comunicação é alimentada pela dificuldade inerente ao seu aprendizado, como sugerido pela observação de que a imensa dificuldade dos estudantes em aprendê-la pode indicar que ela não cumpre seu papel facilitador.",
+    "8": "A quantidade de normas, muitas vezes focadas em detalhes minuciosos, pode gerar ansiedade e inibição, levando à hesitação na expressão oral e escrita.",
+    "9": "Esse receio de incorrer em erros pode, de fato, criar uma barreira psicológica que prejudica a espontaneidade e a naturalidade do intercâmbio comunicativo, transformando o que deveria ser um ato natural em um exercício de contenção.",
+    "10": "Diante do exposto, é imperativo reconhecer que a gramática, apesar de sua função coesiva, pode se tornar um obstáculo à comunicação se não for abordada de forma pedagógica e contextualizada.",
+    "11": "Para mitigar essa dualidade, o Ministério da Educação, em parceria com instituições de ensino, deve promover metodologias de ensino de gramática mais dinâmicas e focadas na aplicação prática da língua em contextos reais (Ação).",
+    "12": "Isso pode ser feito por meio de oficinas interativas e projetos que incentivem o uso da norma culta de forma natural (Meio/Modo), a fim de desmistificar seu aprendizado e reforçar seu papel como ferramenta de clareza e expressividade (Efeito), demonstrando que a gramática, quando bem ensinada, facilita e enriquece a comunicação (Detalhamento)."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "4",
+        "8"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "4",
+        "6"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "tema": "o-que-voce-acha-do-ensino-nas-escolas-do-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "O que você acha do ensino nas escolas do Brasil?",
+      "1": "Políticos, educadores, professores, pesquisadores e alunos têm falado muito sobre a qualidade da aprendizagem nas escolas e faculdades do país.",
+      "2": "Muitos pais estão satisfeitos; os alunos falam bem ou mal de suas aulas (o que sempre aconteceu); professores reclamam dos salários, mas, em geral, se consideram aptos para ensinar; os governos anunciam incansáveis medidas para a melhoria do ensino.",
+      "3": "Entretanto, se há situações de excelente formação Brasil afora, o país tem ocupado posições muito baixas nos rankings mundiais de ensino e aprendizagem.",
+      "4": "Você, que já foi à escola e que vai para a universidade ou já foi: o que acha educação no Brasil?",
+      "5": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Pais e professores estão satisfeitos \"De modo geral, [.",
+      "3": "] os pais brasileiros não se envolvem como deveriam na vida escolar dos filhos.",
+      "4": "Os mais pobres dão graças aos céus pelo fato de a escola fornecer merenda, segurança e livros didáticos gratuitos.",
+      "5": "Os de classe média se animam com as quadras esportivas, a limpeza e [.",
+      "8": "] exigências [.",
+      "11": "] calibradas 'para não forçar o ritmo dos menos capazes'.",
+      "12": "Para 89% dos pais com filhos em escolas particulares, o dinheiro é bem gasto e tem bom retorno.",
+      "13": "No outro campo, 90% dos professores se consideram bem preparados para a tarefa de ensinar.",
+      "14": "\" [Monica Weinberg e Camila Pereira.",
+      "15": "Veja, 20 de agosto, 2008,.",
+      "16": "72] Constatação jornalística A educação vai bem, obrigado.",
+      "19": "\"Já estou um pouco cansada de responsabilizar apenas os sistemas pelos problemas de uma sociedade.",
+      "24": "Não sou professora, mas se fosse não gostaria de ser culpada pela existência de alunos como este (acima).",
+      "25": "Já disse uma vez nesse blog e repito: nenhum sistema educacional e nenhum professor pode fazer pelo aluno algo que cabe só a ele: estudar [Arthemísia 3 ; http: ] O que dizem outras pesquisas \"O Brasil está em 52º lugar em ciências e em 53º em matemática - em uma lista de 57 países.",
+      "26": "E 60% dos estudantes chegam ao fim da 8ª série sem saber interpretar um texto ou efetuar operações matemáticas simples\" [Inep e OCDE, agosto ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Para o progresso de um país é necessário que haja neste, pessoas capacitadas para que aconteça uma melhoria na qualidade de vida, uma preparação melhor na economia e políti     ca, enfim, profissionais capacitados para governar um lugar.",
+    "1": "Mas como tal capacitação é possível?",
+    "2": "A resposta é simples: com a melhoria na educação.",
+    "3": "Não é nenhuma novidade que a educação no Brasil vai mal.",
+    "4": "Mas porque será que isso ocorre?",
+    "5": "Como podemos esperar que um aluno saia da escola capacitado se a maior parte dos professores não apresenta tal virtude ?",
+    "6": "E como cobrar o empenho dos professores se os salários deixam muito a desejar e as condições estruturais das escolas são,muitas, vezes, falhas ?",
+    "7": "O processo da educação é um ciclo.",
+    "8": "Se o aluno sair bem preparado da escola ele, conseqüentemente preparará bem as futuras gerações .",
+    "9": "Mas a educação no país é ruim a algum tempo, mostrando o motivo de os pais dos atuais estudantes acharem que o ensino vai bem .",
+    "10": "Mas \"rankings\" internacionais mostram uma realidade muito diferente.",
+    "11": "O Brasil não pode ser considerado nenhum exemplo de educação, já que ficou em péssimas colocações nesses exames internacionais.",
+    "12": "A educação do Brasil não irá melhorar apenas com uma atitude isolada.",
+    "13": "Na verdade é necessário que haja um conjunto de medidas como a melhor capacitação do professor, a maior valorização deste profissional, a melhoria da estrutura das escolas.",
+    "14": "Essas medidas só se tornarão realidade quando os governantes e a população priorizar a educação e definir qual o papel da escola: capacitar o aluno para a vida, ensiná-lo a pensar para poder, no futuro, melhorar nossa sociedade.",
+    "15": "Os alunos não podem sair da escola com fórmulas decoradas apenas para passar no vestibular ou em um concurso público, pois isso é uma conseqüência.",
+    "16": "O importante é que o aluno saia capacitado para entender e analisar o mundo em que vive para, desta forma, melhorá-lo e prepará-lo para as futuras gerações."
+  },
+  "redacao_gerada": {
+    "0": "Na minha opinião, o ensino nas escolas do Brasil é mais ou menos.",
+    "1": "Tem gente que gosta, mas tem gente que não gosta também.",
+    "2": "Os professores falam que ganham pouco, mas dizem que sabem ensinar.",
+    "3": "Os alunos, bom, uns gostam, outros não, sempre foi assim.",
+    "4": "Os pais também, uns acham que tá bom, outros nem tanto.",
+    "5": "O governo fala que vai melhorar, mas a gente não vê muita diferença.",
+    "6": "As notas do Brasil em ciência e matemática são baixas, é o que dizem as pesquisas.",
+    "7": "Muita gente não sabe nem ler direito depois da escola.",
+    "8": "Isso é ruim para o futuro do país.",
+    "9": "A gente precisa de mais investimento e professores mais motivados.",
+    "10": "A escola tem que preparar melhor os alunos para a vida e pro mercado de trabalho.",
+    "11": "Se não, o Brasil não vai pra frente.",
+    "12": "A educação é a base de tudo, mas parece que aqui ninguém dá valor de verdade.",
+    "13": "Os pais podiam se envolver mais também, não só deixar tudo com a escola.",
+    "14": "E os políticos, cadê as melhorias que eles prometem?",
+    "15": "Precisa de mais atenção e dinheiro pra educação de verdade."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "25"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "26"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "tema": "violencia-escolar-expor-o-problema-e-sugerir-solucoes",
+  "comando_tematico": {
+    "frases": {
+      "0": "Violência escolar: expor o problema e sugerir soluções A violência na escola não é um problema novo, mas tem se agravado com o passar do tempo.",
+      "1": "Colabora para aumentá-la e difundi-la o próprio avanço da tecnologia e dos meios de comunicação - como a internet e as redes sociais.",
+      "2": "Publicar brigas entre alunos no YouTube, por exemplo, tornou-se uma prática corriqueira, como não é difícil conferir.",
+      "3": "Desse modo, é provável que, em maior ou menor escala, todos os estudantes já tenham presenciado ou ouvido falar de um caso do gênero.",
+      "4": "Por isso, queremos ouvir a voz do estudante: você já presenciou ou viveu um episódio de violência escolar?",
+      "5": "Leu algo a respeito ou viu na internet?",
+      "6": "Exponha o que você viu, leu ou o que lhe aconteceu.",
+      "7": "Depois, procure explicar as causas do problema, relacionando o caso particular que você relatou com o problema de um modo em geral - veja a opinião dos especialistas na coletânea.",
+      "8": "Em seguida, apresente uma sugestão: do seu ponto de vista, o que pode ser feito para prevenir o problema da violência na escola?",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Alunos da Escola Estadual Geraldo Melo, em Maceió, são revistados antes do início das aulas por policiais militares.",
+      "1": "A medida foi adotada após reunião entre pais, professores, direção e conselho tutelar.",
+      "2": "Um caso recente Um garoto de 10 anos foi agredido com chutes e socos por um grupo de alunos da Escola Municipal Denilton Alencar, localizada na cidade de Gibués (a 817km de Teresina), por usar óculos.",
+      "3": "As agressões ocorreram na última quarta-feira (22) e foram filmadas por uma estudante que viu a cena ao sair da escola.",
+      "4": "Ferido, o menino teve convulsões ao chegar em casa e foi socorrido pela família para o posto de saúde de Gibués.",
+      "5": "Como estava desacordado, foi transferido para o Hospital Regional Manoel de Sousa, no município de Bom Jesus (a 210km de Gibués).",
+      "6": "Um boletim de ocorrência foi registrado na delegacia de Gibués no fim da manhã desta terça-feira.",
+      "7": "[ UOL Educação ] Um velho problema O fenômeno da violência no cenário escolar é mais antigo do que se pensa.",
+      "8": "Prova disso é o fato de ele ser tema de estudo nos Estados Unidos desde a década de 1950.",
+      "9": "Porém, com o passar do tempo, ele foi ganhando traços mais graves e transformando-se em um problema social realmente preocupante.",
+      "10": "Hoje, relaciona-se com a disseminação do uso de drogas, o movimento de formação de gangues – eventualmente ligadas ao narcotráfico – e com a facilidade de portar armas, inclusive as de fogo.",
+      "11": "Tudo isso tendo como pano de fundo o fato de que as escolas perderam o vínculo com a comunidade e acabaram incorporadas à violência cotidiana do espaço urbano.",
+      "12": "Enfim, deixaram de ser o porto seguro para os jovens estudantes.",
+      "13": "[ Artigo O bê-á-bá da intolerância e da discriminação , Unicef Brasil ] Exacerbação da masculinidade Trecho de entrevista com Miriam Abramovay, coordenadora da área de Juventude e Políticas Públicas da Faculdade Latino-Americana de Ciências Sociais e coordenadora de pesquisas da Unesco (Organização das Nações Unidas para a educação, a ciência e a cultura) A ciberviolência e a divulgação de vídeos de violência na internet aumentaram a sensação de violência?",
+      "14": "Eu acho que é uma questão muito importante e a escola não tem as ferramentas mínimas para poder prevenir esse tipo de violência.",
+      "15": "A escola é muito centrada em si mesma, no que pensam os adultos.",
+      "16": "Em segundo lugar, ela não sabe o que acontece na vida desse jovem.",
+      "17": "Colocar uma coisa na internet é uma forma de exibicionismo e nós vivemos numa sociedade do espetáculo.",
+      "18": "Isso tem um valor muito grande, principalmente para o jovem.",
+      "19": "O que motivam os atos de violência na escola hoje em dia?",
+      "20": "Brigar, eles sempre brigaram, isso sempre aconteceu.",
+      "21": "Mas eu acho que estamos vivendo um fenômeno de exacerbação da maculinidade e da cultura da violência.",
+      "22": "Aparece aquele que é mais violento, que sabe brigar melhor.",
+      "23": "Eu digo masculinidade, mas é para garotos e garotas.",
+      "24": "Aí também entra o uso das armas, porque a arma é símbolo de força e de poder.",
+      "25": "[ UOL Educação ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "O primeiro ambiente que a criança convive é          sua casa, ou seja, família, vizinhos, igreja.",
+    "1": "Depois disso vem a escola  onde a criança vai entra  pela primeira vez em um ambiente social , que aprenderá conviver com as diferenças, que  para muitos  uma tarefa fácil, para outros impossível, por  isso tantos desentendimentos.",
+    "2": "O grande numero  de casos de violência nas escolas vem preocupando o poder publico  e toda a sociedade.",
+    "3": "Na verdade é que          ela tem alcançado proporções inadmissíveis, é  notório que por consequência disso o Estatuto da Criança e do Adolescente (ECA) e a Declaração dos Direitos da Criança e do Adolescente vêm se ampliando dia após dia para tentar amenizar a situação.",
+    "4": "Hodiernamente alunos aderem-se  “gangues” para “tocar o terror”, usam isso para saciar sua necessidades, carência, pobreza, maus tratos  entre outros fatores que geram as personalidades disruptivas.",
+    "5": "Entretanto estes órgãos sozinhos não são suficientes para tal combate ,a  educação começa desde os primórdios com a família  que exerce o papel fundamental como  determinar limites e normas, isto é, educar para comporta-se  com os demais.",
+    "6": "A escola pode proporcionar disciplinas relacionadas ao tema, palestras e punições severas em casos especiais.",
+    "7": "Porém dependerá de cada aluno tomar a decisão de qual caminho seguir."
+  },
+  "redacao_gerada": {
+    "0": "A violência nas escolas é um problema muito sério que afeta a todos.",
+    "1": "Acontece todo dia em vários lugares e ninguém sabe o que fazer.",
+    "2": "É ruim quando os alunos brigam e se machucam, isso não pode continuar assim.",
+    "3": "A escola devia ser um lugar seguro, mas as vezes não é.",
+    "4": "As redes sociais pioram tudo, pois as pessoas filmam e postam as brigas.",
+    "5": "Isso faz com que mais gente veja e até incentive outros a fazerem o mesmo.",
+    "6": "É como se fosse um show de horrores na internet que todo mundo assiste.",
+    "7": "A tecnologia ajuda a espalhar a violência e deixa tudo mais grave.",
+    "8": "Para resolver isso, acho que os professores precisam conversar mais com os alunos e entender o que está acontecendo.",
+    "9": "Talvez mais segurança na escola, como policiais, ajude um pouco.",
+    "10": "Mas o principal é que todos se respeitem e não usem violência para resolver os problemas.",
+    "11": "Acho que a solução é educar os jovens sobre os perigos da violência e mostrar que existem outras formas de lidar com os conflitos.",
+    "12": "Se todo mundo fizer sua parte, a escola pode voltar a ser um lugar bom para aprender e crescer sem medo."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "7"
+      ]
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "11",
+        "12"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "3",
+        "13"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "17"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "17"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": [
+        "14",
+        "15",
+        "16"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": [
+        "21"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

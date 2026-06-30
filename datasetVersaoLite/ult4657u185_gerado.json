@@ -1,0 +1,152 @@
+{
+  "tema": "fomos-dominados-pelas-maquinas-que-inventamos",
+  "comando_tematico": {
+    "frases": {
+      "0": "Fomos dominados pelas máquinas que inventamos?",
+      "1": "Já não conseguimos viver sem celular, computador, internet e outros poderosos recursos tecnológicos.",
+      "2": "Queiramos ou não, eles transformaram o mundo durante o século 20 e ingressaram no século 21 com uma velocidade espantosa.",
+      "3": "Muita gente se adapta rapidamente às novidades e nem lembra como era a vida sem elas.",
+      "4": "Para outros, porém, ocorre uma dúvida: nossa existência seria melhor ou pior sem tudo isso?",
+      "5": "Seríamos diferentes?",
+      "6": "Há quem odeie e quem ame irrestritamente essas máquinas.",
+      "7": "Qual é nossa relação com os avanços da tecnologia?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ser humano se tornou uma extensão da roda O Rio chegou a 2 milhões de carros; São Paulo, a 6 milhões.",
+      "1": "No Rio, é um carro para cada três habitantes; em São Paulo, são dois.",
+      "2": "O automóvel venceu.",
+      "3": "O comunicólogo Marshal McLuhan, talvez a única voz otimista de 1968, errou feio: o ser humano é que se tornou uma extensão da roda.",
+      "4": "Mas, em 2008, quem quiser chegar rapidinho a qualquer lugar, é melhor que vá a pé.",
+      "5": "Ruy Castro, \"Folha de S.",
+      "6": "Paulo\", 17 Estresse ou vida partilhada Glauco, \"Folha de S.",
+      "7": "Paulo\", 05 A máquina e o poeta Cota Zero Stop.",
+      "8": "A vida parou Ou foi o automóvel?",
+      "9": "Carlos Drummond de Andrade (1902-1987, \"Alguma Poesia\", 1930) Os sábios e a cultura \"Com o aparecimento da escrita, alguns sábios temeram que o conhecimento, que antes estava vivo na cabeça, viria a morrer, esquecido nas páginas de um livro.",
+      "10": "Com a expansão dos meios de comunicação e a conseqüente chuva de informações, alguns sábios temeram que o conhecimento (.",
+      "13": ") viria a degenerar-se em papel de embrulhar peixe e ondas espalhadas no espaço.",
+      "14": "Com a explosão da internet (.",
+      "17": "), e a extrema facilidade de encontrar uma informação, alguns sábios temem que tudo acabe em desinteresse.",
+      "18": "Luiz Zico Rocha Soares, (\"Internet, um mundo paralelo\".",
+      "19": "Melhoramentos, 2007,."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Nada é essencial até que alguém o invente.",
+    "1": "E assim o mundo assiste a invenções tecnológicas inimagináveis ao homem há tempos atrás.",
+    "2": "Entretanto, o desenvolvimento deste setor apesar da funcionalidade trazida ao cotidiano é regularmente taxado culpado pelas altas de desemprego no mundo dentre outros menores problemas.",
+    "3": "Mas, excetuando estes.",
+    "4": "Qual a relação entre a sociedade moderna e os avanços tecnológicos?",
+    "5": "Do grampo ao foguete.",
+    "6": "Nada é tão simples como costumava ser.",
+    "7": "O que era opcional e até mesmo desconhecido transforma - se em item obrigatório e essencial em um apertar de botão.",
+    "8": "Não é de hoje que se mede o desenvolvimento de um país pela sua tecnologia, o homem absorvendo tal idéia modificou a sua relação com os recursos tecnológicos acreditando - se que estes é sinônimo de poder e status esquecendo das suas reais funções e finalidade.",
+    "9": "De tão comum o desenvolvimento tecnológico muitas vezes nos passa despercebido.",
+    "10": "Imaginar deletar certos inventos da nossa vida como:cartões de crédito, televisores sem controles remotos, internet entre outras descobertas é desnecessária pois, estes incrementos já fazem parte do nosso cotidiano e está intimamente relacionado às nossas vidas de forma simbiotica .",
+    "11": "Depreende - se daí a real importância da tecnologia: um facilitador da vida moderna.",
+    "12": "Estudar o passado e melhorar o futuro é um dos papeis da tecnologia que vão além de desenvolver formas de utilizar o celular debaixo d'água, e chegam na procura alternativas para a escassez da água, de alimento o problema do aquecimento global entre outros, certamente estará ligado ao desenvolvimento tecnológico, Então por mais que muitos não analisem os fatos tal setor estará sempre presente e modificando o mundo em que vivemos."
+  },
+  "redacao_gerada": {
+    "0": "A onipresença das máquinas em nosso cotidiano suscita um debate pertinente: seríamos nós os dominadores ou as máquinas que inventamos teriam assumido o controle?",
+    "1": "Atualmente, é inegável a dependência que o ser humano desenvolveu em relação a tecnologias como smartphones e computadores, que se tornaram extensões de nossas capacidades e, por vezes, de nossas vontades.",
+    "2": "Essa interligação profunda levanta questionamentos sobre a autonomia e o bem-estar humano na era digital.",
+    "3": "Um dos argumentos centrais para a tese da dominação é a forma como as máquinas moldam nosso comportamento e nossas interações.",
+    "4": "Algoritmos de redes sociais, por exemplo, ditam o que vemos e como nos relacionamos, criando bolhas informacionais e influenciando opiniões de maneira sutil, mas poderosa.",
+    "5": "Além disso, a constante necessidade de estar conectado gera ansiedade e estresse, comprometendo a saúde mental e a capacidade de concentração em tarefas que exigem um raciocínio mais profundo e offline, como muitos sábios temeram com a escrita.",
+    "6": "Outro ponto relevante é a substituição do trabalho humano por automação.",
+    "7": "Embora a tecnologia possa otimizar processos e criar novas oportunidades, a velocidade com que máquinas assumem funções antes realizadas por pessoas gera desemprego e desigualdade social.",
+    "8": "A adaptação a essas mudanças é um desafio constante, e muitos indivíduos se sentem marginalizados diante da rápida evolução tecnológica, questionando se a vida sem tantas máquinas seria, de fato, pior.",
+    "9": "Diante desse cenário, é fundamental que o governo, em parceria com instituições de ensino e empresas de tecnologia, promova a educação digital crítica.",
+    "10": "É preciso desenvolver campanhas de conscientização sobre o uso equilibrado das ferramentas tecnológicas e investir em programas de requalificação profissional para os trabalhadores afetados pela automação.",
+    "11": "Assim, poderemos buscar um futuro onde a tecnologia sirva à humanidade, e não o contrário, garantindo que a existência não se torne um mero reflexo das máquinas."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "3"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "4",
+        "5",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9",
+        "10",
+        "13",
+        "14"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "10",
+        "14"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "10",
+        "14"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "2",
+        "3"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

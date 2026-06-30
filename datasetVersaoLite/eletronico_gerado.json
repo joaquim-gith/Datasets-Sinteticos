@@ -1,0 +1,122 @@
+{
+  "tema": "lixo-questao-de-cidadania-e-responsabilidade-social",
+  "comando_tematico": {
+    "frases": {
+      "0": "Lixo: questão de cidadania e responsabilidade social A excessiva produção de lixo continua sendo um grave problema vivido por nossa sociedade e sua tradição consumista.",
+      "1": "São toneladas de restos de plásticos, papéis, vidros, detritos orgânicos e uma infinidade de materiais que saem de nossas casas, lojas e fábricas todos os dias.",
+      "2": "O cidadão que fabrica esse lixo diário e que, muitas vezes, não o separa nem o encaminha para postos de coleta, sabe onde será despejado?",
+      "3": "Conhece a realidade dos catadores de lixo, pessoas que vivem do desperdício dos outros?",
+      "4": "Alguns documentários, como Estamira (2004) e Lixo Extraordinário, que concorreu ao Oscar em 2011, revelam, além da miséria em que vivem essas comunidades, sua força e dignidade dos sobreviventes.",
+      "5": "A questão que se coloca, com urgência, é buscar alternativas para lidar com o lixo e com todo o sistema que se construiu a partir dele.",
+      "6": "Na sua opinião, qual é a responsabilidade do cidadão diante desse cenário social?"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "1": "Leia as redações avaliadas Elabore uma dissertação considerando as ideias a seguir: A destinação do lixo coletado nas grandes cidades tem-se tornado um problema no que diz respeito ao impacto ambiental.",
+      "2": "Cidadania sf.",
+      "4": "Condição de cidadão, com seus direitos e obrigações.",
+      "6": "Conjunto dos direitos civis, políticos e sociais dos cidadãos, ou dos mecanismos para o estabelecimento e garantia desses direitos.",
+      "12": "ext.",
+      "13": "Exercício consciente da condição de cidadão; atuação na sociedade, em defesa da ampliação e fortalecimento da cidadania.",
+      "14": "[ Dicionário Aulete ] Um a cada quatro sacos de lixo vai para local impróprio Problema ambiental com resíduos ainda é crônico no Estado mais rico do país.",
+      "15": "Dados são de associação de empresas coletoras de lixo; agência estatal paulista vê avanço na destinação dos detritos.",
+      "16": "Enquanto as discussões mais avançadas sobre a destinação do lixo se concentram na reciclagem, São Paulo, o Estado mais rico do país, ainda é obrigado a lidar com um problema bem mais arcaico: os lixões a céu aberto.",
+      "17": "De cada quatro sacos de lixo residencial coletados pelos serviços oficiais, um vai parar em local inadequado, segundo dados da Abrelpe (Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais).",
+      "18": "Além dos lixões, vários aterros precários espalhados pelo Estado contaminam o ambiente e são fonte de risco à saúde da população.",
+      "19": "São 11.",
+      "20": "800 toneladas de resíduos ao dia que não recebem o tratamento devido, diz o estudo da associação.",
+      "21": "O valor representa 24,9% das 49.",
+      "22": "323 toneladas coletadas todos os dias nas residências.",
+      "23": "\"Existem problemas graves inclusive na Grande São Paulo\", afirma Carlos Silva, diretor-executivo da instituição, que reúne várias empresas do setor de limpeza.",
+      "24": "[ Folha de S.",
+      "25": "Paulo ] \"Lixo Extraordinário\" é tão mega quanto Vik Longa indicado ao Oscar usa artifícios do artista e revela mecanismos de valor por trás da arte contemporânea.",
+      "26": "Está registrado em \"Lixo Extraordinário\".",
+      "27": "No momento do documentário em que ele se encontra pela primeira vez com Sebastião Carlos dos Santos, o Tião, Vik Muniz não faz rodeios sobre quem é.",
+      "28": "\"Eu sou o artista brasileiro que mais vende, talvez a pessoa mais em voga no exterior\", diz o artista plástico.",
+      "29": "Tião, líder agora célebre da associação de catadores do Jardim Gramacho, no Rio, responde: \"Parabéns, cara\".",
+      "30": "E a conversa segue para estabelecer detalhes dos planos de Muniz para os trabalhadores desse que é o maior aterro sanitário do mundo, a saga que está contada no filme indicado ao Oscar de melhor documentário do ano.",
+      "34": "] Ele deixa seu estúdio em Nova York e embarca numa missão impossível de \"ajudar aquelas pessoas\", \"viciados em drogas que vivem no fim da linha, para onde tudo que não é bom acaba indo\".",
+      "38": "] Mostra como uma grife que é Vik Muniz consegue atenção mundial para uma catástrofe urbanística ao mesmo tempo em que se valoriza em leilões e vira a coqueluche de colecionadores.",
+      "39": "Estabelece uma rota conhecida do seu protagonista como caminho possível, o sonho americano, a receita para transformar lixo em luxo.",
+      "40": "[ Folha de S.",
+      "41": "Paulo ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Para um país que cresce a cada dia como mostra  os indicadores econômicos, é de fundamental importância um          ataque frontal nos setores de infraestrutura, tal como a coleta seletiva e melhor gestão dos resíduos em nosso país .",
+    "1": "Ainda dentro desse contexto  podemos citar o lixo eletroeletrônico como sendo um dos principais          colaboradores para o aumento do lixo moderno na sociedade atual .",
+    "2": "Em  mundo          globalizado e de grandes transformações em que vivemos, a abertura de mercados globais, o avanço tecnológico e a demanda cada vez maior por produtos de alta tecnologia que facilita  o dia-a-dia da humanidade são fatores determinantes para o aumento significativo da produção de lixo          na sociedade moderna .",
+    "3": "Outros fatores preponderantes que contribui  para esse mal que a assola a população é a obsolescência programada, ou seja e a  diminuição do tempo de vida útil desses equipamentos,          alterando a durabilidade dos mesmos, além do consumismo exagerado e desenfreado da população que é impulsionado e manipulado pela publicidade apelativa de grandes empresas expondo seus produtos e serviços em veículos de comunicação em  massa, como internet, TV, revistas, rádio, jornais,          entre outros .",
+    "4": "Diante desse cenário insustentável, é imprescindível notar que a política de limpeza urbana tem que ser prioridade dos nossos governantes, dando incentivo e subsidio  a empresas que tiverem um plano de reciclagem e gestão de resíduos em seu programa, além de          conscientizar a população através da coleta seletiva e programas de reciclagem adequados para cada tipo de produto.",
+    "5": "Portanto devemos criar pontes mais sólidas entre o poder público, privado e a sociedade em geral, pois a responsabilidade é de todos nós de criar um ambiente sustentavél para futuras gerações  .",
+    "6": "Só assim trilhamos  um caminho para um futuro melhor."
+  },
+  "redacao_gerada": {
+    "0": "O lixo é um problema muito grande nas cidades hoje em dia, porque as pessoas compram muitas coisas e jogam fora rápido.",
+    "1": "Isso faz com que muita coisa vá parar nos lixos todos os dias, como embalagens e restos de comida que não serve mais pra ninguém.",
+    "2": "É muita coisa que a gente nem pensa de onde vem ou pra onde vai depois que sai da nossa casa, mostrando que a gente não se importa muito.",
+    "3": "A gente sabe que tem gente que trabalha com lixo, que pega as coisas que a gente joga fora pra tentar vender ou usar, mas a gente não pensa muito nisso também.",
+    "4": "Acho que o governo podia fazer mais coisa pra ajudar, e as pessoas também tinham que separar o lixo melhor pra ajudar a reciclar e não poluir tanto o meio ambiente que já tá muito ruim.",
+    "5": "A gente precisa pensar mais no futuro e no planeta, porque senão vai ficar muito feio pra todo mundo viver aqui."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "14"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "4",
+        "13"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "25",
+        "30",
+        "34"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "16",
+        "18"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "2",
+        "4",
+        "6",
+        "13"
+      ]
+    }
+  }
+}

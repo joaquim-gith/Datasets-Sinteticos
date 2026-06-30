@@ -1,0 +1,192 @@
+{
+  "tema": "qual-a-relacao-entre-o-estudo-e-uma-carreira-profissional-bem-sucedida",
+  "comando_tematico": {
+    "frases": {
+      "0": "Qual a relação entre o estudo e uma carreira profissional bem sucedida?",
+      "1": "A educação costuma ser apontada como um dos principais direitos sociais, devido aos benefícios que pode proporcionar ao cidadão.",
+      "2": "Uma recente pesquisa internacional, por exemplo, revelou que quem estuda é mais feliz.",
+      "3": "Outro argumento muito usado em favor da educação formal são os índices econômicos e trabalhistas, pois quem estuda normalmente ocupa os postos de trabalho mais bem pagos e consegue uma qualidade de vida melhor.",
+      "4": "Mas há exceções: de Sílvio Santos a Bill Gates, são vários os exemplos de indivíduos que conquistaram sucesso pessoal e profissional sem possuir um diploma universitário, assim como muitos também são os casos de pessoas formadas que não se sentem realizadas.",
+      "5": "O que você pensa disso?",
+      "6": "Estudar pode tornar as pessoas mais felizes?",
+      "7": "Qual a relação entre o estudo e uma carreira profissional bem sucedida?",
+      "8": "Veja os textos de apoio e discuta essas questões em uma dissertação argumentativa de até 30 linhas.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Estudar faz pessoas serem mais felizes e viverem mais Um estudo recente sobre aspectos da educação mostra que quem estuda mais tende a ser mais feliz e ter uma expectativa de vida maior.",
+      "1": "O levantamento What are the social benefits of education?",
+      "2": "(Quais são os benefícios sociais da educação?",
+      "3": ", em tradução livre) foi produzido pela OCDE (Organização para a Cooperação e Desenvolvimento Econômico) e realizado em 15 países membros da organização – do qual o Brasil não faz parte.",
+      "4": "\"A educação ajuda as pessoas a desenvolver habilidades, melhorar a sua condição social e ter acesso a redes que podem ajudá-las a terem mais conquistas sociais\", dizem os autores da pesquisa.",
+      "5": "Segundo o estudo, as pessoas que estudam mais são mais felizes porque têm maior satisfação em diferentes esferas de sua vida.",
+      "6": "Esse nível de satisfação pessoal é de, em média, 18% a mais para quem tem nível superior em relação àquelas que pararam no ensino médio.",
+      "7": "Em relação ao aumento da expectativa de vida, o estudo mostra que um homem de 30 anos, por exemplo, pode viver mais 51 anos, caso tenha formação superior, enquanto aquele que cursou apenas o ensino médio viveria mais 43, ou seja, oito anos menos.",
+      "8": "Essa disparidade é mais acentuada na República Tcheca, onde os graduados podem viver 17 anos a mais.",
+      "9": "Já os portugueses, asseguraram a diferença mais baixa, apenas 3.",
+      "13": ") Participação política Em outro capítulo desse mesmo levantamento, realizado com um grupo de 27 países, a OCDE chegou à conclusão de que 80% dos jovens com ensino superior vão às urnas, enquanto o número cai para 54% entre aqueles que não têm formação superior.",
+      "14": "Os adultos mais escolarizados também são mais engajados quando o assunto é voluntariado, interesse político e confiança interpessoal.",
+      "15": "[ UOL Educação ] Milionários sem diploma Bill Gates abandonou Harvard, montou a Microsoft, e se tornou um dos homens mais ricos do mundo com uma fortuna de US$ 58 bilhões.",
+      "16": "Samuel Klein veio da Polônia para o Brasil fugido de um campo de concentração nazista durante a Segunda Guerra Mundial, começou a vender utensílios domésticos de porta em porta, fundou as Casas Bahia e hoje é o rei do varejo brasileiro com uma empresa que faturou R$ 12,5 bilhões em 2007.",
+      "17": "Silvio Santos, um camelô no Rio de Janeiro, virou dono de mais de 30 empresas e do canal de televisão SBT.",
+      "18": "O que todos esses empresários com histórias tão diferentes têm em comum?",
+      "19": "Além de patrimônios que ultrapassam nove dígitos, nenhum possui diploma de curso superior.",
+      "20": "Ou abandonaram o mundo acadêmico antes de conquistar o diploma ou nem mesmo tiveram a chance de chegar lá.",
+      "21": "Aprenderam na marra, quebraram a cara em algumas ocasiões, porém, triunfaram.",
+      "25": ") [ Istoé Dinheiro ] Hall da fama da evasão Veja Álbum de fotos sobre celebridades que abandonaram os estudos."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "O mundo está em constante transformação e para os seres humanos participarem dessas mudanças é necessário o conhecimento que é adquirido através do estudo.",
+    "1": "A dedicação nos estudos reflete um ser humano melhor  preparado para ingressar no mercado de trabalho, cada vez mais competitivo.",
+    "2": "São raros os casos em que um indivíduo obtém sucesso profissional sem ter antes frequentado uma universidade ou qualquer outra instituição de ensino.",
+    "3": "Isso porque o mundo atual valoriza o conhecimento como pré-requisito para a participação no mercado de trabalho.",
+    "4": "Além disso, uma pessoa com graduação superior ou até mais além  passa a ser um  melhor conhecedor de mundo, ou seja, um ser crítico          e capaz de analisar e compreender situações políticas, econômicas e sociais.",
+    "5": "Tal cidadão é  mais ativo          e produtivo para melhorar a qualidade de vida de seu país e , consequentemente, do mundo.",
+    "6": "O mercado de trabalho busca pessoas com esse perfil.",
+    "7": "Mas também é notória como  a curiosidade          é inata ao ser humano, logo, buscar o conhecimento é o primeiro passo para saciá-la.",
+    "8": "O homem se sente  feliz quando          utiliza seu intelecto, mas essa felicidade só existe quando ele utiliza  seu conhecimento para um bem maior, de forma altruísta.",
+    "9": "Portanto, um indivíduo que tem graduação em seu currículo  e saiba  utilizar o conhecimento adquirido, de modo a se tornar um cidadão crítico e altruísta, ele terá  não apenas satisfação profissional como  também emocional."
+  },
+  "redacao_gerada": {
+    "0": "A relação entre estudar e ter sucesso na vida é muito importante.",
+    "1": "Quem estuda muito, geralmente tem mais chance de conseguir um bom emprego e ganhar dinhero.",
+    "2": "Isso é bom porque a gente pode comprar o que quer e ter uma vida mais feliz, como dizem por ai.",
+    "3": "Por isso, é fundamental ir pra escola e aprender bastante coisa.",
+    "4": "Também tem gente que não estuda muito, mas fica rico igual, tipo o Silvio Santos.",
+    "5": "Ele não terminou a faculdade, mas ficou famoso e tem muita grana.",
+    "6": "Isso mostra que nem sempre estudar é o que faz a pessoa ser bem sucedida.",
+    "7": "Talvez seja mais sorte ou o jeito de cada um.",
+    "8": "Quando a gente estuda, aprende coisas que nem sempre usa depois.",
+    "9": "Tipo história antiga ou um monte de fórmula que não serve pra nada no dia a dia.",
+    "10": "É melhor aprender coisas práticas que ajudam a gente a trabalhar e ganhar dinheiro logo.",
+    "11": "Estudar demais pode fazer a gente perder tempo.",
+    "12": "Então, o estudo ajuda sim, mas não é tudo.",
+    "13": "Tem que ter outras coisas também, tipo ser esperto e ter sorte.",
+    "14": "Mas se não estudar, pode ser que não consiga nada.",
+    "15": "Precisamos pensar mais nisso e ver o que é melhor pra cada um, porque nem todo mundo é igual e nem todo mundo quer a mesma coisa na vida."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "0",
+        "4",
+        "5"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "5"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "1",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "15",
+        "17"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "15",
+        "16",
+        "17",
+        "19",
+        "20"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "15",
+        "16",
+        "17",
+        "19",
+        "20",
+        "21"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "21"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "21"
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

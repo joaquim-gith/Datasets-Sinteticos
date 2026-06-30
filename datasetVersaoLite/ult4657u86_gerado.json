@@ -1,0 +1,259 @@
+{
+  "tema": "por-que-as-pessoas-mentem-pela-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Por que as pessoas mentem pela internet?",
+      "1": "Pesquisa realizada pela Universidade de Cornell, nos Estados Unidos, revelou que 81% das pessoas que utilizam sites de relacionamento na internet mentem para aqueles com quem se comunicam.",
+      "2": "Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas a seus parceiros de chat.",
+      "3": "Quais os motivos dessa atitude?",
+      "4": "Trata-se apenas da vontade de impressionar o outro?",
+      "5": "Ou haverá um motivo mais profundo: a insatisfação consigo mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Quem está atrás do teclado?",
+      "1": "Um indivíduo isolado envia mensagens solitárias e busca o amor por meio de imagens virtuais.",
+      "2": "Ele se realiza em casa, protegido, à distância, e corre o risco de se decepcionar, quando, e se, um encontro real vier a ser marcado.",
+      "3": "Estamos no século do amor via internet com pessoas namorando virtualmente sem o calor dos corpos que se entregam.",
+      "4": "Mas, afinal, que tipo de relação se estabelece via computador?",
+      "5": "Existe vínculo?",
+      "6": "Se houver traição virtual, como fica o relacionamento entre os namorados?",
+      "7": "Basta se desconectar para pôr fim a um envolvimento emocional.",
+      "8": "Jairo Bouer comenta a pesquisa Texto 2 Segundo o filósofo francês Jean-Paul Sartre, \"o ser humano possui uma atração doentia pela verdade\".",
+      "9": "Sartre considera que o desejo da verdade aparece muito cedo nos seres humanos e se manifesta como vontade de confiar nas coisas e nas pessoas, isto é, de acreditar que as coisas são exatamente como o indivíduo as percebe e o que as pessoas lhe dizem é digno de confiança e crédito.",
+      "10": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Porque será que as pessoas mentem pela internet?",
+    "1": "Como já dizia duas frases na canção do Legião Urbana: \" Porque é mais forte quem sabe mentir...",
+    "2": "\" Sofremos mais com a perda de uma ilusão do que com a perda da realidade\"...",
+    "3": "É mais cômodo e fácil, pessoas criarem \"personagens\" para a sua vida \"virtual\".",
+    "4": "Lá podem ser o que gostariam de ser na vida real.",
+    "5": "Quem não quer ter uma vida perfeita?",
+    "6": "Ter dinheiro, casa boa, carro bom, um ótimo emprego, ser magro, alto, modelo, artista etc.",
+    "7": "Na internet a pessoa cria tudo isso e a outra pessoa do outro lado, idealiza tudo e cria a imagem da pessoa que ela gostaria de ter em sua vida.",
+    "8": "É um mundo de imaginação e fantasia aonde é permitido fugir da realidade e a pessoa não tem medo de colocar para fora o que existe dentro dela.",
+    "9": "Sair da realidade, da sua vidinha medíocre, esquecer por alguns instantes a pessoa que você é, como uma forma de apagar por pequenos momentos algo que incomoda, e não consegue aceitar.",
+    "10": "E criar um mundo fantástico, com pessoas boas e perfeitas pode ser fascinante.",
+    "11": "Mas infelizmente muitas pessoas estão vivendo essa vida virtual como uma forma de escapar dos seus problemas e não enfrentam a realidade.",
+    "12": "Até que ponto vale a pena você fingir alguém que você não é?"
+  },
+  "redacao_gerada": {
+    "0": "As pessoas mentem muito na internet porque elas querem.",
+    "1": "É muito facil mentir em um lugar que a gente nao se ve.",
+    "2": "Todo mundo faz isso pra ser legal com os outros.",
+    "3": "As vezes a gente se sente mal e mente pra parecer melhor.",
+    "4": "Por exemplo, o peso, a idade, e a aparencia sao coisas que as pessoas mudam quando falam pela internet.",
+    "5": "Isso acontece porque elas acham que assim vao gostar mais delas.",
+    "6": "Mas isso nao é legal porque a pessoa nao sabe quem é de verdade.",
+    "7": "A internet é um lugar onde tudo pode acontecer e as pessoas aproveitam isso.",
+    "8": "Tem gente que fala que é uma coisa e é outra.",
+    "9": "Isso é ruim porque a pessoa fica triste depois.",
+    "10": "A gente precisa falar a verdade sempre, mesmo que seja dificil.",
+    "11": "Mas as vezes é mais facil mentir.",
+    "12": "Por isso que tem muita gente mentindo.",
+    "13": "A gente deveria pensar mais antes de falar.",
+    "14": "A internet tem muita coisa ruim e boa.",
+    "15": "A mentira é uma coisa ruim.",
+    "16": "A gente podia tentar nao mentir tanto.",
+    "17": "Mas é dificil.",
+    "18": "Eu acho que as pessoas mentem porque querem ser queridas.",
+    "19": "Ou então elas se sentem feias ou chatas.",
+    "20": "Então elas inventam uma outra vida.",
+    "21": "Isso é o que eu penso.",
+    "22": "A gente podia fazer uma campanha pra falar a verdade.",
+    "23": "Mas nao sei se adianta.",
+    "24": "É complicado isso de mentir pela internet.",
+    "25": "Tem gente que mente por brincadeira.",
+    "26": "Mas tem gente que mente pra enganar.",
+    "27": "A gente tem que ter cuidado com quem fala.",
+    "28": "Isso é importante.",
+    "29": "A mentira faz mal pra todo mundo.",
+    "30": "A gente precisa ser sincero."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        0,
+        3
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        0
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        4
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        5
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        2
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        4,
+        5
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        3
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        2
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        8
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        0,
+        3
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        3
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "18": {
+      "comando_tematico": [
+        4
+      ],
+      "textos_motivadores": null
+    },
+    "19": {
+      "comando_tematico": [
+        5
+      ],
+      "textos_motivadores": null
+    },
+    "20": {
+      "comando_tematico": [
+        2
+      ],
+      "textos_motivadores": null
+    },
+    "21": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "22": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "23": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "24": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "25": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "26": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "27": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "28": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "29": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "30": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        8
+      ]
+    }
+  }
+}

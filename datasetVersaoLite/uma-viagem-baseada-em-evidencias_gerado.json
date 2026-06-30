@@ -1,0 +1,214 @@
+{
+  "tema": "maconha-manter-proibicao-legalizar-descriminalizar",
+  "comando_tematico": {
+    "frases": {
+      "0": "Maconha: manter proibição, legalizar, descriminalizar?",
+      "1": "Há pelo menos dez anos, a ideia de combater o uso de drogas exclusivamente com a repressão penal e policial vem sendo questionada.",
+      "2": "Em especial, no que se refere à maconha, considerada por alguns uma \"droga leve\", embora esse conceito seja polêmico e não encontre respaldo científico.",
+      "3": "Para alguns, a maconha deveria ser descriminalizada, para que seus usuários sejam tratados no âmbito da saúde pública e não no policial.",
+      "4": "Outros vão além e falam em legalização, a qual seria uma solução para o tráfico e a violência que dele deriva.",
+      "5": "Muitos insistem na proibição, pois ser brando ou condescendente em relação à maconha não resolveria a questão do tráfico de outras drogas e abriria o caminho para elas.",
+      "6": "Como você se coloca diante dessa questão?",
+      "7": "Leia a seguir a opinião de políticos e profissionais de saúde sobre o tema, faça suas reflexões sobre elas e desenvolva uma dissertação argumentativa expondo qual é, no seu ponto de vista, a solução para este problema social.",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Mãe participa de manifestação na Esplanada dos Ministérios em Brasília, em defesa da regulamentação da maconha no Brasil Uruguai: uma aposta na legalização O presidente uruguaio José Mujica afirma que a legalização da maconha no Uruguai é \"um experimento\" e que \"os retrógrados que não querem mudar nada, certamente vão se surpreender.",
+      "1": "\" Mujica disse que a repressão às drogas em seu país estava cada vez pior e agora ensaia \"um caminho que é difícil, mas que pode deixar um pouco de conhecimento à humanidade\".",
+      "2": "“O fato é que há 25 anos estimávamos haver entre mil e 1,5 mil consumidores.",
+      "3": "Hoje temos 150 mil.",
+      "4": "Nestem 25 anos, reprimimos, prendemos, confiscamos cargas e o animal continua crescendo.",
+      "5": "Por isso mudamos a estratégia”, afirma o presidente.",
+      "6": "[ BBC, em português, adaptado ] Descriminalizar é complicado A senhora é a favor da repressão mesmo no caso de drogas leves, como a maconha?",
+      "7": "Dilma - Não conheço nenhum estudo que comprove que a droga leve não seja passo para outra.",
+      "8": "Esse é o problema.",
+      "9": "Num país com 50 milhões de jovens entre 15 e 29 anos, é complicado falar em descriminalização, a não ser que seja para fazer um controle social abusivo da droga.",
+      "10": "Não temos os instrumentos para fazer esse controle que outros países têm.",
+      "11": "A não ser que a gente tenha um avanço muito grande no controle social da droga, fazer um processo de descriminalização é um tiro no pé.",
+      "12": "O problema não é a maconha, mas é o crack.",
+      "13": "O crack é uma alternativa às drogas leves, médias, pesadas.",
+      "14": "Não é possível mais olhar pura e simplesmente para a maconha, que não é um caso tão extremo nem tão grave.",
+      "15": "\" [ Dilma Rousseff, então candidata à Presidência, em entrevista a \"Época\" ] Legalizar não, mas descriminalizar Trecho de entrevista do Dr.",
+      "16": "Dráuzio Varella com o Dr.",
+      "17": "Elisaldo Carlini, médico psicofarmacologista que trabalha no CEBRID, Centro Brasileiro de Informação sobre Drogas, e é professor da Escola Paulista de Medicina da Universidade Federal de São Paulo.",
+      "18": "Drauzio – Como você encara a legalização da maconha?",
+      "19": "Elisaldo Carlini – Sou totalmente contra o uso e a legalização da maconha.",
+      "20": "No entanto, é necessário distinguir legalização de descriminalização.",
+      "21": "Quando falo em descriminalizar, não estou me referindo à droga.",
+      "22": "Estou me referindo a um comportamento humano, individual, que atinge o social.",
+      "23": "Quando falo em legalizar, falo de um objeto.",
+      "24": "Posso legalizar, por exemplo, o uso de determinado medicamento clandestino ou de um alimento qualquer desde que prove que eles não são prejudiciais à saúde.",
+      "25": "Como a maconha faz mal para os pulmões, acarreta problemas de memória e, em alguns casos, leva à dependência, não deve ser legalizada.",
+      "26": "O que defendo é a descriminalização de uma conduta.",
+      "27": "Veja o seguinte exemplo: se alguém atirar um tijolo e ferir uma pessoa, não posso culpar o tijolo.",
+      "28": "Só posso criminalizar a conduta de quem o atirou.",
+      "29": "A mesma coisa acontece com a maconha.",
+      "30": "O problema é criminalizar seu uso e assumir as consequências da aplicação dessa lei.",
+      "31": "[ Site do Dr.",
+      "32": "Drauzio Varella ] Legalizar jamais No entanto, é importante considerar que além do risco da dependência, da síndrome amotivacional, dos efeitos agudos e crônicos causados pelo uso da maconha, com a sua legalização provavelmente teremos muitos problemas parecidos com os causados pelas drogas lícitas (aquelas permitidas pela Lei), o álcool e o tabaco, cito como exemplo, o aumento dos acidentes de trânsito causado por pessoas sob efeito da substância.",
+      "33": "Vale destacar ainda que o uso de drogas não prejudica só o dependente, é um problema que atinge toda família, a dependência química tem um poder destruidor sobre a vida dos familiares.",
+      "34": "Para finalizar, sabemos que a maconha é a porta de entrada para outras drogas, entre elas o crack.",
+      "35": "A maconha é uma erva, mas, uma erva perigosa, que deve continuar sendo proibida.",
+      "36": "Ao invés de criar uma possível solução, legalizar seria gerar um novo e gravíssimo problema, legalizar jamais!",
+      "37": "[ Adriana Moraes – Psicóloga Especialista em Dependência Química]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Calmante para uns, veneno para outros, a maconha é consumida por milhares de pessoas no Brasil.",
+    "1": "Com o seu uso ilegal, serve de fonte lucrativa para inúmeras redes de narcotraficantes pelo país e consequentemente um grande desafio para os órgãos públicos de saúde e segurança, por isso há quem defenda erroneamente a legalização do uso da maconha como uma solução para          tais problemas .",
+    "2": "A maconha vem sendo usada em larga escala mundo afora desde os anos 60 , estando presente nas sociedades desde os primórdios da agricultura , mas tal erva aparentemente inofensiva possui compostos alucinógenos, viciantes e prejudiciais à saúde causadores de doenças degenerativas como câncer, um verdadeiro veneno.",
+    "3": "Uma vez legalizada e até industrializada, a maconha exigiria eficiente mecanismos de controle de venda caso contrario estaria acessível a pessoas menores de idade e cultivo domiciliar, o que traria prejuízos a tal indústria sem falar que serviria de porta de entrada para drogas mais fortes, o que mais tarde acarretaria em movimentos pro-crack e etc, drogas ainda mais devastadoras ao organismo e a sociedade.",
+    "4": "Uma possível industrialização da maconha seria mais um erro assim como o ocorrido com o cigarro e bebidas alcóolicas, pois se estes geram lucro aos cofres públicos trazem muito mais prejuízos, pois o consumo dessas substancia exigem cada vez mais gastos com saúde pública."
+  },
+  "redacao_gerada": {
+    "0": "A maconha é uma erva que divide opinião em nossa sociedade.",
+    "1": "Uns dizem que deveria ser liberada, outros que deve ficar proibida, e tem quem fala em descriminalizar.",
+    "2": "Essa questão tem sido discutida faz tempo, e é importante pensar no que é melhor pro nosso país.",
+    "3": "A proibição da maconha, para alguns, é a melhor saída.",
+    "4": "Eles acham que se liberar a maconha, mais gente vai usar e isso pode levar a problemas maiores ainda, como o uso de drogas mais pesadas.",
+    "5": "Além disso, tem o medo de que a liberação da maconha não resolva o problema do tráfico, e que os traficantes arrumem outras coisas para vender.",
+    "6": "Por isso, manter a proibição parece ser o jeito mais seguro de evitar que as coisas piorem.",
+    "7": "Por outro lado, tem gente que pensa diferente e acha que a maconha devia ser descriminalizada ou até legalizada.",
+    "8": "Eles argumentam que a proibição não impede o uso e que muita gente que usa maconha acaba sendo tratada como criminoso, quando na verdade precisaria de ajuda médica.",
+    "9": "A legalização, segundo essa visão, poderia tirar o poder do tráfico e gerar impostos que poderiam ser usados em saúde e educação.",
+    "10": "É um debate complicado, sem resposta fácil, mas que precisa ser olhado com atenção.",
+    "11": "Acredito que a descriminalização seria um bom começo.",
+    "12": "Tratar o usuário como doente e não como bandido é mais humano e pode trazer benefícios para a sociedade.",
+    "13": "Ainda assim, é preciso cuidado para não abrir as portas para outras drogas.",
+    "14": "Acho que o governo precisa estudar mais e pensar em soluções que ajudem as pessoas sem criar mais problemas."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "1",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "12",
+        "14",
+        "34",
+        "35"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "14",
+        "34",
+        "35"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

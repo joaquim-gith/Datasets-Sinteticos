@@ -1,0 +1,198 @@
+{
+  "tema": "por-que-a-ideia-de-fim-do-mundo-atrai-e-assusta",
+  "comando_tematico": {
+    "frases": {
+      "0": "Por que a ideia de fim do mundo atrai e assusta?",
+      "2": "Esse era para ser o dia do fim do mundo, segundo algumas interpretações do calendário maia.",
+      "3": "Isso, porém, não aconteceu e a data entrou para a vasta galeria das previsões apocalípticas que não se cumpriram.",
+      "4": "O medo do fim do mundo é uma constante na sociedade mundial de todas as épocas, é um tema que povoa o imaginário de gerações e já foi explorado na literatura, na canção popular, no cinema, na televisão.",
+      "5": "É difícil entender como, mesmo diante de várias previsões erradas, as polêmicas sobre o fim do mundo ainda provocam um sentimento tão forte em parte da população.",
+      "6": "Leia os textos da coletânea e depois discuta o tema em uma dissertação argumentativa de até 30 linhas.",
+      "7": "Você tinha acreditado na previsão?",
+      "8": "O que você pensa desse tipo de previsões?",
+      "9": "Por que isso mexe tanto com o imaginário do ser humano na sua opinião?",
+      "10": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O fim do mundo em 2012 Os planetas, as estrelas, o calendário maia e, é claro, uma superprodução de Hollywood reavivam a ideia aterrorizante do apocalipse e levantam uma questão: por que continuamos a acreditar em profecias finalistas apesar de todas elas terem fracassado redondamente?",
+      "4": ") No inventário dos fracassos humanos, talvez não haja aposta tão malsucedida quanto a de marcar data para o fim do mundo.",
+      "5": "Falhou 100% das vezes, mas continua a se espalhar, resistindo ao tempo, à razão e à ciência.",
+      "6": "As tentativas de explicar esse fenômeno são uma viagem fascinante pela alma, pela psique, pelo cérebro humano.",
+      "7": "Uma das explicações está no fato de que o nosso cérebro é uma máquina programada para extrair sentido do mundo.",
+      "8": "Assim, somos levados a atribuir ordem e significado às coisas, mesmo onde tudo é casual e fortuito.",
+      "9": "As constelações no céu, por exemplo, são uma criação mental para organizar o caos estelar.",
+      "13": ") A preponderância do aleatório sobre o determinado pode dar a sensação de desesperança, de que somos impotentes diante de todas as coisas.",
+      "14": "Talvez nisso residam a beleza e a complexidade da vida, mas o fato é que o cérebro está mais interessado em ordem do que em belezas complexas.",
+      "15": "Por isso, quando não vê significado nas coisas naturais, ele salta para o sobrenatural.",
+      "16": "\"Nascemos com o cérebro desenhado para encontrar sentido no mundo\", diz o psicólogo Bruce Hood, da Universidade de Bristol, na Inglaterra, autor de Supersense: Why We Believe in the Unbelievable (Supersentido: Por que Acreditamos no Inacreditável).",
+      "17": "\"Esse desenho às vezes nos leva a acreditar em coisas que vão além de qualquer explicação natural.",
+      "18": "\" [ André Petry, Revista Veja , 4 de novembro de 2009 ] E o mundo não se acabou Anunciaram e garantiram Que o mundo ia se acabar Por causa disso Minha gente lá de casa Começou a rezar.",
+      "21": "Acreditei nessa conversa mole Pensei que o mundo ia se acabar E fui tratando de me despedir E sem demora fui tratando De aproveitar.",
+      "24": "[ Assis Valente ] A passagem do cometa No texto abaixo (fragmentos), Cecília Meireles faz referência à passagem do cometa Halley, em 1910, pelas proximidades da Terra.",
+      "25": "O Fim do Mundo (Cecília Meireles) A primeira vez que ouvi falar no fim do mundo, o mundo para mim não tinha nenhum sentido, ainda; de modo que não me interessava nem o seu começo nem o seu fim.",
+      "26": "Lembro-me, porém, vagamente, de umas mulheres nervosas que choravam, meio desgrenhadas, e aludiam a um cometa que andava pelo céu, responsável pelo acontecimento que elas tanto temiam.",
+      "30": ") Ora, o cometa desapareceu, aqueles que choravam enxugaram os olhos, o mundo não se acabou, talvez eu tenha ficado um pouco triste - mas que importância tem a tristeza das crianças?",
+      "34": ") Dizem que o mundo termina em fevereiro próximo.",
+      "35": "Ninguém fala em cometa, e é pena, porque eu gostaria de tornar a ver um cometa, para verificar se a lembrança que conservo dessa imagem do céu é verdadeira ou inventada pelo sono dos meus olhos naquela noite já muito antiga.",
+      "36": "Se o fim do mundo for mesmo em fevereiro, convém pensarmos desde já se utilizamos este dom de viver da maneira mais digna.",
+      "40": ") Ainda há uns dias a reflexão e o arrependimento: por que não os utilizaremos?",
+      "41": "Se o fim do mundo não for em fevereiro, todos teremos fim, em qualquer mês.",
+      "44": "[ Texto extraído do livro \"Quatro Vozes\", Editora Record, Rio de Janeiro, 1998, pág."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Dia 21/12/2012 foi mais uma previsão frustrada do apocalípse.",
+    "1": "O calendário maia nunca foi tão estudado como nos últimos meses e algumas interpretações foram divulgadas e conquistaram a confiança das          pessoas .",
+    "2": "Uma das interpretações é  de que simplesmente a          pessoa que escrevia o calendário morreu, e ninguem  mais o continuou.",
+    "3": "Outra interpretação é de que o calendário não teria uma continuação, porque aquela data era realmente a última – o dia do fim do mundo.",
+    "4": "Muitas pessoas levaram realmente essa ideia a sério e resolveram fazer tudo que nunca fizeram em meses, ou até dias, antes do tal fim do mundo mentiroso.",
+    "5": "Com isso muitas pessoas fizeram dívidas absurdas com imóveis, viajens  e carros  achando que nunca teriam que pagar por tudo isso.",
+    "6": "Acontece que o mundo não acabou.",
+    "7": "Outras pessoas já preferiram enfrentar esse “fim do mundo” como uma mensagem de que era hora de parar um pouco para viver para si mesmo,  aproveitar para realizar sonhos (é claro, que tudo dentro de um orçamento e com          os pés no chão ), casar, ter filhos, amar os outros, aprender a perdoar e ter uma vida melhor, até porque qualquer dia desses o mundo realmente pode acabar e para onde irá todo o trabalho ou todo o luxo ?",
+    "8": "Um outro grupo de pessoas já agiram completamente diferente, ficando realmente com muito medo de que qualquer chuva ou qualquer trânsito já pudesse ser um sinal do fim do mundo, e daí surgiram outros medos sobre o  que aconteceria depois.",
+    "9": "Será que os dinossauros voltariam?",
+    "10": "Ou uma nova espécie habitaria a terra  ?",
+    "11": "Ou por a terra  não existir mais, o mundo  com tudo isso que contruimos continuasse  a acontecer em Marte, Jupter,  Saturno?",
+    "12": "Mesmo para os descrentes do fim do mundo, algumas dúvidas surgiram e alguns medos também.",
+    "13": "Agora que superado o 21/12/2012, devemos refletir e pensar sobre como anda  nossas vidas.",
+    "14": "É claro que temos que trabalhar e cumprir nossos compromissos, mais  sem deixar que isso nos impessa  de realizar sonhos, vontades  de amar, rir, e viver  .",
+    "15": "O dia que  o mundo acabar ninguém  vai passar num carro de som avisando, algumas coisas são assim, elas simplesmente acontecem e é por isso que temos que estar preparados para morrer a qualquer momento, não pensando na morte, mais  sim pensando  vida e, que caso  o mundo acabe,          você aproveitou e muito de tudo o que esse mundo pôde te oferecer."
+  },
+  "redacao_gerada": {
+    "0": "A ideia do fim do mundo é algo que fascina e assusta as pessoas por muitos motivos.",
+    "1": "Desde sempre, o homem tem medo do desconhecido e do que pode acontecer no futuro, e o fim do mundo representa o ápice desse medo.",
+    "2": "Por isso, muitas pessoas ficam curiosas para saber como seria e quando aconteceria, mesmo que isso as assuste.",
+    "3": "Essa curiosidade é natural, pois o fim do mundo mexe com a nossa imaginação.",
+    "4": "Ao longo da história, muitas pessoas acreditaram em profecias sobre o fim do mundo, como as do calendário maia em 2012.",
+    "5": "Essas previsões sempre chamam a atenção, mesmo que depois se provem erradas.",
+    "6": "As pessoas gostam de acreditar que algo grande vai acontecer, e o fim do mundo é algo bem grande.",
+    "7": "Isso mostra como as pessoas gostam de histórias emocionantes e catastróficas.",
+    "8": "O medo do fim do mundo também pode ser uma forma de as pessoas pensarem sobre suas vidas e o que elas fazem.",
+    "9": "Quando se fala em fim do mundo, as pessoas podem se arrepender de coisas que fizeram ou deixaram de fazer.",
+    "10": "É como se fosse um aviso para as pessoas serem melhores e aproveitarem mais a vida.",
+    "11": "Mas muitas vezes isso não muda nada, e logo as pessoas esquecem.",
+    "12": "Para evitar que as pessoas fiquem muito assustadas, o governo deveria criar mais programas educativos para explicar essas coisas.",
+    "13": "Assim, as pessoas entenderiam melhor e não acreditariam em tudo que ouvem.",
+    "14": "Precisamos de mais informação para não cair em conversas que só assustam a gente sem motivo.",
+    "15": "Educação é a chave."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "2",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "15"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "36",
+        "40"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "21",
+        "40"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "36",
+        "40"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

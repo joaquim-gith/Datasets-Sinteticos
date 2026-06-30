@@ -1,0 +1,193 @@
+{
+  "tema": "qual-a-importancia-para-o-brasil-e-para-o-mundo-da-crise-financeira-dos-paises-da-zona-do-euro",
+  "comando_tematico": {
+    "frases": {
+      "0": "Qual a importância, para o Brasil e para o mundo, da crise financeira dos países da zona do euro?",
+      "1": "Faz dez anos que o euro passou a ser usado como moeda única em países que compõem a União Europeia, porém, com as recentes divulgações das fortes crises econômicas enfrentadas por países como a Grécia, a ligação política da chamada zona do euro teve seu prestígio abalado.",
+      "2": "Especialistas explicam que o descontrole econômico na região deu-se, fundamentalmente, por problemas fiscais, já que, nos últimos anos, alguns países pertencentes ao grupo gastaram mais dinheiro do que puderam arrecadar com impostos.",
+      "3": "A desconfiança de que os governos da região teriam dificuldade para honrar suas dívidas fez com que os investidores passassem a temer possuir ações, bem como títulos públicos e privados europeus.",
+      "4": "A crise, além de provocar problemas sociais e políticos na Europa, pode atingir o mundo todo, já que a redução nas importações europeias compromete o comércio internacional.",
+      "5": "Leia os textos da coletânea e depois"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Crise do Euro União monetária faz dez anos na Europa Há dez anos, em 1º.",
+      "1": "de janeiro de 2002, entrou oficialmente em circulação o euro, a moeda única em países que compõem a União Europeia (UE).",
+      "2": "O lastro monetário simbolizava a integração do continente que, no século 20, enfrentou duas guerras mundiais e uma divisão ideológica que quase provocou uma terceira.",
+      "3": "A Eurozona é composta por 17 dos 27 Estados-membros da UE: Alemanha, Áustria, Bélgica, Chipre, Eslováquia, Eslovênia, Espanha, Estônia, Finlândia, França, Grécia, Irlanda, Itália, Luxemburgo, Malta, Países Baixos e Portugal.",
+      "4": "A moeda é usada diariamente por 332 milhões de europeus.",
+      "5": "O euro também é a segunda maior reserva monetária internacional e a segunda maior comercial, atrás somente do dólar americano.",
+      "6": "A moeda que passou a ser usada pelos europeus, há uma década já era corrente entre os mercados financeiros desde 1999.",
+      "7": "Nesse ano, os governos aboliram moedas locais nas transações comerciais entre países.",
+      "8": "O objetivo era unir mais as nações e gerar mais desenvolvimento econômico.",
+      "9": "Apesar disso, a Europa enfrenta desde 2009 uma crise de débito que ameaça a estabilidade do bloco, obrigando os governos a fazerem reformas impopulares que já derrubaram nove líderes político nos últimos três anos.",
+      "10": "Em países como Grécia, Espanha, Portugal e Irlanda, a dívida pública e o déficit no orçamento ultrapassam em muito os limites estabelecidos para a Eurozona.",
+      "11": "[ UOL Educação ] A crise na Grécia quase põe o euro em xeque e a Europa em crise Euro cai a menor nível frente ao dólar em dois anos Segundo analistas, otimismo em relação à Europa desapareceu completamente O euro caiu no início da tarde para 1,2266 dólar, o menor nível ante o dólar desde julho de 2010.",
+      "12": "Além do relatório sobre emprego nos EUA, que veio abaixo do esperado, os investidores ainda digerem as ações anunciadas na quinta-feira por importantes bancos centrais.",
+      "13": "O fato de o Banco Central Europeu (BCE) ter cortado sua taxa básica de juros para a mínima histórica de 0,75% e de o Banco do Povo da China (PBOC, na sigla em inglês) ter reduzido seus juros pela segunda vez em um mês mostra que a preocupação das autoridades com a situação da economia é grande.",
+      "17": ") Analistas apontam que o otimismo em relação à Europa, após a cúpula realizada no fim da semana passada, desapareceu completamente, até porque os líderes da União Europeia ainda precisam implementar vários acordos para fortalecer a confiança dos investidores nas economias da zona do euro.",
+      "18": "[ Revista Veja ] Com crise europeia e China, Brasil dependerá mais de si O Brasil vai depender cada vez mais de suas próprias forças para ter um crescimento sustentado nos próximos anos, em meio à crise na zona do euro e à desaceleração da economia chinesa, segundo o presidente do BNDES, Luciano Coutinho.",
+      "19": "Segundo ele, o país não pode se limitar à produção e exportação de commodities, mas precisa reinventar sua indústria e o setor de serviços para enfrentar a concorrência mundial.",
+      "20": "\"Precisamos ter (cuidado) para não cair em simplismos.",
+      "21": "É difícil, mas o Brasil pode escapar de forma criativa\", disse.",
+      "22": "Para Coutinho, o Brasil tem oportunidades na área de commodities, mas precisa ter uma indústria robusta e dinâmica, e que o banco vai ter um papel importante nesse processo.",
+      "23": "Coutinho reforçou ainda a necessidade de o país ampliar suas taxas de poupança para assegurar um crescimento sustentável.",
+      "24": "\"O Brasil tem uma fronteira de investimentos em infraestrutura, energia e logística, importante para melhorar a competitividade.",
+      "25": "Essa fronteira pode ser induzida pelo governo para aumentar a taxa de poupança \", disse.",
+      "26": "Coutinho participou da abertura do seminário \"O Brasil e o Mundo em 2022\", em comemoração pelos 60 anos do BNDES.",
+      "27": "[ Da Reuters, no UOL Economia ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "A crise econômica europeia foi originada da  imprudência política-administrativa de países europeus como a Grécia, que gastavam mais do que arrecadavam, criando um déficit público.",
+    "1": "Esta crise com certeza acarretará em más consequências mundiais na economia, por esta se encontrar no ápice de globalização.",
+    "2": "O mau momento europeu, evidenciado pela desconfiança generalizada dos investidores, pode gerar uma queda nas importações da União europeia, afetando outras nações, que por sua vez também afetarão outras, criando uma espécie de efeito cascata.",
+    "3": "Especificamente no Brasil, a economia tem os seus pilares nas commodities agrícolas e petrolíferas, que são exportadas para diversos países.",
+    "4": "Assim se houver queda das importações europeias, o país pode sofrer uma depressão econômica, alastrando o desemprego rapidamente.",
+    "5": "Contudo os países dependentes de exportações, incluindo o Brasil, podem amenizar o baque da crise financeira, aumentando e modernizando as indústrias brasileiras, como o petróleo que pode ser beneficiado e vendido refinado, ao invés de vende-lo  bruto, agregando maior valor econômico."
+  },
+  "redacao_gerada": {
+    "0": "A crise na Europa é um problema que afeta a todos, Brasil e o mundo.",
+    "1": "Essa crise tem um nome, é a crise financeira dos países da zona do euro que estão com problemas sérios.",
+    "2": "Esses problemas econômicos na Europa causam muita desconfiança e ninguém mais quer investir lá.",
+    "3": "O euro é uma moeda que vale muito, mas agora está em baixa por causa dessa crise.",
+    "4": "No Brasil, a gente sente isso quando os produtos importados ficam mais caros.",
+    "5": "As empresas que vendem para a Europa também sofrem porque os europeus não compram mais tanta coisa.",
+    "6": "Isso faz com que muita gente perca o emprego aqui no Brasil por causa de uma crise que acontece longe.",
+    "7": "É um efeito dominó que ninguém gosta.",
+    "8": "O mundo todo sente essa crise porque a Europa é um lugar importante para o comércio.",
+    "9": "Quando eles compram menos, os outros países também vendem menos.",
+    "10": "Isso afeta a economia global e pode piorar a situação de países pobres.",
+    "11": "A gente precisa ficar atento a isso.",
+    "12": "Para resolver, os países europeus precisam arrumar suas contas e gastar menos.",
+    "13": "O Brasil podia tentar vender mais para outros lugares e não depender tanto da Europa.",
+    "14": "É importante que os líderes tomem cuidado com o dinheiro público."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "9",
+        "11"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "3",
+        "17"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "5",
+        "6",
+        "11"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "18",
+        "19",
+        "21",
+        "22"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    }
+  }
+}

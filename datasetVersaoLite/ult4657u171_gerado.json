@@ -1,0 +1,262 @@
+{
+  "tema": "quais-as-condicoes-necessarias-para-se-atingir-o-sucesso-profissional",
+  "comando_tematico": {
+    "frases": {
+      "0": "Quais as condições necessárias para se atingir o sucesso profissional?",
+      "1": "Não há como negar que o mercado de trabalho torna-se cada vez mais competitivo.",
+      "2": "Por outro lado, recentemente, as empresas têm revelado precisar de trabalhadores com qualificações específicas, de nível técnico ou superior, que estão em falta no país.",
+      "3": "Além disso, existem vários outros fatores que podem interferir na escolha de uma profissão ou na obtenção de um bom emprego.",
+      "4": "Sorte, vocação, talento, boa formação escolar, estar atento à demanda e às circunstâncias do momento.",
+      "5": "Quais as condições necessárias para se atingir o sucesso profissional?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Mercado imobiliário em alta André Ming Bordokan, 25, não tinha o sonho de ser engenheiro civil quando foi aprovado na Escola Politécnica da Universidade de São Paulo.",
+      "1": "Na escolha da especialização entre as engenharias, no fim do segundo ano, sua preferência era por mecânica, mas, pelas notas no ranking dos alunos, ficou com a segunda opção.",
+      "2": "Hoje, no quinto ano do curso, comemora o fato de o mercado aquecido cimentar a carreira.",
+      "3": "\"No início da faculdade, civil era uma área muito desvalorizada.",
+      "4": "Metade da turma ia trabalhar em banco.",
+      "5": "Agora, temos mais trabalho\", lembra Bordokan, que divide o curso com o estágio na construtora Gafisa.",
+      "6": "Segundo analistas de mercado, a retomada da engenharia civil -após forte decaída nas décadas passadas- se dá sobretudo pelas perspectivas de investimento em infra-estrutura com o PAC (Plano de Aceleração do Crescimento) e o crescimento do crédito imobiliário.",
+      "7": "( Folha de S.",
+      "8": "Paulo , 2 de dezembro de 2007) Muita injustiça Talento, vocação e mercado de trabalho A vocação permite dar sentido de unidade ao exercício de um ou vários talentos, próprios ou alheios.",
+      "9": "O talento, por sua vez, é a estabilização da capacidade para fazer bem alguma coisa.",
+      "10": "O \"mercado de trabalho\" se abre a esta ou àquela pessoa não em virtude de sua vocação, mas do seu talento, pois este é algo atual e útil e não potencial, como a vocação.",
+      "11": "A realização profissional resulta de que o talento seja o prosseguimento harmônico, cultural, da vocação.",
+      "12": "(Joel Nunes dos Santos, psicólogo e orientador profissional, \"Programa de Orientação Profissional\", Univercidade - Rio de Janeiro) Educação de qualidade É indiscutível que uma grande parcela da garantia de sucesso do processo educacional está na sala de aula, nas mãos do professor.",
+      "13": "O professor Zeferino Vaz, quando criou a Unicamp, em precárias instalações que tinham sido uma propriedade rural, disse que uma universidade se faz primeiro com cérebros, depois com cérebros, depois com cérebros, depois com bibliotecas e laboratórios e somente depois com prédios.",
+      "14": "Sem dúvida nenhuma, se oferecermos tudo o que se refere a equipamentos e condições de trabalho para que uma escola funcione, mas colocarmos ali professores mal formados, não teremos uma educação de qualidade.",
+      "15": "Enquanto o inverso pode até acontecer: uma educação razoável, apesar de condições materiais desfavoráveis.",
+      "16": "(Lucília Helena do Carmo Garcez, prof.",
+      "17": "dra.",
+      "18": "em lingüística aplicada, aposentada da Universidade de Brasília, escritora, consultora do MEC.",
+      "19": "- TVE Brasil) Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Advogados, médicos, dentistas, artistas, engenheiros, nutricionistas, etc .",
+    "1": "Enfim, são inúmeras as profissões existentes.",
+    "2": "A princípio, estas profissões não estabelecem nenhuma relação, mas uma análise detalhada mostra a existência de um objetivo comum entre todas: o sucesso profissional.",
+    "3": "São várias as condições para atingir o sucesso profissional, porém quais delas devem ser priorizadas?",
+    "4": "Muitos acham que trabalhar tem a ver com escravidão.",
+    "5": "É comum ouvir: \"Eu me mato de trabalhar.",
+    "6": "Sou um escravo.\" Ao mesmo tempo que alimentam essa idéia, essas pessoas adotam a postura de escravo.",
+    "7": "Ou seja, trabalho é algo obrigatório.",
+    "8": "Surge, então, a resistência de não querer ser escravo, não querer sofrer.",
+    "9": "Elas se forçam a trabalhar ao mesmo tempo que sofrem uma pressão para não ir.",
+    "10": "Essas forças contrárias são pavorosas para a prosperidade profissional dessas pessoas.",
+    "11": "Elas já vão para o serviço sofrendo.",
+    "12": "Até podem gostar do que fazem, mas vivem aguardando o final do expediente.",
+    "13": "Isso atrasa o desenvolvimento profissional.",
+    "14": "Quanto mais enxerga-se o trabalho de maneira negativa e pejorativa, maior será a resistência criada.",
+    "15": "E, quanto mais houver resistência, menor será o sucesso na profissão.",
+    "16": "Não só sucesso no sentido de conquista, dinheiro, oportunidades e crescimento social, como também da satisfação interior e da realização espiritual.",
+    "17": "Ademais, o mercado de trabalho cresce exageradamente, e torna-se extremamente competitivo.",
+    "18": "É grande a quantidade de indivíduos despreparados, uma realidade que é mostrada e satirizada por uma charge denominada \"Muita Injustiça\".",
+    "19": "Assim, a junção do mercado de trabalho competitivo com a falta de preparo dos indivíduos torna o mercado de trabalho inacessível para muitos.",
+    "20": "Sucesso profissional?",
+    "21": "Como alcançá-lo se ao menos, o trabalhador tem uma ocupação digna?",
+    "22": "O correto é encarar o trabalho como prazer ou como o meio de satisfazer nossas realizações.",
+    "23": "É o que acontecesse com a maioria dos artistas, muito além de recompensa financeira, estes fazem arte por amor e satisfação individual.",
+    "24": "É um trabalho criterioso e danoso, os quais custam muita dedicação por parte dos artistas.",
+    "25": "Amor e dedicação que deveriam ser copiados pela população.",
+    "26": "Assim, seria mais fácil encontrar pessoas bem sucedidas profissionalmente."
+  },
+  "redacao_gerada": {
+    "0": "Para ter sucesso profissional, a pessoa precisa ter sorte, pois o mundo do trabalho é muito difícil.",
+    "1": "Muitas vezes, as coisas não dão certo porque a pessoa não tem um bom emprego e isso acontece por falta de sorte.",
+    "2": "É preciso ter um bom emprego para ter dinheiro e comprar o que quer.",
+    "3": "A educação é importante, mas se não tiver sorte, não adianta estudar muito.",
+    "4": "As empresas querem pessoas inteligentes, mas o mais importante é ter sorte.",
+    "5": "Muitas pessoas estudam e não conseguem nada na vida, porque elas não têm sorte.",
+    "6": "O sucesso vem quando a gente tem um bom emprego e ganha bem.",
+    "7": "E para ter um bom emprego, precisa de sorte.",
+    "8": "Às vezes, as pessoas têm talento, mas não conseguem um bom emprego porque o mercado não está bom.",
+    "9": "Isso mostra que a sorte é mais importante.",
+    "10": "É preciso ter um bom emprego para ser feliz e ter sucesso na vida.",
+    "11": "Se não tiver sorte, não adianta ter talento ou estudar.",
+    "12": "As pessoas precisam ter um bom emprego para ter uma vida boa.",
+    "13": "O sucesso é ter um bom emprego e ganhar dinheiro.",
+    "14": "E para isso, a sorte é fundamental.",
+    "15": "A educação é boa, mas a sorte é o que mais importa para ter um bom emprego e ser feliz.",
+    "16": "Precisamos de um bom emprego para ter sucesso.",
+    "17": "E isso depende da sorte."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "12",
+        "14"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "2",
+        "5"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "0",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ]
+    },
+    "16": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    }
+  }
+}

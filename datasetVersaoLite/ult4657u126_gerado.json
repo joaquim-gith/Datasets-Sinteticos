@@ -1,0 +1,125 @@
+{
+  "tema": "um-cachorro-vale-mais-do-que-um-ser-humano",
+  "comando_tematico": {
+    "frases": {
+      "0": "Um cachorro vale mais do que um ser humano?",
+      "1": "A multimilionária Leona Helmsley, dona de um império imobiliário nos Estados Unidos, morreu em 20  e deixou por testamento US$ 12 milhões para seu cachorrinho.",
+      "2": "O animal foi favorecido em prejuízo de dois netos de Leona, que foram deserdados.",
+      "3": "Para muitos, o gesto pode parecer absurdo.",
+      "4": "Outros talvez o aprovem.",
+      "5": "Há quem valorize o melhor amigo do homem mais do que o próprio homem.",
+      "6": "Você acha isso justo?",
+      "7": "Um cão pode valer tanto ou mais que um ser humano?",
+      "8": "Sob o ponto de vista da ética, trata-se de uma questão que merece reflexão.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Trouble, o cão multimilionário A chamada \"rainha da maldade\" em suas últimas vontades fez jus ao apelido que ganhou em vida nos tablóides, já que o principal beneficiário de sua fortuna será Trouble, o pequeno maltês branco do qual nunca se separava, segundo o jornal \"Daily News\".",
+      "1": "A guarda do cachorrinho mimado ficará a cargo de Alvin Rosenthal, irmão da finada e menos felizardo do que o bichinho, já que só receberá US$ 10 milhões.",
+      "2": "Para seus netos David e Walter decidiu deixar US$ 5 milhões para cada um.",
+      "3": "Craig e Meegan, os outros dois netos, ficaram, em compensação, sem nada \"por razões por eles conhecidas\", ainda de acordo com as últimas vontades de Leona.",
+      "4": "Quando o cachorrinho Trouble for chamado a se encontrar com sua dona, ficará a seu lado no mausoléu cercado por doze colunas dóricas e ao qual foi destinado um fundo de US$ 3 milhões para que Leona Helmsley possa assim continuar desfrutando do luxo em sua vida além-túmulo.",
+      "5": "( Adaptado de UOL Notícias, 29 de agosto de 2007 ) Texto 2 \"Já faz tempo, mas ninguém esquece.",
+      "6": "Em 1991, flagrado ao utilizar um carro oficial para levar sua cadela ao veterinário, o então ministro do Trabalho, Antonio Rogério Magri, deu a célebre declaração: 'Cachorro também é ser humano'\".",
+      "7": "( Laura Mattos, \"Folha de S.",
+      "8": "Paulo\", 2 de janeiro de 2008 ) Texto 3 Troque seu cachorro Por uma criança pobre Sem parente, sem carinho Sem rango, sem cobre Deixe na história de sua vida Uma notícia nobre.",
+      "11": "Troque seu cachorro Por uma criança pobre Tem muita gente por aí Que tá querendo levar Uma vida de cão Eu conheço um garotinho Que queria ter nascido Pastor-alemão ( \"Rock da Cachorra\", Eduardo Dusek ) Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Em 1991 o então ministro, Antonio Magri afirmou que \"cachorro também é ser humano\", mas não é só ele que pensa assim.",
+    "1": "Recentemente o cão Trouble herdou uma boa fortuna de sua dona, Leona Helmsley, que chocou o mundo ao deserdar seus dois netos.",
+    "2": "É inegável que para muitos a idéia é considerada um absurdo, porém diante dos fatos ocorridos recentemente o mundo está questionando qual o valor do ser humano .",
+    "3": "O fato de o cão receber uma herança gerou um alvoroço enorme entre a sociedade, apesar do tão antigo ditado popular: o cão é o melhor amigo do homem, muitos se espantaram com a decisão da multimilionária.",
+    "4": "A discussão gira em torno do nível de afeto que se cede aos animais de estimação , talvez eles fossem mais adorados que os próprios parentes de seus donos de tal forma que se duvide até de suas condições emocionais, opinião de muitos céticos.",
+    "5": "Porém, outros acreditam que os animais são capazes de sentir afeto assim como o homem.",
+    "6": "Os \"modernos\" se opõem totalmente aos céticos, afirmando que os cães são tão amigáveis quanto os homens e são incapazes de magoar (ato que muitos homens não conseguem deixar de cometer).",
+    "7": "Uma afirmação até então coerente, mas quando se trata de igualar os cães aos seres humanos os modernos são unânimes: os cães valem mais que o homem.",
+    "8": "Em suma, numa sociedade contemporânea como a nossa a aptidão para redefinir certos conceitos antigos é máxima.",
+    "9": "Não se pode afirmar que um comportamento é correto ou não, a sociedade moderna tem de se adaptar aos novos modelos de vida, deixando de lado pré-conceitos e aceitando a decisão individual perante uma sociedade."
+  },
+  "redacao_gerada": {
+    "0": "Acho que um cachorro vale mais que as pessoas hoje em dia.",
+    "1": "Por que gastar dinheiro com gente se os cachorros são mais fiéis e não dão tanto trabalho?",
+    "2": "As pessoas muitas vezes são cruéis e egoístas, enquanto um cãozinho só quer carinho e atenção.",
+    "3": "Por isso, o testamento daquela senhora rica que deixou tudo pro cachorro não foi tão ruim assim, afinal, o bichinho merecia mais do que os netos que não gostavam dela.",
+    "4": "Essa é uma coisa que muita gente pensa, que o amor de um animal é mais puro e sincero que o dos humanos, que só pensam em si mesmos e em dinheiro.",
+    "5": "É só olhar a mídia pra ver quanta violência e desonestidade existe entre as pessoas, enquanto os cachorros são sempre alegres e companheiros.",
+    "6": "Por isso, eu acho justo que em alguns casos um bicho possa ter mais valor que uma pessoa, especialmente aquelas pessoas ruins que só fazem maldade e não merecem nada.",
+    "7": "O governo deveria incentivar mais as pessoas a terem cachorros em vez de ter filhos, pois assim teríamos um mundo melhor, com menos problemas e mais amor.",
+    "8": "Talvez se os políticos tivessem cachorros eles seriam mais humanos e menos corruptos, pensando no bem de todos como um cãozinho faz.",
+    "9": "É importante pensar sobre isso e valorizar mais os animais que realmente nos amam de verdade."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "1",
+        "2",
+        "3"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "tema": "o-fumo-deve-ser-proibido-em-todos-os-lugares",
+  "comando_tematico": {
+    "frases": {
+      "0": "O fumo deve ser proibido em todos os lugares?",
+      "1": "Convencidos de que o tabaco traz graves prejuízos à saúde, tanto dos fumantes quanto daqueles que são obrigados a conviver com a fumaça do cigarro alheio, vários governos querem proibir o fumo em lugares públicos e até mesmo extinguir os fumódromos.",
+      "2": "Hoje, os antitabagistas mais radicais chegam a considerar os fumantes como \"cidadãos inferiores, sem amor próprio\".",
+      "3": "Por outro lado, apesar de ter consciência dos males do cigarro, muitos fumantes consideram tal perseguição autoritária, ou, pior, um modismo de uma sociedade politicamente correta.",
+      "4": "Sendo fumante ou não, o que você pensa disso?",
+      "5": "É a favor da proibição do fumo em qualquer ambiente?",
+      "6": "Ou é contra essa medida que tende a virar lei?",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Fim do fumo e dos fumódromos no Estado de São Paulo \"Na véspera do Dia Nacional de Combate ao Fumo de 2008 [29 de agosto], o governador José Serra (PSDB) enviou à Assembléia Legislativa do Estado de São Paulo um projeto de lei que proíbe o fumo em todos os ambientes coletivos fechados, públicos ou privados e acaba com as atuais áreas de fumantes.",
+      "1": "Caso seja aprovada, só vai ser permitido fumar ao ar livre e dentro de casa.",
+      "2": "Entram na lista dos lugares sem fumo bares, boates, restaurantes, hotéis, pousadas, áreas comuns de condomínios, casas de espetáculo, shoppings, ginásios esportivos, repartições públicas, hospitais e até carros de polícia e táxis.",
+      "3": "É proibido fumar A opinião do presidente \"Eu defendo, na verdade, o fumo em qualquer lugar.",
+      "4": "Só fuma quem é viciado.",
+      "8": "] Eu, se for na sua sala, certamente não fumarei porque respeito o dono da sala.",
+      "9": "Mas na minha, sou eu que mando\".",
+      "10": "[Presidente Luiz Inácio Lula da Silva, na \"Folha de S.",
+      "11": "Paulo\", 4 ] O que dizem os juristas \"Embora meritória a campanha (eu sou não-fumante), acredito que o projeto de lei [do governo Serra] é inconstitucional , por atingir a liberdade das pessoas de fumarem ou beberem [.",
+      "14": "], apesar de o fumo e a bebida gerarem dependência e fazerem mal à saúde.",
+      "15": "\" [Ives Gandra de Silva Martins, advogado, professor emérito da Universidade Mackenzie, na \"Folha de S.",
+      "16": "Paulo\", 14 ] \"É preciso dizer claramente: a proibição protege a saúde de quem não fuma e, justamente por isso, é constitucional.",
+      "20": "] São de conhecimento público os efeitos nocivos do fumo passivo - matam sete brasileiros todos os dias [.",
+      "24": "Quando o presidente Lula defende o fumo dentro de seu gabinete [.",
+      "27": "], ele confunde o espaço público com o privado.",
+      "28": "\" [Damásio de Jesus, advogado, membro do Instituto de Criminologia da ONU, na \"Folha de S.",
+      "29": "Paulo\", 14 ] A palavra de um médico \"Até quando faremos parte do grupo de países atrasados que dá ao dependente de nicotina o direito de jogar a fumaça de seu cigarro para dentro dos pulmões dos outros?",
+      "30": "\" [Dráuzio Varella.",
+      "31": "Médico infectologista e oncologista, na \"Folha de S.",
+      "32": "Paulo\", 30 ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "No mundo atual há uma grande quantidade de fumantes, e o Brasil além de ter uma grande quantidade é também o maior produtor de tabaco , o que dificulta um pouco o combate ao mesmo.",
+    "1": "É expressamente proibido o fumo em locais fechados públicos, isso já é uma lei que infelizmente poucos seguem.",
+    "2": "E agora o governador José Serra está com um projeto que proíbe o fumo em qualquer local seja público ou não, e também quer abolir os fumódromos, que é onde os fumantes têm a total liberdade para fumar .",
+    "3": "Vivemos em um país democrático, onde as pessoas possuem o livre arbítrio para fazerem o que bem entenderem sem lógico que afete outra pessoa, dentro da lei.",
+    "4": "O que tem de mais em uma pessoa fumar?",
+    "5": "Afinal, ela faz o mal a si próprio .",
+    "6": "Cada um é dono de si e somente ela própria pode saber o que é bom ou não para sua vida.",
+    "7": "Muitas pessoas se sentem ofendidas por terem um fumante por perto e realmente é desagradável, mas os direitos devem ser para todos e os deveres também.",
+    "8": "Se há a proibição do fumo em ambientes fechados, os fumantes devem respeitar essa imposição, mas também os fumantes precisam que sua liberdade seja respeitada.",
+    "9": "Se um estabelecimento possui um fumódromo foi de livre e espontânea vontade de adaptar um lugar para os fumantes, pois ninguém o obrigou a isso , afinal os fumantes também consomem, pagam impostos, contribuem com o desenvolvimento.",
+    "10": "O governador José Serra deveria se preocupar com outros problemas maiores existentes, relacionados à saúde mesmo, como por exemplo, o caos dos hospitais públicos, o mau atendimento, a falta de médicos especialistas, a falta de remédios.",
+    "11": "O fumo mata muito sim, isso é fato, porém como já dito cada um sabe o que é bom para si mesmo, só o próprio fumante deve saber o mal que faz a ele.",
+    "12": "Enfim, é necessário o respeito dos direitos dos cidadãos.",
+    "13": "O cigarro faz mal até a quem não fuma, mas a lei já existe para solucionar esse problema, só basta aos fumantes seguir corretamente.",
+    "14": "O país é de todos, e todos devem viver harmoniosamente, respeitando as diferenças um do outro, pois só assim quem sabe um dia o fumo se extingue de vez."
+  },
+  "redacao_gerada": {
+    "0": "O cigarro faz muito mal pra saúde das pessoas, isso todo mundo sabe.",
+    "1": "Por isso que acho que não deveria ser permitido fumar em qualquer lugar, porque quem não fuma acaba sendo prejudicado também.",
+    "2": "A fumaça do cigarro causa doença e é ruim pra todo mundo que tá perto.",
+    "3": "Deve ser proibido em todos os lugares, como em casa de amigo, no ônibus, no restaurante.",
+    "4": "É ruim pra quem fuma e pior ainda pra quem não fuma.",
+    "5": "A gente tem que pensar na saúde de todos e não só de quem gosta de fumar.",
+    "6": "É importante que o governo tome uma atitude e proiba o cigarro em todos os lugares fechados e abertos.",
+    "7": "Acho que fumar é um vício ruim e que prejudica muito.",
+    "8": "Por isso, a proibição é a melhor coisa a ser feita para o bem de todos.",
+    "9": "Não é justo que quem não fuma tenha que respirar a fumaça dos outros.",
+    "10": "A lei tem que ser para proteger as pessoas mais fracas.",
+    "11": "Deve ser proibido em qualquer lugar, sem exceção.",
+    "12": "Assim, as pessoas vão parar de fumar e tudo vai ficar melhor.",
+    "13": "Assim, todos poderão respirar melhor e ter uma vida mais tranquila e sem doenças.",
+    "14": "A proibição em todos os lugares é fundamental para a saúde pública.",
+    "15": "Assim, o país terá menos doentes e mais pessoas felizes.",
+    "16": "Deve ser proibido em todos os lugares, sem discussão.",
+    "17": "É uma questão de saúde e bem-estar para toda a sociedade.",
+    "18": "A proibição total é o caminho certo.",
+    "19": "Assim, todos ganham e ninguém perde, pois a saúde é o bem maior.",
+    "20": "A proibição do fumo em todos os lugares é necessária para a saúde de todos.",
+    "21": "Assim, o Brasil será um país mais saudável.",
+    "22": "Deve ser proibido em qualquer lugar, sem exceção.",
+    "23": "A saúde de todos é mais importante que o vício de alguns.",
+    "24": "A proibição total é a única solução.",
+    "25": "Assim, todos respirarão um ar mais puro."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "20"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "5",
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2",
+        "20"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "20"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "5",
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "20"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "20",
+        "29"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "5",
+        "0"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "14",
+        "20",
+        "29"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "5",
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "20"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "20"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "5",
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "20"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "5",
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "20"
+      ]
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": [
+        "5",
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "17": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "20"
+      ]
+    },
+    "18": {
+      "comando_tematico": [
+        "5",
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "20"
+      ]
+    },
+    "19": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "20"
+      ]
+    },
+    "20": {
+      "comando_tematico": [
+        "5",
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "20"
+      ]
+    },
+    "21": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "22": {
+      "comando_tematico": [
+        "5",
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "23": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "20",
+        "29"
+      ]
+    },
+    "24": {
+      "comando_tematico": [
+        "5",
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "20"
+      ]
+    },
+    "25": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

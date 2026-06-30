@@ -1,0 +1,144 @@
+{
+  "tema": "o-que-voce-acha-do-novo-acordo-ortografico",
+  "comando_tematico": {
+    "frases": {
+      "0": "O que você acha do novo Acordo Ortográfico?",
+      "1": "Está em vigor o Acordo Ortográfico que unifica a escrita em todos os países que falam português.",
+      "2": "Ainda causador de dúvidas e polêmicas, o Acordo mudou a grafia de apenas 0,5% das palavras escritas no Brasil.",
+      "3": "Para muitas pessoas, esse assunto é indiferente.",
+      "4": "Mas quem usa obrigatoriamente a ortografia oficial, como professores, jornalistas, redatores, editores, escritores e estudantes, tem muito o que decorar.",
+      "5": "\"Esse Acordo só interessa ao Brasil\", já gritaram certos portugueses.",
+      "6": "\"É útil e facilitará o intercâmbio cultural entre países lusófonos\", retrucam especialistas.",
+      "7": "O fato é que até 2012, o país precisa se adequar às novas regras.",
+      "8": "O que você acha desse Acordo?",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Bom para a unidade e prestígio dos países?",
+      "1": "\"Para [Evanildo] Bechara, a reforma ortográfica é necessária para defender a língua portuguesa.",
+      "2": "Trata-se do único idioma falado por um grupo majoritário - mais de 230 milhões de pessoas - no mundo a ter duas grafias diferentes.",
+      "3": "É essencial que o português se apresente com uma única vestimenta gráfica.",
+      "4": "Para manter o prestígio e para que seja mais bem ensinado e compreendido por todos\".",
+      "5": "[Sylvia Colombo.",
+      "6": "Folha de S.",
+      "7": "Paulo.",
+      "8": "Ilustrada, 29 ] Somos 230 milhões no mundo [Veja, Especial, idioma.",
+      "10": "São Paulo: Abril.",
+      "11": "Ed.",
+      "13": "Ano 41, nº 52: 31 ] O (des)acordo ortográfico \"Nesta Folha e em outros veículos, já expressei claramente minha oposição a esse estéril e inoportuno Acordo, cujo custo supera o suposto benefício.",
+      "14": "Respeito profundamente a posição (.",
+      "17": ") de homens da estatura e dignidade do lexicógrafo Mauro Villar, [.",
+      "20": "] e do professor Evanildo Bechara, mas, do baixo da minha insignificância, ouso perguntar: não teria sido melhor esperar que tudo estivesse realmente pronto para \"cortar a fita do Acordo?",
+      "21": "\" [Pasquale Cipro Neto.",
+      "22": "Folha de S.",
+      "23": "Paulo.",
+      "24": "Cotidiano, 1 ] Um Acordo e várias vozes \"Buemba!",
+      "25": "Buemba!",
+      "29": "] Novidades da reforma, ops, do puxadinho ortográfico.",
+      "30": "Tem um botequim no Rio que tá vendendo lingüiça com trema e linguiça sem trema.",
+      "31": "Com molho e sem molho!",
+      "32": "Rárará!",
+      "33": "\" [José Simão.",
+      "34": "Folha de S.",
+      "35": "Paulo.",
+      "36": "Ilustrada,.",
+      "37": "E9.",
+      "39": "\"Pára tudo, tivemos uma idéia ótima.",
+      "40": "Quer dizer.",
+      "43": "Para tudo, tivemos uma ideia ótima.",
+      "44": "Estranho, não?",
+      "48": ") Nós continuaremos a gritar: PARA TUDO!",
+      "49": "Mas olha como é ruim gritar isso sem acento!",
+      "50": "O acento confere drama, pressa, desespero.",
+      "51": "E não, não deixaremos de ser desesperadas nem dramáticas (.",
+      "56": "Mas teremos de escrever desse jeito, porque é o que manda a reforma ortográfica que começa a funcionar (.",
+      "60": "[Jô Hallack, Nina Lemos, Raq Affonso.",
+      "61": "(02 Neurônios) Folha de S.",
+      "62": "Paulo.",
+      "63": "Folhateen, 6 ] [.",
+      "66": "] Vou sentir falta da velha ortografia, uma falta nada nostálgica, mas visual.",
+      "67": "\"O voo, sem o circunflexo, parece que ficou mais raso e pesado.",
+      "72": "E o que dizer da nova 'ideia'?",
+      "73": "Sem o acento agudo tornou-se grave, fechada (.",
+      "77": "E os tremas, esses dois pontinhos suspensos, olhinhos fixos que davam tanta graça e elegância à letra 'u'?",
+      "78": "[Milton Hatoum.",
+      "79": "O Estado de S.",
+      "80": "Paulo.",
+      "81": "Caderno 2, 9 ] [.",
+      "84": "] O atroz dilema do hífen (co-abitar ou coabitar?",
+      "85": "), o degredo do acento agudo de palavras como jiboia e averigue e a horrível morte de certos circunflexos estão levando gramáticos às fuças.",
+      "90": "Sem o chapeuzinho, por exemplo, como conjugar verbos como coar e moer?",
+      "91": "Eu coo, eu moo?",
+      "95": ") Enquanto isso, os dois inocentes pontinhos sobre linguiça, quinquênio, pinguim etc foram varridos pelos linguístas sem a menor contemplação.",
+      "98": "[Ruy Castro.",
+      "99": "Folha de S.",
+      "100": "Paulo, Opinião."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Meus professores me diziam há bem pouco tempo atrás que idéia tinha acento agudo, que usava-se acento diferencial para distinguir as palavras, e que lingüiça e conseqüência sempre levavam trema.",
+    "1": "Todavia, sempre é uma definição vasta demais e além de tudo, perigosa.",
+    "2": "\"A casa caiu\".",
+    "3": "O conceito que estava definido para os estudantes, para os professores, gramáticos, publicitários, advogados e falantes da língua se retirou de cena sem nem sequer receber aplausos ou vaias.",
+    "4": "Só se foi.",
+    "5": "O trema vai deixando aos poucos nossas gramáticas, os hífens mudam de lugar, somem e desaparecem nas palavras nos dicionários.",
+    "6": "Não, não é o fim do mundo, é a Reforma .",
+    "7": "Mudar padrões, conceitos e temas que já têm espaço garantido é um desafio.",
+    "8": "Desafio de aceitação, desafio de adaptação, de coerência e de padronização.",
+    "9": "Para um jovem de hoje, pensar que o bê-á-bá que seus filhos aprenderão será diferente do seu, assusta.",
+    "10": "Para qualquer um de nós, pensar que a nossa antiga infra-estrutura vai virar a enorme infraestrutura com todas as letras juntas, assusta.",
+    "11": "E que qualquer feito heróico não será mais heróico, será pura e simplesmente heroico, assusta também.",
+    "12": "O começo é descoberta, espanto, pasmo.",
+    "13": "O que era de nosso domínio, sai da nossa \"zona de conforto\" e começa a fugir de nossas mãos.",
+    "14": "É difícil pensar que uniformizar a língua talvez seja cortar suas asas.",
+    "15": "É tão bonito ver as diferenças, as singularidades e até aquele jeito \"abrasileirado\" de falar, que, depois de um tempo, deixou de ser incorreto para virar informal, idiossincrático.",
+    "16": "A cristalização é que não é bonita.",
+    "17": "Ela é densa, pesada demais.",
+    "18": "E essa linguagem densa, sobrecarregada, linguagem de terno e gravata, enfadonha, nada tem a ver com o nosso espírito brasileiro que é leve, expansivo e tem aquele tempero que é diferente em cada um de nós.",
+    "19": "E se um dia ninguém lembrar do trema?",
+    "20": "Verdade é que muitas pessoa não sabiam utiliza-lo , mas ele estava lá.",
+    "21": "Será que, quando finalmente formos obrigados a fazer uso da língua reformada, não sentiremos um vazio nas gramáticas e lembramos com saudade dos \"dois pinguinhos em cima do u\"?",
+    "22": "Será que a feiúra vai ficar mais feia sem acento, ou a pêra vai ser menos suculenta sem o gracioso \"chapeuzinho\" acima do e?",
+    "23": "É fato que terão que se adaptar os livros, os anúncios, os romances, as bulas de remédio, os roteiros de viagem, as provas, os encartes de supermercado...",
+    "24": "Mas, e nós?",
+    "25": "Será que conseguiremos apagar e depois preencher as lacunas da nossa memória?",
+    "26": "Mudar é preciso, mas ninguém nunca disse que era fácil."
+  },
+  "redacao_gerada": {
+    "0": "A nova ortografia da lingua portuguesa veio para mudar algumas coisas na escrita.",
+    "1": "Ela unifica a forma de escrever em todos os lugares que falam português, como em Portugal e no Brasil.",
+    "2": "Muita gente acha que isso é bom para deixar tudo igual, mas outros ficam confusos com as novas regras que aparecem."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0",
+        "2",
+        "3"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "13",
+        "20"
+      ]
+    }
+  }
+}

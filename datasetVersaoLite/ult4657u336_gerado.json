@@ -1,0 +1,160 @@
+{
+  "tema": "o-que-voce-acha-do-ensino-nas-escolas-do-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "O que você acha do ensino nas escolas do Brasil?",
+      "1": "Políticos, educadores, professores, pesquisadores e alunos têm falado muito sobre a qualidade da aprendizagem nas escolas e faculdades do país.",
+      "2": "Muitos pais estão satisfeitos; os alunos falam bem ou mal de suas aulas (o que sempre aconteceu); professores reclamam dos salários, mas, em geral, se consideram aptos para ensinar; os governos anunciam incansáveis medidas para a melhoria do ensino.",
+      "3": "Entretanto, se há situações de excelente formação Brasil afora, o país tem ocupado posições muito baixas nos rankings mundiais de ensino e aprendizagem.",
+      "4": "Você, que já foi à escola e que vai para a universidade ou já foi: o que acha educação no Brasil?",
+      "5": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Pais e professores estão satisfeitos \"De modo geral, [.",
+      "3": "] os pais brasileiros não se envolvem como deveriam na vida escolar dos filhos.",
+      "4": "Os mais pobres dão graças aos céus pelo fato de a escola fornecer merenda, segurança e livros didáticos gratuitos.",
+      "5": "Os de classe média se animam com as quadras esportivas, a limpeza e [.",
+      "8": "] exigências [.",
+      "11": "] calibradas 'para não forçar o ritmo dos menos capazes'.",
+      "12": "Para 89% dos pais com filhos em escolas particulares, o dinheiro é bem gasto e tem bom retorno.",
+      "13": "No outro campo, 90% dos professores se consideram bem preparados para a tarefa de ensinar.",
+      "14": "\" [Monica Weinberg e Camila Pereira.",
+      "15": "Veja, 20 de agosto, 2008,.",
+      "16": "72] Constatação jornalística A educação vai bem, obrigado.",
+      "19": "\"Já estou um pouco cansada de responsabilizar apenas os sistemas pelos problemas de uma sociedade.",
+      "24": "Não sou professora, mas se fosse não gostaria de ser culpada pela existência de alunos como este (acima).",
+      "25": "Já disse uma vez nesse blog e repito: nenhum sistema educacional e nenhum professor pode fazer pelo aluno algo que cabe só a ele: estudar [Arthemísia 3 ; http: ] O que dizem outras pesquisas \"O Brasil está em 52º lugar em ciências e em 53º em matemática - em uma lista de 57 países.",
+      "26": "E 60% dos estudantes chegam ao fim da 8ª série sem saber interpretar um texto ou efetuar operações matemáticas simples\" [Inep e OCDE, agosto ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Falar sobre o ensino das escolas no Brasil não é difícil, principalmente das públicas, pois todos sabemos que deixa muito a desejar.",
+    "1": "Mas também tem um detalhe muito importante, é que cabe a cada um fazer sua diferênça  , pois se os alunos detêrem-se apenas a sala de aula fica difícil, tem de correr atráz com determinação, pois na escola é teori     a, mas temos a chance de praticar todos os dias, aquilo que estamos sempre aprendendo.",
+    "2": "O ensino é bom, tanto o público como o privado, porém poderia ser melhor, mais exigido, mas cobrado mas fiscalizado, e mais dinâmico.",
+    "3": "Além de tudo isso, difere muito de uma região para outra até mesmo de escola pra escola na mesma cidade.",
+    "4": "Depende muito da administração de cada escola e do sistema de ensino de cada professor.",
+    "5": "É o professor que faz toda diferênça na sala de aula.",
+    "6": "Se ele é dinâmico, extrovertido, criativo,e deseja realmente vê os frutos do seu trabalho, consequentemente , seus alunos seguirão seu rítimo .",
+    "7": "Pelo menos a maioria.",
+    "8": "Para insentivar os professores e administradores das escolas, deveriam ser criados centros de treinamentos, congressos, e conferências anuais, bonus de gratificação por bom desempenho, e também melhores condições de trabalho.",
+    "9": "A educação, é uma causa que se fosse abraçada com muita garra pelos governantes.",
+    "10": "Daqui alguns anos esse país seria de primeiro mundo."
+  },
+  "redacao_gerada": {
+    "0": "A educação nas escolas do Brasil é um assunto muito discutido e que precisa de atenção.",
+    "1": "Na minha opinião, o ensino tem muitos problemas que precisam ser resolvidos logo.",
+    "2": "As escolas muitas vezes não oferecem o que os alunos precisam para aprender de verdade e se preparar para o futuro.",
+    "3": "Um dos principais problemas é a falta de estrutura e recursos em muitas escolas públicas.",
+    "4": "Os prédios são velhos, faltam materiais básicos como livros e computadores, e os laboratórios não funcionam direito.",
+    "5": "Isso dificulta muito o trabalho dos professores e o aprendizado dos estudantes, que acabam sem ter a chance de explorar todo o seu potencial.",
+    "6": "Além disso, a qualidade do ensino em si deixa a desejar.",
+    "7": "Muitos professores não são valorizados e recebem salários baixos, o que desmotiva a profissão.",
+    "8": "Os currículos também parecem desatualizados e não preparam os alunos para os desafios do mundo moderno, como tecnologia e novas formas de trabalho.",
+    "9": "A gente vê que o Brasil fica atrás em rankings internacionais, mostrando que algo está errado.",
+    "10": "Por isso, é preciso que o governo e a sociedade invista mais em educação, melhorando a estrutura das escolas, valorizando os professores e atualizando o que é ensinado.",
+    "11": "Somente assim poderemos ter um ensino de qualidade que prepare todos os alunos para ter um futuro melhor e para o país crescer."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "26"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "13",
+        "26"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3",
+        "26"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "13"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "26"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3",
+        "25"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

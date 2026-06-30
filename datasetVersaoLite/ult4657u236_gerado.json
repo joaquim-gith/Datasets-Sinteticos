@@ -1,0 +1,153 @@
+{
+  "tema": "favela-e-cidade-as-distancias-sociais-desapareceram",
+  "comando_tematico": {
+    "frases": {
+      "0": "Favela e cidade: as distâncias sociais desapareceram?",
+      "1": "Cortiços ou favelas têm sido, na história do Brasil, comunidades tidas como lugares de exclusão social.",
+      "2": "Nos cortiços do Rio de Janeiro do século 19, pobres, imigrantes e negros libertos foram mostrados pela literatura de modo determinista, como criaturas consumidas pela animalidade.",
+      "3": "Isso era suficiente para separar os \"verdadeiros\" cidadãos dos excluídos.",
+      "4": "Entretanto, no século 20, as favelas emergem com força político-social e se impõem ao mundo dito \"organizado\" tanto do ponto de vista financeiro, quanto do ponto de vista social.",
+      "5": "Hoje, no século 21, talvez tenhamos chegado a um ponto de intersecção social diferente: quem é quem, se o mundo de todos é o mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O glamour dos morros no mundo contemporâneo Maquete usada por Hans Donner nas imagens de abertura da novela \"Duas Caras\" Hoje, o processo da globalização na cultura de massa transformou a vida na favela em comunidade exemplar, inserindo-a até em telenovela.",
+      "1": "A favela da Portelinha (Duas Caras, Rede Globo, 2008) não tem tiroteios nem assaltos nem drogas nem afrouxamento da moral - imposta com autoridade de \"coronel\" por Juvenal Antena.",
+      "2": "Seus moradores vão à universidade, são cineastas, políticos e pequenos empresários.",
+      "3": "A cidade vai à favela, onde está o melhor restaurante português, e negros e brancos, mesmo num país tão miscigenado como o nosso, nunca se amaram tanto como na polêmica telenovela de Aguinaldo Silva.",
+      "4": "O acordar no cortiço naturalista \"Eram cinco horas da manhã e o cortiço acordava (.",
+      "7": ") das portas surgiram cabeças congestionadas de sono.",
+      "11": ") Daí a pouco, em volta das bicas era um zunzum crescente; uma aglomeração tumultuosa de machos e fêmeas.",
+      "12": "Uns, após outros, lavavam a cara, incomodamente, debaixo do fio de água que escorria da altura de uns cinco palmos.",
+      "13": "O chão inundava-se.",
+      "14": "As mulheres (.",
+      "17": "), via-se-lhes a tostada nudez dos braços e do pescoço, que elas despiam, suspendendo o cabelo todo para o alto do casco; os homens, esses não se preocupavam em não molhar o pêlo, ao contrário metiam a cabeça bem debaixo da água e esfregavam com força as ventas e as barbas, fossando e fungando contra as palmas da mão.",
+      "18": "As portas das latrinas não descansavam, era um abrir e fechar de cada instante, um entrar e sair sem tréguas.",
+      "20": "Sentia-se (.",
+      "23": ") o prazer animal de existir, a triunfante satisfação de respirar sobre a terra.",
+      "24": "(\"O Cortiço, Aluísio Azevedo, 1890).",
+      "25": "Refavela A refavela Revela aquela Que desce o morro e vem transar O ambiente Efervescente De uma cidade a cintilar (\"Refavela\", Gilberto Gil, 1977) Inspiração A \"Cadeira Favela\" foi criada pelos premiados designers brasileiros, Fernando e Humberto Campana, com sarrafos de madeira recolhidos em vários lugares.",
+      "26": "Passou a ser produzida na Itália, pela empresa Edra, em 2003.",
+      "27": "A \"Favela\" apareceu em revistas de design internacionais e no jornal \"The New York Times\".",
+      "28": "Também está em exposição no Museu Georges Pompidou, em Paris, e no Museu de Arte Moderna, em Nova York."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "As periferias têm sua representatividade !",
+    "1": "Favelas, morros e comunidades vêm conquistando espaço no contexto social do Brasil.",
+    "2": "As periferias das grandes cidades elegem seus políticos e são rotas de turismo, mas ainda se deparam com o problema da violência.",
+    "3": "Os moradores das comunidades carentes são constantemente discriminados.",
+    "4": "São tachados de \"favelados\" e logo associado ao tráfico e à bandidagem.",
+    "5": "Mas com o processo de urbanização de favelas e o aumento do acesso de seus jovens a informação, esporte e cultura, o preconceito com estes moradores vêm diminuindo.",
+    "6": "Como estas áreas, em sua maioria, são populosas, existem vereadores e deputados eleitos com campanhas feitas dentro das periferias, com plataformas de governo voltadas à comunidade.",
+    "7": "É comum jovens de classe média e alta aderir a movimentos nascidos nos morros.",
+    "8": "Principalmente músicas e danças.",
+    "9": "A favela da rocinha, no Rio de Janeiro, com mais de 200 mil habitantes, é considerada a maior do mundo.",
+    "10": "E apesar de constantes conflitos entre traficantes e policiais, é um dos pontos turísticos da cidade.",
+    "11": "Movimentos culturais, atividades esportivas e inclusão digital são úteis para afastar crianças e adolescentes da violência nas favelas.",
+    "12": "Programas sociais dos governos que contribuem para integração entre classes, farão diminuir a \"distância\" entre os bairros nobres e as comunidades Carentes .",
+    "13": "É um processo lento, em uma sociedade que, historicamente, demora a se adaptar diante de uma nova tendência: as favelas tendo tanta importância social como já possuem importância geográfica."
+  },
+  "redacao_gerada": {
+    "0": "A questão sobre o desaparecimento das distâncias sociais entre a favela e a cidade no Brasil contemporâneo é complexa e multifacetada.",
+    "1": "Historicamente, as favelas eram vistas como redutos de exclusão, onde a pobreza e a marginalidade imperavam, separando os cidadãos \"de bem\" daqueles considerados indesejáveis.",
+    "2": "Essa segregação espacial e social era reforçada pela literatura da época, que frequentemente retratava seus habitantes de forma pejorativa.",
+    "3": "Contudo, com o avanço do século XX, as comunidades de baixa renda ganharam visibilidade e força, impondo sua presença ao tecido urbano e social.",
+    "4": "No cenário atual, a linha que separa a favela da cidade parece mais tênue, especialmente com a influência da cultura de massa e da mídia.",
+    "5": "Telenovelas, como \"Duas Caras\", apresentaram uma visão idealizada da vida nas favelas, retratando-as como espaços vibrantes, com moradores engajados em diversas atividades produtivas e sociais, desprovidos dos problemas habituais como violência e drogas.",
+    "6": "Essa representação midiática contribui para uma percepção de integração, onde a favela não é mais apenas um local de exclusão, mas um componente ativo e até charmoso da paisagem urbana.",
+    "7": "Entretanto, essa aparente fusão social não deve mascarar as desigualdades persistentes.",
+    "8": "Apesar de alguns moradores ascenderem social e economicamente, e de a cidade, em certo sentido, \"ir à favela\" através de empreendimentos e lazer, a infraestrutura precária e o acesso limitado a serviços básicos ainda são realidades marcantes em muitas dessas comunidades.",
+    "9": "A proximidade física não garante, por si só, a equidade social, e o \"glamour\" superficial difundido pela mídia pode ofuscar as lutas diárias pela dignidade e pelo direito à cidade.",
+    "10": "Portanto, para que as distâncias sociais realmente desapareçam, é fundamental que o Estado atue de forma mais efetiva.",
+    "11": "É necessário investir em políticas públicas que promovam a urbanização e a melhoria da infraestrutura nas favelas, garantindo acesso igualitário à educação, saúde, saneamento básico e oportunidades de trabalho.",
+    "12": "Além disso, é preciso combater o preconceito e a estigmatização, promovendo o diálogo e a convivência entre todos os cidadãos, a fim de construir uma cidade verdadeiramente inclusiva."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "24"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "25"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

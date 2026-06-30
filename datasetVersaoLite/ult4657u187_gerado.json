@@ -1,0 +1,155 @@
+{
+  "tema": "fomos-dominados-pelas-maquinas-que-inventamos",
+  "comando_tematico": {
+    "frases": {
+      "0": "Fomos dominados pelas máquinas que inventamos?",
+      "1": "Já não conseguimos viver sem celular, computador, internet e outros poderosos recursos tecnológicos.",
+      "2": "Queiramos ou não, eles transformaram o mundo durante o século 20 e ingressaram no século 21 com uma velocidade espantosa.",
+      "3": "Muita gente se adapta rapidamente às novidades e nem lembra como era a vida sem elas.",
+      "4": "Para outros, porém, ocorre uma dúvida: nossa existência seria melhor ou pior sem tudo isso?",
+      "5": "Seríamos diferentes?",
+      "6": "Há quem odeie e quem ame irrestritamente essas máquinas.",
+      "7": "Qual é nossa relação com os avanços da tecnologia?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ser humano se tornou uma extensão da roda O Rio chegou a 2 milhões de carros; São Paulo, a 6 milhões.",
+      "1": "No Rio, é um carro para cada três habitantes; em São Paulo, são dois.",
+      "2": "O automóvel venceu.",
+      "3": "O comunicólogo Marshal McLuhan, talvez a única voz otimista de 1968, errou feio: o ser humano é que se tornou uma extensão da roda.",
+      "4": "Mas, em 2008, quem quiser chegar rapidinho a qualquer lugar, é melhor que vá a pé.",
+      "5": "Ruy Castro, \"Folha de S.",
+      "6": "Paulo\", 17 Estresse ou vida partilhada Glauco, \"Folha de S.",
+      "7": "Paulo\", 05 A máquina e o poeta Cota Zero Stop.",
+      "8": "A vida parou Ou foi o automóvel?",
+      "9": "Carlos Drummond de Andrade (1902-1987, \"Alguma Poesia\", 1930) Os sábios e a cultura \"Com o aparecimento da escrita, alguns sábios temeram que o conhecimento, que antes estava vivo na cabeça, viria a morrer, esquecido nas páginas de um livro.",
+      "10": "Com a expansão dos meios de comunicação e a conseqüente chuva de informações, alguns sábios temeram que o conhecimento (.",
+      "13": ") viria a degenerar-se em papel de embrulhar peixe e ondas espalhadas no espaço.",
+      "14": "Com a explosão da internet (.",
+      "17": "), e a extrema facilidade de encontrar uma informação, alguns sábios temem que tudo acabe em desinteresse.",
+      "18": "Luiz Zico Rocha Soares, (\"Internet, um mundo paralelo\".",
+      "19": "Melhoramentos, 2007,."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "A tecnologia está presente na vida de qualquer pessoa, em diversos momentos do cotidiano.",
+    "1": "Essa existência faz com que as pessoas usufruam e dependam cada vez mais das facilidades que ela proporciona.",
+    "2": "Entretanto, existe aqueles que se viciam de forma negativa e, ainda, os que são excluídos de alguma forma da sociedade por não aderirem a essas novidades.",
+    "3": "Os jovens são, sem dúvida, os maiores beneficiados com as facilidades provenientes das máquinas.",
+    "4": "Eles possuem maior capacidade de aprendizagem e absorvem as informações necessárias em menos tempo.",
+    "5": "Hoje em dia, é raro encontrar um adolescente sem celular ou sem algum meio de acesso à internet.",
+    "6": "É incrível a rapidez com que a informação chega às pessoas: o que antes levava semanas ou meses para se tomar conhecimento, atualmente não passam de horas ou, até mesmo, minutos.",
+    "7": "Ocorre que nada em excesso é bom, e tal fato não é diferente em relação à tecnologia.",
+    "8": "O grande número de carro nas ruas ocasiona, todos os dias, em São Paulo, um engarrafamento de mais de cem quilômetros.",
+    "9": "A tamanha quantidade de páginas na internet pode também ser vista como banalização da informação, permitindo muitas vezes a propagação de falsas verdades, afinal, é praticamente impossível fiscalizar cada site da rede.",
+    "10": "Apesar de alguns acharem, por exemplo, que há coisas que podem ser ditas de um jeito melhor por telefone ou via internet, há outros que crêem que isso afeta as relações entre as pessoas e que, ao longo do tempo, elas perdem a capacidade de se expressar pessoalmente.",
+    "11": "A realidade é que a máquina foi, é e será criada a fim de ajudar o ser humano.",
+    "12": "Com certeza a vida de inúmeras pessoas seria muito mais complicada sem geladeira, celular ou carro.",
+    "13": "Basta, apenas, cada um definir até onde a tecnologia deve entrar em sua própria vida."
+  },
+  "redacao_gerada": {
+    "0": "A relação entre o homem e as máquinas que ele mesmo criou se tornou complexa e, em muitos aspectos, preocupante.",
+    "1": "Vivemos em uma era onde a tecnologia permeia quase todos os aspectos da nossa vida, desde a comunicação instantânea até a automação de tarefas cotidianas.",
+    "2": "Essa dependência crescente levanta questionamentos sobre quem, de fato, controla quem, sugerindo que fomos, em certa medida, dominados pelas ferramentas que deveriam nos servir.",
+    "3": "A velocidade com que essas inovações surgem e se integram ao nosso cotidiano dificulta uma análise crítica e profunda de seus impactos reais.",
+    "4": "É inegável que as máquinas trouxeram avanços significativos, facilitando a vida e expandindo horizontes.",
+    "5": "Contudo, essa comodidade frequentemente vem acompanhada de uma perda de autonomia e de habilidades essenciais.",
+    "6": "A constante necessidade de estar conectado, por exemplo, gera ansiedade e afeta as interações sociais presenciais, criando um paradoxo onde a tecnologia que deveria nos aproximar nos isola.",
+    "7": "A automação, embora aumente a eficiência, também levanta preocupações sobre o futuro do trabalho e a desvalorização do esforço humano.",
+    "8": "O ser humano se tornou uma extensão da máquina, perdendo sua capacidade de ação autônoma.",
+    "9": "Nesse cenário, é fundamental repensar nossa interação com a tecnologia.",
+    "10": "Precisamos recuperar o controle, utilizando as máquinas como ferramentas e não como mestres.",
+    "11": "Para isso, é necessário um esforço consciente de limitar o uso excessivo, promovendo atividades offline que fortaleçam as conexões humanas e as habilidades individuais.",
+    "12": "O governo, em parceria com instituições de ensino, deve promover campanhas de conscientização sobre o uso saudável da tecnologia e investir em programas de requalificação profissional para adaptar os trabalhadores às novas demandas do mercado, garantindo que o projeto humano permaneça no centro do desenvolvimento tecnológico."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "10",
+        "13",
+        "14",
+        "17"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3",
+        "0"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

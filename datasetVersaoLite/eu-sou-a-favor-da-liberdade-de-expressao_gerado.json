@@ -1,0 +1,208 @@
+{
+  "tema": "ha-limites-para-a-liberdade-de-expressao",
+  "comando_tematico": {
+    "frases": {
+      "0": "Há limites para a liberdade de expressão?",
+      "1": "No dia 7 de janeiro deste ano, terroristas islâmicos mataram a tiros de fuzil 12 pessoas e feriram 11 na Redação do jornal satírico \"Charlie Hebdo\", em Paris, a pretexto de vingar o profeta Maomé, alvo frequente das charges da publicação.",
+      "2": "Apesar das muitas manifestações de repúdio ao ato terrorista, o atentado também acabou provocando uma polêmica sobre a liberdade de expressão.",
+      "3": "Para alguns, ela deve ser geral e irrestrita, pois, se houver limites, não existirá liberdade de fato.",
+      "4": "Outros, consideram que há temas como a religião, que devem ser preservados, pois o direito de se expressar livremente não inclui a possibilidade de ofender.",
+      "5": "Há ainda quem defenda que a liberdade tem de coexistir com a responsabilidade e se submeter a uma ética.",
+      "6": "Como você se coloca diante desse debate?",
+      "7": "Exponha seu ponto de vista e o defenda com argumentos numa dissertação que discuta a liberdade de expressão, com ou sem limites.",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Capas do jornal satírico \"Charlie Hebdo\": humor provocativo, que entrou na mira de grupos terroristas \"Não concordo com nenhuma palavra do que dizes, mas defenderei até morrer o teu direito de dizê-lo.",
+      "1": "\" [ Frase atribuída a Voltaire, filósofo iluminista francês ] Expressão e democracia A liberdade de expressão, sobretudo sobre política e questões públicas é o suporte vital de qualquer democracia.",
+      "2": "Os governos democráticos não controlam o conteúdo da maior parte dos discursos escritos ou verbais.",
+      "3": "Assim, geralmente as democracias têm muitas vozes exprimindo idéias e opiniões diferentes e até contrárias.",
+      "4": "[ site da Embaixada dos Estados Unidos no Brasil ] O papa se pronuncia Um dia depois da publicação da nova edição do jornal satírico francês \"Charlie Hebdo\", o papa Francisco afirmou que a liberdade de expressão tem limite e não se pode \"provocar\" nem \"insultar\" a fé das pessoas.",
+      "8": ") \"Temos a obrigação de falar abertamente [sobre religião], temos esta liberdade.",
+      "9": "Mas sem ofender.",
+      "10": "Não se pode provocar, não se pode insultar a fé dos outros, não se pode tirar sarro dela\", disse.",
+      "11": "[ Folha de S.",
+      "12": "Paulo ] Liberdade de insultar O primeiro-ministro islamita-conservador turco, Ahmet Davutoglu, denunciou nesta quinta-feira (15 ) a publicação de uma nova charge do profeta Maomé na capa da revista satírica “Charlie Hebdo”, ao considerar que a liberdade de expressão não é \"a liberdade de insultar\".",
+      "13": "\"A publicação da charge é uma grande provocação (.",
+      "16": ") liberdade de imprensa não significa liberdade de insultar\", declarou Davutoglu à imprensa em Ancara antes de viajar a Bruxelas.",
+      "17": "\"Não podemos aceitar os insultos ao profeta Maomé”, insistiu.",
+      "18": "[ Correio Braziliense ] Liberdade com responsabilidade Podemos pôr em risco a segurança e a vida de outras pessoas em nome da liberdade de expressão e do livre pensar?",
+      "19": "A liberdade de opinião e o direito de expressá-la são uma conquista social, não apenas um direito individual para servir aos interesses e ao narcisismo de pessoas ou de grupos.",
+      "20": "Portanto o livre exercício do direito de opinar, criticar, caricaturar e denunciar exige reflexão, responsabilidade e ética.",
+      "24": ") Não podemos transformar a liberdade de expressão em um dogma, pois os dogmas são antidemocráticos e geram autoritarismo e posições extremistas.",
+      "25": "[ Luiz Carlos Barreto, Folha de S.",
+      "26": "Paulo ] Sem mas.",
+      "29": "O problema da liberdade da expressão é o \"mas.",
+      "32": "\", assim, com reticências.",
+      "33": "\"Sou a favor da liberdade de expressão, mas.",
+      "36": "\" E cada um tem o seu mas e as suas reticências.",
+      "37": "Se os mas e as reticências de todo mundo forem levados em conta, a liberdade de expressão simplesmente deixará de existir.",
+      "38": "[ Carlos Lana, colaborador da Página 3 Pedagogia & Comunicação ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Antes de qualquer coisa temos que saber qual é o histórico do jornal Charlie Hebdo.",
+    "1": "Um jornal satírico, humor gratuito sempre atacando o islamismo, judaísmo e o catolicismo.",
+    "2": "Liberdade de expressão sim, mas sem ofender.",
+    "3": "Faz tempo que o jornal vem desrespeitando a religião islâmica.",
+    "4": "Algumas de suas publicações como, representando o profeta Maóme (o que é extremamente proibido); chamando o Alcorão de merda (livro sagrado dos muçulmanos); uma série de ofensas contra o Islã.",
+    "5": "Insultar seria liberdade de expressão?!",
+    "6": "O jornal queria chamar a atenção e conseguiu, atacando, chocando com imagens tão fortes, denegrindo a imagem da religião.",
+    "7": "Eles fazem tudo isso, depois querem se defender usando como critério a liberdade de se expressar, questionado a população.",
+    "8": "Entretanto eles desprezam outras religiões como o catolicismo, judaísmo, foram racistas em retratar uma ministra como macaca.",
+    "9": "etc.",
+    "10": "Humor está e sempre estará ligada a  inteligência,          sendo uma pessoa inteligente com certeza saberá fazer uma sátira com qualidade e engraçada.",
+    "11": "O jornal Charlie Hebdo é um humor gratuito, não é inteligente."
+  },
+  "redacao_gerada": {
+    "0": "A liberdade de expressão é um pilar fundamental em sociedades democráticas, permitindo o debate aberto e a circulação de ideias.",
+    "1": "Contudo, é inegável que essa liberdade encontra seus limites quando entra em conflito com outros direitos e princípios igualmente importantes.",
+    "2": "A questão central reside em onde traçar essa linha divisória, evitando tanto a censura quanto o desrespeito indiscriminado.",
+    "3": "Um dos argumentos mais fortes para a existência de limites reside na proteção contra discursos de ódio e incitação à violência.",
+    "4": "A história nos mostra que a ausência de controle sobre certas manifestações pode levar a consequências devastadoras, como visto em eventos trágicos onde a intolerância se manifestou de forma brutal.",
+    "5": "Permitir que a liberdade de expressão se torne um escudo para a disseminação de ódio é, paradoxalmente, minar a própria democracia que ela deveria sustentar.",
+    "6": "Outro ponto relevante é a necessidade de preservar a dignidade e o respeito às crenças alheias.",
+    "7": "Embora a crítica e a sátira sejam ferramentas válidas para o debate público, elas não devem ultrapassar o limite do insulto gratuito, especialmente quando se trata de temas sensíveis como religião ou identidade cultural.",
+    "8": "A convivência pacífica em uma sociedade plural exige que os indivíduos considerem o impacto de suas palavras sobre os outros, promovendo um diálogo construtivo em vez de confrontos desnecessários.",
+    "9": "Diante disso, é essencial que a liberdade de expressão seja exercida com responsabilidade e discernimento.",
+    "10": "O Estado, por meio de leis claras e aplicadas de forma justa, deve atuar para coibir abusos, garantindo que a expressão de opiniões não se traduza em ofensa ou ameaça à ordem social.",
+    "11": "É preciso, portanto, encontrar um equilíbrio que permita a livre manifestação do pensamento sem legitimar a intolerância e o desrespeito, assegurando um ambiente de respeito mútuo."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4",
+        "12",
+        "18",
+        "33"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "4",
+        "7"
+      ],
+      "textos_motivadores": [
+        "4",
+        "12",
+        "18",
+        "33"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "12",
+        "18",
+        "20"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": [
+        "1",
+        "12",
+        "13"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": [
+        "1",
+        "12",
+        "13",
+        "24"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "4",
+        "9",
+        "10",
+        "17"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "4",
+        "10",
+        "12",
+        "13"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10",
+        "19",
+        "20"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "5",
+        "7"
+      ],
+      "textos_motivadores": [
+        "18",
+        "20",
+        "33"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "2",
+        "20"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": [
+        "4",
+        "18",
+        "20"
+      ]
+    }
+  }
+}

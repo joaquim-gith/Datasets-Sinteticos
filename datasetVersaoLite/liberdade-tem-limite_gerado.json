@@ -1,0 +1,196 @@
+{
+  "tema": "o-papel-do-estado-na-vida-do-cidadao-e-das-nacoes",
+  "comando_tematico": {
+    "frases": {
+      "0": "O papel do Estado na vida do cidadão e das nações \"Você só olha da esquerda para a direita, o Estado te esmaga de cima para baixo\".",
+      "1": "Pichada no muro de um presídio do Rio de Janeiro, em circunstâncias muito particulares (veja a coletânea), essa frase traduz um conflito existente entre o Estado e o indivíduo, de um modo geral: em teoria, a máquina estatal existe para beneficiar o cidadão; na prática, essa relação muitas vezes se inverte.",
+      "2": "Há projetos políticos que valorizam o Estado, por entender que ele é o único órgão capaz de reparar as injustiças sociais.",
+      "3": "Outros consideram que o Estado deve ter seu poder muito restringido, para não ferir a liberdade do cidadão.",
+      "4": "Há ainda outros que consideram o Estado desnecessário, afirmando que o mercado e as empresas podem organizar a vida social em sua totalidade: a segurança pública, por exemplo, ficaria a cargo das empresas de seguro.",
+      "5": "Na sua opinião, qual dessas três posições lhe parecem mais sensata?",
+      "6": "Por quê?",
+      "7": "Redija uma dissertação, apresentando argumentos para defender o seu ponto de vista.",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ex-morador de rua Rafael Braga Vieira, 26, único condenado por participação nas manifestações realizadas do ano passado no RJ, foi punido com dez dias de solitária após aparecer em uma foto criticando o Estado nas redes sociais Uma definição de Estado O conceito de Estado - conforme é compreendido hoje - só começou a ser empregado no Renascimento e na Idade Moderna.",
+      "1": "Aproximadamente a partir do século 16, o termo Estado passa a designar uma realidade nova, que abrange um território cujos habitantes são governados por um poder central.",
+      "2": "Identifica-se, também, com a própria organização sociopolítica desse território.",
+      "3": "Portanto, cabe ao Estado fazer e aplicar as leis, recolher impostos, manter um exército que proteja seu território.",
+      "4": "Para garantia da ordem em seu interior e exterior, o Estado monopolizou os serviços essenciais.",
+      "5": "Isso exigiu o desenvolvimento de uma máquina administrativa, uma burocracia, formada por funcionários ou servidores públicos.",
+      "6": "[ UOL Educação ] Política: para quê política?",
+      "7": "O pior problema da política é que ela estimula a obediência e a submissão das massas.",
+      "8": "Enquanto os políticos do partido azul fingem culpar os políticos do partido vermelho, e os políticos vermelhos fingem rivalidade com os políticos azuis, as massas se comportam bovinamente como líderes de torcida, prendendo a respiração a cada embate público entre esses dois times, e sempre se mantendo submissas a ambos -- afinal, se seu time vencer as próximas eleições, aí sim as coisas poderão finalmente melhorar!",
+      "9": "Quando as pessoas pensam no governo, elas normalmente imaginam um grupo de 600 pessoas na capital federal tomando algumas decisões racionais.",
+      "10": "A verdade, no entanto, é que o governo é composto por milhões de empregados, sendo a esmagadora maioria impossível de ser demitida.",
+      "11": "Para piorar tudo, oceanos de dinheiro passam pelas mãos dessas pessoas diariamente.",
+      "12": "Esse arranjo é totalmente propício ao abuso de poder, e sempre será.",
+      "13": "Trata-se de um problema estrutural, o qual não pode ser resolvido apenas “votando nas pessoas certas”.",
+      "14": "[ Instituto Mises Brasil ] Um cidadão esmagado?",
+      "15": "O ex-morador de rua Rafael Braga Vieira, 26, único condenado por participação nas manifestações realizadas do ano passado no Rio de Janeiro, foi punido com dez dias de solitária após aparecer em uma foto criticando o Estado nas redes sociais.",
+      "16": "Na imagem, publicada pelo Facebook do DDH (Instituto de Defensores de Direitos Humanos), onde Rafael trabalha, ele aparece em frente a um muro do Instituto Penal Francisco Spargoli Rocha pichado com os dizeres \"você só olha da esquerda a direita, o Estado te esmaga de cima para baixo\".",
+      "17": "[ UOL Notícias ] Uma definição de liberdade “A única liberdade que merece esse nome é a de buscar nosso próprio bem, por nosso próprio caminho, enquanto não privarmos os outros do seu ou não os impedirmos de se esforçarem por consegui-lo.",
+      "18": "Cada um é o guardião natural de sua própria saúde, seja física, mental ou espiritual.",
+      "19": "A humanidade ganha mais ao consentir a cada um que viva à sua própria maneira do que ao obrigá-lo a viver à maneira dos outros.",
+      "20": "” (John Stuart Mill.",
+      "21": "Sobre a Liberdade.",
+      "22": "Edições 70."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "O objetivo do Estado é promover a boa convivência entre as pessoas presentes em seu território.",
+    "1": "Ele deve, de maneira equilibrada, garantir que as pessoas vivam da maneira que lhe convier, mas sem deixar que as individualidades alheias sejam desrespeitadas.",
+    "2": "Desde a queda da Bastilha, o mundo viu suas antigas formas serem dissolvidas  como consequência das liberdades individuais que foram asseguradas aos cidadãos          .",
+    "3": "Devido às novas formas de agir e pensar e, por ser movido, agora, segundo seus próprios interesses, o ser humano foi capaz de proezas jamais imaginadas.",
+    "4": "Desta  forma,          ficou evidente que o homem deve ser o único resposável pelo seu destino.",
+    "5": "Contudo, a liberdade individual não pode ser irrestrita.",
+    "6": "O livre arbítrio deve ser limitado de maneira que não obstrua a liberdade do outro.",
+    "7": "O papel do Estado, neste  contexto, é garantir a ordem e a prevalência dos direitos individuais e coletivos.",
+    "8": "Cabe a ele e somente a ele, através  das leis,          “pôr na balança” e decidir até que ponto determinada conduta pode ser aceita como uma expressão da liberdade individual ou uma transgressão aos direitos individuais alheios e aos coletivos.",
+    "9": "Portanto, diante do exposto , torna-se evidente o papel importante que a liberdade tem na história da humanidade.",
+    "10": "No entanto, é necessário entender que o Estado é o maior responsável pela manutenção dela  pois,          sem ele, ela seria muitas vezes confundida com libertinagem."
+  },
+  "redacao_gerada": {
+    "0": "O Estado tem um papel muito importante na vida das pessoas e também dos países.",
+    "1": "Ele é quem faz as leis e cuida para que todo mundo as siga.",
+    "2": "Sem o Estado, seria uma bagunça, cada um faria o que quisesse e ia ter muita briga.",
+    "3": "Por isso, ele é necessário para organizar a sociedade e para que tudo funcione direito.",
+    "4": "Muita gente pensa que o Estado só atrapalha, que ele é muito grande e gasta demais.",
+    "5": "Às vezes, parece que ele é pesado demais nas nossas vidas, cobrando muitos impostos e fazendo um monte de regras.",
+    "6": "Isso pode deixar as pessoas chateadas, pois elas querem ter mais liberdade para fazer suas coisas sem tanta interferência do governo.",
+    "7": "É um debate que sempre existe.",
+    "8": "Outras pessoas acham que o Estado é quem resolve os problemas mais difíceis, como a pobreza e a falta de escola.",
+    "9": "Eles acreditam que só o governo tem força para ajudar quem precisa e para garantir que todos tenham as mesmas oportunidades.",
+    "10": "Se o Estado não existir, essas pessoas podem ficar desamparadas e a desigualdade vai aumentar ainda mais.",
+    "11": "Portanto, o Estado precisa encontrar um jeito de ser forte para organizar o país e ajudar as pessoas, mas sem ser tão chato a ponto de atrapalhar a vida de todo mundo.",
+    "12": "Ele tem que equilibrar as coisas para que tanto o cidadão quanto a nação possam viver bem, com segurança e com liberdade para correr atrás dos seus sonhos e objetivos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "2",
+        "4"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "14",
+        "15",
+        "16"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "11",
+        "12",
+        "15",
+        "16"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "2",
+        "4"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ]
+    }
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "tema": "norma-culta-x-variantes-linguisticas-qual-deve-ser-a-posicao-da-escola",
+  "comando_tematico": {
+    "frases": {
+      "0": "Norma culta X variantes linguísticas: qual deve ser a posição da escola?",
+      "1": "Qualquer um, mesmo sem nunca ter passado pela escola, sabe que não pode falar sempre do mesmo jeito com todas as pessoas, pois, até mesmo entre os familiares, cada relação está marcada por um nível diferente de formalidade.",
+      "2": "A linguagem que usamos às vezes é mais informal, às vezes é mais séria, impessoal.",
+      "3": "Nessas situações menos pessoais, a norma culta é a mais adequada para garantir um contato respeitoso e mais claro entre os indivíduos.",
+      "4": "Por isso, quando o falante consegue variar a linguagem, adequando o nível de formalidade a suas intenções, à situação e à pessoa com quem fala, dizemos que ele possui boa competência linguística.",
+      "5": "O conhecimento das variedades linguísticas amplia nossas possibilidades de comunicação, mas é a norma culta que garante a manutenção de uma unidade linguística ao país.",
+      "6": "Com base nos textos da coletânea a seguir,"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Qualidades e valores Estão confundindo um problema de ordem pedagógica, que diz respeito às escolas, com uma velha discussão teórica da sociolinguística, que reconhece e valoriza o linguajar popular.",
+      "1": "Esse é um terreno pantanoso.",
+      "2": "Ninguém de bom-senso discorda de que a expressão popular tem validade como forma de comunicação.",
+      "3": "Só que é preciso que se reconheça que a língua culta reúne infinitamente mais qualidades e valores.",
+      "4": "Ela é a única que consegue produzir e traduzir os pensamentos que circulam no mundo da filosofia, da literatura, das artes e das ciências.",
+      "5": "A linguagem popular a que alguns colegas meus se referem, por sua vez, não apresenta vocabulário nem tampouco estatura gramatical que permitam desenvolver idéias de maior complexidade - tão caras a uma sociedade que almeja evoluir.",
+      "6": "Por isso, é óbvio que não cabe às escolas ensiná-la.",
+      "7": "[Evanildo Bechara, gramático e filólogo, em entrevista a revista Veja , 29 de maio de 2011] Samba do Arnesto O compositor Adoniran Barbosa usava a norma popular da língua portuguesa em suas canções.",
+      "8": "Veja a letra completa do Samba do Arnesto.",
+      "9": "“Menas: o certo do errado e o errado do certo” A ideia é provocadora e reflete um debate bem atual.",
+      "10": "Em cartaz desde 16 de março no Museu da Língua Portuguesa, em São Paulo, a exposição \"Menas: o certo do errado, o errado do certo\", tem a proposta manifesta de homenagear a variante popular do idioma no Brasil.",
+      "11": "A exposição, que fica no museu até 27 de junho, começa na estação de metrô Luz, onde cerca de trinta banners trazem frases com os chamados tropeços comuns no português falado no Brasil, de \"A nível de língua, ninguém sabe tudo\" a \"Ele vai vim para a festa\".",
+      "12": "O objetivo é fazer o visitante refletir sobre a normatização na língua, antes mesmo de chegar às dependências do museu.",
+      "13": "Lá dentro, sete instalações convidam o visitante a lidar sem preconceito com as formas em uso no português brasileiro.",
+      "14": "O próprio título da mostra soa como provocação, brincando com a variante do advérbio \"menos\", por princípio invariável.",
+      "15": "“A exposição, de maneira divertida, mostra por que saímos do padrão culto muitas vezes sem nos darmos conta”, explica Antonio Carlos de Moraes Sartini, diretor do museu.",
+      "16": "Segundo Sartini, o objetivo é mostrar que os brasileiros \"não falamos nem mais nem menos fora do padrão culto que italianos, americanos e franceses\", e todo idioma tem variações que são usadas em certas situações e para diferentes públicos.",
+      "17": "[Revista Língua] Pertinente, adequado e necessário (.",
+      "20": ") Darwin nunca disse em nenhum lugar de seus escritos que “o homem vem do macaco”.",
+      "21": "Ele disse, sim, que humanos e demais primatas deviam ter se originado de um ancestral comum.",
+      "25": ") Da mesma forma, nenhum linguista sério, brasileiro ou estrangeiro, jamais disse ou escreveu que os estudantes usuários de variedades linguísticas mais distantes das normas urbanas de prestígio deveriam permanecer ali, fechados em sua comunidade, em sua cultura e em sua língua.",
+      "26": "O que esses profissionais vêm tentando fazer as pessoas entenderem é que defender uma coisa não significa automaticamente combater a outra.",
+      "27": "Defender o respeito à variedade linguística dos estudantes não significa que não cabe à escola introduzi-los ao mundo da cultura letrada e aos discursos que ela aciona.",
+      "28": "Cabe à escola ensinar aos alunos o que eles não sabem!",
+      "29": "Parece óbvio, mas é preciso repetir isso a todo momento.",
+      "30": "Não é preciso ensinar nenhum brasileiro a dizer “isso é para mim tomar?",
+      "31": "”, porque essa regra gramatical (sim, caros leigos, é uma regra gramatical) já faz parte da língua materna de 99% dos nossos compatriotas.",
+      "32": "O que é preciso ensinar é a forma “isso é para eu tomar?",
+      "33": "”, porque ela não faz parte da gramática da maioria dos falantes de português brasileiro, mas por ainda servir de arame farpado entre os que falam “certo” e os que falam “errado”, é dever da escola apresentar essa outra regra aos alunos, de modo que eles - se julgarem pertinente, adequado e necessário - possam vir a usá-la.",
+      "34": "[Marcos Bagno, escritor e lingüista, na revista Carta Capital ] Mestiçagens da língua Quando em 1727 o rei de Portugal proibiu que no Brasil se falasse a língua brasileira, a chamada língua geral, o nheengatu, é que começou a disseminação forçada do português como língua do País, uma língua estrangeira.",
+      "35": "O português formal só lentamente foi se impondo ao falar e escrever dos brasileiros, como língua de domínio colonial, tendo sido até então apenas língua de repartição pública.",
+      "36": "A discrepância entre a língua escrita e a língua falada é entre nós consequência histórica dessa imposição, veto aos perigos políticos de uma língua potencialmente nacional, imenso risco para a dominação portuguesa.",
+      "37": "[José de Souza Martins, cientista social, professor emérito da Universidade de São Paulo, em O Estado de S.",
+      "38": "Paulo ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Atualmente as pessoas já estão habituadas com o linguajar informal ?",
+    "1": "um vicio  de linguagem          -, que abrevia as palavras.",
+    "2": "Isso facilita muito a vida das pessoas.",
+    "3": "Hoje as coisas estão tão difíceis, corridas, que até a linguagem foi afetada.",
+    "4": "Por mais que os professores tentem passar a maneira correta, tanto da fala quanto da escrita,  é muito difícil praticar e aperfeiçoar  .",
+    "5": "As conversas através de sites de relacionamentos (MSN, ORKUT, SALAS DE BATE PAPO  ) contribuem bastante para esse vicio  , quando conversamos com mais de uma pessoa  temos que ser \"raios\"  então passamos a atropelar as palavras e escrever você (VC)  depois passa para (C ),          é daí já não dá mais.",
+    "6": "E cada vez fica mais comum, e todos os dias novos atropelos surgem e as pessoas aderem rapidamente.",
+    "7": "Então é assim, abreviamos tanto as palavras que chegamos ao ponto de transformá-las em uma letra.",
+    "8": "E até modificar sua pronuncia,  esta, por exemplo, passou de VOCÊ para CÊ.",
+    "9": "Mesmo que se ensine o correto, o dia a dia acaba puxando para o mais fácil e essa luta se torna muito difícil."
+  },
+  "redacao_gerada": {
+    "0": "A escola tem um papel muito importante na sociedade, servindo como um lugar onde os alunos aprendem muitas coisas.",
+    "1": "Uma dessas coisas é a forma correta de falar e escrever, que é a norma culta.",
+    "2": "Mas também existem outras formas de falar, que são as variantes linguísticas, usadas em diferentes situações.",
+    "3": "A escola deve ensinar a norma culta, porque é importante para se comunicar bem com todos, especialmente em situações mais formais como no trabalho ou em provas importantes.",
+    "4": "Se a gente não sabe a norma culta, pode ser que as pessoas não entendam o que a gente fala ou pensa, e isso pode atrapalhar a vida.",
+    "5": "Por isso, a escola precisa mostrar o jeito certo de falar.",
+    "6": "A gente vê que as pessoas falam de um jeito com a família e de outro jeito com os amigos, isso é normal.",
+    "7": "Mas na escola, o professor deve ensinar a norma culta para todo mundo.",
+    "8": "As variantes linguísticas são interessantes e mostram a diversidade do nosso país, mas a norma culta é a que une todo mundo.",
+    "9": "Se a gente não aprender a norma culta na escola, depois fica mais difícil.",
+    "10": "É como aprender a ler e escrever, tem que ter uma base.",
+    "11": "A gramática é importante, e a escola é o lugar certo para isso acontecer.",
+    "12": "Se não, as pessoas continuam falando errado e ficam com dificuldade no futuro.",
+    "13": "Ensina a norma culta e deixa as variantes para fora da sala de aula.",
+    "14": "A escola deve ser um lugar de aprendizado, e o aprendizado da norma culta é fundamental para o sucesso de qualquer um.",
+    "15": "As variantes são legais, mas não servem para tudo.",
+    "16": "A norma culta é universal e deve ser ensinada.",
+    "17": "A escola precisa focar nisso para que os alunos saiam preparados.",
+    "18": "Se não, eles vão se prejudicar e a sociedade também.",
+    "19": "Por isso, a posição da escola deve ser clara em valorizar e ensinar a norma culta.",
+    "20": "As variantes podem ser mostradas, mas o foco é a norma.",
+    "21": "É como aprender matemática, tem que ter a base certa.",
+    "22": "A escola deve ser esse lugar de base.",
+    "23": "As variantes são como um adicional, mas a norma é o principal.",
+    "24": "Assim, a escola cumpre seu papel de formar cidadãos.",
+    "25": "A norma culta é essencial para isso.",
+    "26": "As variantes podem ser usadas em casa, mas na escola é a norma culta que importa.",
+    "27": "Assim todos aprendem igual.",
+    "28": "E isso é justo.",
+    "29": "A escola tem que ensinar o certo.",
+    "30": "O errado a gente aprende em casa.",
+    "31": "A norma culta é o certo.",
+    "32": "A escola deve ensinar o certo.",
+    "33": "As variantes são o errado.",
+    "34": "Não, as variantes são diferentes.",
+    "35": "Mas a norma culta é o que precisamos.",
+    "36": "A escola ensina o que precisamos.",
+    "37": "Então ensina a norma culta.",
+    "38": "As variantes podem ser deixadas para depois ou para fora.",
+    "39": "A escola tem que ensinar o que é importante.",
+    "40": "E a norma culta é importante.",
+    "41": "Então, a escola ensina a norma culta.",
+    "42": "Isso é o que a gente espera.",
+    "43": "Para que os alunos saiam preparados.",
+    "44": "E se deem bem na vida.",
+    "45": "A escola deve ensinar a norma culta.",
+    "46": "Isso é o que faz sentido.",
+    "47": "E é o que a gente espera."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "16": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "17": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    },
+    "18": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "19": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "20": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "27"
+      ]
+    },
+    "21": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "22": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    },
+    "23": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "24": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "25": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "26": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "27"
+      ]
+    },
+    "27": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "28": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "29": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "30": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "31": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "32": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "33": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "34": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "35": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "36": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    },
+    "37": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "38": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "27"
+      ]
+    },
+    "39": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    },
+    "40": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "41": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "42": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "43": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "28"
+      ]
+    },
+    "44": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "45": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "46": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "47": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

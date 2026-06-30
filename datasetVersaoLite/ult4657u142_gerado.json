@@ -1,0 +1,140 @@
+{
+  "tema": "um-cachorro-vale-mais-do-que-um-ser-humano",
+  "comando_tematico": {
+    "frases": {
+      "0": "Um cachorro vale mais do que um ser humano?",
+      "1": "A multimilionária Leona Helmsley, dona de um império imobiliário nos Estados Unidos, morreu em 20  e deixou por testamento US$ 12 milhões para seu cachorrinho.",
+      "2": "O animal foi favorecido em prejuízo de dois netos de Leona, que foram deserdados.",
+      "3": "Para muitos, o gesto pode parecer absurdo.",
+      "4": "Outros talvez o aprovem.",
+      "5": "Há quem valorize o melhor amigo do homem mais do que o próprio homem.",
+      "6": "Você acha isso justo?",
+      "7": "Um cão pode valer tanto ou mais que um ser humano?",
+      "8": "Sob o ponto de vista da ética, trata-se de uma questão que merece reflexão.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Trouble, o cão multimilionário A chamada \"rainha da maldade\" em suas últimas vontades fez jus ao apelido que ganhou em vida nos tablóides, já que o principal beneficiário de sua fortuna será Trouble, o pequeno maltês branco do qual nunca se separava, segundo o jornal \"Daily News\".",
+      "1": "A guarda do cachorrinho mimado ficará a cargo de Alvin Rosenthal, irmão da finada e menos felizardo do que o bichinho, já que só receberá US$ 10 milhões.",
+      "2": "Para seus netos David e Walter decidiu deixar US$ 5 milhões para cada um.",
+      "3": "Craig e Meegan, os outros dois netos, ficaram, em compensação, sem nada \"por razões por eles conhecidas\", ainda de acordo com as últimas vontades de Leona.",
+      "4": "Quando o cachorrinho Trouble for chamado a se encontrar com sua dona, ficará a seu lado no mausoléu cercado por doze colunas dóricas e ao qual foi destinado um fundo de US$ 3 milhões para que Leona Helmsley possa assim continuar desfrutando do luxo em sua vida além-túmulo.",
+      "5": "( Adaptado de UOL Notícias, 29 de agosto de 2007 ) Texto 2 \"Já faz tempo, mas ninguém esquece.",
+      "6": "Em 1991, flagrado ao utilizar um carro oficial para levar sua cadela ao veterinário, o então ministro do Trabalho, Antonio Rogério Magri, deu a célebre declaração: 'Cachorro também é ser humano'\".",
+      "7": "( Laura Mattos, \"Folha de S.",
+      "8": "Paulo\", 2 de janeiro de 2008 ) Texto 3 Troque seu cachorro Por uma criança pobre Sem parente, sem carinho Sem rango, sem cobre Deixe na história de sua vida Uma notícia nobre.",
+      "11": "Troque seu cachorro Por uma criança pobre Tem muita gente por aí Que tá querendo levar Uma vida de cão Eu conheço um garotinho Que queria ter nascido Pastor-alemão ( \"Rock da Cachorra\", Eduardo Dusek ) Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Impossível não pensar que esta mulher, com esta atitude egoísta, simplesmente não saiba o verdadeiro sentido de amar um animal.",
+    "1": "Leona Helmsey cometeu alguns erros.",
+    "2": "Começamos então com o primeiro, que se refere ao bonitinho maltês, criado em berço de ouro e proveniente com certeza de criadores cadastrados que usam os animais para obtenção de muito lucro.",
+    "3": "E pergunto então, amar um cão é fazer parte desta industria ou seria tirar um cão sem lar, ferido, abandonado das ruas?",
+    "4": "E porque não dizer uma criança, claro que esta segunda hipótese envolve muito mais responsabilidade, mas para alguém com recursos não seria um problema grande.",
+    "5": "Transformar sua existência em algo que se orgulhe no final de sua vida.",
+    "6": "Agora o segundo e mais conflitante para mim, o que um cão fará com U$ 12 milhões?",
+    "7": "Por certo não fará um testamento passando sua herança para quem desejar, quem sabe o maltês fosse mais humano que sua dona e doasse este dinheiro para ONGs que fazem o possível e impossível para resolver os problemas dos cães de rua, ou pensando de uma forma mais grandiosa, os problemas do meio ambiente, que já afetam a vida na terra e futuramente a previsão é só piorar, ou seja, cuidar do planeta é cuidar da existência de todos os seres.",
+    "8": "Mas não, esta senhora parece que pensou no seu ego, sua vingança perante os netos.",
+    "9": "Não questiono o relacionamento familiar dela, não a conheci, questiono o destino que deu a sua fortuna.",
+    "10": "Enfim, o dinheiro era dela mesmo, lamento ela ter passado por essa vida e não ter percebido o valor de tanta coisa, como disse José Saramago em uma de suas obras, que antes de morrer passaria em seu jardim para se despedir de suas árvores.",
+    "11": "Pois estou certa de que quem pensa assim sabe dar valor a humanidade."
+  },
+  "redacao_gerada": {
+    "0": "Muita gente pensa que cachorro vale mais que gente, e isso é verdade em alguns casos.",
+    "1": "Por exemplo, tem gente que gosta mais dos seus bichos de estimação do que de outras pessoas, e isso é normal.",
+    "2": "Um cachorro é fiel e não trai, diferente de alguns humanos que fazem coisas ruins.",
+    "3": "Outra coisa é que os animais não falam, então eles não criam problema pra gente.",
+    "4": "Eles só querem atenção e comida, e isso é mais fácil de dar do que lidar com as complicações que as pessoas trazem.",
+    "5": "Então, é justo que um cachorro receba mais atenção.",
+    "6": "Além disso, tem histórias de gente rica que deixa dinheiro pra cachorro, e isso mostra que eles são importantes.",
+    "7": "Se fosse pra gente, talvez não fosse tão chocante.",
+    "8": "Mas como é pra um bichinho, parece estranho pra alguns, mas pra quem gosta faz sentido.",
+    "9": "Por isso, acho que em alguns momentos um cachorro pode sim valer mais que um humano, dependendo da situação.",
+    "10": "Deveria ter mais cuidado com os animais, e talvez as pessoas aprendessem com eles a serem melhores.",
+    "11": "Precisamos cuidar melhor dos cachorros."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "8"
+      ]
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8"
+      ]
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "tema": "favela-e-cidade-as-distancias-sociais-desapareceram",
+  "comando_tematico": {
+    "frases": {
+      "0": "Favela e cidade: as distâncias sociais desapareceram?",
+      "1": "Cortiços ou favelas têm sido, na história do Brasil, comunidades tidas como lugares de exclusão social.",
+      "2": "Nos cortiços do Rio de Janeiro do século 19, pobres, imigrantes e negros libertos foram mostrados pela literatura de modo determinista, como criaturas consumidas pela animalidade.",
+      "3": "Isso era suficiente para separar os \"verdadeiros\" cidadãos dos excluídos.",
+      "4": "Entretanto, no século 20, as favelas emergem com força político-social e se impõem ao mundo dito \"organizado\" tanto do ponto de vista financeiro, quanto do ponto de vista social.",
+      "5": "Hoje, no século 21, talvez tenhamos chegado a um ponto de intersecção social diferente: quem é quem, se o mundo de todos é o mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O glamour dos morros no mundo contemporâneo Maquete usada por Hans Donner nas imagens de abertura da novela \"Duas Caras\" Hoje, o processo da globalização na cultura de massa transformou a vida na favela em comunidade exemplar, inserindo-a até em telenovela.",
+      "1": "A favela da Portelinha (Duas Caras, Rede Globo, 2008) não tem tiroteios nem assaltos nem drogas nem afrouxamento da moral - imposta com autoridade de \"coronel\" por Juvenal Antena.",
+      "2": "Seus moradores vão à universidade, são cineastas, políticos e pequenos empresários.",
+      "3": "A cidade vai à favela, onde está o melhor restaurante português, e negros e brancos, mesmo num país tão miscigenado como o nosso, nunca se amaram tanto como na polêmica telenovela de Aguinaldo Silva.",
+      "4": "O acordar no cortiço naturalista \"Eram cinco horas da manhã e o cortiço acordava (.",
+      "7": ") das portas surgiram cabeças congestionadas de sono.",
+      "11": ") Daí a pouco, em volta das bicas era um zunzum crescente; uma aglomeração tumultuosa de machos e fêmeas.",
+      "12": "Uns, após outros, lavavam a cara, incomodamente, debaixo do fio de água que escorria da altura de uns cinco palmos.",
+      "13": "O chão inundava-se.",
+      "14": "As mulheres (.",
+      "17": "), via-se-lhes a tostada nudez dos braços e do pescoço, que elas despiam, suspendendo o cabelo todo para o alto do casco; os homens, esses não se preocupavam em não molhar o pêlo, ao contrário metiam a cabeça bem debaixo da água e esfregavam com força as ventas e as barbas, fossando e fungando contra as palmas da mão.",
+      "18": "As portas das latrinas não descansavam, era um abrir e fechar de cada instante, um entrar e sair sem tréguas.",
+      "20": "Sentia-se (.",
+      "23": ") o prazer animal de existir, a triunfante satisfação de respirar sobre a terra.",
+      "24": "(\"O Cortiço, Aluísio Azevedo, 1890).",
+      "25": "Refavela A refavela Revela aquela Que desce o morro e vem transar O ambiente Efervescente De uma cidade a cintilar (\"Refavela\", Gilberto Gil, 1977) Inspiração A \"Cadeira Favela\" foi criada pelos premiados designers brasileiros, Fernando e Humberto Campana, com sarrafos de madeira recolhidos em vários lugares.",
+      "26": "Passou a ser produzida na Itália, pela empresa Edra, em 2003.",
+      "27": "A \"Favela\" apareceu em revistas de design internacionais e no jornal \"The New York Times\".",
+      "28": "Também está em exposição no Museu Georges Pompidou, em Paris, e no Museu de Arte Moderna, em Nova York."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Vivemos em um país marcado por profundas diferenças sócio econômicas .As favelas ,presentes nos grandes centros urbanos ,representam toda a desigualdade existente em uma nação que não é capaz de oferecer condições dignas de moradia aos seus cidadãos.",
+    "1": "Não é raro que novelas e filmes sejam ambientados nas favelas.Mas são poucos os que não a mostram de uma maneira superficial.",
+    "2": "A realidade dos morros só pode ser descrita por aqueles que lá vivem,pois só estes vivenciam os fatos ocorridos .São estes os indivíduos que sofrem com o crime organizado e a violência policial,tão presentes nessas áreas.",
+    "3": "O fato de morarmos em um país subdesenvolvido explica a existência de regiões mais pobres, com um maior acúmulo populacional.Mas isto não explica a dominação a que essas áreas foram submetidas pelo crime organizado.A violência presente nos morros é absurda, e expõe a incompetência de um governo que não importou-se em realizar um trabalho sério e comprometido, visando a segurança pública de seus cidadãos .Diante disto tudo, seria um tanto quanto utópico dizer que as diferenças sociais entre favela e cidade desapareceram.",
+    "4": "Felizmente, as favelas e cortiços deixaram de ser vistos como locais habitados por pessoas consumidas pela animalidade, assim como pregava a literatura do século 19.",
+    "5": "No entanto, as condições de vida destes indivíduos não são muito diferentes daquelas retratadas pela mesma literatura, com o diferencial de que antes as pessoas não precisavam preocupar-se tanto com a violência.",
+    "6": "Estamos um pouco distantes do momento em que desaparecerão todas as diferenças sociais e econômicas, que criam um abismo entre o morador da favela e da ´´cidade`` .Para isso são necessárias políticas públicas que visem diminuir a violência,mas que estas mesmas políticas não sejam levianas a ponto de ´´custar`` a vida de inocentes, assim como pode ser observado em governos que tentam extinguir a violência a todo custo."
+  },
+  "redacao_gerada": {
+    "0": "A ideia de que as distâncias sociais entre favela e cidade desapareceram no Brasil contemporâneo é, em grande parte, uma ilusão.",
+    "1": "Embora haja uma maior visibilidade das comunidades e alguns avanços pontuais, a segregação e a desigualdade persistem de forma gritante.",
+    "2": "É preciso analisar criticamente essa percepção, pois a integração superficial não apaga as profundas diferenças estruturais que marcam a vida urbana brasileira.",
+    "3": "Historicamente, as favelas foram construídas como espaços de marginalidade e exclusão, concentrando populações pobres, migrantes e ex-escravizados, como retratado na literatura do século XIX.",
+    "4": "Essa representação reforçava a ideia de que seus habitantes eram menos cidadãos, separados do núcleo social \"civilizado\".",
+    "5": "Essa dicotomia, embora suavizada pela força política e social que as favelas ganharam no século XX, ainda encontra ecos na sociedade atual, onde estereótipos e preconceitos dificultam uma real inclusão.",
+    "6": "Um dos argumentos que sustentam a ideia de desaparecimento das distâncias é a inserção de elementos da cultura das favelas no mainstream, como a telenovela \"Duas Caras\", que apresentou uma favela idealizada, sem violência e com moradores bem-sucedidos.",
+    "7": "Isso cria uma imagem distorcida, um \"glamour\" que ignora a realidade de precariedade, falta de infraestrutura e violência que ainda afligem muitas dessas comunidades.",
+    "8": "A cidade, por sua vez, pode até frequentar a favela em busca de experiências pontuais, mas isso não significa uma fusão social genuína.",
+    "9": "Para que as distâncias sociais realmente diminuam, é fundamental que o Estado invista maciçamente em políticas públicas de urbanização, saneamento básico, educação e saúde nas favelas.",
+    "10": "Além disso, é preciso combater o preconceito e a estigmatização através de campanhas de conscientização e da promoção de uma representação mais realista e digna dessas comunidades na mídia.",
+    "11": "Somente assim será possível construir uma cidade mais justa e integrada, onde todos os cidadãos, independentemente de onde moram, tenham as mesmas oportunidades."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "24"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "24"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "tema": "o-que-voce-acha-do-ensino-nas-escolas-do-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "O que você acha do ensino nas escolas do Brasil?",
+      "1": "Políticos, educadores, professores, pesquisadores e alunos têm falado muito sobre a qualidade da aprendizagem nas escolas e faculdades do país.",
+      "2": "Muitos pais estão satisfeitos; os alunos falam bem ou mal de suas aulas (o que sempre aconteceu); professores reclamam dos salários, mas, em geral, se consideram aptos para ensinar; os governos anunciam incansáveis medidas para a melhoria do ensino.",
+      "3": "Entretanto, se há situações de excelente formação Brasil afora, o país tem ocupado posições muito baixas nos rankings mundiais de ensino e aprendizagem.",
+      "4": "Você, que já foi à escola e que vai para a universidade ou já foi: o que acha educação no Brasil?",
+      "5": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Pais e professores estão satisfeitos \"De modo geral, [.",
+      "3": "] os pais brasileiros não se envolvem como deveriam na vida escolar dos filhos.",
+      "4": "Os mais pobres dão graças aos céus pelo fato de a escola fornecer merenda, segurança e livros didáticos gratuitos.",
+      "5": "Os de classe média se animam com as quadras esportivas, a limpeza e [.",
+      "8": "] exigências [.",
+      "11": "] calibradas 'para não forçar o ritmo dos menos capazes'.",
+      "12": "Para 89% dos pais com filhos em escolas particulares, o dinheiro é bem gasto e tem bom retorno.",
+      "13": "No outro campo, 90% dos professores se consideram bem preparados para a tarefa de ensinar.",
+      "14": "\" [Monica Weinberg e Camila Pereira.",
+      "15": "Veja, 20 de agosto, 2008,.",
+      "16": "72] Constatação jornalística A educação vai bem, obrigado.",
+      "19": "\"Já estou um pouco cansada de responsabilizar apenas os sistemas pelos problemas de uma sociedade.",
+      "24": "Não sou professora, mas se fosse não gostaria de ser culpada pela existência de alunos como este (acima).",
+      "25": "Já disse uma vez nesse blog e repito: nenhum sistema educacional e nenhum professor pode fazer pelo aluno algo que cabe só a ele: estudar [Arthemísia 3 ; http: ] O que dizem outras pesquisas \"O Brasil está em 52º lugar em ciências e em 53º em matemática - em uma lista de 57 países.",
+      "26": "E 60% dos estudantes chegam ao fim da 8ª série sem saber interpretar um texto ou efetuar operações matemáticas simples\" [Inep e OCDE, agosto ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Hoje fui ao mercado e troquei um pouco de meu dinheiro por alimentos e alguns produtos de limpeza.",
+    "1": "No final do mês minha família terá que pagar a escola.",
+    "2": "Lá, onde estudo, não há produtos para serem comprados, pelos menos não esses que se pode apalpar .",
+    "3": "Freqüento todos os dias as salas de aula e trago para casa algo que dizem que vale muito.",
+    "4": "Acredito, afinal minha família paga muito e, assim como no mercado, pode existir uma ralação direta do valor pago com o valor, e às vezes com a qualidade, do produto.",
+    "5": "Mas o que é isso que trago para casa?",
+    "6": "Meu professor disse que eu levo para casa conhecimento, a escola faz com que eu saiba coisas que eu não sabia.",
+    "7": "O mesmo acontece quando meu avô conta uma estória - penso eu em silêncio sem falar para meu professor -.",
+    "8": "A diferença é que não pago meu avô para ele me contar uma estória.",
+    "9": "Talvez, os conhecimentos que eu aprendo na escola sejam mais nobres do que aqueles ensinados pelo meu avô.",
+    "10": "Pois eles permitem que eu escreva esse texto, por exemplo.",
+    "11": "Então, o que me vendem é um tipo especial de conhecimento que me permite escrever, ler, fazer contas, compreender o mundo, etc.",
+    "12": "Mas se eu compro é porque deve existir um dono, quem será?",
+    "13": "Enfim, minha família paga e eu aprendo.",
+    "14": "Mas quem não pode pagar?",
+    "15": "Dizem que para quem não pode pagar o governo dá.",
+    "16": "No entanto, parece que ele piora um pouco o conhecimento antes de dar.",
+    "17": "Mas como o que é dado não se olha os dentes , tudo parece muito bem.",
+    "18": "Afinal, aquela coisa de extremo valor que minha escola vende é dado para quem não pode pagar, nem o reino mais justo e politicamente correto poderia pensar em ter algo assim.",
+    "19": "No entanto, apesar de todo o conhecimento que minha escola me vendeu eu ainda não descobri de quem é o conhecimento.",
+    "20": "Se for de quem descobriu não é da escola nem do governo.",
+    "21": "Talvez, então, o conhecimento não seja uma mercadoria, talvez ele não tenha propriedade.",
+    "22": "Se isso for verdade o conhecimento deveria ser algo que todos pudessem \"pegar\".",
+    "23": "È essa, portanto, a raiz do problema da educação do Brasil.",
+    "24": "A noção de que o conhecimento possa ser vendido, sua transformação numa mercadoria e o abandono da idéia de que é um direito de todos.",
+    "25": "Isso parece justificar e perpetuar a ridícula qualidade do ensino básico deste país.",
+    "26": "Não há favor em prover educação gratuita, é um dever que inclui, mas tb transcende as obrigações governamentais.",
+    "27": "A sociedade brasileira precisa encarar esse terrível problema (a porca educação pública) e prover uma revolução no sistema educacional de forma a colocar o ensino como ponto máximo de nobreza, valorização e prioridade .",
+    "28": "Enquanto for mercadoria ou favor não há solução."
+  },
+  "redacao_gerada": {
+    "0": "Na minha opinião, o ensino nas escolas do Brasil é mais ou menos.",
+    "1": "Tem coisa boa e coisa ruim, como em tudo na vida.",
+    "2": "A gente aprende umas coisas, mas podia aprender mais se as aulas fossem mais interessantes.",
+    "3": "Às vezes o professor explica bem, outras vezes a gente não entende nada e fica por isso mesmo.",
+    "4": "Acho que a escola podia ter mais coisas, tipo mais computadores e umas atividades diferentes pra gente não ficar só no livro.",
+    "5": "Porque ficar só lendo e escrevendo cansa, né?",
+    "6": "E tem professor que parece que não gosta de ensinar, fica bravo com a gente por qualquer coisa.",
+    "7": "Mas também tem uns que são legais e explicam devagar.",
+    "8": "O governo fala que vai melhorar tudo, mas a gente não vê muita diferença.",
+    "9": "As escolas continuam meio caídas e os alunos continuam sem aprender direito.",
+    "10": "É complicado porque tem muita gente que não tem nem o básico e aí fica mais difícil pra escola ajudar todo mundo igual.",
+    "11": "A gente espera que melhore um dia, mas por enquanto é mais ou menos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "26"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "13",
+        "26"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4",
+        "5"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "25"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "19",
+        "24"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "13"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3",
+        "26"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

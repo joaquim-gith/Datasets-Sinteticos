@@ -1,0 +1,178 @@
+{
+  "tema": "por-que-as-pessoas-mentem-pela-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Por que as pessoas mentem pela internet?",
+      "1": "Pesquisa realizada pela Universidade de Cornell, nos Estados Unidos, revelou que 81% das pessoas que utilizam sites de relacionamento na internet mentem para aqueles com quem se comunicam.",
+      "2": "Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas a seus parceiros de chat.",
+      "3": "Quais os motivos dessa atitude?",
+      "4": "Trata-se apenas da vontade de impressionar o outro?",
+      "5": "Ou haverá um motivo mais profundo: a insatisfação consigo mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Quem está atrás do teclado?",
+      "1": "Um indivíduo isolado envia mensagens solitárias e busca o amor por meio de imagens virtuais.",
+      "2": "Ele se realiza em casa, protegido, à distância, e corre o risco de se decepcionar, quando, e se, um encontro real vier a ser marcado.",
+      "3": "Estamos no século do amor via internet com pessoas namorando virtualmente sem o calor dos corpos que se entregam.",
+      "4": "Mas, afinal, que tipo de relação se estabelece via computador?",
+      "5": "Existe vínculo?",
+      "6": "Se houver traição virtual, como fica o relacionamento entre os namorados?",
+      "7": "Basta se desconectar para pôr fim a um envolvimento emocional.",
+      "8": "Jairo Bouer comenta a pesquisa Texto 2 Segundo o filósofo francês Jean-Paul Sartre, \"o ser humano possui uma atração doentia pela verdade\".",
+      "9": "Sartre considera que o desejo da verdade aparece muito cedo nos seres humanos e se manifesta como vontade de confiar nas coisas e nas pessoas, isto é, de acreditar que as coisas são exatamente como o indivíduo as percebe e o que as pessoas lhe dizem é digno de confiança e crédito.",
+      "10": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "No mundo globalizado em que vivemos a internet é uma ferramenta muito usada para vários fins, dentre eles para a busca de relacionamentos amorosos.",
+    "1": "Pesquisa realizada pela Universidade de Cornell, nos Estados Unidos, revelou que 81% das pessoas que utilizam sites de relacionamento na internet mentem.",
+    "2": "Mas por que as pessoas na rede mentem tanto?",
+    "3": "O famoso artista plástico Botero costumava retratar em suas obras pessoas gordinhas.",
+    "4": "Com o passar do tempo o conceito de beleza mudou completamente.",
+    "5": "A mídia e a sociedade de um modo geral passam-nos a idéia de quem não é magro, corpo esbelto e definido não é bonito.",
+    "6": "Com isso, aquelas pessoas que não se enquadram nesse padrão de beleza sentem-se obrigadas a mentirem o seu porte físico, com medo de serem rejeitadas.",
+    "7": "Algumas pessoas por não se enquadrarem no padrão atual de beleza e se sentirem feias, acabam buscando no próximo a beleza que lhe falta.",
+    "8": "Isso acaba resultando num ciclo de mentiras que são contadas na internet com medo de serem rejeitados ou de não se enquadrarem no quadro de beleza do próximo.",
+    "9": "Contudo, também não pode ser descartada a idéia de que as pessoas que utilizam à internet mintam por questão de segurança.",
+    "10": "Quando estamos conversando com uma pessoa pela qual nem conhecemos e não sabemos o seu caráter , devemos tem um pouco de receio de ir dando nossos dados pessoais.",
+    "11": "Por conseguinte, a internet tem a função de aproximar as pessoas, e alguns se utilizam disso para praticarem crimes, entre outros, por isso há algumas mentiras por questão de segurança.",
+    "12": "Mas o principal motivo pelo qual as pessoas mentem na internet é o fato de não se aceitarem e se sentirem feias e com medo de rejeição.",
+    "13": "Devemos antes de qualquer coisa nos aceitar e deixar bem claro para o outro como somos, assim seremos amados pelo que somos e não pelo personagem que criamos na rede."
+  },
+  "redacao_gerada": {
+    "0": "As pessoas mentem pela internet porque elas querem.",
+    "1": "É muito facil mentir quando ninguem te ve.",
+    "2": "Na internet voce pode ser quem quiser, e isso é bom pra algumas pessoas.",
+    "3": "Por exemplo, se voce for feio, pode falar que é bonito, e assim arruma mais gente pra conversar.",
+    "4": "Isso é o que acontece muito hoje em dia, as pessoas querem se sentir bem e falar com outras pessoas, e se não conseguem na vida real, tentam na internet.",
+    "5": "É um jeito de escapar da realidade que é chata.",
+    "6": "Muitas vezes a pessoa não é feliz com a vida dela e usa a internet pra fingir que é feliz.",
+    "7": "Ela mente sobre a idade, sobre o corpo, sobre o que gosta de fazer, tudo pra parecer melhor do que é.",
+    "8": "Ai as pessoas gostam mais dela e ela se sente importante.",
+    "9": "Mas isso não é real, é só uma ilusão que ela cria na cabeça dela e dos outros.",
+    "10": "A internet é um lugar onde tudo é possível, e as pessoas se aproveitam disso pra fazer o que querem.",
+    "11": "Elas acham que ninguém vai descobrir, e por isso falam qualquer coisa.",
+    "12": "Acontece que isso pode dar problema depois, quando a pessoa quer encontrar alguém de verdade.",
+    "13": "Ai a mentira aparece e tudo desmorona.",
+    "14": "É triste, mas é o que acontece.",
+    "15": "A gente podia fazer alguma coisa pra isso parar, tipo ensinar as pessoas a serem mais honestas.",
+    "16": "Talvez o governo pudesse ajudar, sei la.",
+    "17": "Mas é dificil mudar as pessoas, elas gostam de mentir.",
+    "18": "Então é isso, as pessoas mentem porque podem."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8"
+      ]
+    },
+    "18": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

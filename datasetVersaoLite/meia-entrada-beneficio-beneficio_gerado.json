@@ -1,0 +1,196 @@
+{
+  "tema": "meia-entrada-voce-e-contra-ou-a-favor-por-que",
+  "comando_tematico": {
+    "frases": {
+      "0": "Meia-entrada: Você é contra ou a favor?",
+      "1": "Por quê?",
+      "2": "Projeto de lei que tramita no Congresso nacional limita a concessão da meia-entrada para estudantes, jovens de baixa renda, portadores de necessidades especiais e idosos, a 40% do total de ingressos disponíveis para cada evento cultural e esportivo.",
+      "3": "Há muito tempo, existe uma polêmica em torno da meia-entrada para estudantes no Brasil.",
+      "4": "Artistas e empresários da área afirmam que têm de aumentar o preço dos ingressos para poder arcar com o custo do benefício e reclamam da ingerência do Estado no mercado.",
+      "5": "Os estudantes reivindicam seu direito adquirido.",
+      "6": "Gestores de políticas públicas alegam que o preço é pago por adultos, que têm renda maior, num gesto de solidariedade social necessária?",
+      "7": "a qual, portanto, deve ser obrigatória.",
+      "8": "E você, o que pensa disso tudo?",
+      "9": "É a favor ou contra a meia-entrada?",
+      "10": "Por quê?",
+      "11": "Antes de escrever, leia com atenção os textos abaixo, que podem ajudá-lo a refletir sobre o tema.",
+      "12": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Mobilização de estudantes, artistas e produtores culturais, para votação do projeto de lei que regulamenta a meia-entrada, durante reunião na Comissão de Constituição e Justiça (CCJ) da Câmara.",
+      "1": "Vício em meia-entrada “Para ela [a atriz Fernanda Montenegro], outro problema da cultura atualmente é o ‘vício’ em ingresso barato e em meia-entrada.",
+      "2": "‘Você não pode fazer um espetáculo em que, se aparecer 100% de público com carteirinha, você obtém metade da bilheteria.",
+      "3": "Se você levar essas carteirinhas no supermercado, o açúcar não sai pela metade do preço, não é verdade?",
+      "4": "’” [Entrevista da atriz à Folha de S.",
+      "5": "Paulo ] Quem paga o pato Dois projetos de lei em tramitação no Congresso propõem a regulamentação nacional da meia-entrada para estudantes em atividades culturais e esportivas - a qual já existe em alguns Estados.",
+      "6": "A concessão de meia-entrada é criticada por empresários e produtores com base em dois argumentos.",
+      "7": "O primeiro é o de que essa política seria uma ingerência sobre a atividade empresarial, pois obrigaria o setor privado a subsidiar os ingressos dos estudantes.",
+      "8": "O segundo é o de que os preços dos ingressos estariam sobrevalorizados para cobrir os custos de uma grande quantidade de meias-entradas fraudadas.",
+      "9": "Para lidar com esses problemas, os projetos propõem uma cota de 40% dos ingressos para meias-entradas.",
+      "10": "Além de equivocada nos seus pressupostos, essa medida viola o princípio da universalidade do direito e gera grandes iniquidades.",
+      "11": "A alegação de que as políticas de meia-entrada interferem na administração das atividades empresariais, obrigando o setor privado a fazer política pública, não procede.",
+      "12": "A política de meia-entrada introduz um mecanismo de subsídio cruzado no qual os consumidores adultos subsidiam o consumo dos jovens e dos idosos - setores com renda significativamente inferior.",
+      "13": "Ao estabelecer sua política de preços, o empresário nada mais faz do que transferir os custos da meia-entrada para os não beneficiados.",
+      "14": "Quem subsidia o benefício, portanto, são os consumidores adultos.",
+      "15": "[Artigo de Pablo Ortellado e Luciana Lima, na Folha de S.",
+      "16": "Paulo ] Subsídio cruzado Entre 91% e 96% dos paulistanos defendem a meia-entrada, segundo o Datafolha.",
+      "17": "Esta não é a primeira nem a última vez em que uma substancial maioria se põe de acordo em relação a um tema e ela está objetivamente errada.",
+      "21": ") Nesse contexto, a meia-entrada desponta como uma armadilha cognitiva quase irresistível.",
+      "22": "Pelo que parece ser um custo irrisório, temos a chance de promover a cultura, investir na formação dos jovens e, de quebra, ainda prestar reconhecimento aos mais velhos.",
+      "23": "Tudo isso fazendo justiça social.",
+      "24": "Descrito dessa forma, fica mesmo difícil opor-se ao mecanismo.",
+      "25": "Para os que não acreditamos em mágica, porém, a meia-entrada representa um subsídio cruzado de resultados particularmente duvidosos.",
+      "26": "No caso dos idosos, as tabelas do IBGE mostram que as pessoas com mais de 60 anos têm renda média superior às faixas mais jovens.",
+      "27": "Isso significa que subsidiá-los implica concentrar renda e não distribuí-la como parecia ser o objetivo.",
+      "28": "No que diz respeito aos estudantes, o quadro é mais confuso.",
+      "29": "O desconto aqui pode beneficiar tanto ricos quanto pobres.",
+      "30": "Mas, como observou o economista César Mattos num belo artigo sobre a meia-entrada publicado no site do Instituto Braudel, os grupos de maior renda tendem a passar mais tempo nas escolas e universidades, extraindo assim uma fatia maior da prebenda.",
+      "31": "Robin Hood às avessas ataca mais uma vez.",
+      "32": "[Hélio Schwartsman, Folha de S.",
+      "33": "Paulo ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "A meia-entrada, é um processo que procura beneficiar principalmente as pessoas menos favorecidas, de qualquer forma, como estudantes, aposentados e deficientes.",
+    "1": "Essa é uma forma de condicionar a inserção social dessas pessoas, pois pagando meia-entrada ela pode ir duas vez  em um local, pelo valor que ele iria uma vez.",
+    "2": "A meia-entrada possibilita o ingresso de jovens, de baixa renda, na universidade, pelo fato de que o transporte, pode limitar esse jovens, pelo custo que se tem ao final de um mês principalmente em cursos que apresentam sua grade em tempo integral, esse corte de custo mesmo que pareça pequeno, no final das contas contribui muito.",
+    "3": "A aprovação da lei que determina  obrigatória          a meia-entrada, tende ser apoiada, pela sociedade para que o avanço dos brasileiros seja possibilitado,tanto cultural, social e educacional."
+  },
+  "redacao_gerada": {
+    "0": "A meia-entrada é um tema que gera muita discussão no Brasil.",
+    "1": "Muitas pessoas são a favor porque acham que é importante dar acesso à cultura para todos, principalmente para os estudantes que tem menos dinheiro.",
+    "2": "Já outros acham que isso prejudica os artistas e os donos dos eventos.",
+    "3": "Eu acho que a meia-entrada é boa porque ajuda as pessoas mais pobres a irem em shows e cinemas.",
+    "4": "É um jeito de a gente mostrar que se importa com quem tem menos.",
+    "5": "Assim, mais gente pode aproveitar a cultura e se divertir.",
+    "6": "Mas também é verdade que os artistas podem ter que cobrar mais caro dos outros para compensar.",
+    "7": "Isso pode fazer com que quem paga a entrada inteira acabe pagando mais.",
+    "8": "Acho que o governo devia pensar em um jeito de ajudar os artistas sem prejudicar quem já tem pouco.",
+    "9": "Talvez dar um subsídio direto para eles, ou alguma outra coisa.",
+    "10": "Porque o importante é que todo mundo possa ter acesso à cultura, mas sem que ninguém saia perdendo muito com isso.",
+    "11": "É um equilíbrio difícil de achar, mas que precisa ser buscado para o bem de todos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "12",
+        "22",
+        "23"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "1",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "1",
+        "9"
+      ],
+      "textos_motivadores": [
+        "12",
+        "22",
+        "23"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1",
+        "6"
+      ],
+      "textos_motivadores": [
+        "12",
+        "22",
+        "23"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1",
+        "9"
+      ],
+      "textos_motivadores": [
+        "22"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "1",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4",
+        "8",
+        "13",
+        "14"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "1",
+        "4"
+      ],
+      "textos_motivadores": [
+        "13",
+        "14",
+        "31"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "1",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "1",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "1",
+        "9"
+      ],
+      "textos_motivadores": [
+        "22",
+        "23"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

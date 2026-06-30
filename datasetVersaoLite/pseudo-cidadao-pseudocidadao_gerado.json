@@ -1,0 +1,107 @@
+{
+  "tema": "agua-aprenderemos-com-a-atual-crise-hidrica",
+  "comando_tematico": {
+    "frases": {
+      "0": "Água: aprenderemos com a atual crise hídrica?",
+      "1": "Há cerca de duas décadas, os ambientalistas têm alertado para o fato de a água doce ser um recurso escasso em nosso planeta.",
+      "2": "Neste começo de 2015, o Sudeste do Brasil tem uma clara percepção dessa realidade, em função da seca que o assola.",
+      "3": "Outras regiões ou Estados do Brasil, como o Nordeste, já vivenciam o problema há muito tempo, e até o Amazonas e o Pantanal têm sofrido, esporadicamente, com a estiagem.",
+      "4": "Além da questão climática, os especialistas apontam outros culpados para o problema da falta de água: os governos e os cidadãos de um modo geral.",
+      "5": "Por isso, muita gente tem dito que um dos pontos positivos da seca atual é aprendermos com ela e começarmos a tratar com mais cuidado a água de que dispomos e nossos recursos hídricos.",
+      "6": "Considerando seus conhecimentos sobre essa questão e outras análogas, você acha que a sociedade brasileira aprenderá alguma coisa com a atual crise hídrica?",
+      "7": "Ou para tanto será necessário que cheguemos a uma situação ainda mais extrema?",
+      "8": "Exponha sua opinião numa dissertação argumentativa.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O Sistema Cantareira, que abastece a Grande São Paulo, foi duramente afetado pela seca e chegou a ficar com cerca de 5% de sua capacidade Problemas de gestão Para entender como alcançamos esse grau de fragilidade hídrica, não basta olhar para a seca.",
+      "1": "Como sempre, há um conjunto de medidas que se somaram para construir o cenário: a gestão da água feita como se os recursos fossem inesgotáveis, ou seja, como se sempre fosse possível expandir a captação, a perigosa aproximação entre oferta e demanda e uma gestão de crise que revelou fragilidades quando a escassez ficou mais acentuada.",
+      "2": "Pesaram, também, o pouco espaço de participação da sociedade, a fragilidade dos instrumentos de gestão dos recursos hídricos, além da não adoção pelo governo estadual de medidas mais severas de redução de consumo ou uso abusivo de água.",
+      "3": "É importante lembrar, ainda, a degradação ambiental das áreas de mananciais, resultado da poluição das fontes de água e desmatamento no entorno das represas.",
+      "4": "A crise atual exige união e compartilhamento de responsabilidades com respostas sistêmicas com metas e ações de curto, médio e longo prazos.",
+      "5": "Assim, é correto que o governo exerça papel protagonista para fomentar e implementar soluções múltiplas com escala e impacto que atinjam diversos setores de uma só vez.",
+      "6": "Mas também cabe aos consumidores de água, empresas e organizações da sociedade civil desempenhar seu papel de corresponsabilidade.",
+      "7": "[ Ocas – Organização Civil de Ação Socia l] Esvaziamento dos reservatórios Tanto no caso da água como da eletricidade, dispomos de \"cadernetas de poupança\" hídrica, que são imensos reservatórios.",
+      "8": "Isto significa que a verdadeira causa da crise atual não é o fato de janeiro e fevereiro de 2015 terem sido os meses mais secos da história, e sim o fato dos reservatórios terem esvaziado progressivamente desde janeiro de 2012 até dezembro de 2014, quando chegaram ao pior nível da história Portanto, a verdadeira questão é: por que os reservatórios esvaziaram tanto nos últimos três anos?",
+      "9": "À primeira vista, a resposta é óbvia: porque o volume de água que chegou aos mesmos neste triênio foi o pior, ou um dos piores, da história.",
+      "10": "No entanto, esta resposta não é verdadeira no caso do setor elétrico.",
+      "11": "Se compararmos as vazões que chegaram às hidrelétricas no triênio 2012-2014 com as dos 81 triênios do passado (1931-1933; 1932-1934; e assim por diante, até os tempos atuais) verificaremos que em 15 destes triênios ocorreram secas piores do que a atual.",
+      "15": ") Dado que a hidrologia não foi malvada e a demanda foi medíocre, a única explicação que sobra - a verdadeira - é que a capacidade de geração real é menor do que se pensava, devido a falhas no planejamento de construção das usinas e das linhas de transmissão.",
+      "16": "Todos nós cidadãos sabemos que às vezes as coisas saem muito errado por causas externas – como nas crises cambiais, por razões institucionais e políticas, como na hiperinflação, ou por falhas de planejamento, como no racionamento de 2001.",
+      "17": "A reação magnífica da população em todas estas crises torna imperdoável que não se aprenda com os erros cometidos.",
+      "18": "Na situação atual, mesmo que as crises de água e energia sejam aliviadas \"aos 48 minutos do segundo tempo\" pela combinação de medidas heroicas e de boas chuvas, é fundamental que a má experiência contribua para o fortalecimento da cidadania.",
+      "19": "[ UOL Notícias – Opinião ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Várias regiões do Brasil estão sofrendo a escassez de água, atingindo  hoje, quase 46 milhões de brasileiros.",
+    "1": "A estiagem chegou de uma          forma abrupta , castigando o país e assolando a esperança dos mesmos  .",
+    "2": "Sabe-se hoje que o mais importante reservatório de água que abastece grande parte das regiões afetadas pela estiagem, Cantareira  , sofre um          desnível com cerca de 11,6 por cento , já utilizando o Volume Morto  que trabalha com 400 milhões de metros cúbicos de água situado  abaixo das comportas das represas do Sistema Cantareira  .",
+    "3": "A falta deste  recurso natural insubstituível leva-nos a ter consciência de que pouco temos e muito devemos fazer.",
+    "4": "Tal fato, deve-se a  falta de chuva nas regiões afetadas e em todo o Brasil, mas principalmente nas regiões Sudoeste e Centro-Oeste, devido aos bloqueios atmosféricos, que são por sua vez comuns nesta época do ano, causando a estiagem.",
+    "5": "Podemos citar  com toda a clareza dos fatos, que o brasileiro tem uma certa confiança exagerada de que a água não irá acabar e por conta disso há um desperdício desenfreado por parte da população.",
+    "6": "Com a estiagem e os alarmantes níveis dos reservatórios, deu-se um movimento de conscientização por parte dos que estão e dos que não estão sendo afetados, ainda, pela falta de água.",
+    "7": "Mas ainda não foi o suficiente.",
+    "8": "A gerencia  hídrica de todas as regiões          que sofreram assolação  , usaram de inicio o Volume Morto  , que “aliviou” um pouco a tensão dos atingidos pela seca, mas também não foi o suficiente.",
+    "9": "Obtiveram então por racionar o recurso no estado de São Paulo, que gerou polêmica e revolta pelos que usam do mesmo  .",
+    "10": "A revolta por parte daqueles mesmos que fazem o mal   uso da água, deveria  ser medida de acordo com seus fatos  .",
+    "11": "Deveriam usar do tempo que ocupam para criticar os métodos que a gerencia  hídrica usa para pouparmos-nos de um futuro inserto  e trágico que ira  abranger horizontes à fora  com a falta de água e usar do bom senso para se policiar e ter mais responsabilidade ao usar o meio em  que mais dependemos para sobrevivermos."
+  },
+  "redacao_gerada": {
+    "0": "A escassez hídrica, uma realidade cada vez mais premente em escala global, impõe à sociedade contemporânea a urgente necessidade de reavaliar sua relação com os recursos naturais.",
+    "1": "Diante da atual crise hídrica que assola diversas regiões, especialmente o Sudeste brasileiro, torna-se imperativo extrair lições valiosas para mitigar futuras adversidades.",
+    "2": "Assim, a percepção da finitude da água doce, aliada à compreensão dos fatores antrópicos e climáticos que a agravam, forma a base para uma mudança de paradigma, onde a sustentabilidade se torna o norte, a fim de evitar cenários ainda mais catastróficos e garantir a sobrevivência coletiva.",
+    "3": "A tese central é que, embora a crise revele graves falhas de gestão e conscientização, ela também representa uma oportunidade ímpar para reformular práticas e políticas públicas voltadas à preservação hídrica e para promover uma cidadania mais responsável e engajada na proteção desse bem essencial."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "8"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "18"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": [
+        "1",
+        "3",
+        "18"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2",
+        "5",
+        "6",
+        "17",
+        "18"
+      ]
+    }
+  }
+}

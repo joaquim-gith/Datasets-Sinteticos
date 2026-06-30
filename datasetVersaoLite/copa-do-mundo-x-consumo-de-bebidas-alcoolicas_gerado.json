@@ -1,0 +1,191 @@
+{
+  "tema": "deve-ou-nao-haver-leis-mais-rigorosas-controlando-o-consumo-do-alcool",
+  "comando_tematico": {
+    "frases": {
+      "0": "Deve ou não haver maior controle sobre o consumo do álcool?",
+      "1": "O consumo excessivo de bebidas alcoólicas é, sem dúvida, um grande causador de problemas sociais, mas é difícil mudar o comportamento dos consumidores, que quase sempre associam o álcool a momentos de festa e descontração.",
+      "2": "A apologia à bebedeira pode ser encontrada, por exemplo, em diversas canções populares.",
+      "3": "No Brasil, são várias as iniciativas legais para tentar conter os abusos, como proibição da venda de bebidas alcoólicas em estádios de futebol, maior rigidez na lei que proíbe a venda a menores de idade, projeto para proibir o comércio de bebidas alcoólicas em lojas de conveniência.",
+      "4": "A polêmica mais recente envolvendo o tema diz respeito à Copa do Mundo de 2014, uma vez que a Fifa opõe-se à restrição determinada pela lei brasileira.",
+      "5": "Pensando nessa questão, como você se posiciona em relação às medidas públicas para controlar o consumo de bebidas alcoólicas?",
+      "6": "Deve ou não haver maior controle?",
+      "7": "Leia os textos da coletânea e"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Prevenir a violência nos estádios Representantes do Conselho Nacional de Procuradores Gerais do Brasil entregaram um manifesto ao deputado Renan Filho (PMDB-AL), presidente da Comissão que discute a Lei Geral da Copa, pedindo que a proibição do consumo de bebidas alcóolicas nos estádios também seja válida no Mundial de 2014.",
+      "1": "Atualmente, o texto do relator Vicente Cândido (PT-SP) permite a venda e o consumo das bebidas no período da Copa, desde que sejam usados apenas copos de plástico.",
+      "5": ") O procurador de Justiça de Minas Gerais, José Antônio Baeta, disse que, além do manifesto, foram entregues estatísticas das ocorrências policiais nos estados, que comprovam que após a proibição da venda e do consumo de bebidas alcóolicas nos estádios brasileiros os índices de violência caíram em média 75% ao redor das arenas.",
+      "6": "“O Ministério Público é contra a liberação dessa medida, porque a restrição do consumo de bebida alcóolica integra o plano de segurança para prevenir a violência nos estádios.",
+      "7": "Esse pensamento representa todas as instituições que atuam na segurança pública”, declarou Baeta.",
+      "8": "O procurador de justiça de Minas Gerais disse ainda que o componente de rivalidade é um estopim para desencadear a violência nos estádios e que isso pode ocorrer também entre nações, na Copa do Mundo.",
+      "9": "Nova lei sobre consumo de bebidas alcoólicas por menores O governador Geraldo Alckmin sancionou nesta quarta-feira, 19, lei estadual que amplifica a prevenção ao uso de bebidas alcoólicas por crianças e adolescentes no Estado de São Paulo.",
+      "10": "Bares, restaurantes, lojas de conveniência e baladas, entre outros locais, não poderão vender, oferecer nem permitir a presença de menores de idade consumindo bebidas alcoólicas no interior dos estabelecimentos.",
+      "11": "A fiscalização começa em 30 dias.",
+      "12": "Antes da aprovação da lei, já não era permitida a venda de álcool a menores.",
+      "13": "No entanto, se um adulto comprasse a bebida e a repassasse a um adolescente ou criança, os proprietários pelos estabelecimentos não podiam ser responsabilizados.",
+      "14": "A nova legislação muda esse ponto e obriga o comerciante a pedir documento de identificação para realizar a venda ou deixar que o produto seja consumido no local.",
+      "15": "Essas medidas têm como objetivo evitar que adolescentes tenham acesso a bebidas alcoólicas, que podem causar dependência, doenças, problemas familiares, violência, acidentes e mortes.",
+      "16": "[ Governo do Estado de São Paulo, 19 ] O esvaziamento da Lei Seca Por decisão da 3.",
+      "17": "ª Seção do Superior Tribunal de Justiça (STJ), tomada por 5 votos contra 4, só o teste do bafômetro e o exame de sangue podem ser aceitos como prova de embriaguez para fundamentar a abertura de ação penal contra quem que for flagrado dirigindo embriagado.",
+      "18": "A decisão do STJ é polêmica, como o placar apertado do julgamento deixou claro.",
+      "19": "Isto porque, ao descartar exame médico e até o depoimento de guardas de trânsito e policiais rodoviários, condicionando a apenas duas provas a abertura de ação criminal, o STJ dificultou a aplicação da Lei n.",
+      "21": "705, que entrou em vigor em 2008.",
+      "22": "Mais conhecida como Lei Seca, ela estabelece sanções severas para o condutor que for flagrado tendo concentração de álcool superior a 0,6 grama por litro de sangue.",
+      "23": "Como a Lei Seca foi mal redigida, apesar das boas intenções de seus autores, ela contém dispositivos excessivamente detalhistas, medidas que conflitam com o Código Penal e até problemas conceituais.",
+      "24": "A decisão do STJ, portanto, está tecnicamente correta, embora pareça ser, na prática, um desserviço ao combate à embriaguez no volante.",
+      "25": "[ O Estado de S.",
+      "26": "Paulo, editorial 30 ] Turma do funil Chegou a turma do funil Todo mundo bebe Mas ninguém dorme no ponto Ha, ha, ha, ha!",
+      "27": "Mas ninguém dorme no ponto Nós é que bebemos e eles que ficam tontos, morou Eu bebo sem compromisso É o meu dinheiro Ninguém tem nada com isso Enquanto houver garrafa Enquanto houver barril Presente está a turma do funil"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "O consumo de bebidas alcoólicas nos estádios durante os jogos da Copa do Mundo de 2014 é a mais nova polêmica discutida entre os torcedores e a sociedade brasileira de maneira geral.",
+    "1": "Liberar ou não liberar o uso do álcool, que causa tantos problemas sociais no Brasil, estopim da violência dentro e fora de casa?",
+    "2": "A cultura e o modo de vida do brasileiro, que invariavelmente associa comemorações ao uso da bebida, é uma questão já arraigada e aceita pela sociedade, além de constantemente incentivada pelos comerciais nas emissoras de televisão.",
+    "3": "Assistir aos jogos com um copo de cerveja na mão é uma cena exibida incansavelmente durante a Copa nos canais de TV.",
+    "4": "No Mundial de 2014, o Brasil quer tentar conter os abusos e prevenir a violência.",
+    "5": "Estudos comprovam que a violência nos estádios diminuiu desde a proibição da venda e consumo de bebidas alcoólicas durante os jogos.",
+    "6": "O consumo excessivo de álcool gera episódios de agressões e até mesmo mortes entre os torcedores e é esse cenário que o Ministério Público quer evitar.",
+    "7": "Prevenir, fiscalizar e reprimir a violência é dever do poder público e cabe à sociedade apoiar a iniciativa e ajudar na disseminação da ideia de que o rigor da medida pode ajudar a diminuir o problema.",
+    "8": "Apoiando a iniciativa, a sociedade vai contribuir para que o Mundial seja um evento de poucos incidentes e muita diversão."
+  },
+  "redacao_gerada": {
+    "0": "A questão sobre a necessidade de leis mais rigorosas para o controle do consumo de álcool é um debate complexo e recorrente na sociedade brasileira.",
+    "1": "De um lado, os defensores argumentam que a bebida alcoólica é responsável por inúmeros problemas sociais, como violência e acidentes de trânsito, justificando assim uma intervenção estatal mais firme.",
+    "2": "Por outro lado, críticos apontam que tal medida poderia ferir a liberdade individual e que o foco deveria ser na educação e conscientização, em vez de restrições severas.",
+    "3": "Essa dicotomia reflete diferentes visões sobre o papel do Estado e a responsabilidade individual.",
+    "4": "Um dos principais argumentos a favor de leis mais rígidas reside no impacto negativo do álcool na segurança pública e na saúde.",
+    "5": "Estatísticas frequentemente associam o consumo excessivo a altos índices de criminalidade, especialmente em eventos esportivos e noturnos, além de serem um fator determinante em acidentes de trânsito que ceifam vidas.",
+    "6": "A proibição ou limitação em certos locais, como estádios, ou a intensificação da fiscalização contra a venda a menores, são exemplos de medidas que buscam mitigar esses efeitos danosos, protegendo a coletividade de comportamentos de risco.",
+    "7": "Contudo, a imposição de um controle excessivo pode gerar resistência e não resolver a raiz do problema.",
+    "8": "A cultura brasileira, por exemplo, muitas vezes associa o álcool a momentos de lazer e celebração, como visto em canções populares que exaltam a bebida.",
+    "9": "Limitar o acesso ou o consumo pode ser visto como uma invasão à liberdade pessoal, e a eficácia dessas leis depende muito da sua fiscalização e da aceitação social.",
+    "10": "Além disso, a mudança de hábitos é um processo longo que exige, paralelamente às leis, campanhas educativas eficazes e tratamento para dependentes químicos.",
+    "11": "Diante desse cenário, é fundamental que o Estado adote uma abordagem equilibrada.",
+    "12": "Para mitigar os efeitos negativos do álcool, é preciso fortalecer a fiscalização contra a venda a menores e implementar medidas de segurança em eventos, como sugerido por órgãos de segurança pública.",
+    "13": "Paralelamente, deve-se investir em campanhas de conscientização sobre os perigos do consumo abusivo e oferecer suporte a programas de reabilitação.",
+    "14": "O objetivo deve ser reduzir os danos sociais sem cercear desproporcionalmente a liberdade individual, promovendo um consumo mais responsável."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "15"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "15"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0",
+        "5",
+        "15"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "0",
+        "9",
+        "10",
+        "12",
+        "14",
+        "15"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "26"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "15"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "0",
+        "7",
+        "9",
+        "10",
+        "12",
+        "14",
+        "15"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "15"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

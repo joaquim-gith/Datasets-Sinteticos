@@ -1,0 +1,194 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "frases": {
+      "0": "A polícia se excede contra os manifestantes ou cumpre seu papel?",
+      "1": "Em janeiro deste ano, no eixo Rio-São Paulo, ocorreram manifestações que mobilizaram grandes grupos de diferentes setores da população.",
+      "2": "Para começar, os \"rolezinhos\", promovidos por jovens da periferia, com intuito declarado de se divertir, de ver e ser visto nos shoppings.",
+      "3": "A seguir, os \"rolezões populares\", organizados por movimentos sociais, para protestar e fazer reivindicações, também diante dos shoppings.",
+      "4": "Finalmente, na capital paulista, no aniversário da fundação da cidade, um protesto contra os gastos da Copa, transformou-se numa batalha campal entre Black Blocs e a Polícia Militar, com os atos de vandalismo sendo duramente reprimidos.",
+      "5": "A polícia já agira nos rolezinhos e rolezões.",
+      "6": "De acordo com os meios de comunicação, em todos os casos, exagerou na contenção dos manifestantes, atuando de modo violento e inadequado.",
+      "7": "Qual a sua opinião sobre a ação dos policiais?",
+      "8": "Eles extrapolaram o exercício de suas funções e se excederam?",
+      "9": "Ou se viram obrigados a reagir aos vândalos com dureza, recorrendo a violência para manter a ordem pública?",
+      "10": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "No aniversário da cidade de São Paulo, manifestação contra a realização da Copa no Brasil começou pacífica, mas terminou em violência O preço da civilização Polícia é fundamental.",
+      "1": "O primeiro passo para um grupamento humano um pouco mais complexo deixar para trás a barbárie é reservar ao poder público o monopólio do uso legítimo da violência, ou seja, constituir uma polícia.",
+      "2": "Para chegar à condição de sociedade civilizada, entretanto, isso ainda não basta.",
+      "3": "É preciso também ser capaz de controlar essa polícia, já que, excluído o cenário mais catastrófico da guerra de todos contra todos, são as forças do Estado que se tornam um dos principais focos de violência contra os cidadãos.",
+      "4": "Em São Paulo, realizamos precariamente o primeiro objetivo, mas só engatinhamos no segundo.",
+      "5": "[ Hélio Schwartsman, Folha de S.",
+      "6": "Paulo, 28 ] O ano que não vai acabar O cenário para 2014 é, a um só tempo, maravilhoso e inquietante.",
+      "7": "Renovadas formas de organização, debate, deliberação e ação emergem nas ágoras improvisadas em escadarias e largos onde a multidão toma a palavra com a coragem de dizer a verdade: do calvário de Amarildo até o trem sempre enguiçado; da tragédia das enchentes até o apartheid dos templos de consumo, agora desafiados pelos \"rolezinhos\".",
+      "8": "Os pobres ousam saber e sabem ousar.",
+      "9": "O poder responde tornando o apartheid explícito: proibição judicial e truculência policial, e isso logo depois da hipócrita sacralização de Mandela.",
+      "10": "Mas, como em junho, a repressão só fará o movimento se propagar.",
+      "11": "Os jovens que circulam pelos shoppings nos dizem que, para sermos livres, precisamos estar e agir juntos na polis.",
+      "12": "E estar juntos implica que o pressuposto da liberdade seja a igualdade, a igualdade não como aplicação de um critério abstrato de justiça, mas a justiça como constituição da liberdade.",
+      "13": "[ Giuseppe Cocco e Adriano Pilatti, Folha de S.",
+      "14": "Paulo, 14 ] Onda incendiária A depredação de patrimônio público ou privado, a título de protesto contra os mais variados problemas, tem se transformado numa perigosa e inaceitável rotina no cotidiano nacional.",
+      "15": "Se o direito de manifestação e de reunião é assegurado pela Constituição, nem por isso pode ser exercido de maneira irrestrita.",
+      "16": "Os atos devem ser pacíficos e, como é óbvio e desnecessário dizer, seus participantes não são autorizados a praticar crimes de nenhuma natureza.",
+      "17": "Alguns manifestantes, todavia, parecem se esquecer das regras básicas de civilidade.",
+      "18": "Neste sábado, em São Paulo, um Fusca foi incendiado e terminou destruído.",
+      "19": "Ainda que o episódio tenha sido acidental, como se afirma, por pouco não resultou em tragédia, já que cinco pessoas estavam no automóvel.",
+      "20": "A piromania, porém, não é nova.",
+      "21": "Propaga-se, na periferia paulistana, uma onda de incêndios de ônibus municipais.",
+      "22": "Até sexta-feira, 21 veículos haviam sido queimados neste mês.",
+      "23": "O número equivale ao total de casos registrados no primeiro semestre de 2013.",
+      "24": "[ Editorial, Folha de S.",
+      "25": "Paulo, 28 ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Todos sabem que no Brasil, há tempos, observa-se, a  exclusão social dos moradores das periferias,          e recentemente cogita-se o movimento rolezinho, em que os jovens \"favelados\" estão sendo protagonistas, um momento marcante na história.",
+    "1": "Percebe-se nesse movimento a participação ativa da polícia , mas o que atormenta a população é se este se excede contra os manifestantes ou cumpre seu papel.",
+    "2": "Os jovens em geral, sempre  querem estar na moda, comprar roupas e tênis de marca, com  os jovens da periferia não poderia ser diferente, para ser incluso na sociedade  eles fazem de tudo para obterem esses tênis tão idealizados , e convenhamos, que, em uma sociedade que se diz civilizada  a exclusão já deveria deixar  de existir.",
+    "3": "O movimento rolezinho reuniu os jovens de diferentes realidades e cidades com um único objetivo: se divertir no shopping, e de certa forma, inconscientemente, protestar contra a exclusão social.",
+    "4": "Embora o movimento, a priore  , pareça inofensivo  a reunião de vários jovens facilitou ao  acontecimento de arrastões em local de lazer para as famílias, o que, sem dúvida, causa desordem .",
+    "5": "Para manter a ordem  surge a          participação dos polícias  , entretanto percebe-se que a polícia esta se excedendo contra os manifestantes, não tolerando os protestos.",
+    "6": "Em um país que se diz democrático, os manifestantes estão sendo reprimidos pelos polícias  por expressarem sua opinião,tudo bem que, algumas  pessoas vão com outras finalidades          desagradáveis , mas os policiais não podem generalizar e agredir os jovens cidadãos que estão no seu direito de opinar.",
+    "7": "Para amenizar tal situação  os jovens poderiam organizar suas manifestações em locais abertos, para não facilitarem  a existência de perturbação pública, a mídia poderia investir em propagandas que acreditem no poder juvenil, afinal, os jovens são o futuro do país, e o governo poderia orientar mais os policiais para não          generalizarem todos os manifestantes e evitarem a agressão, para impedir que esses transtornos voltem a acontecer no futuro."
+  },
+  "redacao_gerada": {
+    "0": "A atuação policial em manifestações públicas tem sido objeto de intenso debate, polarizando opiniões entre aqueles que a veem como excessiva e arbitrária e os que a consideram uma resposta necessária à manutenção da ordem.",
+    "1": "Em um contexto democrático, o direito à manifestação é pilar fundamental, mas a linha que separa a proteção do cidadão do autoritarismo estatal é tênue e frequentemente testada.",
+    "2": "É imperativo analisar se as forças de segurança extrapolam seus limites ou se apenas cumprem seu dever diante de um cenário por vezes caótico, o que exige uma reflexão aprofundada sobre os limites do poder e a garantia das liberdades civis.",
+    "3": "Sob a ótica da filosofia política, a relação entre Estado e indivíduo é marcada pela concessão do monopólio da força legítima ao poder público, como defendido por teóricos como Max Weber.",
+    "4": "Essa prerrogativa, no entanto, não é absoluta e deve ser exercida com estrita aderência à legalidade e aos princípios democráticos.",
+    "5": "Quando a polícia utiliza violência desproporcional contra manifestantes pacíficos, ela não apenas viola direitos individuais, mas fragiliza a própria legitimidade do Estado, que, ao invés de proteger, passa a oprimir seus cidadãos, conforme alerta Hélio Schwartsman sobre a necessidade de controle sobre as forças estatais.",
+    "6": "Ademais, a história demonstra que a repressão ostensiva a movimentos sociais, longe de coibir a insatisfação popular, frequentemente a intensifica, gerando um ciclo de violência e desconfiança.",
+    "7": "A \"onda incendiária\" de depredação de patrimônio, mencionada em editoriais, embora inaceitável e criminosa, não pode servir de justificativa para a truculência policial generalizada.",
+    "8": "A Constituição Federal assegura o direito à manifestação, mas impõe que os atos sejam pacíficos, cabendo às forças de segurança a identificação e a contenção de eventuais vândalos, sem criminalizar a coletividade que exerce seu direito de protesto.",
+    "9": "Portanto, é fundamental que o Ministério da Justiça, em colaboração com as Secretarias de Segurança Pública estaduais, estabeleça protocolos mais claros e rigorosos para a atuação policial em manifestações.",
+    "10": "Essa ação deve incluir treinamento especializado em direitos humanos e técnicas de controle de distúrbios, com o objetivo de garantir a ordem pública sem cercear o direito de expressão.",
+    "11": "A fiscalização contínua e independente da conduta policial, por meio de ouvidorias e órgãos de controle externo, é essencial para assegurar que a força estatal seja utilizada de forma proporcional e legal, protegendo a democracia e a dignidade humana."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "7",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": [
+        "1",
+        "3",
+        "4"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2",
+        "3",
+        "15",
+        "17"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "7",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3",
+        "15",
+        "16"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "6",
+        "8"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4",
+        "9",
+        "10"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "4",
+        "6"
+      ],
+      "textos_motivadores": [
+        "14",
+        "16",
+        "17"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "15"
+      ],
+      "textos_motivadores": [
+        "15",
+        "16",
+        "17"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    }
+  }
+}

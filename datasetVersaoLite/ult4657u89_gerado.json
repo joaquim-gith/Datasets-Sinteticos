@@ -1,0 +1,169 @@
+{
+  "tema": "por-que-as-pessoas-mentem-pela-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Por que as pessoas mentem pela internet?",
+      "1": "Pesquisa realizada pela Universidade de Cornell, nos Estados Unidos, revelou que 81% das pessoas que utilizam sites de relacionamento na internet mentem para aqueles com quem se comunicam.",
+      "2": "Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas a seus parceiros de chat.",
+      "3": "Quais os motivos dessa atitude?",
+      "4": "Trata-se apenas da vontade de impressionar o outro?",
+      "5": "Ou haverá um motivo mais profundo: a insatisfação consigo mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Quem está atrás do teclado?",
+      "1": "Um indivíduo isolado envia mensagens solitárias e busca o amor por meio de imagens virtuais.",
+      "2": "Ele se realiza em casa, protegido, à distância, e corre o risco de se decepcionar, quando, e se, um encontro real vier a ser marcado.",
+      "3": "Estamos no século do amor via internet com pessoas namorando virtualmente sem o calor dos corpos que se entregam.",
+      "4": "Mas, afinal, que tipo de relação se estabelece via computador?",
+      "5": "Existe vínculo?",
+      "6": "Se houver traição virtual, como fica o relacionamento entre os namorados?",
+      "7": "Basta se desconectar para pôr fim a um envolvimento emocional.",
+      "8": "Jairo Bouer comenta a pesquisa Texto 2 Segundo o filósofo francês Jean-Paul Sartre, \"o ser humano possui uma atração doentia pela verdade\".",
+      "9": "Sartre considera que o desejo da verdade aparece muito cedo nos seres humanos e se manifesta como vontade de confiar nas coisas e nas pessoas, isto é, de acreditar que as coisas são exatamente como o indivíduo as percebe e o que as pessoas lhe dizem é digno de confiança e crédito.",
+      "10": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "As relações humanas estão passando por uma incrível mudança desde que começamos a utilizar a Internet.",
+    "1": "O e-mail, as salas de bate-papo, o messengers, a videocam vão facilitando as comunicações e criando uma nova forma de se relacionar: paquera virtual, namoro e amizade virtual e até sexo virtual.",
+    "2": "Milhares de pessoas acostumaram-se (ou acomodaram-se) a passarem horas e horas a fio, varando as madrugadas diante de um monitor com os dedos em cima de um teclado.",
+    "3": "Esquecem-se às vezes de alimentarem-se ou comem por ali mesmo.",
+    "4": "Vale tudo para não perder os textos (declarações) na telinha.",
+    "5": "Literalmente, muda-se para o computador.",
+    "6": "Chega a se tornar um vicio incontrolado (netfobia), ficamos ansiosos para abrir os e-mails e ler mensagens toda hora todo dia ou então ouvir as chamadinhas dos messengers.",
+    "7": "Ah Internet, já não conseguimos viver sem ela.",
+    "8": "Como vimos o amor é onipresente e imprevisível.",
+    "9": "Entretanto, vale ressaltar que os relacionamentos, aqui citados, são literalmente, virtuais e que não se pode depositar total confiança.",
+    "10": "Afinal eu falo com \"vc\" que fala \"cmg\", logo o meu modo de \"falar\" diz palavras que, cabe a quem está do outro lado da telinha, acreditar ou não.",
+    "11": "Ora a pessoa, isolada de um todo, pode manipular o seu contato com informações não verossímeis, usando outra imagem a fim de ganhar a confiança do seu novo contato.",
+    "12": "A questão em si é, por que mentir?",
+    "13": "Ou por que mentimos?",
+    "14": "Num mundo cada vez mais competitivo em que vivemos vale tudo.",
+    "15": "As pessoas usam a internet para se comunicarem com um fim único: mostrar quem são, o que fazem, onde moram etc.",
+    "16": "O fruto disso nada mais nada menos é uma propaganda pessoal, onde o produto é você e quem faz esse comunicado é o próprio usuário ou internauta.",
+    "17": "Um relacionamento via internet tem dividido a opinião dos internautas dos sites de relacionamento.",
+    "18": "Uns acreditam na veracidade de suas palavras, quanto que a maioria não.",
+    "19": "Este é simples devido as pessoas estarem distante uma da outra.",
+    "20": "Mas qual o motivo que leva uma pessoa a querer enganar seu parceiro de chat?",
+    "21": "Provavelmente seria a insatisfação consigo mesmo?",
+    "22": "ou o fato de querer impressionar alguém?",
+    "23": "A resposta para esta questão é simples, a meu conceito, o fato de as pessoas usarem nomes diferente, idades alteradas e tantos outros quesito não prováveis é que o internauta quando está com seu parceiro não precisa de modo algum provar a veracidade de suas palavras escritas naquele momento de conversa on line .",
+    "24": "Outro quesito também considerável também é o medo que as pessoas têm de serem ou não aceitas nesse \"mercado\" cabe aqui destacar que quem usa desse modo ou meio de relação sabe que cedo ou mais tarde a verdade virá, ou seja, os romances pela internet podem se desenvolver rapidamente, mas em geral terminam quando a realidade vem à tona.",
+    "25": "Outro também aqui é por ser hábito deles mentir fora do virtual e aproveita que na net não pode ser comprovada a verdade do que esta escrevendo e aproveitam para por em prática seus hábitos habituais."
+  },
+  "redacao_gerada": {
+    "0": "A internet é um lugar onde as pessoas se comunicam muito, e as vezes elas mentem.",
+    "1": "Isso é ruim porque a pessoa que escuta não sabe a verdade.",
+    "2": "Muita gente mente sobre como é ou o que faz para parecer melhor para os outros, isso é normal acontecer na internet.",
+    "3": "A mentira na internet acontece porque as pessoas não se sentem seguras com elas mesmas.",
+    "4": "Elas acham que se falarem a verdade ninguém vai gostar delas.",
+    "5": "Então elas inventam coisas para impressionar e ter amigos ou namorados virtuais.",
+    "6": "É triste isso acontecer.",
+    "7": "Os motivos para mentir são vários, pode ser por vergonha ou por querer ser alguém que não é.",
+    "8": "A pessoa se esconde atrás da tela e fala o que quer, sem ter medo de ser julgada na hora.",
+    "9": "Isso é um problema que precisa ser resolvido.",
+    "10": "Para resolver isso, as pessoas deveriam ser mais honestas e falar a verdade sempre.",
+    "11": "As empresas de internet poderiam fazer algo para as pessoas não mentirem tanto.",
+    "12": "Assim, as relações seriam mais verdadeiras e ninguém se sentiria enganado."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8",
+        "9"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "2",
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "4"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "5",
+        "1"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "1",
+        "3"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "2",
+        "0"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8",
+        "9"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4",
+        "5"
+      ]
+    }
+  }
+}

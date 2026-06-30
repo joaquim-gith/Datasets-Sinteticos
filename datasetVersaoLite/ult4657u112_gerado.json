@@ -1,0 +1,168 @@
+{
+  "tema": "a-gramatica-facilita-ou-dificulta-a-comunicacao",
+  "comando_tematico": {
+    "frases": {
+      "0": "A gramática facilita ou dificulta a comunicação?",
+      "1": "As regras gramaticais têm como objetivo uniformizar a língua de um povo, padronizá-la, de modo a torná-la comum e acessível a todos os usuários.",
+      "2": "Em poucas palavras, a gramática deve facilitar a comunicação.",
+      "3": "No entanto, a imensa dificuldade dos estudantes em aprendê-la sugere que isso talvez não ocorra de fato.",
+      "4": "O grande número de normas - às vezes sobre detalhes aparentemente insignificantes - não acaba complicando e criando confusão?",
+      "5": "Que importância tem, por exemplo, a troca de uma única letra na grafia de uma palavra?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 A língua é viva, quem não sabe?",
+      "1": "Basta ver o que acontece a ela, sempre aberta aos modismos.",
+      "2": "Agora mesmo está nas ruas uma maré de jeitos novos de falar, extrídos do filme \"Tropa de Elite\".",
+      "3": "A língua se enriquece, sai da boca do povo para os dicionários, amolda-se às regras gramaticais.",
+      "4": "Mas o problema são as regras, ah as regras!",
+      "5": "Se fizessem um plebiscito, é possível que as regras fossem banidas do Brasil.",
+      "6": "Aí todo mundo falaria e escreveria à vontade, sem ser vigiado por esses \"manuais de censura\" que são as gramáticas.",
+      "7": "Falaríamos gostosamente, sem receios e seríamos talvez mais felizes.",
+      "8": "Nada de escolher entre x e ch, entre s e z, e adeus acentos.",
+      "9": "Caso isso acontecesse, no entanto, estariam oficializados o descaso e o desrespeito ao idioma que falamos.",
+      "10": "Que conseqüências poderiam decorrer disso?",
+      "11": "Crime contra a gramática Texto 2 Um erro literalmente federal \"Um único carimbo fabricado com pouco zelo em relação à língua portuguesa fez com que milhares de documentos oficiais da Câmara e do Senado trouxessem um 'Congreço Nacional' estampado nos cantos inferiores de suas páginas.",
+      "12": "O tropeço vocabular está grafado em documentos como medidas provisórias enviadas pelo Executivo.",
+      "13": "O carimbo, fabricado em meados de agosto, está em documentos com datas até cerca de três semanas atrás, quando finalmente alguém descobriu o erro.",
+      "14": "\" Folha On-Line - 03 - 09h24 Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Tanto se diz a respeito de \"comunicações\".",
+    "1": "Será tão errado assim comunicarmo-nos de forma inadequada?",
+    "2": "Qual seria a forma \"adequada\" para nos expressarmos sem ferirmos os dogmas impostos e o \"respeito pela mater\" sem que incorramos no devido desrespeito?",
+    "3": "Parto do princípio que devemos sim, de forma singular, respeitar as regras existentes no tocante aos nossos textos, mas desde que para tanto, estejemos preparados; daí ouso perguntar: quem, em grande maioria nesse País, para tanto está suficientemente preparado?",
+    "4": "Nesse mesmo pequeno texto com certeza, deslizes ocorrem, mas, com certeza, creio, não prejudica minha \"comunicação\" com quem ora visualiza, e nem por isso, convictamente afirmo, estarei faltando nem transgredindo a forma dissertiva de comunicação.",
+    "5": "Hoje vivemos em uma sociedade praticamente virtual, em que novas formas de comunicação expande-se tal qual a internet; através de suas salas de \"bate-papo\", \"msn's\" e outros mais em que as pessoas \"transgridem\" todos os tipos de regras quer de dissertação como comportamental, o que não impede a comunicação, o entendimento, e, em alguns caso, até relacionamentos duradouros.",
+    "6": "Portanto, ainda creio que a verdadeira linguagem universal é a \"matemática\", essa \"comunicação\" através de seus números, teoremas, etc...",
+    "7": "(universais), é que consegue e conseguirá com que todos se comuniquem de forma uniforme, inclusive eu, que a estou usando para mandar esse e-mail, tendo visto que o princípio de um pc (do qual empresto esse serviço) é matemático.",
+    "8": "Quanto aos \"erros de dissertação\" ou de \"linguagem\", ah..",
+    "9": "viva a livre escolha.",
+    "10": "Como dizia o Chacrinha: \"quem não se comunica se trumbica\"!.."
+  },
+  "redacao_gerada": {
+    "0": "A comunicação humana, em sua essência, busca a troca de ideias e sentimentos, um processo que, idealmente, deveria ser otimizado pela gramática.",
+    "1": "Essa disciplina normativa, ao estabelecer um conjunto de regras e padrões para o uso da língua, visa a garantir a inteligibilidade e a unidade linguística em uma comunidade.",
+    "2": "Contudo, a percepção generalizada de que o aprendizado gramatical é árduo e a proliferação de normas, muitas vezes em detalhes minuciosos, levantam um questionamento pertinente: a gramática, em sua aplicação prática, de fato facilita ou dificulta a comunicação?",
+    "3": "O presente texto defenderá que, embora a gramática possua um papel fundamental na clareza e na coesão, seu ensino e aplicação excessivamente rígidos podem criar barreiras à comunicação efetiva.",
+    "4": "Em primeiro lugar, é imperativo reconhecer que a gramática, ao estabelecer um código comum, funciona como um alicerce para a compreensão mútua, impedindo o caos comunicacional.",
+    "5": "Como defendido pelo filósofo Ludwig Wittgenstein em sua obra \"Investigações Filosóficas\", a linguagem é um jogo com regras que, quando compreendidas, permitem a participação em um \"formas de vida\" compartilhadas, garantindo a comunicação em um nível coletivo.",
+    "6": "Dessa forma, a uniformização proporcionada pelas normas gramaticais permite que indivíduos de diferentes origens e com diferentes repertórios linguísticos possam interagir de maneira previsível e eficaz, evitando ambiguidades desnecessárias que poderiam surgir da ausência de um padrão.",
+    "7": "Por outro lado, a rigidez excessiva na aplicação das regras gramaticais, especialmente no contexto educacional, pode se tornar um entrave significativo à comunicação.",
+    "8": "A ênfase desproporcional em aspectos formais, como a concordância verbal em situações informais ou a distinção entre grafias com pouca relevância semântica, pode gerar ansiedade e inibição nos falantes, sobretudo nos estudantes.",
+    "9": "O sociólogo Pierre Bourdieu, ao discutir o capital cultural, aponta que a dominação simbólica pode se manifestar através da imposição de um \"discurso legítimo\", frequentemente atrelado a um domínio gramatical estrito, que marginaliza aqueles que não o possuem plenamente.",
+    "10": "Essa perspectiva evidencia como a gramática, quando utilizada como ferramenta de exclusão, pode, paradoxalmente, dificultar a comunicação ao criar barreiras sociais e psicológicas.",
+    "11": "Portanto, é evidente que a gramática possui um duplo papel na comunicação: é ferramenta de clareza e unidade, mas também pode ser fonte de dificuldade se aplicada de forma inflexível.",
+    "12": "Diante do exposto, o Ministério da Educação, em parceria com instituições de ensino, deve promover uma reforma no ensino da gramática, focando no desenvolvimento de competências comunicativas e não apenas na memorização de regras.",
+    "13": "Para tanto, é necessário que as escolas implementem metodologias ativas, como debates e produção textual contextualizada, que permitam aos alunos vivenciar a utilidade da gramática em situações reais de comunicação.",
+    "14": "Essa abordagem visa a desmistificar a gramática, mostrando-a como aliada da expressão e não como um obstáculo, de modo a garantir que a língua portuguesa, em sua riqueza e diversidade, sirva efetivamente como ponte entre os brasileiros, e não como muro."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        0,
+        2
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        1
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        0,
+        3,
+        4
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        1,
+        2
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        1
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        1,
+        2
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        3,
+        4
+      ],
+      "textos_motivadores": [
+        4,
+        6
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        4,
+        5
+      ],
+      "textos_motivadores": [
+        4,
+        8
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        4
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        3,
+        4
+      ],
+      "textos_motivadores": [
+        6
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        2
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

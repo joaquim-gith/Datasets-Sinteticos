@@ -1,0 +1,172 @@
+{
+  "tema": "gravidez-fora-de-hora-adolescencia-em-crise",
+  "comando_tematico": {
+    "frases": {
+      "0": "Gravidez fora de hora: adolescência em crise Gravidez acidental na adolescência é um grande conflito para os jovens e sua família - tenha ela ou não recursos financeiros.",
+      "1": "O que fazer após a descoberta?",
+      "2": "Gostem ou não, alguns casais são obrigados a uma união precoce e pouco duradoura.",
+      "3": "Às vezes, a entrega do filho para adoção é uma saída.",
+      "4": "Quanto aos abortos, por serem ilegais, podem se tornar procedimentos de risco.",
+      "5": "Sem falar nas convicções religiosas.",
+      "6": "Qualquer que seja a solução, especialistas insistem nos traumas psicossociais dos principais envolvidos em suas vidas futuras.",
+      "7": "Qual a sua opinião sobre esse problema social?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Jovem engravidou para ficar com namorado para sempre \"Juno\": filme premiado que aborda o problema Uma paixão avassaladora levou Paula a engravidar aos 18 anos, do namorado que tinha 16.",
+      "1": "\"Pensava que uma criança seria nosso vínculo eterno.",
+      "2": "Aconteceu justamento o contrário; na hora de buscar o resultado exame de gravidez, já não fomos mais juntos\".",
+      "3": "(Folha de S.",
+      "4": "Paulo, 20 de abril de 2008) Um aspecto econômico e social A gravidez na adolescência é um problema relacionado à pobreza.",
+      "8": "] Infelizmente os índices continuam altos.",
+      "12": "] E quase 90% das mães precoces cuidam dos filhos sem o parceiro.",
+      "13": "Se só informações não basta, a solução apontada por especialistas é despertar nos adolescentes, meninos e meninas, o interesse pelo futuro, para quebrar esse ciclo [.",
+      "16": "] já que a evasão escolar cresce e a vida profissional é adiada, aumentando ainda mais a exclusão social.",
+      "17": "(Ciça Vallerio, \"O Estado de S.",
+      "18": "Paulo\", 13 de abril de2008.",
+      "19": ") Patriarcalismo e violência: ainda?",
+      "20": "\"Não, senhora!",
+      "21": ", Filha minha num fica grávida na minha casa, não.",
+      "22": "Por que fez besteira?",
+      "23": "Vai tê que se virá.",
+      "24": "Minha mulhé num manda nada não, num adianta chorá, que a filha já foi pra rua.",
+      "25": "E num quero sabe de neto sem pai.",
+      "26": "E se a irmã dela fizer essa safadeza vai embora também, que eu não criei filha pra comprá vergonha.",
+      "30": "] Mas uma coisa eu garanto.",
+      "31": "Se eu pegá o que fez a sem-vergonheza, eu capo ele, tá entendendo?",
+      "32": "\" (Entrevista de pai de uma adolescente grávida, concedida a Flavia Di Roberto, periodontista, em pesquisa regional sobre a saúde bucal na gravidez.",
+      "33": "Osasco, São Paulo, 22 ).",
+      "34": "Gravidez precoce na contramão O número de adolescentes que se tornou mãe na última década aumentou.",
+      "35": "Mais garotas de 15 a 17 anos passaram a cuidar de bebês entre 1996 e 2006.",
+      "36": "O estranho é pensar que, em todas as outras faixas etárias, a taxa de fecundidade caiu.",
+      "37": "O que será que aconteceu com essa galera?",
+      "38": "Por que será que o pessoal mais novo tem vacilado mais?",
+      "39": "Para muitas meninas, ter filho significa abandonar os estudos e as pretensões profissionais para tomar conta do seu bebê.",
+      "40": "Será que essa é uma opção consciente ou um descuido impensado?",
+      "44": "] Nesses tempos em que a gente fala tanto de camisinha e métodos contraceptivos não dá para dizer que a gravidez vem por falta de informação.",
+      "45": "A questão é saber por que a informação não está sendo aplicada na prática.",
+      "46": "( Blog Jairo Bouer , outubro 2007)"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "No alge da juventude onde os prazeres e planos são prioridades para os adolescentes , a chegada de um bebê não é nada agradável nessa fase da vida.",
+    "1": "Ver os seus sonhos e alvos interrompidos por uma gravidez indesejada é a situação que muitos meninos e meninas enfrentam.",
+    "2": "É lamentável saber o número de garotas que se tornaram mães nesses últimos anos.",
+    "3": "Muitas dessas meninas nem sabem como é ser mãe , não têm ainda a consciência da dificuldade de criar um filho.",
+    "4": "O pai, que no geral são garotos imaturos , foge na hora de assumir a criança, sem falar na ofensiva pergunta feita por muitos: \"Esse Filho é meu?!\" E há aqueles que simplesmente, sem mostrar nenhum afeto pela vida que a parceira carrega, indicam o aborto como a solução para o que chamam de \"vacilo\".",
+    "5": "O mais estranho é saber que em meio de tanta informação a juventude ainda não acordou para o problema, é como se pensassem que isso jamais irá acontecer com eles.",
+    "6": "Para todos os lados existem alertas para o uso de métodos contraceptivos; até mesmo para a prevenção das DSTs.",
+    "7": "Mas de que adianta tanta informação se o público alvo não leva à sério?",
+    "8": "Se para alguns pais, falar de sexo com os filhos ainda é um Tabu?",
+    "9": "Se pra nossa juventude a curtição sem regras é o que vale apena?",
+    "10": "No final, o ser mais prejudicado é aquele que não pediu para vir ao mundo, o mesmo terá que enfrentar uma família destruturada com ausência de um pai e crescerá ouvindo a mãe dizer que \"ela não planejava ter filho cedo\".",
+    "11": "Fica difícil apontar o real motivo dessa crescente situação, mas a atitude mais cabível é conscientizar as famílias a terem um diálogo aberto e incentivar os pais a serem os melhores amigos dos seus filhos.",
+    "12": "Uma família estruturada é uma ótima contribuição para o desenvolvimento do jovem.",
+    "13": "Assim os pais se isentarão da culpa, caso a filha se descuide e antecipe sua maternidade.",
+    "14": "Enfatizar a importância da participação dos pais na orientação e educação dos jovens; poderá diminuir o aumento nos índices de gravidez precoce e ajudará a resgatar nossa adolescência dessa crise."
+  },
+  "redacao_gerada": {
+    "0": "A gravidez na adolescência configura um complexo problema social, que afeta não apenas as jovens mães, mas também suas famílias e a sociedade como um todo.",
+    "1": "Essa condição, muitas vezes indesejada e não planejada, impõe desafios significativos que podem comprometer o futuro dos envolvidos.",
+    "2": "É fundamental analisar as causas e as consequências dessa crise para buscar soluções eficazes.",
+    "3": "Um dos principais fatores que contribuem para a gravidez precoce é a falta de acesso à educação sexual de qualidade e a métodos contraceptivos.",
+    "4": "Muitos jovens não recebem informações adequadas sobre prevenção, seja por tabus culturais ou pela ausência de políticas públicas efetivas nesse sentido.",
+    "5": "Consequentemente, a desinformação ou o uso inadequado de contraceptivos levam a gestações não planejadas, que interrompem abruptamente os planos de vida dos adolescentes, como estudos e carreira.",
+    "6": "Ademais, a gravidez na adolescência frequentemente está associada a questões socioeconômicas, como a pobreza e a falta de perspectivas.",
+    "7": "Jovens em situações de vulnerabilidade social podem ter menos acesso à informação e a oportunidades, tornando a maternidade precoce uma saída aparente ou uma consequência da falta de alternativas.",
+    "8": "Essa situação agrava o ciclo de exclusão social, uma vez que a jovem mãe, muitas vezes sem o apoio do pai, precisa lidar com as responsabilidades da maternidade sem ter concluído sua formação, dificultando sua inserção no mercado de trabalho.",
+    "9": "Diante desse cenário, é imprescindível que o Ministério da Educação, em parceria com o Ministério da Saúde, promova ações educativas abrangentes sobre sexualidade e planejamento familiar nas escolas, utilizando linguagem acessível e adequada à faixa etária.",
+    "10": "Além disso, o governo deve investir em programas de apoio psicossocial para adolescentes grávidas e mães jovens, oferecendo suporte para que possam continuar seus estudos e desenvolver habilidades para o futuro, visando quebrar o ciclo de vulnerabilidade e garantir melhores condições de vida para elas e seus filhos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "34"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "39",
+        "40"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "44"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "44",
+        "45"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "39"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4",
+        "12"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "16",
+        "39"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "12",
+        "16"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "13",
+        "45"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "13",
+        "16"
+      ]
+    }
+  }
+}

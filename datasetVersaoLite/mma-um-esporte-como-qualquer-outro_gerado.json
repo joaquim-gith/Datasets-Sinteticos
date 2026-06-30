@@ -1,0 +1,383 @@
+{
+  "tema": "o-mma-e-um-esporte-como-outros-ou-injustificada-glorificacao-da-violencia",
+  "comando_tematico": {
+    "frases": {
+      "0": "O MMA é um esporte como outros ou injustificada glorificação da violência?",
+      "1": "The Ultimate Fighter, reality show sobre os lutadores de MMA (sigla para \"mistura de artes marciais\", em inglês), tem levantado muita polêmica.",
+      "2": "As lutas são muito violentas e o contato frequente com esse tipo de imagem pode acabar reduzindo o nível de sensibilidade do espectador à violência.",
+      "3": "Ver um indivíduo quebrar a cabeça do outro passaria a ser algo normal e até desejado para o público.",
+      "4": "Os críticos acreditam que as academias possam despejar nas ruas uma imensidão de brigões, loucos por sangue.",
+      "5": "Prova disso foi a entrevista recente de um estudante de 16 anos à Folha de S.",
+      "6": "Paulo , em que ele justificou sua escolha pelo MMA: \"Gosto de bater mesmo, quero ver sangue.",
+      "7": "\" Evidentemente, há inúmeros defensores que veem a luta apenas como mais um esporte, capaz de trazer várias vantagens a seus praticantes, como diminuir o estresse, desenvolver disciplina, propiciar grande gasto calórico.",
+      "8": "Assistir a lutas violentas poderia até ser um modo de exorcizar a violência na vida real.",
+      "9": "O que você acha dessa questão?",
+      "10": "O MMA deve ser encarado positiva ou negativamente?",
+      "11": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Não é vale-tudo Quando o UFC começou, em Denver, Colorado, nos Estados Unidos em 1993, cada lutador enfrentava no mínimo três adversários em uma noite.",
+      "1": "Havia poucas regras - não atingir os olhos, não usar os dedos para rasgar a boca do adversário e não golpear a virilha.",
+      "2": "Em 2001, os irmãos Frank e Lorenzo Fertitta, empresários americanos donos de cassinos em Las Vegas, compraram o evento e fizeram mudanças para que se tornasse um esporte reconhecido.",
+      "3": "Cada atleta passou a lutar apenas uma vez por evento, que tem em média cinco lutas por noite.",
+      "4": "Foram estipuladas 31 faltas, que podem até eliminar um competidor.",
+      "5": "Além disso, os atletas foram divididos em categorias de peso [.",
+      "8": "] e o acompanhamento médico passou a ser obrigatório - inclusive durante os treinamentos.",
+      "12": "] Todos os atletas são obrigados a passar por exame antidoping e testes médicos (HIV, hepatite, ressonância magnética e exame oftalmológico, entre outros).",
+      "13": "Durante as lutas, cinco médicos coordenados por um especialista em eventos esportivos de combate cercam o ringue, enquanto quatro especialistas em ferimentos leves acompanham os lutadores do lado de fora do octógono - o ringue, também chamado de gaiola, fechado, com cerca de nove metros de diâmetro ou quase 60m 2 de área de luta.",
+      "14": "[Davi Correia, Revista Veja] The Ultimate Fighter, reality show sobre os lutadores de MMA (sigla para \"mistura de artes marciais\", em inglês), tem levantado muita polêmica, pois as lutas são muito violentas Esporte para uns, violência para outros Goste ou não, você vai ser atacado por todos os lados: a luta da moda, o MMA, está na TV, no cinema, nas livrarias, nas conversas de bar, nas academias de ginástica.",
+      "15": "Os patrocinadores do UFC (campeonato internacional de MMA) já estão batendo os tambores para o próximo torneio, que será realizado em junho, no Brasil.",
+      "16": "São ajudados pelos subprodutos da luta e ajudam a promovê-los.",
+      "17": "Na próxima sexta-feira, 16, estreia o documentário \"Anderson Silva: Como Água\", sobre o grande ídolo da modalidade, com um esquema de distribuição peso-pesado: 150 salas e uma expectativa de público recorde.",
+      "18": "Em abril, estão previstos três lançamentos de livro sobre o tema: \"Filho Teu Não Foge à Luta: como os lutadores brasileiros transformaram o MMA em um fenômeno mundial\", pela editora Intrínseca, \"A Bíblia do MMA\", pela Universo dos Livros, e a autobiografia de Anderson Silva, pela Sextante.",
+      "19": "E se você já achava muito ter um bonitão na novela na pele de um lutador (o ator Dudu Azevedo, em \"Fina Estampa\", da TV Globo), prepare-se.",
+      "20": "Está sendo filmada a história de José Aldo, campeão dos pesos-pena, vivido na telona por outro bonitão de novelas, Malvino Salvador.",
+      "21": "Nas academias, as aulas de MMA estão inchando De olho no filão, a Fitness Brasil, maior feira de tendências para o setor, que acontece em Santos no final de abril, vai apresentar treinos formatados para esse público de academias, além de montar um octógono (ringue de MMA) durante o evento, onde serão realizadas lutas.",
+      "22": "Tantos adversários e marketing tão poderoso tornam difícil a vida dos críticos da luta.",
+      "23": "O de maior visibilidade, atualmente, é o deputado federal José Mentor (PT), que apresentou um projeto de lei proibindo a transmissão dos campeonatos pela TV.",
+      "24": "Em artigo publicado na Folha (5 ), ele ataca o que considera brutalidade e propaganda de violência gratuita.",
+      "28": "] \"O aumento de alunos nas aulas de MMA é imenso.",
+      "29": "Eles querem diminuir o estresse, desenvolver disciplina.",
+      "30": "Fora o gasto calórico, que é enorme\", afirma o fisioterapeuta e professor Thomas Henrique Cabrera, que dá aulas da modalidade na rede de academias Runner, em São Paulo.",
+      "34": "] Mas, mesmo regrado, o MMA não convence gente como Éder Jofre, por exemplo.",
+      "35": "\"Acho essa luta um assassinato.",
+      "36": "Não posso conceber o cara estar no chão e o outro vir dando joelhada\", diz o bicampeão mundial de boxe, hoje com 75 anos.",
+      "37": "No MMA são usadas regras de diferentes modalidades, misturadas.",
+      "38": "Pode dar soco, como no boxe, mas também pode bater da cintura para baixo; pode estrangular, como no jiu-jítsu, mas também dar cotoveladas em pé, como no muay thai.",
+      "39": "\"Criticavam o boxe porque era violento, mas, perto do MMA, é balé\", diz Jofre.",
+      "40": "O estudante Paulo Sanchez, 16, é mais direto.",
+      "41": "Fez judô na infância, mas prefere o MMA porque tem mais?",
+      "42": "pegada?",
+      "44": "\"Gosto de bater mesmo, quero ver sangue.",
+      "45": "\" Esse tipo de atitude preocupa o professor de artes marciais Jeremias Alves Silva.",
+      "46": "\"Hoje tem mercado e qualquer um já quer abrir academia de MMA.",
+      "47": "A pessoa não é formada numa arte marcial, não consegue dar uma formação correta ao aluno.",
+      "48": "\" [Folha de S.",
+      "49": "Paulo, 13 de março de 2012]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "O MMA é um esporte que vem atingindo grande popularidade  entre a  mídia e as  pessoas comuns.",
+    "1": "Como toda prática esportiva, o MMA pode promover melhorias ao meio social através da inserção de jovens à prática do esporte, instruindo-lhes que as lutas só devem ser exercidas dentro dos octógonos - ambientes onde ocorrem as lutas.",
+    "2": "Além disso, o MMA contribui para a formação moral desses jovens.",
+    "3": "As artes marciais mistas ou MMA - sigla proveniente da língua inglesa - podem contribuir consideravelmente para a melhoria social e cultural, esse  processo dar-se-ia através da abertura de centros de treinamento de MMA, ao possibilitar o ingresso de jovens que estejam dispostos a seguir fielmente os fundamentos do esporte.",
+    "4": "Por meio dessa iniciativa, pode-se evitar que esses indivíduos optem pelo ingresso nas práticas ilícitas, como o consumo e o tráfico de entorpecentes.",
+    "5": "Concomitantemente à divulgação de tal esporte, é necessária a vigilância intensiva acerca da prática do MMA, ou seja, ao pleno exercício da luta em si, essa  atitude é requerida, visto que a prática indiscriminada dessa luta, seja em ruas, escolas ou em locais clandestinos, vai de encontro aos princípios estabelecidos pelo MMA, o qual apregoa a prática do esporte pelo esporte, ou seja, essa atitude não deve ser exercida por motivos torpes, como brigas, revanchismos e exibição de poder.",
+    "6": "O MMA preconiza com louvor o respeito entre seus participantes, vê-se  que esse esporte  além de colaborar com melhorias nos âmbitos sócio-culturais,  transforma-se num agente capaz de contribuir para a formação moral de seus seguidores ao ensiná-los o inconteste respeito aos seus adversários, não  se trata de um exercimento  de protocolos estipulados pelo MMA, mas sim ao  reconhecimento voluntário de cada indivíduo ao árduo treinamento desempenhado pelo outro lutador.",
+    "7": "No encalço da popularidade das artes marciais mistas, surge o ensejo de promover melhorias na sociedade por meio da retirada de jovens da marginalidade social e, ao mesmo tempo, há o desenvolvimento do respeito e da tolerância entre os praticantes desse esporte."
+  },
+  "redacao_gerada": {
+    "0": "O MMA é um esporte que gera muita discussão na sociedade.",
+    "1": "Algumas pessoas acham que é uma luta violenta e que isso faz mal para quem assiste.",
+    "2": "Elas pensam que as pessoas podem ficar mais bravas e querer brigar mais na rua.",
+    "3": "Um menino disse que gosta de bater e ver sangue, o que mostra essa preocupação.",
+    "4": "Por outro lado, tem gente que defende o MMA dizendo que é só um esporte como outro qualquer.",
+    "5": "Falam que ajuda a relaxar e a ficar em forma.",
+    "6": "Para esses, a luta pode até ser um jeito de não brigar de verdade.",
+    "7": "A questão é se o MMA é bom ou ruim para a gente.",
+    "8": "Se a gente deve gostar ou não desse tipo de luta.",
+    "9": "É preciso pensar bem sobre isso e decidir o que fazer.",
+    "10": "O MMA tem regras e é praticado por muitos atletas que se esforçam.",
+    "11": "Eles treinam bastante para poder lutar.",
+    "12": "É um esporte que exige muita dedicação e força física.",
+    "13": "Muitos jovens se interessam por isso e veem como uma oportunidade.",
+    "14": "Mas a violência ainda é um ponto que incomoda muita gente.",
+    "15": "A gente vê na TV e em filmes, e isso pode influenciar as pessoas.",
+    "16": "É importante saber separar a luta do esporte.",
+    "17": "O MMA não é só briga, tem técnica e estratégia.",
+    "18": "Os lutadores são atletas que buscam a vitória de forma justa.",
+    "19": "Mas a imagem que passa pode ser de muita agressividade.",
+    "20": "Por isso, a discussão continua e não tem uma resposta certa.",
+    "21": "Cada um tem sua opinião sobre o assunto.",
+    "22": "O importante é que as pessoas se respeitem.",
+    "23": "E que a violência não seja a solução para os problemas.",
+    "24": "O esporte pode ser bom, mas não pode incentivar a violência.",
+    "25": "Precisamos ter cuidado com o que vemos e como isso nos afeta.",
+    "26": "O MMA pode ser um esporte, mas a forma como é apresentado é o que causa o debate.",
+    "27": "É uma questão complexa que precisa de mais reflexão.",
+    "28": "Não podemos simplesmente ignorar os dois lados da moeda.",
+    "29": "É preciso analisar os argumentos de cada um.",
+    "30": "E chegar a uma conclusão que seja boa para todos.",
+    "31": "Assim, o MMA pode ser visto de outra forma.",
+    "32": "Ou então, as pessoas podem entender melhor os riscos.",
+    "33": "O debate sobre o MMA continua."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "14",
+        "24"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6",
+        "44"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "7"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "7",
+        "29",
+        "30"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "12",
+        "37"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "29",
+        "30"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "21",
+        "28"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "14",
+        "24"
+      ]
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "14",
+        "17",
+        "19",
+        "20"
+      ]
+    },
+    "16": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "37",
+        "38"
+      ]
+    },
+    "18": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "3",
+        "5",
+        "8",
+        "12"
+      ]
+    },
+    "19": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "14",
+        "24"
+      ]
+    },
+    "20": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10"
+      ]
+    },
+    "21": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "22": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "23": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "24": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "24"
+      ]
+    },
+    "25": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "2",
+        "3"
+      ]
+    },
+    "26": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "27": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "28": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10"
+      ]
+    },
+    "29": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "30": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "31": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "32": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "24"
+      ]
+    },
+    "33": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10"
+      ]
+    }
+  }
+}

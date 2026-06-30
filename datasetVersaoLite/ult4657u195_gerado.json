@@ -1,0 +1,144 @@
+{
+  "tema": "fomos-dominados-pelas-maquinas-que-inventamos",
+  "comando_tematico": {
+    "frases": {
+      "0": "Fomos dominados pelas máquinas que inventamos?",
+      "1": "Já não conseguimos viver sem celular, computador, internet e outros poderosos recursos tecnológicos.",
+      "2": "Queiramos ou não, eles transformaram o mundo durante o século 20 e ingressaram no século 21 com uma velocidade espantosa.",
+      "3": "Muita gente se adapta rapidamente às novidades e nem lembra como era a vida sem elas.",
+      "4": "Para outros, porém, ocorre uma dúvida: nossa existência seria melhor ou pior sem tudo isso?",
+      "5": "Seríamos diferentes?",
+      "6": "Há quem odeie e quem ame irrestritamente essas máquinas.",
+      "7": "Qual é nossa relação com os avanços da tecnologia?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ser humano se tornou uma extensão da roda O Rio chegou a 2 milhões de carros; São Paulo, a 6 milhões.",
+      "1": "No Rio, é um carro para cada três habitantes; em São Paulo, são dois.",
+      "2": "O automóvel venceu.",
+      "3": "O comunicólogo Marshal McLuhan, talvez a única voz otimista de 1968, errou feio: o ser humano é que se tornou uma extensão da roda.",
+      "4": "Mas, em 2008, quem quiser chegar rapidinho a qualquer lugar, é melhor que vá a pé.",
+      "5": "Ruy Castro, \"Folha de S.",
+      "6": "Paulo\", 17 Estresse ou vida partilhada Glauco, \"Folha de S.",
+      "7": "Paulo\", 05 A máquina e o poeta Cota Zero Stop.",
+      "8": "A vida parou Ou foi o automóvel?",
+      "9": "Carlos Drummond de Andrade (1902-1987, \"Alguma Poesia\", 1930) Os sábios e a cultura \"Com o aparecimento da escrita, alguns sábios temeram que o conhecimento, que antes estava vivo na cabeça, viria a morrer, esquecido nas páginas de um livro.",
+      "10": "Com a expansão dos meios de comunicação e a conseqüente chuva de informações, alguns sábios temeram que o conhecimento (.",
+      "13": ") viria a degenerar-se em papel de embrulhar peixe e ondas espalhadas no espaço.",
+      "14": "Com a explosão da internet (.",
+      "17": "), e a extrema facilidade de encontrar uma informação, alguns sábios temem que tudo acabe em desinteresse.",
+      "18": "Luiz Zico Rocha Soares, (\"Internet, um mundo paralelo\".",
+      "19": "Melhoramentos, 2007,."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Segundo estudos recentes, houve um aumento considerável do número de carros comprados por brasileiros nos últimos anos, assim como o de televisões de tela plana, tocadores de música, celulares multifuncionais e câmeras digitais.",
+    "1": "A baixa dos preços no mercado provocou a socialização da tecnologia, e com isso a dependência em relação a esta aumentou expressivamente.",
+    "2": "O ser humano não consegue mais imaginar-se sem esses aparatos tecnológicos.",
+    "3": "Considera a vida mais prática, mais rápida e apesar do prolongamento da expectativa de vida, a qualidade desta não seguiu as mesmas proporções.",
+    "4": "Hospitais e escolas ainda perecem devido à sua péssima qualidade, enquanto os cidadãos comemoram a chegada da TV digital ao país.",
+    "5": "Não se pode negar os avanços que a tecnologia propiciou no campo das pesquisas científicas , entretanto, deve-se reconhecer o quanto esta nos fez reféns e quantas mudanças negativas provocou.",
+    "6": "Jovens passam noites inteiras em frente a telas de computadores e a maior parte sofre de distúrbios causados por estresse; distúrbios que antes só eram verificados entre adultos.",
+    "7": "É impossível regredir e tentar viver sem um computador com conexão à Internet, entretanto, devemos nos policiar quanto ao seu uso.",
+    "8": "Não nascemos grudados a esses aparelhos, portanto podemos e devemos nos desligar deles algumas horas por dia."
+  },
+  "redacao_gerada": {
+    "0": "A onipresença de dispositivos tecnológicos em nosso cotidiano suscita um debate acerca de nossa relação com eles.",
+    "1": "De fato, a dependência que desenvolvemos de smartphones, computadores e da internet é inegável, moldando hábitos e transformando a maneira como interagimos com o mundo e uns com os outros.",
+    "2": "Essa integração tão profunda levanta a questão: fomos nós que criamos as ferramentas ou elas passaram a nos controlar?",
+    "3": "Um dos argumentos centrais dessa dependência reside na forma como as máquinas otimizaram e, ao mesmo tempo, limitaram nossas vidas.",
+    "4": "A promessa de eficiência e conveniência, como a comunicação instantânea e o acesso facilitado à informação, tornou-se uma realidade.",
+    "5": "No entanto, essa mesma facilidade pode levar à superficialidade e à perda de habilidades cognitivas essenciais, como a memória e a concentração, pois nos acostumamos a ter respostas prontas, sem o esforço do raciocínio aprofundado.",
+    "6": "Outro ponto a ser considerado é o impacto social e psicológico.",
+    "7": "As redes sociais, por exemplo, promovem uma conexão global, mas também podem gerar isolamento e ansiedade, com comparações constantes e a busca por validação virtual.",
+    "8": "A linha entre a vida real e a vida digital se torna cada vez mais tênue, e a necessidade de estar sempre conectado pode nos afastar das interações humanas genuínas e do contato com a natureza, o que é preocupante.",
+    "9": "Diante desse cenário, é fundamental que o ser humano retome o controle sobre a tecnologia.",
+    "10": "Para isso, o Ministério da Educação, em parceria com o Ministério da Ciência e Tecnologia, deve promover campanhas de conscientização sobre o uso equilibrado das ferramentas digitais, incentivando atividades offline e o desenvolvimento do pensamento crítico.",
+    "11": "Além disso, as escolas precisam integrar em seus currículos discussões sobre os impactos da tecnologia e as formas de utilizá-la de maneira saudável, garantindo que as máquinas continuem sendo instrumentos a nosso serviço, e não o contrário."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "2",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "2",
+        "10",
+        "14"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "10",
+        "14",
+        "17"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "1",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "3",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

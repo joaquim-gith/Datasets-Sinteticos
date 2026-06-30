@@ -1,0 +1,324 @@
+{
+  "tema": "quais-as-condicoes-necessarias-para-se-atingir-o-sucesso-profissional",
+  "comando_tematico": {
+    "frases": {
+      "0": "Quais as condições necessárias para se atingir o sucesso profissional?",
+      "1": "Não há como negar que o mercado de trabalho torna-se cada vez mais competitivo.",
+      "2": "Por outro lado, recentemente, as empresas têm revelado precisar de trabalhadores com qualificações específicas, de nível técnico ou superior, que estão em falta no país.",
+      "3": "Além disso, existem vários outros fatores que podem interferir na escolha de uma profissão ou na obtenção de um bom emprego.",
+      "4": "Sorte, vocação, talento, boa formação escolar, estar atento à demanda e às circunstâncias do momento.",
+      "5": "Quais as condições necessárias para se atingir o sucesso profissional?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Mercado imobiliário em alta André Ming Bordokan, 25, não tinha o sonho de ser engenheiro civil quando foi aprovado na Escola Politécnica da Universidade de São Paulo.",
+      "1": "Na escolha da especialização entre as engenharias, no fim do segundo ano, sua preferência era por mecânica, mas, pelas notas no ranking dos alunos, ficou com a segunda opção.",
+      "2": "Hoje, no quinto ano do curso, comemora o fato de o mercado aquecido cimentar a carreira.",
+      "3": "\"No início da faculdade, civil era uma área muito desvalorizada.",
+      "4": "Metade da turma ia trabalhar em banco.",
+      "5": "Agora, temos mais trabalho\", lembra Bordokan, que divide o curso com o estágio na construtora Gafisa.",
+      "6": "Segundo analistas de mercado, a retomada da engenharia civil -após forte decaída nas décadas passadas- se dá sobretudo pelas perspectivas de investimento em infra-estrutura com o PAC (Plano de Aceleração do Crescimento) e o crescimento do crédito imobiliário.",
+      "7": "( Folha de S.",
+      "8": "Paulo , 2 de dezembro de 2007) Muita injustiça Talento, vocação e mercado de trabalho A vocação permite dar sentido de unidade ao exercício de um ou vários talentos, próprios ou alheios.",
+      "9": "O talento, por sua vez, é a estabilização da capacidade para fazer bem alguma coisa.",
+      "10": "O \"mercado de trabalho\" se abre a esta ou àquela pessoa não em virtude de sua vocação, mas do seu talento, pois este é algo atual e útil e não potencial, como a vocação.",
+      "11": "A realização profissional resulta de que o talento seja o prosseguimento harmônico, cultural, da vocação.",
+      "12": "(Joel Nunes dos Santos, psicólogo e orientador profissional, \"Programa de Orientação Profissional\", Univercidade - Rio de Janeiro) Educação de qualidade É indiscutível que uma grande parcela da garantia de sucesso do processo educacional está na sala de aula, nas mãos do professor.",
+      "13": "O professor Zeferino Vaz, quando criou a Unicamp, em precárias instalações que tinham sido uma propriedade rural, disse que uma universidade se faz primeiro com cérebros, depois com cérebros, depois com cérebros, depois com bibliotecas e laboratórios e somente depois com prédios.",
+      "14": "Sem dúvida nenhuma, se oferecermos tudo o que se refere a equipamentos e condições de trabalho para que uma escola funcione, mas colocarmos ali professores mal formados, não teremos uma educação de qualidade.",
+      "15": "Enquanto o inverso pode até acontecer: uma educação razoável, apesar de condições materiais desfavoráveis.",
+      "16": "(Lucília Helena do Carmo Garcez, prof.",
+      "17": "dra.",
+      "18": "em lingüística aplicada, aposentada da Universidade de Brasília, escritora, consultora do MEC.",
+      "19": "- TVE Brasil) Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Para se atingir o sucesso profissional, tem que estar bem preparado, ter uma boa formação escolar, ter talento e coragem para superar os obstáculos que vem pela frente e se dedicar ao máximo na profissão.A felicidade na vida profissional ocorre quando o talento nela empregado é harmônico com a vocação.",
+    "1": "O mercado de trabalho assimila o profissional não por causa de sua vocação, mas sim por causa de seu talento.",
+    "2": "A vocação é algo potencial no sujeito, tanto que ele pode negá-la; o talento por outro lado, é algo atual, é o \"produto final\" do exercício que impôs e definiu a forma de atuação de sua inteligência.",
+    "3": "Com o aumento das cidades, fez com que o setor imobiliário crescesse, tanto que alguns anos átras, os engenheiros civis e arquitetos não era tão valorizados como hoje, isso acontece por causa do desenvolvimento econômico e principalmente com a aplicação do crédito imobiliário.",
+    "4": "O setor é um dos que mais impulsiona a economia do país, pela capacidade de gerar empregos.",
+    "5": "A má qualidade da educação vem afetando o desenvolvimento dos estudantes.",
+    "6": "Entre as causas do problema estão a falta de qualidade das escolas, professores mal preparados e mal remunerados.",
+    "7": "A alternativa para reverter a situação é investir na qualificação dos professores.",
+    "8": "Assim, para sentir-se realizado na profissão, tem que buscar conhecimento e estudar, sendo assim escolha a vocação que mais se relaciona e se entregue de corpo e alma."
+  },
+  "redacao_gerada": {
+    "0": "Para ter sucesso na vida profissional, é preciso ter sorte e saber as coisas certas.",
+    "1": "Muita gente acha que estudar muito é o que importa, mas isso não é verdade sempre.",
+    "2": "O mercado de trabalho é complicado e cheio de gente querendo as mesmas vagas.",
+    "3": "É importante saber o que as empresas querem para poder se encaixar lá.",
+    "4": "Saber as coisas que estão na moda é bom.",
+    "5": "É preciso ter talento para alguma coisa e saber aproveitar as oportunidades que aparecem.",
+    "6": "Às vezes, a gente tem que fazer o que dá, mesmo sem gostar muito.",
+    "7": "O dinheiro é importante também, então é bom pensar em profissões que pagam bem.",
+    "8": "A vida é cheia de desafios e nem todo mundo consegue o que quer.",
+    "9": "A educação ajuda, mas não garante tudo.",
+    "10": "Tem gente que se dá bem sem estudar tanto.",
+    "11": "É um mistério como as pessoas conseguem.",
+    "12": "Se a gente tiver um bom emprego, é bom ficar nele.",
+    "13": "Se não tiver, tem que procurar outro.",
+    "14": "É importante ter amigos que ajudem.",
+    "15": "As condições para o sucesso são várias e difíceis de juntar.",
+    "16": "A gente precisa de um pouco de tudo.",
+    "17": "Mas o mais importante é nunca desistir de procurar.",
+    "18": "Se der certo, ótimo.",
+    "19": "Se não der, a gente tenta de novo.",
+    "20": "É assim que funciona.",
+    "21": "A gente precisa se esforçar bastante.",
+    "22": "E torcer para dar certo.",
+    "23": "Não tem uma receita mágica.",
+    "24": "Cada um tem um caminho.",
+    "25": "Mas a gente tem que tentar.",
+    "26": "Fazer o que puder.",
+    "27": "E esperar.",
+    "28": "É preciso ter esperança."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "4",
+        "8",
+        "10"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "12",
+        "14",
+        "15"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "1",
+        "10"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "2",
+        "4"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "4",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "1",
+        "3"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "12",
+        "14",
+        "15"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "14",
+        "15"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "16": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4"
+      ]
+    },
+    "17": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "18": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "19": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "20": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "21": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "22": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "23": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "24": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "25": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "26": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "27": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "28": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

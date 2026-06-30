@@ -1,0 +1,738 @@
+{
+  "tema": "o-conceito-de-familia-pode-ou-nao-pode-mudar",
+  "comando_tematico": {
+    "frases": {
+      "0": "O conceito de família pode ou não pode mudar?",
+      "1": "A Câmara dos Deputados está promovendo em seu site uma enquete sobre o Estatuto da Família.",
+      "2": "A iniciativa, bem sucedida, contava, em 28 de abril passado, com a participação de mais de 6 milhões de votantes.",
+      "3": "A pesquisa questiona quem está a favor ou contra a definição de família estabelecida no Estatuto, que é a seguinte: \"define-se entidade familiar como o núcleo social formado a partir da união entre um homem e uma mulher, por meio de casamento ou união estável, ou ainda por comunidade formada por qualquer dos pais e seus descendentes\".",
+      "4": "Há quem não veja nenhum problema nessa formulação, que é o conceito tradicional de família.",
+      "5": "Há também quem acredita que não pode haver definição diferente, pois qualquer variação (como a união entre dois homens ou entre duas mulheres) não constitui uma família.",
+      "6": "Por outro lado, há quem diga que isso é uma visão equivocada, conservadora e que não acompanha a evolução social, que, cada vez mais, reconhece os direitos de minorias com diferentes opções sexuais.",
+      "7": "O que você pensa a esse respeito?",
+      "8": "Você é a favor do conceito tradicional?",
+      "9": "Ou acredita que outros tipos de união também constituem uma família?",
+      "10": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Logo no primeiro capítulo da novela Babilônia , Fernanda Montenegro e Nathália Timberg se beijaram, em cena que provocou polêmica.",
+      "1": "As duas representam na trama um casal de lésbicas, que vive numa união que dura há muitos anos.",
+      "2": "Opinião popular A enquete sobre o projeto de lei que trata do Estatuto da Família (PL 6583 ) obteve, desde o dia 11 de fevereiro - quando foi incluída no portal da Câmara dos Deputados - até quinta-feira passada (22), um milhão de votos.",
+      "3": "A enquete questiona se o votante concorda com a definição de família como o núcleo formado a partir da união entre homem e mulher, prevista no projeto.",
+      "4": "Por enquanto, 62,83% dos participantes votaram a favor; 36,8%, contra; e 0,37% disseram não ter opinião formada.",
+      "5": "Observação : o texto acima focaliza a situação no final de fevereiro.",
+      "6": "Você pode acompanhar o andamento da pesquisa clicando aqui.",
+      "7": "[ Câmara dos deputados ] Utilidade social Frases como a do deputado Ronaldo Fonseca (Pros-DF) causam perplexidade aos estudiosos do Direito “faz-se necessário diferenciar família das relações de mero afeto, convívio e mútua assistência; sejam essas últimas relações entre pessoas de mesmo sexo ou de sexos diferentes, havendo ou não prática sexual entre essas pessoas.",
+      "8": "É importante asseverar que apenas da família, união de um homem com uma mulher, há a presunção do exercício desse relevante papel social que a faz ser base da sociedade”.",
+      "9": "Há no discurso uma clara visão utilitarista: a família de pessoas do mesmo sexo não cumpre sua função última, “ser base da sociedade”.",
+      "10": "Haveria duas famílias: as úteis e as inúteis para a base da sociedade.",
+      "11": "É argumento que já legitimou atrocidades em passado não tão remoto.",
+      "12": "[ José Fernando Simão, site Consultor Jurídico ] Ingerência estatal Eis que o Estado brasileiro decidiu arvorar-se no direito de decidir quais arranjos familiares são dignos e quais são indignos para a criação de indivíduos psicologicamente saudáveis.",
+      "13": "A ingerência estatal em domínio eminentemente privado, uma vez que a felicidade não pode ser construída baixo decreto presidencial, é flagrante na discussão do chamado Estatuto da Família, projeto de lei proposto pelo deputado federal Anderson Ferreira, do Partido Republicano.",
+      "14": "Pode-se dizer, até, que o projeto não começa de todo mal, em seu artigo 1º esclarecendo que o Estatuto dispõe “sobre os direitos da família, e as diretrizes das políticas públicas voltadas para a valorização e apoiamento da entidade familiar”, sendo obrigação do Estado, da sociedade e do Poder Público, de acordo com o artigo 3º, “assegurar à entidade familiar a efetivação do direito à saúde, à alimentação, à educação, à cultura, ao esporte, ao lazer, ao trabalho, à cidadania e à convivência comunitária”.",
+      "15": "O banho de água fria vem, entretanto, no artigo 2º, em que a “entidade familiar” é definida como o “núcleo social formado a partir da união entre um homem e uma mulher (grifo do projeto de lei), por meio do casamento ou união estável, ou ainda por comunidade formada por qualquer dos pais e seus descendentes”.",
+      "16": "[ Marcelo Gruman, site Carta Maior ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "A constituição  brasileira é como a obra de Nelson Rodrigues “ Bonitinha  mas ordinária”, e não poderia ser diferente dada a qualidade de nossos legisladores.",
+    "1": "Da mesma maneira que o salário mínimo “determina” que exista um salário que garanta o mínimo de dignidade a pessoa  , que o Estado é responsável por garantir segurança, educação, etc., etc., você acredita que mudar ou não          esse conceito fará diferença?",
+    "2": "Eu tenho certeza que não.",
+    "3": "A minha família permanecerá a mesma independente da lei, sou  contra o estatuto pois é mais uma lei inútil, cumpra-se  o Artigo 5º da constituição  e toda essa baboseira seria dispensável.",
+    "4": "Pense num lugar onde todos são irmãos por parte de mãe, cujo pai não se conhece devido a promiscuidade da mesma, esse lugar chama-se casa de leis nacional, que se reflete nas irmandades dos estados e municípios.",
+    "5": "Enfim, se você como eu, é cristão, nossa família é definida pela regra de fé do nosso mestre  “Pois todo aquele que faz a vontade de meu Pai que está nos céus, este é meu irmão, minha irmã e minha mãe”, ou seja minha família, e  esse bando de filho  da mãe não me representa,          nem pastores, nem lobos, que criam nessa discussão uma cortina de fumaça para não chegarmos a  conclusão que:  falta dinheiro pra cuidar da família brasileira, então  fechemos o congresso  , reduzamos os ministérios, e peguemos esses bilhões e vamos investir numa pátria mãe gentil, pra chama-la  Pátria mãe gentil, Pátria amada Brasil, mas ainda nos faltará o Pai, pois é triste ver que falta o amor de Deus em governantes e governados..."
+  },
+  "redacao_gerada": {
+    "0": "A família é um lugar muito importante na vida das pessoas.",
+    "1": "Ela é onde a gente aprende as primeiras coisas e se sente seguro.",
+    "2": "Mas tem gente que pensa que família só pode ser homem e mulher, e tem outros que acham que pode ser diferente.",
+    "3": "Eu acho que o conceito de família pode mudar sim, porque o mundo está mudando muito.",
+    "4": "Por exemplo, hoje em dia tem casais do mesmo sexo que se amam e querem formar uma família, e isso é bom.",
+    "5": "A sociedade evoluiu e novas formas de família surgiram, como mães solteiras criando seus filhos sozinhas ou avós cuidando dos netos.",
+    "6": "Essas pessoas também formam famílias e merecem respeito.",
+    "7": "Não é justo dizer que só um tipo de família é a certa, pois o amor e o cuidado são o que realmente importam.",
+    "8": "A lei deveria pensar nisso e aceitar todas as famílias.",
+    "9": "O importante é ter amor e carinho, não importa a forma.",
+    "10": "Devemos pensar que o amor é o que faz uma família, e não quem são as pessoas.",
+    "11": "Se duas pessoas se amam e querem ter filhos, elas devem ter o direito de formar uma família.",
+    "12": "A sociedade tem que ser mais aberta e aceitar as diferenças.",
+    "13": "O governo deveria apoiar todas as famílias, independente de como elas são formadas.",
+    "14": "Assim, todos se sentem mais felizes e incluídos.",
+    "15": "Acredito que o mais importante é o afeto entre as pessoas que moram juntas e se cuidam.",
+    "16": "Não adianta ter um modelo de família se não tiver amor.",
+    "17": "A sociedade precisa entender que o amor é o principal para uma família funcionar bem.",
+    "18": "As pessoas devem ser livres para amar e construir suas vidas juntas.",
+    "19": "O conceito de família pode sim mudar com o tempo e com a evolução das pessoas.",
+    "20": "É preciso que a gente aprenda a respeitar as escolhas de cada um.",
+    "21": "Assim, o mundo fica mais justo e bonito para todos.",
+    "22": "Acredito que a família é onde existe amor e cuidado.",
+    "23": "Se um casal do mesmo sexo se ama e quer ter filhos, eles são uma família.",
+    "24": "A sociedade tem que entender isso.",
+    "25": "As leis também precisam ser atualizadas para reconhecer todos os tipos de família.",
+    "26": "É importante que todos se sintam amparados.",
+    "27": "O conceito de família pode mudar sim, e é bom que mude para ser mais inclusivo.",
+    "28": "Assim, mais pessoas se sentem felizes.",
+    "29": "É importante que a gente pense no amor acima de tudo.",
+    "30": "O amor é a base de tudo.",
+    "31": "A família é onde as pessoas se sentem amadas e protegidas.",
+    "32": "Se duas mulheres se amam e querem viver juntas, elas formam uma família.",
+    "33": "Ou dois homens.",
+    "34": "O importante é o carinho.",
+    "35": "A sociedade tem que aceitar isso.",
+    "36": "As leis também devem mudar.",
+    "37": "Assim, todos são iguais.",
+    "38": "Acredito que o conceito de família pode mudar para ser mais justo.",
+    "39": "Assim, todos se sentem felizes.",
+    "40": "O amor é o mais importante.",
+    "41": "O amor e o carinho.",
+    "42": "Assim, a família é um lugar bom.",
+    "43": "Onde as pessoas se sentem bem.",
+    "44": "A sociedade tem que entender isso.",
+    "45": "E o governo também.",
+    "46": "Assim, todos são felizes.",
+    "47": "Acredito que o conceito de família pode mudar.",
+    "48": "E é bom que mude.",
+    "49": "Assim, mais pessoas se sentem amadas.",
+    "50": "E protegidas.",
+    "51": "O amor é a base.",
+    "52": "O amor e o respeito.",
+    "53": "Assim, a família é um lugar bom.",
+    "54": "Onde todos se sentem bem.",
+    "55": "A sociedade tem que aceitar isso.",
+    "56": "E o governo também.",
+    "57": "Assim, todos são felizes.",
+    "58": "Acredito que o conceito de família pode mudar.",
+    "59": "E é bom que mude.",
+    "60": "Assim, mais pessoas se sentem amadas.",
+    "61": "E protegidas.",
+    "62": "O amor é a base.",
+    "63": "O amor e o respeito.",
+    "64": "Assim, a família é um lugar bom.",
+    "65": "Onde todos se sentem bem.",
+    "66": "A sociedade tem que aceitar isso.",
+    "67": "E o governo também.",
+    "68": "Assim, todos são felizes.",
+    "69": "Acredito que o conceito de família pode mudar.",
+    "70": "E é bom que mude.",
+    "71": "Assim, mais pessoas se sentem amadas.",
+    "72": "E protegidas.",
+    "73": "O amor é a base.",
+    "74": "O amor e o respeito.",
+    "75": "Assim, a família é um lugar bom.",
+    "76": "Onde todos se sentem bem.",
+    "77": "A sociedade tem que aceitar isso.",
+    "78": "E o governo também.",
+    "79": "Assim, todos são felizes."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "4",
+        "5",
+        "6",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": [
+        "3",
+        "7",
+        "8",
+        "10"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "10"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "3",
+        "6",
+        "9"
+      ],
+      "textos_motivadores": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "6",
+        "9"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "3",
+        "6",
+        "9"
+      ],
+      "textos_motivadores": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "17": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "18": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "19": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "20": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "21": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "22": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "23": {
+      "comando_tematico": [
+        "6",
+        "9"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "24": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "25": {
+      "comando_tematico": [
+        "3",
+        "6",
+        "9"
+      ],
+      "textos_motivadores": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    "26": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "27": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "28": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "29": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "30": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "31": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "32": {
+      "comando_tematico": [
+        "6",
+        "9"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "33": {
+      "comando_tematico": [
+        "6",
+        "9"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "34": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "35": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "36": {
+      "comando_tematico": [
+        "3",
+        "6",
+        "9"
+      ],
+      "textos_motivadores": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    "37": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "38": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "39": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "40": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "41": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "42": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "43": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "44": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "45": {
+      "comando_tematico": [
+        "3",
+        "6",
+        "9"
+      ],
+      "textos_motivadores": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    "46": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "47": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "48": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "49": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "50": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "51": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "52": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "53": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "54": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "55": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "56": {
+      "comando_tematico": [
+        "3",
+        "6",
+        "9"
+      ],
+      "textos_motivadores": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    "57": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "58": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "59": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "60": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "61": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "62": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "63": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "64": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "65": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "66": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "67": {
+      "comando_tematico": [
+        "3",
+        "6",
+        "9"
+      ],
+      "textos_motivadores": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    "68": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "69": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "70": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "71": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "72": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "73": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "74": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "75": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "76": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "77": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "78": {
+      "comando_tematico": [
+        "3",
+        "6",
+        "9"
+      ],
+      "textos_motivadores": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    "79": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

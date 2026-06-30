@@ -1,0 +1,316 @@
+{
+  "tema": "o-famoso-conflito-de-geracoes-ainda-existe-hoje",
+  "comando_tematico": {
+    "frases": {
+      "0": "O famoso conflito de gerações ainda existe hoje?",
+      "1": "Com o avanço tecnológico, tudo acontece mais rápido na atualidade.",
+      "2": "Isso aproxima as idades, bem como o seu modo de ser, de pensar e de se comportar.",
+      "3": "A transformação dos costumes, ocorrida a partir da década de 1960 e que teve como marco mais célebre o ano de 1968, fez a família se modernizar e mudar de estilo.",
+      "4": "Entretanto, muitos afirmam que ainda existe o célebre conflito entre gerações.",
+      "5": "Pais e filhos continuam com relacionamento difícil e raramente conseguem chegar a um acordo sobre questões essenciais da vida cotidiana.",
+      "6": "O que você pensa disso?",
+      "7": "Justifique suas opiniões com fatos e argumentos.",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Filhos são o melhor radar para o sucesso Andrew Lippman, fundador do Institulo de Tecnologia de Massachutsetts (EUA), afirma que \"a velocidade com que as gerações surgem, hoje, diminuiu de 30 para três anos, e que, para estar atualizado, um empresário [que quiser ter sucesso] deve perceber quais produtos mais atraem seus filhos.",
+      "4": ") Folha de S.",
+      "5": "Paulo.",
+      "6": "8 de junho de 2008.",
+      "7": "Caderno \"Negócios\", pág.",
+      "8": "4 Maitena, Folha de S.",
+      "9": "Paulo, 25 de maio de 2008 Honrar pai e mãe (.",
+      "12": ") \"Foi-se o patriarcado, em que havia regras rígidas.",
+      "13": "Eu não quereria estar na pele dos infratores de então, os filhos que ousavam discordar.",
+      "14": "Em lugar da antiga rigidez e distância, estabeleceu-se a alegre bagunça, com mais demonstrações de afeto, mais liberdade, mais respeito pelas individualidades - muitas vezes com resultados dramáticos.",
+      "15": "Lembro a frase que já escrevi nesta coluna, do psicólogo que me revelou: \"a maior parte dos jovens perturbados que atendo não tem em casa pai e mães, tem uma gatão e uma gatinha (.",
+      "19": "Pais bonzinhos são tão danosos quanto pais indiferentes\".",
+      "20": "Lya Luft, Veja, 11 de junho de 2008, pág.",
+      "21": "18 Escândalo social \" No meu tempo não havia essa história de responder para o pai ou para mãe e ter vontades egoístas.",
+      "22": "Todos obedeciam com um olhar, comiam o que tinha, pediam licença pra tudo.",
+      "23": "O menino e a menina já sabiam o seu futuro.",
+      "24": "Se o pai tinha um açougue, ele também ia ser açougueiro.",
+      "25": "Se a mãe era professora, a filha tinha de ser um pouco mais: talvez advogada.",
+      "26": "Hoje o mundo está de cabeça para baixo, porque os filhos é que mandam nos pais, os filhos mudam o jeito dos pais, até o jeito de lidar com os negócios familiares.",
+      "27": "Criticam tudo, fazem barulho, ouvem músicas absurdas, não respeitam a geração dos avós, vivem no computador mas, apesar de tudo, ficam um tempo enorme morando na mesma casa.",
+      "28": "É um escândalo social.",
+      "29": "\" Érica Winsburg, professora universitária aposentada, 70 anos, em entrevista a Flávia Di Roberto.",
+      "30": "Texto inédito."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Os anos vão se passando, o mundo muda, e consequentemente, quem vive nesse mundo também sofre alterações .",
+    "1": "O tempo passa e novos costumes acabam sendo adquiridos por toda uma população, que as vezes até mesmo sem perceber, em pouco tempo já mudou o seu jeito de ser de alguns anos atrás.",
+    "2": "Com o avanço tecnológico a mudança do jeito de pensar das pessoas deve ser mudado sim ; porém, nem todos se acostumam com isso, e como conseqüência novos problemas e conflitos surgem como desafios de tantas \"avançadas\", as quais nem todos se acostumam rápido.",
+    "3": "O mundo mudou e isso já é fato.",
+    "4": "Quem nasceu há até 35 anos atrás já pode ser considerado de uma outra geração, devido as influências que a atual sociedade impõe a todos, e ao \"reformulado\" caráter do jovem de hoje se compararado com o de antigamente.",
+    "5": "A principal causa disso tudo, são os avanços tecnológicos.",
+    "6": "Novas coisas são lançadas, um novo pensamento é gerado.",
+    "7": "Como exemplo das alterações vividas por todos, podem ser ditas as propagandas de televisão.",
+    "8": "Hoje em dia, a mídia traz todas as informações do mundo, e os problemas que ninguém está livre de sofrer.",
+    "9": "Atualmente, por exemplo, existe uma grande campanha de conscientização dos jovens sobre a importância do uso de preservativos.",
+    "10": "Com isso, doenças podem ser evitadas, e pode-se dizer que a adolescência de vários jovens pode não ser marcada pela gravides ; a causa é justa, mas nem todos entendem que isso é preciso.",
+    "11": "Por causa dessas diferentes formas de pensar dos mais velhos e dos mais tradicionais, um sofrimento que poderia ser evitado acaba não sendo.",
+    "12": "Além da propaganda sobre a importância do uso de preservativos ser bastante questionada, vários outros temas podem gerar discussões.",
+    "13": "Anos atrás, a mulher que se vestia com roupas mais curtas, ou que se casava sem ser virgem era recriminada.",
+    "14": "Hoje isso já não acontece mais, e mulher que casa virgem nos tempos atuais pode até ser considerada \"santa\", tamanho é a dificuldade dessas serem encontradas .",
+    "15": "Quem mais se beneficiou com essas mudanças foram as mulheres, que tiverem sua imagem mais valorizada, e ganharam um respeito mais amplo diante da sociedade.",
+    "16": "Elas receberam mais prestígio e isso é realidade; porém, nem em todos os lugarem isto acontece.",
+    "17": "As vezes por causa da cultura do país e de seu povo; mas na maioria das vezes por causa do pensamento antigo de que a mulher não serve para muita coisa, idéia essa que ainda não foi extinta e que infelizmente gera muita polêmica.",
+    "18": "Tudo mudou, e todo cidadão querendo ou não, deve estar ciente disso.",
+    "19": "Não adianta dizer que prefere ser e ter um caráter mais tradicional, pois os jovens estão aí para debater e tentar excluir essa forma de pensar.",
+    "20": "Já está na hora de toda a sociedade reavaliar seus conceitos e chegar a conclusão de que de que se o mundo muda, quem vive nesse mundo também deve mudar.",
+    "21": "Só assim novos conflitos serão evitados, e a vida poderá se modernizar de uma forma mais acelerada e tranqüila , de um jeito que ninguém se aborreça por coisas que são impossíveis de se evitar."
+  },
+  "redacao_gerada": {
+    "0": "O conflito de gerações é um assunto que parece que nunca vai acabar, pois sempre tem gente que fala que os mais velhos não entendem os mais novos e vice versa.",
+    "1": "Isso acontece muito hoje em dia porque o mundo tá muito diferente do que era antigamente.",
+    "2": "As coisas mudam muito rápido, principalmente com a tecnologia que aparece todo dia.",
+    "3": "Os jovens querem coisas novas e os pais acham que é besteira, que não é importante.",
+    "4": "Por exemplo, a música que os jovens ouvem hoje em dia, os pais acham um barulho sem sentido.",
+    "5": "Assim, a comunicação fica difícil e cada um vive no seu mundo.",
+    "6": "A gente vê isso em casa, na rua, em todo lugar.",
+    "7": "Os pais não entendem porque os filhos passam tanto tempo no celular, e os filhos não entendem porque os pais se preocupam tanto com coisas que parecem bobas pra eles.",
+    "8": "Essa diferença de pensamento causa muita briga e discussão, porque ninguém quer ceder.",
+    "9": "A família antigamente era mais unida, mas hoje em dia cada um tem seu canto e suas ideias.",
+    "10": "Isso faz com que as diferenças fiquem mais evidentes e os conflitos apareçam mais.",
+    "11": "É complicado resolver isso porque as pessoas pensam de um jeito e não mudam fácil.",
+    "12": "A gente precisa tentar se entender melhor, mas nem sempre é fácil.",
+    "13": "O mundo tá mudando muito rápido e as gerações têm dificuldade de acompanhar.",
+    "14": "Na minha opinião, esse conflito existe sim e é bem forte hoje.",
+    "15": "Os jovens querem mais liberdade e os pais ficam com medo de que eles façam coisa errada.",
+    "16": "Eles não entendem que o mundo é outro e que os jovens precisam se expressar.",
+    "17": "Por exemplo, a forma de vestir, de falar, de sair com os amigos.",
+    "18": "Tudo isso os pais acham que está errado.",
+    "19": "Eles lembram de como era quando eles eram jovens e acham que os filhos estão perdendo o juízo.",
+    "20": "Mas a verdade é que o mundo mudou e eles precisam aceitar isso.",
+    "21": "Não adianta ficar brigando o tempo todo, porque isso só piora as coisas.",
+    "22": "É preciso mais diálogo e menos julgamento.",
+    "23": "Os pais precisam ouvir mais os filhos e os filhos precisam respeitar mais os pais.",
+    "24": "Assim, talvez a gente consiga diminuir essa distância que existe entre eles.",
+    "25": "A vida hoje é muito corrida e as pessoas não têm tempo pra sentar e conversar direito, isso também atrapalha muito.",
+    "26": "A gente precisa achar um jeito de se entender melhor."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "21",
+        "22",
+        "23"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "27"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "27"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "14",
+        "27"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "27"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "14",
+        "26"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "12",
+        "14"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "14",
+        "26"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "1",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "13",
+        "14",
+        "20"
+      ]
+    },
+    "16": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "14",
+        "26"
+      ]
+    },
+    "17": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "27"
+      ]
+    },
+    "18": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "27"
+      ]
+    },
+    "19": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "21",
+        "22",
+        "26"
+      ]
+    },
+    "20": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "14",
+        "26"
+      ]
+    },
+    "21": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "14",
+        "26"
+      ]
+    },
+    "22": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "23": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "24": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "25": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "26": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

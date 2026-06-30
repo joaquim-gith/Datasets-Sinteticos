@@ -1,0 +1,231 @@
+{
+  "tema": "qual-a-relacao-entre-o-estudo-e-uma-carreira-profissional-bem-sucedida",
+  "comando_tematico": {
+    "frases": {
+      "0": "Qual a relação entre o estudo e uma carreira profissional bem sucedida?",
+      "1": "A educação costuma ser apontada como um dos principais direitos sociais, devido aos benefícios que pode proporcionar ao cidadão.",
+      "2": "Uma recente pesquisa internacional, por exemplo, revelou que quem estuda é mais feliz.",
+      "3": "Outro argumento muito usado em favor da educação formal são os índices econômicos e trabalhistas, pois quem estuda normalmente ocupa os postos de trabalho mais bem pagos e consegue uma qualidade de vida melhor.",
+      "4": "Mas há exceções: de Sílvio Santos a Bill Gates, são vários os exemplos de indivíduos que conquistaram sucesso pessoal e profissional sem possuir um diploma universitário, assim como muitos também são os casos de pessoas formadas que não se sentem realizadas.",
+      "5": "O que você pensa disso?",
+      "6": "Estudar pode tornar as pessoas mais felizes?",
+      "7": "Qual a relação entre o estudo e uma carreira profissional bem sucedida?",
+      "8": "Veja os textos de apoio e discuta essas questões em uma dissertação argumentativa de até 30 linhas.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Estudar faz pessoas serem mais felizes e viverem mais Um estudo recente sobre aspectos da educação mostra que quem estuda mais tende a ser mais feliz e ter uma expectativa de vida maior.",
+      "1": "O levantamento What are the social benefits of education?",
+      "2": "(Quais são os benefícios sociais da educação?",
+      "3": ", em tradução livre) foi produzido pela OCDE (Organização para a Cooperação e Desenvolvimento Econômico) e realizado em 15 países membros da organização – do qual o Brasil não faz parte.",
+      "4": "\"A educação ajuda as pessoas a desenvolver habilidades, melhorar a sua condição social e ter acesso a redes que podem ajudá-las a terem mais conquistas sociais\", dizem os autores da pesquisa.",
+      "5": "Segundo o estudo, as pessoas que estudam mais são mais felizes porque têm maior satisfação em diferentes esferas de sua vida.",
+      "6": "Esse nível de satisfação pessoal é de, em média, 18% a mais para quem tem nível superior em relação àquelas que pararam no ensino médio.",
+      "7": "Em relação ao aumento da expectativa de vida, o estudo mostra que um homem de 30 anos, por exemplo, pode viver mais 51 anos, caso tenha formação superior, enquanto aquele que cursou apenas o ensino médio viveria mais 43, ou seja, oito anos menos.",
+      "8": "Essa disparidade é mais acentuada na República Tcheca, onde os graduados podem viver 17 anos a mais.",
+      "9": "Já os portugueses, asseguraram a diferença mais baixa, apenas 3.",
+      "13": ") Participação política Em outro capítulo desse mesmo levantamento, realizado com um grupo de 27 países, a OCDE chegou à conclusão de que 80% dos jovens com ensino superior vão às urnas, enquanto o número cai para 54% entre aqueles que não têm formação superior.",
+      "14": "Os adultos mais escolarizados também são mais engajados quando o assunto é voluntariado, interesse político e confiança interpessoal.",
+      "15": "[ UOL Educação ] Milionários sem diploma Bill Gates abandonou Harvard, montou a Microsoft, e se tornou um dos homens mais ricos do mundo com uma fortuna de US$ 58 bilhões.",
+      "16": "Samuel Klein veio da Polônia para o Brasil fugido de um campo de concentração nazista durante a Segunda Guerra Mundial, começou a vender utensílios domésticos de porta em porta, fundou as Casas Bahia e hoje é o rei do varejo brasileiro com uma empresa que faturou R$ 12,5 bilhões em 2007.",
+      "17": "Silvio Santos, um camelô no Rio de Janeiro, virou dono de mais de 30 empresas e do canal de televisão SBT.",
+      "18": "O que todos esses empresários com histórias tão diferentes têm em comum?",
+      "19": "Além de patrimônios que ultrapassam nove dígitos, nenhum possui diploma de curso superior.",
+      "20": "Ou abandonaram o mundo acadêmico antes de conquistar o diploma ou nem mesmo tiveram a chance de chegar lá.",
+      "21": "Aprenderam na marra, quebraram a cara em algumas ocasiões, porém, triunfaram.",
+      "25": ") [ Istoé Dinheiro ] Hall da fama da evasão Veja Álbum de fotos sobre celebridades que abandonaram os estudos."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Geralmente confiamos trabalhos, como cuidar de um ferimento grave, retirar a nossa \"dor de dente\"  e ensinar nossos filhos a ler, a um profissional qualificado, ou seja, uma pessoa que tenha estudado muito para          praticar esses trabalhos .",
+    "1": "Por isso o estudo é importante para se conseguir uma carreira,  quanto mais conhecimentos procuramos ter, mais saberemos sobre nossa areá  de          trabalho e mais as pessoas vão confiar em nós para praticamos  o          trabalho que escolhemos, mas é claro, estudo não é tudo.",
+    "2": "Pratica  , experiência  e para os mais          religiosos um \"tantinho de sorte\" são também          ingredientes de uma receita para se ser um profissional ideal e ganhar bastante dinheiro.",
+    "3": "Mas o ingrediente especial da receita é  duas palavrinhas mágicas:          \"Correr atráz\"  .",
+    "4": "\"Correar atráz\"  é a expressão certa.",
+    "5": "Tanto para uma pessoa com conhecimento escolar elevado quanto para um sertanejo sem estudos.",
+    "6": "No mundo capitalista  que  vivemos, uns perde  outros ganham, uns são ricos outros  pobres, é assim que o          capitalista vive.",
+    "7": "Quer disser  , você pode ser um gastronomico recém formado da  faculdade, com estudo elevado, mas não consegue arrumar emprego.",
+    "8": "Por que não consegue?",
+    "9": "A explicação é simples, existem mais de mil formandos em gastronomia na          sua frente, todos querendo um lugar no mercado de trabalho.",
+    "10": "Se é o senhor ou a senhora que está nessa situação, a única  coisa que podes  fazer é          correr atrás desse lugar, \"lutar até ganhar a batalha\" e se tornar um chefe de cozinha.",
+    "11": "Essas duas palavras  também explicam como as pessoas com poucos conhecimentos escolares conseguem um lugar bom no mercado de trabalho.",
+    "12": "Todos sabem que uma pessoa que nasce em uma classe social baixa geralmente tem que \"lutar mais\" para elevar sua qualidade de vida.",
+    "13": "Já um universitário, com as contas tudo  pagas pelos pais, tende a ficar mais tranquilo perante o  sustento da vida.",
+    "14": "É por isso que grandes nomes que já foram de classe social baixa aparecem na mídia hoje, a exemplo do Silvio Santos que, com certeza, ele correu atráz  uma qualidade de vida melhor, então, ele consegui.",
+    "15": "Estudar é um dos grandes passo  para se tornar um profissional de nível superior, porém não podemos esquecer, que se ficarmos parados e esperar  as oportunidades \"caírem do céu\"  nunca conseguiremos um lugar, tao desejado, no  mercado de trabalho."
+  },
+  "redacao_gerada": {
+    "0": "A relação entre estudo e sucesso profissional é meio complicada, sabe?",
+    "1": "Porque tem gente que estuda muito e não consegue um emprego bom, e tem gente que nem estudou e ficou rico.",
+    "2": "Então, não dá pra ter certeza se estudar adianta mesmo pra ter uma carreira legal.",
+    "3": "É uma coisa que a gente pensa muito, porque a escola fala que é importante, mas a vida mostra outras coisas.",
+    "4": "Às vezes, as pessoas que estudam mais ficam só no mundo dos livros e não aprendem as coisas práticas da vida e do trabalho.",
+    "5": "Isso pode atrapalhar elas a conseguirem um emprego melhor depois, porque o mercado de trabalho quer gente que sabe fazer as coisas e não só quem sabe a teoria.",
+    "6": "É mais ou menos isso.",
+    "7": "Tem gente que acha que quem estuda mais tem mais chance de ser feliz e ter mais dinheiro, mas isso não é sempre verdade.",
+    "8": "Por exemplo, tem uns caras famosos que não foram pra faculdade e ficaram super bem na vida, e outros que fizeram faculdade e tão aí, sem nada.",
+    "9": "Então, essa ideia de que estudar é o único caminho pra ser feliz e ter sucesso é meio furada.",
+    "10": "A gente precisa pensar se é só isso mesmo ou se tem outras coisas que importam mais.",
+    "11": "Talvez aprender na prática seja melhor.",
+    "12": "A gente vê muita gente que largou a escola e se deu bem, e isso faz a gente pensar se vale a pena tanto esforço na escola.",
+    "13": "É importante ter um bom emprego e ganhar dinheiro, mas também ser feliz.",
+    "14": "Se estudar não garante isso, então o que garante?",
+    "15": "É uma pergunta difícil.",
+    "16": "Eu acho que o estudo ajuda um pouco, mas não é tudo.",
+    "17": "Tem que ter sorte também e saber aproveitar as oportunidades que aparecem.",
+    "18": "Se não tiver oportunidade, não adianta estudar.",
+    "19": "Precisamos de mais oportunidades pra todo mundo.",
+    "20": "Então, a relação é essa: estudo pode ajudar, mas não é garantido e tem outras coisas que importam mais, como as oportunidades e a sorte."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "15",
+        "16",
+        "17",
+        "19",
+        "20"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "2",
+        "3",
+        "6"
+      ],
+      "textos_motivadores": [
+        "0",
+        "5"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "15",
+        "16",
+        "17",
+        "19",
+        "20"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "21"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "15",
+        "16",
+        "17",
+        "19",
+        "20"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "0",
+        "5"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "21"
+      ]
+    },
+    "18": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "19": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "20": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

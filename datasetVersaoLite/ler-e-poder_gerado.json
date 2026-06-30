@@ -1,0 +1,210 @@
+{
+  "tema": "e-valido-simplificar-a-linguagem-de-um-classico",
+  "comando_tematico": {
+    "frases": {
+      "0": "É válido simplificar a linguagem de um clássico?",
+      "1": "Em meados de 2014, uma polêmica agitou os meios literários e educacionais brasileiros: uma escritora decidiu publicar, com o apoio de lei de incentivo do Ministério da Cultura, uma adaptação simplificada do conto \"O alienista\", de Machado de Assis.",
+      "2": "Para justificar seu projeto, a escritora alegou que a dificuldade da linguagem do texto original afasta os jovens da leitura desse autor - um dos maiores escritores brasileiros.",
+      "3": "Entre educadores, críticos literários e jornalistas, as opiniões se dividiram: houve quem concordasse com ela e aprovasse a iniciativa; houve quem tachasse o projeto de equivocado e até de criminoso.",
+      "4": "Nos textos que acompanham a proposta de redação deste mês, apresentamos algumas das opiniões em conflito, para você formar uma ideia do debate.",
+      "5": "A partir delas e de seus próprios conhecimentos e opiniões, redija uma dissertação expondo o seu ponto de vista sobre esse tipo de adaptação de obras literárias.",
+      "6": "Você é contra ou a favor?",
+      "7": "Por quê?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Ilustração de \"O alienista\", em versão adaptada para os quadrinhos, de autoria de Fábio Moon e Gabriel Bá Palavra da adaptadora \"Entendo por que os jovens não gostam de Machado de Assis\", diz a escritora Patrícia Secco.",
+      "1": "\"Os livros dele têm cinco ou seis palavras que não entendem por frase.",
+      "2": "As construções são muito longas.",
+      "3": "Eu simplifico isso.",
+      "4": "\" Ela simplifica mesmo: Patrícia lançará uma versão de \"O Alienista\", obra de Machado publicada em 1882, em que as frases estão mais diretas e palavras são trocadas por sinônimos mais comuns (um \"sagacidade\" virou \"esperteza\", por exemplo\".",
+      "5": "A mudança não fere o estilo do escritor mais celebrado do Brasil, diz Patrícia.",
+      "6": "\"A ideia não é mudar o que ele disse, só tornar mais fácil.",
+      "7": "\" [ Folha de S.",
+      "8": "Paulo ] A função da escola \"É absurdo imaginar que a função da escola seja facilitar qualquer coisa, em vez de levar a trabalhar com as dificuldades da vida, da crítica e do conhecimento\", comenta o professor da USP Alcides Villaça.",
+      "9": "Ele se diz indignado: \"Apresentar como sendo de Machado de Assis uma mutilação bisonha de seu texto não devia dar cadeia?",
+      "11": "[ Folha de S.",
+      "12": "Paulo ] Perda da essência Infelizmente, Patrícia Secco falseia Machado de Assis.",
+      "13": "Além de lhe desfigurar o estilo, ela o emburrece.",
+      "14": "Sua adaptação é um retrocesso, que sacrifica até os avanços linguísticos do estilo machadiano, já ousadamente próximo da linguagem coloquial, numa antecipação das vanguardas do modernismo que só iriam se consolidar no Brasil quase meio século depois.",
+      "15": "A autora esqueceu-se de que Machado, assim como Borges, Beckett, Graciliano, não dá para ser adaptado em prosa sem que se perca a essência de sua arte.",
+      "16": "A obra machadiana é basicamente linguagem.",
+      "17": "Em seus romances, não há enredos rocambolescos nem profusão de personagens, como há em Homero, Cervantes e nos clássicos românticos.",
+      "18": "Mesmo “O Alienista”, talvez o enredo mais movimentado de toda a sua obra, depende substancialmente da linguagem, pois é nela que moram a argúcia e a ironia do conto.",
+      "19": "[José Maria e Silva, Revista Bula ] Uma chance para os clássicos Acreditar que as versões simplificadas de Machado de Assis emburrecerão a população é errôneo.",
+      "20": "Quem defende esse argumento parte do pressuposto de que vivemos num país de leitores ávidos de Machado de Assis que, por pura preguiça, trocarão a versão original pela adaptação e deixarão de enriquecer seu vocabulário.",
+      "21": "Nada mais distante da realidade.",
+      "22": "A grande maioria dos alunos foge da leitura obrigatória depois de esbarrar na primeira palavra difícil e recorre a resumos (ou à cola) para acertar a meia dúzia de questões dedicadas a Machado nas provas escolares.",
+      "23": "Muitos jamais dão outra chance aos clássicos da literatura.",
+      "24": "Uma versão simplificada poderia diminuir o choque e prepará-los para descobrir a obra original mais tarde, quando estiverem prontos.",
+      "25": "[Danilo Venticinque, Época ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "O instituto, Pró-Livro, revela que, há  uma crescente redução no hábito de leitura, principalmente entre jovens e crianças,          as quais, leem  somente por dever escolar.",
+    "1": "A partir dessas informações, um grupo de escritores têm  realizado e defendido a simplificação de grandes obras literárias, a fim de estimular a leitura.",
+    "2": "Estudiosos e literários  ficaram indignados com a possibilidade de tal          flexibilização .",
+    "3": "Segundo Benedito Antunes, professor da Unesp, a simplificação de clássicos não facilitará a formação de leitores, pois este  é um processo complexo e que passa por âmbitos sociais e econômicos.",
+    "4": "No entanto, a ideia central dos \"simplificadores\", é  justamente fazer com que todos os públicos sejam atingidos, independente da idade e posição social.",
+    "5": "A          flexibilização de grandes clássicos está baseado no fato de que, muitos  jovens deixam de ler grandes obras, porque estas  exigem um          domínio literário e linguístico superior a este  público.",
+    "6": "Assim, esse debate vai além da flexibilização da linguagem de um livro em si, passando pelo aspecto social e educativo do público o  qual se está falando.",
+    "7": "A leitura é essencial para o desenvolvimento humano e esta não  deve ficar restrita à  um grupo social, mais  desenvolvido intelectualmente do que outro.",
+    "8": "Todos têm o direito a  cultura e ao lazer e  se a sociedade for beneficiada com a simplificação dos livros, não há porque de tanta          histeria por parte dos linguistas .",
+    "9": "Em suma, sabe-se que a educação enaltece um país.",
+    "10": "Sendo assim, qualquer ação a fim de melhorar o desenvolvimento linguístico e literário deve ser aceito  .",
+    "11": "Tendo em vista que, a partir do momento em que o indivíduo desenvolve o gosto pela leitura, este futuramente, passará  a procurar livros mais          completos e audaciosos ."
+  },
+  "redacao_gerada": {
+    "0": "A simplificação da linguagem em obras clássicas é um tema que gera debates acalorados na sociedade contemporânea.",
+    "1": "De um lado, argumenta-se que a dificuldade do vocabulário e das construções sintáticas afasta o público jovem da leitura, necessitando de adaptações para tornar essas obras mais acessíveis.",
+    "2": "Por outro lado, críticos defendem que tal prática descaracteriza o texto original, comprometendo a essência artística e o legado cultural do autor.",
+    "3": "É fundamental ponderar sobre os reais benefícios e malefícios dessa abordagem.",
+    "4": "Um dos principais argumentos a favor da simplificação reside na necessidade de democratizar o acesso à literatura.",
+    "5": "Clássicos muitas vezes apresentam um vocabulário arcaico e estruturas frasais complexas, que podem ser barreiras intransponíveis para leitores menos experientes, especialmente os estudantes.",
+    "6": "A escritora Patrícia Secco, por exemplo, defende que adaptar obras como \"O Alienista\", de Machado de Assis, com termos mais comuns e frases mais diretas, pode despertar o interesse dos jovens, que hoje em dia fogem de leituras obrigatórias por não as compreenderem.",
+    "7": "Essa medida, portanto, visa aproximar o leitor da obra, evitando que ele desista logo no início por conta de dificuldades linguísticas.",
+    "8": "Contudo, a simplificação excessiva pode levar à perda da riqueza e da profundidade da obra original.",
+    "9": "Críticos literários apontam que a linguagem de um clássico é parte integrante de sua arte e de seu valor histórico.",
+    "10": "Adaptar o texto, trocando palavras por sinônimos mais comuns ou alterando construções, pode, segundo eles, \"emburrecer\" a obra e falsear a intenção do autor, como em uma \"mutilação bisonha\".",
+    "11": "A essência da literatura machadiana, por exemplo, reside justamente em sua argúcia e ironia, expressas em sua linguagem peculiar.",
+    "12": "Simplificar demais seria, portanto, sacrificar a própria identidade do clássico.",
+    "13": "Diante desse impasse, é preciso buscar um equilíbrio.",
+    "14": "Uma proposta de intervenção seria a criação de projetos educacionais que incentivem a leitura mediada de clássicos.",
+    "15": "Esses projetos poderiam oferecer materiais de apoio, como glossários e análises contextualizadas, que ajudem os alunos a compreenderem a linguagem original sem a necessidade de alterá-la.",
+    "16": "O Ministério da Educação, em parceria com instituições culturais e escolas, poderia desenvolver e disseminar tais recursos, promovendo oficinas e debates sobre a importância da preservação da linguagem original e, ao mesmo tempo, facilitando o acesso e a compreensão dos estudantes, garantindo assim que a literatura clássica continue a enriquecer novas gerações sem perder sua identidade."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "19",
+        "20"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "3",
+        "4",
+        "22",
+        "23",
+        "24"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "22",
+        "24"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "13",
+        "15",
+        "16"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "16",
+        "18"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9",
+        "13",
+        "14"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "15",
+        "16"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "24"
+      ]
+    },
+    "16": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "24"
+      ]
+    }
+  }
+}

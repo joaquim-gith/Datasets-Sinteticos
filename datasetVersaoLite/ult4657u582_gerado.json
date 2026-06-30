@@ -1,0 +1,170 @@
+{
+  "tema": "idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados",
+  "comando_tematico": {
+    "frases": {
+      "0": "Idosos em nossa sociedade: valorizados, desvalorizados ou privilegiados?",
+      "1": "Com o \"envelhecimento\" da população brasileira, tem-se falado muito da importância do bem-estar dos idosos.",
+      "2": "Em sociedades como a indiana e a japonesa, por exemplo, o velho é a figura mais importante da família e da comunidade.",
+      "3": "No Brasil, alguns sociólogos afirmam que, se um país precisa de um \"estatuto dos idosos\" (ou seja, de uma lei) para lembrar a respeitabilidade deles, isso indica que algo está muito errado.",
+      "6": "Por outro lado, há tantos privilégios sociais em torno da \"terceira idade\" (meias-entradas, ausência de filas, empréstimos especiais) que os \"não velhos\" se consideram prejudicados.",
+      "7": "Qual é sua opinião: o idoso, no Brasil - com ou sem rendimentos próprios - é valorizado, desrespeitado ou privilegiado?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Obrigação social Art.",
+      "1": "3 - É obrigação da família, da comunidade, da sociedade e do Poder Público assegurar ao idoso, com absoluta prioridade, a efetivação do direito à vida, à saúde, à alimentação, à educação, à cultura, ao esporte, ao lazer, ao trabalho, à cidadania, à liberdade, à dignidade, ao respeito e à convivência familiar e comunitária.",
+      "5": "] Art.",
+      "6": "4 - Nenhum idoso será objeto de qualquer tipo de negligência, discriminação, violência, crueldade ou opressão, e todo atentado aos seus direitos, por ação ou omissão, será punido na forma da lei.",
+      "7": "[Estatuto do Idoso] Coral dos Cinquentões Apresentação do Coral dos Cinquentões, no lançamento do guia \"Idoso-cidadão brasileiro - Informações sobre serviços e direitos\", em Brasília.",
+      "8": "Nem tem 60 anos \"É um absurdo, é um exagero!",
+      "9": "Você vai ao banco, ao cinema, em qualquer fila, até as de emergência, e aquele monte de pessoas passa na sua frente se dizendo idoso.",
+      "12": "Quem é idoso?",
+      "13": "A pessoa às vezes nem tem 60 anos, anda de tênis, usa óculos escuros, está superbem arrumada, mulheres maquiadas, homens jogando charme e dizem \"sou idoso\".",
+      "14": "E lá ficamos nós, trouxas,para trás.",
+      "15": "Acho que há muita moleza.",
+      "16": "Até officevelho os escritórios arranjaram.",
+      "19": "Empréstimos, décimo-terceiro antecipado, medicamentos e trabalho?",
+      "20": "Tudo é para eles, e nós, que estamos na idade adulta e necessitada, o que sobra para nós?",
+      "21": "O governo devia pensar em todos, mesmo porque ser idoso não é ser minoria\".",
+      "22": "[Desabafo de cidadão que preferiu não se identificar] Aposentadoria minguada \"Sou idoso, vivo de minha aposentadoria minguada do INSS e tenho empréstimo consignado e dívida em bancos que não estou conseguindo pagar em dia.",
+      "23": "Nem assistência médica eu tenho.",
+      "24": "Mesmo assim, o valor de pouco mais de R$100 que eu deveria receber de restituição do IR está bloqueado [.",
+      "28": "[Antônio do Valle Painel, Painel do leitor, Folha de S.",
+      "29": "Paulo, 9 ] Fragilidade \"As situações que levam ao abandono são provocadas pela condição de fragilidade do idoso, que pode passar a depender de outras pessoas, pela perda da autonomia e da independência, pelo esfriamento dos vínculos afetivos e pela conduta do grupo de relações ou ausência dele [.",
+      "33": "\" [Revista Brasileira de Geriatria e Gerontologia, Universidade Aberta da Terceira Idade]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "De fato, há hoje no Brasil uma alta precariedade à terceira idade - responsável pelo valor de muitas histórias - e isso não é de difícil percepção.",
+    "1": "O complicado acesso a tudo que hoje existe é um problema sério a  essa classe, impossibilitando chances a  empregos         etc .",
+    "2": "Tocando no assunto político-social, percebe-se que existem, aqui no Brasil, muitos planos governamentais dedicados aos mais distintos padrões  sociais - jovens, famílias, desempregados etc.",
+    "3": "-, porém, nenhum deles se encaixa em algo que beneficie de forma direta à terceira idade.",
+    "4": "O porquê disso se dá pelo simples fato de a classe idosa ter se tornado um problema para a sociedade, isso segundo o que a própria o diz.",
+    "5": "O preconceito ainda é forte e crescente e muitos brasileiros procuram demonstrá-lo espontaneamente.",
+    "6": "Adianta priorizar quase por completo a juventude e a mesma ser esquecida com o passar dos anos?",
+    "7": "Infelizmente, a partir desse preconceito generalizado e ao mesmo tempo aceito por nós, sociedade, o que, para os idosos, alcançar o supra-sumo   etário deveria ser um privilégio tornou-se um pesadelo.",
+    "8": "Pesadelo de sofrimento.",
+    "9": "Outro fator humilhante aos  idosos é o desprezo familiar, o que ainda atinge muitos deles e os  causa depressão.",
+    "10": "Mas até quando existirá essa vexação nacional?",
+    "11": "Até o momento em que             nós, manifestarmos nossa abusão em que \"velhos\" devem ser tratados de modo vulgar e com intolerância             .",
+    "12": "Como bem já dizem sociólogos formadores de ideologias comuns introduzidas na sociedade , há algo de muito errado nesse contexto, no qual se deva chegar a ponto de criar o Estatuto do Idoso.",
+    "13": "E esse erro se mantém na sociedade, assim como outros modos de discriminação.",
+    "14": "Contextualizando tal fator, nota-se que de privilégio o idoso não tem nem a vida.",
+    "15": "Pessoas hoje - induzidas pela globalização e os avanços tecnológicos - não generalizam essa classe em que, algum tempo, todos também o chegarão."
+  },
+  "redacao_gerada": {
+    "0": "A população mundial e brasileira envelhece a cada dia, trazendo à tona discussões sobre como os idosos são tratados em nossa sociedade.",
+    "1": "Essa temática aborda se eles são, de fato, valorizados, desvalorizados ou até mesmo privilegiados, gerando debates complexos.",
+    "2": "É crucial analisar as diferentes facetas dessa realidade, considerando tanto a dignidade quanto as dificuldades enfrentadas por essa parcela da população.",
+    "3": "Por um lado, é inegável que existem leis e estatutos que buscam garantir os direitos dos idosos, como o Estatuto do Idoso, que assegura prioridade na efetivação de direitos básicos.",
+    "4": "Isso sugere um esforço em valorizar e proteger essa faixa etária.",
+    "5": "No entanto, a própria existência de uma lei específica para lembrar a respeitabilidade deles pode indicar uma falha social em reconhecer essa importância intrinsecamente.",
+    "6": "A necessidade de um estatuto pode ser vista como um sinal de que a desvalorização ainda é uma realidade palpável.",
+    "7": "Por outro lado, o Brasil apresenta um cenário onde muitos idosos se sentem desvalorizados e desassistidos, vivendo com aposentadorias insuficientes e enfrentando dificuldades financeiras e de saúde.",
+    "8": "Há relatos de pessoas que, mesmo em situação de fragilidade e dependência, não recebem a devida atenção familiar ou social.",
+    "9": "Essa desvalorização se manifesta na falta de acesso a serviços básicos e na negligência, contrastando com a ideia de que todos os idosos deveriam ter dignidade e respeito garantidos por lei.",
+    "10": "Diante do exposto, é fundamental que a sociedade e o Estado atuem de forma mais efetiva na garantia dos direitos e na promoção do bem-estar dos idosos.",
+    "11": "Para isso, o Ministério da Cidadania, em parceria com ONGs, deve promover campanhas de conscientização sobre o respeito e a valorização da terceira idade, além de fiscalizar o cumprimento do Estatuto do Idoso.",
+    "12": "Adicionalmente, o Poder Público deve investir em centros de convivência e em programas de saúde específicos para idosos, assegurando que eles não sejam negligenciados e tenham uma vida digna e ativa."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "29"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "7",
+        "1"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "22",
+        "23",
+        "24",
+        "29"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "29",
+        "6"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "7"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    }
+  }
+}

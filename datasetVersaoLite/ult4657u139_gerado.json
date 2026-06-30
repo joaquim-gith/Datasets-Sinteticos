@@ -1,0 +1,161 @@
+{
+  "tema": "um-cachorro-vale-mais-do-que-um-ser-humano",
+  "comando_tematico": {
+    "frases": {
+      "0": "Um cachorro vale mais do que um ser humano?",
+      "1": "A multimilionária Leona Helmsley, dona de um império imobiliário nos Estados Unidos, morreu em 20  e deixou por testamento US$ 12 milhões para seu cachorrinho.",
+      "2": "O animal foi favorecido em prejuízo de dois netos de Leona, que foram deserdados.",
+      "3": "Para muitos, o gesto pode parecer absurdo.",
+      "4": "Outros talvez o aprovem.",
+      "5": "Há quem valorize o melhor amigo do homem mais do que o próprio homem.",
+      "6": "Você acha isso justo?",
+      "7": "Um cão pode valer tanto ou mais que um ser humano?",
+      "8": "Sob o ponto de vista da ética, trata-se de uma questão que merece reflexão.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Trouble, o cão multimilionário A chamada \"rainha da maldade\" em suas últimas vontades fez jus ao apelido que ganhou em vida nos tablóides, já que o principal beneficiário de sua fortuna será Trouble, o pequeno maltês branco do qual nunca se separava, segundo o jornal \"Daily News\".",
+      "1": "A guarda do cachorrinho mimado ficará a cargo de Alvin Rosenthal, irmão da finada e menos felizardo do que o bichinho, já que só receberá US$ 10 milhões.",
+      "2": "Para seus netos David e Walter decidiu deixar US$ 5 milhões para cada um.",
+      "3": "Craig e Meegan, os outros dois netos, ficaram, em compensação, sem nada \"por razões por eles conhecidas\", ainda de acordo com as últimas vontades de Leona.",
+      "4": "Quando o cachorrinho Trouble for chamado a se encontrar com sua dona, ficará a seu lado no mausoléu cercado por doze colunas dóricas e ao qual foi destinado um fundo de US$ 3 milhões para que Leona Helmsley possa assim continuar desfrutando do luxo em sua vida além-túmulo.",
+      "5": "( Adaptado de UOL Notícias, 29 de agosto de 2007 ) Texto 2 \"Já faz tempo, mas ninguém esquece.",
+      "6": "Em 1991, flagrado ao utilizar um carro oficial para levar sua cadela ao veterinário, o então ministro do Trabalho, Antonio Rogério Magri, deu a célebre declaração: 'Cachorro também é ser humano'\".",
+      "7": "( Laura Mattos, \"Folha de S.",
+      "8": "Paulo\", 2 de janeiro de 2008 ) Texto 3 Troque seu cachorro Por uma criança pobre Sem parente, sem carinho Sem rango, sem cobre Deixe na história de sua vida Uma notícia nobre.",
+      "11": "Troque seu cachorro Por uma criança pobre Tem muita gente por aí Que tá querendo levar Uma vida de cão Eu conheço um garotinho Que queria ter nascido Pastor-alemão ( \"Rock da Cachorra\", Eduardo Dusek ) Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Na minha opnião, essa senhora pela qual deserdou dois netos e deu todo o seu dinheiro em testamento para seu cão, fez o que ela achou melhor a ser feito.",
+    "1": "Se fosse a minha pessoa eu jamais deixaria toda minha fortuna para um cão, mesmo se me extimasse muito.",
+    "2": "Eu poderia deixar uma quantia em dinheiro para que cuidasse dele em minha ausencia, e os demais eu daria para um orfanato, ou algum local que precisa-se muito de verba para ser dirigido.",
+    "3": "E também tenho por opnião, que alguns animais valem mais que um ser humano sim, pois são companheiros e sinceros.",
+    "4": "E muitos ser humanos não tem o cuidado que um cachorro tem pelo seu dono ( ou melhor amigo).Se minha familia na se importa-se comigo, eu não deixaria meus bens pra eles, pois se antes não se importavam comigo, depois que eu morresse também não queria que se importasse com meu dinheiro.",
+    "5": "Espero que no caso dessa senhora, ela tenha tido um motivo em especial, e não por desturbio , ou qualquer outra coisa que de motivo de força maior.",
+    "6": "Pois hoje em dia o valor das pessoas estão no que elas têem e não pelo que elas são!Não sei se foi o caso dessa senhora, mais seja qual for eu concordo com ela em dar a sua fortuna para alguém que mereça e se ela percebeu que o cachorro merecia, como o dinheiro era dela, então ela tinha esse direito de fazer o que quiser."
+  },
+  "redacao_gerada": {
+    "0": "É sabido que os cachorros são muito importantes para as pessoas, e isso é uma coisa que todo mundo sabe.",
+    "1": "Muitas vezes, um cachorro é mais leal do que um amigo, e isso é um fato.",
+    "2": "Por isso, é normal que as pessoas gostem mais de cachorros do que de outras pessoas que não são tão legais.",
+    "3": "A ideia de que um cachorro vale mais que um ser humano não é tão absurda assim, se pensarmos bem.",
+    "4": "Na verdade, tem gente que prefere a companhia de um animalzinho de estimação do que a de outras pessoas, porque os animais não falam e não arrumam briga.",
+    "5": "Isso acontece muito com idosos que moram sozinhos, eles têm um cachorro e se sentem mais felizes.",
+    "6": "Então, a lealdade e o carinho que um cachorro dá é muito especial e faz a diferença na vida de muita gente.",
+    "7": "Por isso, é justo que eles sejam valorizados.",
+    "8": "Um exemplo disso é quando as pessoas deixam dinheiro para seus cachorros em testamento, como aconteceu com uma senhora rica nos Estados Unidos.",
+    "9": "Ela deixou uma fortuna para o cachorro dela, o que muita gente achou estranho.",
+    "10": "Mas para ela, o cachorro era mais importante do que a família, e quem somos nós para julgar?",
+    "11": "Cada um tem seu valor e seus sentimentos.",
+    "12": "Por fim, é importante pensar que cada um tem seu jeito de amar e ser amado.",
+    "13": "Se um cachorro traz mais alegria para a vida de alguém do que outra pessoa, então é porque esse cachorro tem um valor grande.",
+    "14": "A gente tem que respeitar isso, mesmo que pareça estranho para os outros.",
+    "15": "O amor entre um humano e um cachorro é algo muito forte."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

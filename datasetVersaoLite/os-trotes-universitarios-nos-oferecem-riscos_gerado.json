@@ -1,0 +1,181 @@
+{
+  "tema": "qual-e-o-limite-entre-o-trote-e-o-crime",
+  "comando_tematico": {
+    "frases": {
+      "0": "Qual é o limite entre o trote e o crime?",
+      "1": "O trote universitário é uma espécie de ritual de passagem que existe desde o surgimento das primeiras universidades, na Idade Média.",
+      "2": "Em teoria, essa prática deveria promover a integração entre calouros e veteranos.",
+      "3": "No entanto, cada vez mais, ela vem se tornando violenta e humilhante.",
+      "4": "Os excessos e abusos são frequentes, resultando em traumas e até mesmo em mortes.",
+      "5": "Em São Paulo, para tentar resolver o problema, deputados estaduais se reuniram em uma Comissão Parlamentar de Inquérito, que investigou denúncias de violação de direitos humanos em trotes de universidades do Estado.",
+      "6": "Entre outras medidas, a CPI sugeriu que, em caso de violência, o trote passe a ser considerado uma forma de tortura.",
+      "7": "Você concorda com esse tipo de enfoque?",
+      "8": "Na sua opinião, quais as causas da violência na recepção aos calouros?",
+      "9": "Quando a prática deixa de ser uma brincadeira entre colegas e se torna efetivamente criminosa?",
+      "10": "Qual é o limite entre o trote e o crime?",
+      "11": "Redija um texto dissertativo-argumentativo sobre o tema, expondo suas opiniões e defendendo seu ponto de vista.",
+      "12": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Calouros pintados e ajoelhados observam veterano em trote na Faculdade de Agronomia e Medicina Veterinária da Universidade de Brasília Reconhecimento social Apesar de ser uma prática repugnante, os trotes vêm sendo aceitos como um símbolo de reconhecimento social.",
+      "1": "Existe muita resistência por parte das Universidades e autoridades em organizar uma discussão a respeito ou tomar providências mais incisivas.",
+      "2": "O raciocínio predominante parece ser o de que, se não houver mortes ou mutilações durante as recepções aos novatos, então não há problema, pois se trata de um tradicional rito de passagem que promove a integração entre calouros e veteranos.",
+      "3": "Entretanto, tais atos de violência não devem ser entendidos como “brincadeira”.",
+      "4": "São atos de tortura, que na maioria dos casos deixam marcas que o tempo não apaga e podem, até mesmo, configurar bullying.",
+      "5": "É absolutamente inaceitável que um veterano imponha aos calouros condutas que venham a lhes causar danos à saúde, à vida ou os atinjam em sua dignidade.",
+      "6": "[ Jusbrasil ] Trote e tortura Uma Comissão Parlamentar de Inquérito (CPI) da Assembleia Legislativa de São Paulo investigou denúncias de violação de direitos humanos em trotes de universidades paulistas.",
+      "7": "Os deputados paulistas pedem que os trotes praticados contra calouros nas universidades de todo o país sejam classificados de crime de tortura no Código Penal Brasileiro.",
+      "8": "“O que acho mais urgente é tirar toda a violência que ocorre nos trotes do capítulo de Atentado Violento ao Pudor, elevando-o à categoria de tortura.",
+      "9": "Trote é uma forma de tortura”, disse o deputado Adriano Diogo, presidente da CPI.",
+      "10": "[ Agência Brasil ] Álcool e morte O ano em que entrei na universidade, 1999, foi marcado por um trote violento que terminou em uma tragédia.",
+      "11": "Foi naquele ano que o jovem Edison Tsung Chih Hsueh, calouro de medicina da USP, morreu afogado na piscina da atlética.",
+      "12": "Ele havia ingerido álcool forçado pelos “colegas” veteranos.",
+      "13": "Alguns cursos, especialmente de humanas, passaram a fazer o “trote solidário”, em que o calouro era convidado a fazer um trabalho social.",
+      "14": "Não havia tintas, cabelo raspado e nem humilhação pública.",
+      "15": "Isso é comum em países como os Estados Unidos.",
+      "16": "Lá, os calouros costumam ser recebidos por veteranos-tutores, que se ocupavam de orientá-los sobre moradia, alimentação, lugares para estudar e, claro, festas.",
+      "17": "Por aqui, a onda dos trotes violentos vai e volta.",
+      "18": "[ Abecedário, blog de Sabine Righetti, Folha de S.",
+      "19": "Paulo ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "No Brasil, todo ano são praticados os trotes universitários, que são considerados como rituais para a entrada dos estudantes na universidade.",
+    "1": "Infelizmente, eles são aceitos pelas pessoas sem dificuldade.",
+    "2": "Elas os vêem  como brincadeira,          os vêem apenas como diversão.",
+    "3": "Estas  pessoas não estão vendo          a proporção que esse tipo ato violento e mascarado está promovendo.",
+    "4": "No Brasil, os trotes têm se tornado cada vez mais violentos, causando acidentes e perdas de vidas humanas.",
+    "5": "Esses trotes são praticados de maneira excessiva, abusiva e humilhante.",
+    "6": "A pessoa que é submetida ao trote pode se sentir ofendida, denegrida, agredida e humilhada, correndo o risco de ficar abalada emocionalmente, podendo  até ter que buscar          uma ajuda profissional.",
+    "7": "A partir do momento em que uma pessoa precisa da ajuda de um profissional, isso não pode ser considerado somente como um trote, e sim como bullyng.",
+    "8": "Este ato é inaceitável  .",
+    "9": "O trote deveria promover a integração dos novos alunos com os veteranos e não causar danos à saúde          do mesmo.",
+    "10": "Para conter o número de acidentes e vidas humanas , o governo e a reitoria da universidade, têm  de trabalhar juntos,          conscientizando a população sobre os riscos que podem ocorrer durante um trote.",
+    "11": "Caso a universidade defenda que os trotes devem ser mantidos, pondo regras e limites, eles deveriam propor os trotes a serem feitos  ,          todos sem riscos de vida e preservando a saúde dos estudantes."
+  },
+  "redacao_gerada": {
+    "0": "O trote nas faculdades é um problema que acontece faz tempo, e as pessoas ficam se perguntando qual é o limite entre ser uma brincadeira e ser um crime.",
+    "1": "Muita gente acha que é normal, uma coisa que sempre existiu pra integrar o pessoal novo com os mais velhos, mas às vezes as coisas passam do ponto e ficam feias.",
+    "2": "Essa prática de humilhar os calouros não é legal e pode machucar as pessoas de verdade.",
+    "3": "É complicado porque nem todo mundo concorda sobre o que é certo ou errado.",
+    "4": "Uns acham que é só uma forma de brincar e que os calouros devem aguentar, porque afinal, todo mundo passou por isso um dia.",
+    "5": "Mas aí acontecem coisas ruins, tipo quando alguém se machuca feio ou fica traumatizado, e aí a gente pensa se isso é mesmo uma brincadeira ou se já virou algo mais sério, como um crime mesmo.",
+    "6": "Essa coisa de querer forçar os outros a fazerem coisas que eles não querem, como beber muito ou passar vergonha, não deveria ser permitida.",
+    "7": "Deveria ter mais cuidado para que ninguém saia machucado ou se sentindo mal.",
+    "8": "Talvez as faculdades devessem fazer algo para evitar essas coisas, mas é difícil saber o que fazer.",
+    "9": "Então, a gente fica sem saber direito onde é o limite.",
+    "10": "Se alguém apanha ou é humilhado demais, isso é crime?",
+    "11": "Eu acho que sim, que tem que parar com isso.",
+    "12": "As autoridades podiam investigar mais e punir quem faz maldade, para que ninguém mais sofra com essas coisas ruins nas faculdades."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "10"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "2",
+        "3"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "4",
+        "9"
+      ],
+      "textos_motivadores": [
+        "4",
+        "5"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "5",
+        "12"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "10"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "9",
+        "10"
+      ],
+      "textos_motivadores": [
+        "4",
+        "5"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "1",
+        "6",
+        "7"
+      ]
+    }
+  }
+}

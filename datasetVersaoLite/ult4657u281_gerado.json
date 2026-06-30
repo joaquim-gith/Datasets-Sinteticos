@@ -1,0 +1,206 @@
+{
+  "tema": "o-uso-da-maconha-deve-ou-nao-ser-legalizado",
+  "comando_tematico": {
+    "frases": {
+      "0": "O uso da maconha deve ou não ser legalizado?",
+      "1": "A utilização da maconha tem sido alvo cada vez mais freqüente de polêmicas, artigos e debates.",
+      "2": "Há, por exemplo, amplo respaldo médico sobre os efeitos devastadores da maconha no cérebro.",
+      "3": "Segundo muitos cientistas, ela vicia, sim, e encaminha o usuário para drogas mais pesadas.",
+      "4": "Por outro lado, existem estudos científicos que propõem o uso medicamentoso da maconha, mesmo que de forma contínua.",
+      "5": "Há também quem a compare ao álcool e defenda a legalização de seu uso recreativo.",
+      "6": "Além disso, para alguns, uma eventual descriminalização da maconha seria um modo de pôr fim ao tráfico e a violência por ele gerada.",
+      "7": "O que você pensa disso?",
+      "8": "A maconha deve ou não ser legalizada?",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Maconha não é droga leve \"A maioria dos que usam maconha justifica seu uso dizendo que ela faz menos mal que álcool e cigarro.",
+      "1": "Não há por que fazer comparações, saber qual é a pior ou a menos má.",
+      "2": "O casamento com a maconha é sempre destrutivo.",
+      "3": "A droga tem uma substância química chamada ácido delta-9-tetraidrocanabinol (THC), que lentamente mina as capacidades intelectuais: compromete a atenção, a concentração e a memória.",
+      "4": "Produz uma apatia que não é própria da adolescência.",
+      "5": "O jovem prefere ficar sozinho a estar com amigos não-usuários.",
+      "6": "Mas o usuário vive se iludindo em dizer \"que fuma porque quer e pára quando quiser.",
+      "7": "\" [ Içami Tiba , psiquiatra, terapeuta e escritor, no livro \"Juventude e Drogas: Anjos Caídos\".",
+      "8": "São Paulo: Integrare, 2007].",
+      "9": "Bicho de sete cabeças Manifestação pela legalização da maconha diante do Palácio do Planalto em Brasília (DF) \"A erva maldita está se transformando em erva de charme.",
+      "13": ") O baseado - ou beck , ralf , mingote , jererê , conforme se chama por região do país ou mesmo geração - está na boca do povo.",
+      "14": "Na televisão, é zapear pelos canais para encontrar referências ou debates sobre o tema.",
+      "18": ") No cinema, filmes como o brasileiro \"Bicho de 7 Cabeças\" ou o inglês \"O Barato de Grace\" ajudam a acender, pelo país afora, a polêmica que ronda o assunto.",
+      "19": "Nas bancas, revistas científicas, como \"Galileu\", ou focadas no público jovem, como Trip, esgotam a tiragem ao dedicar páginas à discussão médica e jurídica que envolve a droga.",
+      "20": "\" [ Revista Época.",
+      "21": "Edição 183, 19 ] A lei, do jeito que está, não funciona \"Vigora no país uma lei que vale só para alguns.",
+      "26": "Se você é pobre e é pego com maconha, vai preso.",
+      "27": "Se é rico, é possível que a polícia nem o incomode, para evitar problemas - vai que você é filho de alguém importante.",
+      "28": "Ou, quem sabe, um subornozinho livre sua cara.",
+      "29": "Se você é grande traficante, fique sossegado.",
+      "30": "Se é pequeno traficante, ai, ai, ai.",
+      "31": "Se o delegado está de bom humor, você é usuário; se está de mau humor, é traficante - tão vaga é a tipificação dos crimes.",
+      "32": "E, se você quiser discutir o assunto a sério, é acusado de incitar um crime.",
+      "33": "Em resumo, a lei, do jeito que está, não funciona.",
+      "34": "[ Soninha Francine , depois de sua demissão da TV Cultura, em 2001,por ter assumido que fumava maconha.",
+      "35": "] Holanda proíbe cigarro mas permite maconha \"Desde primeiro de julho de 2008 é proibido fumar cigarros em bares, cafés e restaurantes.",
+      "36": "Quer dizer, fumar cigarro comum, de tabaco.",
+      "37": "Consumir maconha e haxixe continua podendo.",
+      "41": ") As drogas são vendidas e consumidas na quantidade máxima de 5 gramas por pessoa, nos cerca de 750 cafés da Holanda (metade em Amsterdã).",
+      "42": "Esses estabelecimentos são beneficiados pela chamada gedoogbeleid , a política de tolerância do Ministério da Justiça em relação às chamadas drogas leves.",
+      "43": "[ Revista VEJA.",
+      "44": "Edição de 9 ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Podem até me chamar de 'surtada' por esse comentário, mas alguém já parou pra pensar que 'a corda sempre arrebenta para o lado mais fraco'?",
+    "1": "Que a justiça só é realmente justa quando o criminoso em questão é de origem humilde e pobre?",
+    "2": "Se a gente reparar, quando falam que \"o sujeito foi pego fumando ou traficando maconha\" quase nunca aparecem aqueles 'filhinhos de papai' que se acham donos do mundo, isso por que?",
+    "3": "Será que os tais supostos donos do mundo não bebem, fumam, traficam?",
+    "4": "Será que eles são realmente esses anjos que as pessoas pintam?",
+    "5": "Ou talvez não...",
+    "6": "talvez eles sejam os principais responsáveis pelo trafico de drogas, pelo porte ilegal de armas, por a sua casa estar sendo assaltada nesse exato momento.",
+    "7": "Todo mundo sabe que qualquer droga é prejudicial a saúde, até mesmo o tabaco e o alcool , que são legalizados, mas de que adianta proibir?",
+    "8": "Se você fosse alcoolatra e proibissem a venda legal de bebidas alcoolicas , você pararia de beber?",
+    "9": "Não, você sabe que não, poderia diminuir o consumo mas não iria parar.",
+    "10": "Acho que as pessoas já tiveram muito tempo pra perceber que de nada adianta proibir, de nada adiantar legalizar, enquanto nossa justiça estiver sendo injusta .",
+    "11": "Enquanto não houver realmente uma punição para todas as pessoas, sem excessão , que forem pegas cometendo qualquer tipo de crime.",
+    "12": "Particularmente, sou a favor da legalização, não só da maconha, mas do porte de arma também, porque os bandidos, não aqueles que são presos por roubar galinha do vizinho, aqueles de verdade mesmo, não importam se algo é ilegal ou não, eles simplismente fazem.",
+    "13": "E pra finalizar, uma frase que ouvi uma vez e não esqueci mais: \"Sou a favor da legalização da maconha sim, quanto mais as pessoas proibirem mais crimes os outros irão cometer, afinal, tudo que é proibido é mais gostoso, não é?!"
+  },
+  "redacao_gerada": {
+    "0": "A maconha é um assunto que todo mundo fala, mas ninguém sabe direito o que fazer.",
+    "1": "Uns dizem que faz mal pra cabeça e que a pessoa pode virar viciada em coisa pior, tipo crack.",
+    "2": "Outros falam que é igual cigarro e que não tem diferença, então podia ser liberado pra todo mundo usar sem problema.",
+    "3": "É muita confusão e ninguém decide nada.",
+    "4": "Eu acho que maconha não devia ser liberada porque faz mal.",
+    "5": "Quem fuma fica doido e não pensa direito nas coisas, aí acaba se dando mal na vida.",
+    "6": "É melhor evitar essas coisas que fazem mal pro corpo e pra mente.",
+    "7": "A gente tem que pensar no futuro e não estragar tudo fumando essas drogas.",
+    "8": "Tem gente que fala que a maconha pode ser usada pra curar doença, mas isso é mentira.",
+    "9": "Se fosse verdade, todo mundo já ia tá usando e os médicos iam falar.",
+    "10": "Essa história de que ajuda a curar é pra enganar quem não sabe.",
+    "11": "A maconha só traz problema e não resolve nada.",
+    "12": "Por isso, o governo tem que proibir a maconha de vez e prender quem usa e quem vende.",
+    "13": "Não pode deixar essa coisa espalhar.",
+    "14": "Se proibir mesmo, as pessoas vão parar de usar e a vida vai melhorar pra todo mundo.",
+    "15": "Tem que acabar com isso logo."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "1",
+        "14"
+      ],
+      "textos_motivadores": [
+        "13",
+        "18",
+        "19"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "2",
+        "3"
+      ],
+      "textos_motivadores": [
+        "2",
+        "0"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "33"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "2",
+        "3"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "21",
+        "26",
+        "29",
+        "31"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

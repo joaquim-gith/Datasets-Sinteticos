@@ -1,0 +1,161 @@
+{
+  "tema": "fomos-dominados-pelas-maquinas-que-inventamos",
+  "comando_tematico": {
+    "frases": {
+      "0": "Fomos dominados pelas máquinas que inventamos?",
+      "1": "Já não conseguimos viver sem celular, computador, internet e outros poderosos recursos tecnológicos.",
+      "2": "Queiramos ou não, eles transformaram o mundo durante o século 20 e ingressaram no século 21 com uma velocidade espantosa.",
+      "3": "Muita gente se adapta rapidamente às novidades e nem lembra como era a vida sem elas.",
+      "4": "Para outros, porém, ocorre uma dúvida: nossa existência seria melhor ou pior sem tudo isso?",
+      "5": "Seríamos diferentes?",
+      "6": "Há quem odeie e quem ame irrestritamente essas máquinas.",
+      "7": "Qual é nossa relação com os avanços da tecnologia?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ser humano se tornou uma extensão da roda O Rio chegou a 2 milhões de carros; São Paulo, a 6 milhões.",
+      "1": "No Rio, é um carro para cada três habitantes; em São Paulo, são dois.",
+      "2": "O automóvel venceu.",
+      "3": "O comunicólogo Marshal McLuhan, talvez a única voz otimista de 1968, errou feio: o ser humano é que se tornou uma extensão da roda.",
+      "4": "Mas, em 2008, quem quiser chegar rapidinho a qualquer lugar, é melhor que vá a pé.",
+      "5": "Ruy Castro, \"Folha de S.",
+      "6": "Paulo\", 17 Estresse ou vida partilhada Glauco, \"Folha de S.",
+      "7": "Paulo\", 05 A máquina e o poeta Cota Zero Stop.",
+      "8": "A vida parou Ou foi o automóvel?",
+      "9": "Carlos Drummond de Andrade (1902-1987, \"Alguma Poesia\", 1930) Os sábios e a cultura \"Com o aparecimento da escrita, alguns sábios temeram que o conhecimento, que antes estava vivo na cabeça, viria a morrer, esquecido nas páginas de um livro.",
+      "10": "Com a expansão dos meios de comunicação e a conseqüente chuva de informações, alguns sábios temeram que o conhecimento (.",
+      "13": ") viria a degenerar-se em papel de embrulhar peixe e ondas espalhadas no espaço.",
+      "14": "Com a explosão da internet (.",
+      "17": "), e a extrema facilidade de encontrar uma informação, alguns sábios temem que tudo acabe em desinteresse.",
+      "18": "Luiz Zico Rocha Soares, (\"Internet, um mundo paralelo\".",
+      "19": "Melhoramentos, 2007,."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Somos designados pelas máquinas que inventamos.",
+    "1": "Nossas poderosas invenções nos dominam.",
+    "2": "A tecnologia evolui cada dia mais, e cada vez mais nos tornamos dependentes desse avanço tecnológico.",
+    "3": "Vivemos num mundo onde as máquinas são prioridades; o pior é que acabamos nos acostumando com esse \"mundo robotizado\", e não conseguimos viver sem nossas invenções.",
+    "4": "Achamos estranho quando estamos sem o celular, sem a internet, ou quando ao invés de ir de carro, andamos à pé .",
+    "5": "Nossas vidas parece que viram um tédio; é como se esses aparelhos fossem fundamentais à vida na terra.",
+    "6": "Antigamente quando muito dessas coisas ainda não existiam, à vida se passava normalmente.",
+    "7": "Nossos hábitos eram diferentes.",
+    "8": "As máquinas mudaram nossos modos de vida.",
+    "9": "Certas coisas nem necessitariam ter sido inventadas.",
+    "10": "Se por um lado nos trazem entretenimento, por outro lado nos faz ter uma vida muito sedentária, uma vez que não precisamos mais sair para nos entreter.",
+    "11": "Também nos tornam cada vez mais individuais , pois abandonamos as atividades que faziamos antes.",
+    "12": "Isso não quer dizer que vamos nos isolar totalmente desse \"mundo robotizado\", a tecnologia é útil para muitas coisas.",
+    "13": "O importante é que saibamos aproveitá-la sem que nos tornamos completamente alienados as máquinas."
+  },
+  "redacao_gerada": {
+    "0": "A onipresença das máquinas em nosso cotidiano levanta um debate crucial: seríamos nós dominados por elas, as mesmas que criamos?",
+    "1": "A vida moderna, marcada pela velocidade e pela conectividade, tornou-se intrinsecamente ligada a dispositivos como smartphones e computadores, a ponto de muitos se sentirem perdidos sem eles.",
+    "2": "Essa dependência crescente sugere uma inversão de papéis, onde a ferramenta passa a ditar o ritmo da existência humana.",
+    "3": "Um dos principais argumentos para a tese da dominação é a forma como a tecnologia molda nossas interações sociais e nossa percepção do tempo.",
+    "4": "Redes sociais, por exemplo, criam bolhas informacionais e estimulam comparações constantes, gerando ansiedade e, por vezes, isolamento social, paradoxalmente em um mundo hiperconectado.",
+    "5": "O tempo, antes dedicado a atividades mais reflexivas ou ao convívio presencial, agora é fragmentado em notificações e atualizações incessantes, uma clara influência do ritmo imposto pelas máquinas.",
+    "6": "Ademais, a automação e a inteligência artificial, embora tragam eficiência, ameaçam a autonomia e a criatividade humana.",
+    "7": "O receio de que a máquina substitua o homem em diversas funções laborais, gerando desemprego em massa, é uma preocupação real.",
+    "8": "Além disso, a capacidade de processamento e análise das máquinas supera em muito a humana, o que pode levar a uma delegação excessiva de decisões importantes, diminuindo nossa capacidade crítica e nossa própria agência sobre os rumos da sociedade.",
+    "9": "Diante desse cenário, é fundamental que a sociedade, por meio de ações coordenadas, promova um uso mais consciente e equilibrado da tecnologia.",
+    "10": "O Ministério da Educação, em parceria com o Ministério da Ciência e Tecnologia, deve implementar programas educativos em escolas e universidades que abordem a ética no uso de máquinas e a importância do desenvolvimento do pensamento crítico.",
+    "11": "Somente assim poderemos reverter a tendência de sermos dominados, garantindo que a tecnologia permaneça uma ferramenta a serviço do ser humano e não o contrário."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "3"
+      ],
+      "textos_motivadores": [
+        "10",
+        "14"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3",
+        "8"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "10",
+        "14",
+        "17"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9",
+        "10",
+        "13",
+        "14"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "10",
+        "13",
+        "14"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10",
+        "13"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    }
+  }
+}

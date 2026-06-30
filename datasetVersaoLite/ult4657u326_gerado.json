@@ -1,0 +1,149 @@
+{
+  "tema": "o-que-voce-acha-do-ensino-nas-escolas-do-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "O que você acha do ensino nas escolas do Brasil?",
+      "1": "Políticos, educadores, professores, pesquisadores e alunos têm falado muito sobre a qualidade da aprendizagem nas escolas e faculdades do país.",
+      "2": "Muitos pais estão satisfeitos; os alunos falam bem ou mal de suas aulas (o que sempre aconteceu); professores reclamam dos salários, mas, em geral, se consideram aptos para ensinar; os governos anunciam incansáveis medidas para a melhoria do ensino.",
+      "3": "Entretanto, se há situações de excelente formação Brasil afora, o país tem ocupado posições muito baixas nos rankings mundiais de ensino e aprendizagem.",
+      "4": "Você, que já foi à escola e que vai para a universidade ou já foi: o que acha educação no Brasil?",
+      "5": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Pais e professores estão satisfeitos \"De modo geral, [.",
+      "3": "] os pais brasileiros não se envolvem como deveriam na vida escolar dos filhos.",
+      "4": "Os mais pobres dão graças aos céus pelo fato de a escola fornecer merenda, segurança e livros didáticos gratuitos.",
+      "5": "Os de classe média se animam com as quadras esportivas, a limpeza e [.",
+      "8": "] exigências [.",
+      "11": "] calibradas 'para não forçar o ritmo dos menos capazes'.",
+      "12": "Para 89% dos pais com filhos em escolas particulares, o dinheiro é bem gasto e tem bom retorno.",
+      "13": "No outro campo, 90% dos professores se consideram bem preparados para a tarefa de ensinar.",
+      "14": "\" [Monica Weinberg e Camila Pereira.",
+      "15": "Veja, 20 de agosto, 2008,.",
+      "16": "72] Constatação jornalística A educação vai bem, obrigado.",
+      "19": "\"Já estou um pouco cansada de responsabilizar apenas os sistemas pelos problemas de uma sociedade.",
+      "24": "Não sou professora, mas se fosse não gostaria de ser culpada pela existência de alunos como este (acima).",
+      "25": "Já disse uma vez nesse blog e repito: nenhum sistema educacional e nenhum professor pode fazer pelo aluno algo que cabe só a ele: estudar [Arthemísia 3 ; http: ] O que dizem outras pesquisas \"O Brasil está em 52º lugar em ciências e em 53º em matemática - em uma lista de 57 países.",
+      "26": "E 60% dos estudantes chegam ao fim da 8ª série sem saber interpretar um texto ou efetuar operações matemáticas simples\" [Inep e OCDE, agosto ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "A cada ano eleitoral , o tema educação entra em voga em nosso país.",
+    "1": "Candidatos a diferentes cargos públicos repetem as mesmas propostas paliativas acreditando serem essas as únicas soluções para o problema educacional no Brasil.",
+    "2": "Com certeza, nosso sistema educacional necessita muito mais do que apenas as propostas de construção de novas escolas e do aumento insignificante do salário dos professores.",
+    "3": "O ensino brasileiro apresenta outras mazelas de ordem cultural, como o baixo incentivo à leitura, e de ordem organizacional, com um sistema que não promove a reprovação do aluno por baixo desempenho, que carecem de medidas holísticas para sua definitiva remediação .",
+    "4": "É triste saber que um país do tamanho do Brasil, com uma população imensa, possui uma das menores porcentagens de leitores da América do Sul.",
+    "5": "Todos sabemos que a leitura quando incentivada desde a primeira infância promove um maior desenvolvimento intelectual, emocional e cultural, além de estimular a curiosidade e vontade de aprender.",
+    "6": "Nessa fase do desenvolvimento infantil, cabe aos pais serem os promotores desse estímulo para que a criança inicie sua vida escolar com interesse em estudar.",
+    "7": "Outro descompasso em nosso ensino é a recente proposta, já implementada nas escolas públicas, de aprovar para a série seguinte os alunos que apresentaram baixo desempenho escolar.",
+    "8": "Ora, que estímulo terá o aluno em estudar se o seu rendimento não será avaliado ao longo do ano letivo?",
+    "9": "Que estímulo terá o professor em lecionar para uma classe de quarenta alunos que apresentam-se desmotivados?",
+    "10": "Acredito que, após essa medida, as escolas se tornaram um grande abrigo de crianças e jovens que permanecem nesses locais por um determinado período e que servem de conforto para os pais por saberem que seus filhos estão protegidos da violência e das drogas.",
+    "11": "Como é possível verificar, o sistema educacional brasileiro tem feridas que são muito mais difíceis de serem cicatrizadas com simples propostas paliativas.",
+    "12": "O sistema necessita, sim, de uma reestruturação do alicerce da sociedade - a residência de cada um nós - através da conscientização do incentivo à leitura feita pelos pais, para não deixar somente na mão da escola o papel de formar cidadãos em nosso país."
+  },
+  "redacao_gerada": {
+    "0": "Na minha opinião, o ensino nas escolas do Brasil é mais ou menos.",
+    "1": "Tem coisa boa e coisa ruim, como em tudo na vida.",
+    "2": "As escolas públicas às vezes são meio ruins, com muita gente e pouca coisa pra aprender direito.",
+    "3": "Já as particulares parecem ser melhores, mas são caras.",
+    "4": "Os professores se esforçam, mas o salário é baixo e eles reclamam muito.",
+    "5": "Os alunos, uns gostam, outros não, mas acho que a maioria não liga muito pra estudar.",
+    "6": "Acho que o governo tenta fazer alguma coisa, mas não sei se resolve mesmo.",
+    "7": "O importante é a gente se esforçar pra aprender, mesmo que a escola não ajude tanto.",
+    "8": "Vejo muita gente falando que o Brasil tá mal nos estudos comparado com outros países.",
+    "9": "Isso é ruim porque o futuro do país depende da educação.",
+    "10": "Precisava melhorar mais as escolas, dar mais dinheiro pros professores e fazer os alunos quererem estudar mais.",
+    "11": "Os pais também deveriam se importar mais com a escola dos filhos, não só deixar a escola fazer tudo.",
+    "12": "Se todo mundo fizer sua parte, talvez melhora um pouco.",
+    "13": "Mas por enquanto, acho que tá fraco, precisa melhorar muito ainda."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "25"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "25"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "26"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

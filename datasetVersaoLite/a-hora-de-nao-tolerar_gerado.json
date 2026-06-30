@@ -1,0 +1,219 @@
+{
+  "tema": "o-que-muda-no-pais-apos-as-manifestacoes-populares",
+  "comando_tematico": {
+    "frases": {
+      "0": "O que muda no país após as manifestações populares?",
+      "1": "\"O Brasil acordou\".",
+      "2": "Assim estava escrito em cartazes das manifestações que abalaram a nação e levaram às ruas mais de um milhão de pessoas.",
+      "3": "Depois disso, outros protestos aconteceram e talvez ainda estejam ocorrendo agora.",
+      "4": "Vamos, porém, considerar somente o que já houve.",
+      "5": "A partir de reivindicações contra o aumento das tarifas dos ônibus, a pauta dos manifestantes aumentou e passou a tocar em questões recorrentes: corrupção, malversação de dinheiro público, má qualidade dos serviços à população, em saúde, educação, segurança, etc.",
+      "6": "Os políticos - tanto do poder Executivo, quanto do Legislativo - foram colocados contra a parede e prometeram mudanças.",
+      "7": "Diante disso, é o caso de se perguntar se essas promessas serão cumpridas, se a população continuará vigilante e disposta a lutar por seus direitos, se esses protestos históricos terão consequências práticas no futuro próximo do país.",
+      "8": "Como você encara a questão?",
+      "9": "Na sua opinião, o Brasil acordou mesmo?",
+      "10": "O que vai mudar no país após essa grandiosa onda de manifestações?",
+      "11": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Manifestantes diante do Congresso Nacional, em Brasília, DF O Brasil acordou Com camisas e bandeiras do Brasil e cartazes com dizeres como \"O Brasil acordou\", os manifestantes protestam contra os gastos públicos na Copa das Confederações, defendem mais verbas para educação e saúde e a rejeição da Proposta de Emenda à Constituição (PEC) 37, que limita o poder de investigação do Ministério Público, além de outras reivindicações.",
+      "1": "[ Agência Brasil ] Vitória das ruas A revogação do aumento das tarifas de transportes em São Paulo e no Rio é uma vitória indiscutível do Movimento Passe Livre.",
+      "2": "Já os prefeitos Fernando Haddad (PT) e Eduardo Paes (PMDB), bem como os governadores Geraldo Alckmin (PSDB) e Sérgio Cabral (PMDB), saem atônitos das manifestações que os encurralaram.",
+      "6": ")Não é fácil aquilatar, contudo, como o episódio reverberará no panorama partidário e eleitoral.",
+      "7": "Da revolta com a qualidade da saúde e da educação à crítica aos gastos com a Copa do Mundo, várias insatisfações vieram à tona durante os protestos.",
+      "11": ")Até o Congresso dá sinais de incômodo com a revolta.",
+      "12": "Cogita acelerar a votação de projeto para desonerar os transportes urbanos.",
+      "13": "Políticos tradicionais sentem a exigência de reinventar-se, mas para tanto as manifestações ainda não parecem ter força bastante.",
+      "14": "[ Editorial, Folha de S.",
+      "15": "Paulo ] O tamanho das mudanças A julgar pelo tom médio dos comentários que no fim de semana, estamos em uma situação pré-revolucionária a partir da qual nada mais será o mesmo na política brasileira.",
+      "16": "Até gostaria que fosse verdade, mas receio que a realidade seja um pouco mais pesada.",
+      "20": ") Os protestos não durarão para sempre.",
+      "21": "Como escrevi numa coluna da semana passada, manifestações dão trabalho, impõem um ônus às cidades e acabam enjoando.",
+      "22": "Se democracia direta fosse bom, assembleias de condomínio seriam um sucesso.",
+      "23": "Não são.",
+      "24": "E esse é um dos motivos por que inventamos a democracia representativa.",
+      "25": "É claro que algo desse movimento permanecerá, mas é cedo para uma avaliação definitiva.",
+      "26": "Se o passado serve de guia para o futuro, o quadro não é dos mais promissores.",
+      "27": "Após o impeachment de Fernando Collor, em 1992, boa parte dos brasileiros acreditávamos que o país abraçara um novo --e melhor-- paradigma no que diz respeito à tolerância para com os desmandos da classe política.",
+      "28": "Ainda que isso tenha ocorrido em algum grau, não foi o suficiente para evitar os muitos escândalos que se sucederam.",
+      "29": "A política mudou, mas muito menos do que desejaríamos.",
+      "30": "[ Hélio Schwartzman, Folha de S.",
+      "31": "Paulo ] Mudanças já Pressionada pelas manifestações que tomam as ruas contrárias ao projeto que retirava poderes de investigação do Ministério Público, a Câmara dos Deputados derrubou nesta terça-feira (25 ) a Proposta de Emenda Constitucional (PEC) 37.",
+      "32": "Além disso, em mais uma votação da \"agenda positiva\" fixada pelo Congresso em resposta às ruas, a Câmara dos Deputados estabeleceu na que 75% das receitas do petróleo serão destinadas para a educação.",
+      "33": "O projeto original, enviado pela presidente Dilma Rousseff ao Congresso em maio, previa 100% do montante para o setor.",
+      "34": "[ Banco de Redações , com informações da Folha de S.",
+      "35": "Paulo ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Para se tornar um país com democracia como forma de governo, o Brasil passou por muitas lutas, e mesmo com essa conquista a atual geração de brasileiros nos últimos anos não consideram que seu país esteja em uma democracia justa.",
+    "1": "Vale lembrar que o real significado de democracia é o poder nas mãos do povo, para  que ela seja eficiente é preciso que de alguma forma a população decida seu próprio destino.",
+    "2": "Sabe-se que o que vigora hoje no país é a democracia representativa, ou seja, através do voto, os cidadãos escolhem seus representantes, que  uma vez eleitos  tomarão as decisões em nome do povo  .",
+    "3": "Isto  não significa que este deve  estar sempre satisfeito  com estas  decisões, e é nesta  situação que o Brasil se encontra atualmente,  milhares de pessoas insatisfeitas se levantam para protestar e reivindicar seus direitos.",
+    "4": "Exceto a minoria composta por vândalos que destroem o patrimônio público e privado no momento das manifestações, todos estão corretos.",
+    "5": "Por ter demorado tanto para protestar  o povo tem um acumulo  de reclamações, e  um certo estranhamento  , mas contudo,  os brasileiros não praticavam política tão bem assim há muitos anos.",
+    "6": "Existe um grande contraste,  por um lado  parte dos brasileiros comemora gols na copa das confederações, e por outro  uma multidão é extremamente contraria  ao uso do dinheiro público no evento.",
+    "7": "É impossível que um país inteiro tenha a mesma opinião, a verdade  é que a estratégia do pão e circo usada na Roma antiga tem funcionado no Brasil com o futebol e estratégias do governo para dar dinheiro a famílias de baixa renda sem incentivar e  educação e o trabalho.",
+    "8": "De forma alguma os protestos serão em vão, já  é possível ver resultados, neste  momento é muito importante que o povo saiba o que quer e lute até que consiga.",
+    "9": "Mas  milhões de pessoas nas ruas nunca irão substituir o voto consciente.",
+    "10": "Num país grande como o Brasil não há como uma democracia direta ter sucesso, se  os representantes tomarem as decisões certas o povo só vai precisar          ?ir para a rua?",
+    "11": "no dia do voto  .",
+    "12": "Antes que tudo saia do controle, os governantes devem ouvir o povo, concertar  o que há de errado e falar claramente sobre o que é possível e o que é impossível para o país no momento.",
+    "13": "Todos sabem que o Brasil é o sétimo país mais rico do mundo, porém, existem milhares de brasileiros que vivem na miséria.",
+    "14": "Como políticos podem ignorar isso se o slogan político do Brasil é \"um país rico é um país sem pobreza\"?",
+    "15": "Esta é a hora do  povo não tolerar mentiras, e dos  políticos não encobrirem suas falhas."
+  },
+  "redacao_gerada": {
+    "0": "As manifestações populares que aconteceram recentemente mudaram algumas coisas no Brasil.",
+    "1": "Muita gente foi pra rua falar o que pensava e pedir melhorias.",
+    "2": "Isso fez com que os políticos prestassem mais atenção no povo.",
+    "3": "Depois dos protestos, algumas coisas que as pessoas pediram começaram a ser discutidas.",
+    "4": "Por exemplo, a questão do transporte público e a corrupção.",
+    "5": "Os governantes tiveram que ouvir as reclamações e prometeram que iriam fazer algo a respeito.",
+    "6": "A população ficou mais atenta para ver se as promessas seriam cumpridas.",
+    "7": "No entanto, nem tudo mudou tão rápido quanto as pessoas queriam.",
+    "8": "É difícil dizer se as mudanças são definitivas ou se foram só para acalmar o povo na hora.",
+    "9": "Às vezes, depois que a poeira baixa, as coisas voltam a ser como antes, e as pessoas acabam se esquecendo de continuar cobrando.",
+    "10": "Por isso, é importante que a população continue participando e cobrando os seus direitos.",
+    "11": "As manifestações mostraram que o povo pode fazer a diferença, mas é preciso persistir para que as mudanças realmente aconteçam e o país melhore de verdade para todos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "10"
+      ],
+      "textos_motivadores": [
+        "15",
+        "25",
+        "29"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "7"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "2",
+        "6",
+        "11",
+        "13"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "1",
+        "7",
+        "12",
+        "31",
+        "32"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "1",
+        "7"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "2",
+        "6",
+        "11",
+        "13"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "26",
+        "27",
+        "28"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "16",
+        "20",
+        "21",
+        "25",
+        "26"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "16",
+        "25",
+        "26",
+        "28",
+        "29"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "20",
+        "21",
+        "25",
+        "26",
+        "27",
+        "28"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "25",
+        "26",
+        "27",
+        "28"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "7",
+        "10"
+      ],
+      "textos_motivadores": [
+        "15",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29"
+      ]
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "tema": "a-policia-se-excede-contra-os-manifestantes-ou-cumpre-seu-papel",
+  "comando_tematico": {
+    "frases": {
+      "0": "A polícia se excede contra os manifestantes ou cumpre seu papel?",
+      "1": "Em janeiro deste ano, no eixo Rio-São Paulo, ocorreram manifestações que mobilizaram grandes grupos de diferentes setores da população.",
+      "2": "Para começar, os \"rolezinhos\", promovidos por jovens da periferia, com intuito declarado de se divertir, de ver e ser visto nos shoppings.",
+      "3": "A seguir, os \"rolezões populares\", organizados por movimentos sociais, para protestar e fazer reivindicações, também diante dos shoppings.",
+      "4": "Finalmente, na capital paulista, no aniversário da fundação da cidade, um protesto contra os gastos da Copa, transformou-se numa batalha campal entre Black Blocs e a Polícia Militar, com os atos de vandalismo sendo duramente reprimidos.",
+      "5": "A polícia já agira nos rolezinhos e rolezões.",
+      "6": "De acordo com os meios de comunicação, em todos os casos, exagerou na contenção dos manifestantes, atuando de modo violento e inadequado.",
+      "7": "Qual a sua opinião sobre a ação dos policiais?",
+      "8": "Eles extrapolaram o exercício de suas funções e se excederam?",
+      "9": "Ou se viram obrigados a reagir aos vândalos com dureza, recorrendo a violência para manter a ordem pública?",
+      "10": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "No aniversário da cidade de São Paulo, manifestação contra a realização da Copa no Brasil começou pacífica, mas terminou em violência O preço da civilização Polícia é fundamental.",
+      "1": "O primeiro passo para um grupamento humano um pouco mais complexo deixar para trás a barbárie é reservar ao poder público o monopólio do uso legítimo da violência, ou seja, constituir uma polícia.",
+      "2": "Para chegar à condição de sociedade civilizada, entretanto, isso ainda não basta.",
+      "3": "É preciso também ser capaz de controlar essa polícia, já que, excluído o cenário mais catastrófico da guerra de todos contra todos, são as forças do Estado que se tornam um dos principais focos de violência contra os cidadãos.",
+      "4": "Em São Paulo, realizamos precariamente o primeiro objetivo, mas só engatinhamos no segundo.",
+      "5": "[ Hélio Schwartsman, Folha de S.",
+      "6": "Paulo, 28 ] O ano que não vai acabar O cenário para 2014 é, a um só tempo, maravilhoso e inquietante.",
+      "7": "Renovadas formas de organização, debate, deliberação e ação emergem nas ágoras improvisadas em escadarias e largos onde a multidão toma a palavra com a coragem de dizer a verdade: do calvário de Amarildo até o trem sempre enguiçado; da tragédia das enchentes até o apartheid dos templos de consumo, agora desafiados pelos \"rolezinhos\".",
+      "8": "Os pobres ousam saber e sabem ousar.",
+      "9": "O poder responde tornando o apartheid explícito: proibição judicial e truculência policial, e isso logo depois da hipócrita sacralização de Mandela.",
+      "10": "Mas, como em junho, a repressão só fará o movimento se propagar.",
+      "11": "Os jovens que circulam pelos shoppings nos dizem que, para sermos livres, precisamos estar e agir juntos na polis.",
+      "12": "E estar juntos implica que o pressuposto da liberdade seja a igualdade, a igualdade não como aplicação de um critério abstrato de justiça, mas a justiça como constituição da liberdade.",
+      "13": "[ Giuseppe Cocco e Adriano Pilatti, Folha de S.",
+      "14": "Paulo, 14 ] Onda incendiária A depredação de patrimônio público ou privado, a título de protesto contra os mais variados problemas, tem se transformado numa perigosa e inaceitável rotina no cotidiano nacional.",
+      "15": "Se o direito de manifestação e de reunião é assegurado pela Constituição, nem por isso pode ser exercido de maneira irrestrita.",
+      "16": "Os atos devem ser pacíficos e, como é óbvio e desnecessário dizer, seus participantes não são autorizados a praticar crimes de nenhuma natureza.",
+      "17": "Alguns manifestantes, todavia, parecem se esquecer das regras básicas de civilidade.",
+      "18": "Neste sábado, em São Paulo, um Fusca foi incendiado e terminou destruído.",
+      "19": "Ainda que o episódio tenha sido acidental, como se afirma, por pouco não resultou em tragédia, já que cinco pessoas estavam no automóvel.",
+      "20": "A piromania, porém, não é nova.",
+      "21": "Propaga-se, na periferia paulistana, uma onda de incêndios de ônibus municipais.",
+      "22": "Até sexta-feira, 21 veículos haviam sido queimados neste mês.",
+      "23": "O número equivale ao total de casos registrados no primeiro semestre de 2013.",
+      "24": "[ Editorial, Folha de S.",
+      "25": "Paulo, 28 ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "O principal objetivo de uma república é a democracia, não uma democracia puramente constitucional , mas sim em seu estado pleno, completo, através da qual se manteria a paz entre os indivíduos e a igualdade destes  perante a lei.",
+    "1": "Porém, o ser humano, na busca por esta  aclamada forma de governo, se desvia deste  objetivo,          decorrendo a seus próprios interesses muitas vezes motivados por visões e pensamentos diferenciados.",
+    "2": "Sendo assim, a \"culpa\" não pode estar unicamente nas autoridades corruptas, e nem na população ignorante e mal orientada, mas sim na natureza animal e humana de lutar por privilégios ou necessidades.",
+    "3": "Desde os primórdios da civilização, sábios como Montesquieu buscam maneiras de manter o equilíbrio entre as diferenças de poder presente nas diversas classes que compõem um povo, mas nem assim conseguiram atingir a verdadeira paz de governo.",
+    "4": "A agressão física dos últimos dias é a expressão clara e irracional da revolta de pessoas que não conseguiram satisfazer seus objetivos pessoais (pode as vezes ser chamado de \"direito\") usando seu poder de raciocínio , é como o desabafo, o ultimo  suspiro.",
+    "5": "Para impedir que esta agressão se torne exageradamente perturbadora, o órgão da polícia militar  toma medidas igualmente irracionais, tentando          amenizar a revolta social e (subliminarmente) proteger o interesse daqueles que garantem o salario e a possível ascensão de seus integrantes (um minuto, estes não são os próprios manifestantes?) .",
+    "6": "O sistema é corrupto, a política desorganizada e a cidadania quase nunca exercida.",
+    "7": "Então sobre quem está a culpa quando o conflito é motivado pelo mesmo tipo de interesse?",
+    "8": "Não há egoísmo que soa como correto.",
+    "9": "Não se pode acusar, não se pode julgar, pelo menos não com justiça e sem hipocrisia.",
+    "10": "Um julgamento severo e uma acusação racional, mesmo que hipócrita, pode moderadamente propagar uma certa \"paz\" ou manter uma certa organização, mas para alcançar a plenitude da relação social, devemos antes procurar em nós mesmos valores como justiça, amor e entendimento.",
+    "11": "Entre polícia ou manifestantes, governo ou povo, com desfiles ou cartazes, cassetetes ou bombas.",
+    "12": "Então vemos que não é nem um nem outro, mas sim o \"ou\" que nos incapacita de chegar ao bem estar social."
+  },
+  "redacao_gerada": {
+    "0": "A atuação policial frente a manifestações populares tem sido palco de intensos debates no Brasil, especialmente em decorrência de eventos recentes que evidenciaram a dualidade entre a garantia da ordem pública e o respeito aos direitos dos cidadãos.",
+    "1": "Em janeiro deste ano, protestos no eixo Rio-São Paulo, desde os \"rolezinhos\" em shoppings até manifestações contra gastos públicos, culminaram em confrontos.",
+    "2": "A questão central reside em determinar se a polícia, ao intervir nessas situações, excede seu papel ou o cumpre adequadamente, o que demanda uma análise aprofundada das ações e seus desdobramentos.",
+    "3": "Nesse contexto, dois argumentos principais se destacam: a necessidade de controle estatal sobre o uso da força, conforme preleciona Hélio Schwartsman, e a observância dos limites constitucionais e de civilidade, mesmo diante de atos de vandalismo, como sugerido por editoriais da Folha de S. Paulo.",
+    "4": "Em primeiro lugar, a concepção de Estado moderno, segundo Max Weber, repousa no monopólio legítimo do uso da força.",
+    "5": "Contudo, como aponta Hélio Schwartsman, a sociedade civilizada deve não apenas delegar esse poder, mas também controlá-lo para evitar que o próprio Estado se torne fonte de violência contra os cidadãos.",
+    "6": "A atuação policial, portanto, deve ser pautada pela técnica e pela legalidade, visando à desescalada do conflito e à proteção de todos os envolvidos, sem ceder a impulsos de truculência que desvirtuam sua função primordial de garantir segurança e direitos.",
+    "7": "Ademais, a Constituição Federal assegura o direito à manifestação e reunião, mas estabelece que tais atos devem ser pacíficos, sem a prática de crimes.",
+    "8": "A \"onda incendiária\" e a depredação de patrimônio, descritas em editoriais, configuram abusos que não podem ser justificados como exercício de liberdade.",
+    "9": "Entretanto, a resposta estatal a esses atos não pode ser desproporcional ou indiscriminada.",
+    "10": "A truculência policial, ao invés de coibir a violência, pode inflamá-la, como alertam Giuseppe Cocco e Adriano Pilatti, gerando um ciclo vicioso de confronto e desconfiança mútua, o que agrava a situação social.",
+    "11": "Em suma, a polícia deve cumprir seu papel de manutenção da ordem, mas sem jamais extrapolar os limites da legalidade e da proporcionalidade.",
+    "12": "Para tanto, o Ministério da Justiça e Segurança Pública, em parceria com as Secretarias de Segurança Estaduais, deve promover treinamentos contínuos e rigorosos para as forças policiais, focados em técnicas de controle de distúrbios e direitos humanos, com o objetivo de garantir que a ação policial seja sempre técnica, legal e humana, prezando pela integridade de manifestantes e agentes, e fortalecendo a confiança na instituição.",
+    "13": "Essa medida visa aprimorar a capacidade de resposta em situações de tensão, prevenindo excessos e assegurando que o direito de protesto seja exercido com segurança e respeito."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "7",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "1",
+        "3",
+        "4",
+        "10",
+        "14",
+        "15",
+        "17"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "3",
+        "9",
+        "10"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "15",
+        "16"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "14",
+        "17"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "3",
+        "9",
+        "10"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "10",
+        "11"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "7",
+        "8",
+        "9"
+      ],
+      "textos_motivadores": [
+        "1",
+        "3",
+        "4"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "tema": "viagem-sem-volta-a-marte-pioneirismo-ou-alucinacao",
+  "comando_tematico": {
+    "frases": {
+      "0": "Viagem sem volta a Marte: pioneirismo ou alucinação?",
+      "1": "A colonização de Marte atraiu a atenção do público e dos meios de comunicação em agosto passado, devido ao projeto da empresa Mars One, que abriu inscrições para candidatos a uma viagem sem volta ao planeta vermelho.",
+      "2": "Abaixo, você encontra informações sobre o assunto, bem como a opinião que o jornal Folha de S.",
+      "3": "Paulo tem acerca dele.",
+      "4": "O número de inscritos ultrapassou o patamar de 150 mil e, entre gente de vários países do mundo, há também brasileiros.",
+      "5": "Levando isso em consideração, como você encara o empreendimento e as pessoas que nele se engajaram?",
+      "6": "Acha que é algo destinado desde já ao fracasso ou, pelo contrário, que pode dar certo?",
+      "7": "Um projeto desse tipo lhe parece útil?",
+      "8": "Por quê?",
+      "9": "E quanto aos que se candidataram, você os considera malucos ou idealistas?",
+      "10": "Desenvolva uma dissertação argumentativa sobre essas questões, expondo seu ponto de vista e dando razões que o sustentem.",
+      "11": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O árido panorama da paisagem marciana, em mosaico de fotos retiradas pelo Curiosity, o jipe cujo objetivo é procurar vida orgânica no planeta Projeto Mars One A startup holandesa Mars One, do alemão Bas Landsdorp, já tem mais de 100 mil pessoas inscritas para colonizar Marteem uma viagem sem volta.",
+      "1": "Os quatro selecionados receberão uma passagem apenas de ida para Marte.",
+      "5": ") Qualquer pessoa com pelo menos 18 anos de idade pode mandar um vídeo de inscrição explicando por quais motivos deve ser selecionada.",
+      "6": "Mas é preciso estar preparado para dizer adeus ao planeta Terra para sempre, pois não há planos de trazer os astronautas de Marte.",
+      "7": "Quem decidir se inscrever precisa pagar uma taxa para ajudar a financiar o custo do projeto, orçado em 6 bilhões de dólares.",
+      "8": "[ Revista Exame ] Maratona Marte Não há dúvidas de que a colonização do planeta vermelho ocupa espaço nobre no imaginário humano.",
+      "9": "Mas será um objetivo realista?",
+      "10": "Mars One é a menos crível das missões em cogitação.",
+      "11": "Não se tem notícia de que a organização privada disponha de fundos e capacidade técnica para decolar.",
+      "12": "Os detalhes nunca foram divulgados.",
+      "13": "Nem mesmo a Nasa, agência espacial dos Estados Unidos, tem planos concretos de pousar em Marte.",
+      "14": "Em 2010, o presidente Barack Obama fixou o objetivo de levar astronautas até lá na década de 2030, mas só para orbitar o planeta.",
+      "15": "Para antes disso, em 2025, os americanos preparam uma missão intermediária: abordar um asteroide.",
+      "16": "[ Folha de S.",
+      "17": "Paulo ] O dono da bola \"Estabelecer uma colônia permanente em Marte implica ir sem voltar.",
+      "18": "Isso parece impressionante, mas não se pode esquecer que na história de nosso planeta, as pessoas que partiram em viagens de exploração deixaram para trás suas famílias\", explicou Lansdorp [o empresário responsável pelo projeto].",
+      "19": "A Mars-One disse que os quatro primeiros voluntários chegarão a Marte depois de uma viagem de sete meses, em 2023.",
+      "20": "A colônia deve ser abastecida a cada dois anos.",
+      "24": ") \"A primeira missão terá como objetivo trabalhar no sistema de suporte de vida\", afirmou ainda o responsável, admitindo que o meio ambiente em Marte é muito hostil, carece de oxigênio e tem temperatura média de -63ºC.",
+      "25": "[ Folha de S.",
+      "26": "Paulo ] Brasileiros no espaço O músico Bruno, 22 anos, a farmacêutica Melissa, 34 anos, e o físico Manoel, 58 anos, são paulistanos, mas não se conhecem e têm vidas bem diferentes.",
+      "27": "Um é solteiro e filho único.",
+      "28": "A outra tem namorado e adora viajar.",
+      "29": "O último já tem filhos e quer viver dias tranquilos.",
+      "30": "Mas os três têm um sonho em comum: morar em Marte.",
+      "31": "Eles estão entre os pelo menos 3.",
+      "32": "000 brasileiros que se inscreveram para viajar para o planeta vermelho no projeto da empresa holandesa Mars One.",
+      "33": "Entre os brasileiros, ao menos 33 já foram pré-selecionados.",
+      "34": "A missão já tem 165 mil inscritos de 120 países e promete colonizar o planeta em 2023.",
+      "35": "Devido ao alto custo do projeto (R$ 15 bilhões), a viagem será só de ida.",
+      "36": "As inscrições acabam neste mês.",
+      "37": "[ Agora São Paulo ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Nos últimos anos, através de estudos feitos pela NASA  foi possível encontrar em Marte          vestígios híbridos, entre outros elementos comuns na Terra .",
+    "1": "Com isso, empresa como Mars one despertou interesse em realizar a colonização de Marte  .",
+    "2": "Todavia, estudos mais aprofundados terão que ser realizado  antes de tamanha conquista.",
+    "3": "Pois,  muitos risco em torno do projeto.",
+    "4": "Em primeiro lugar é valido analisar, que  Marte e  considerada pelo cientista  como planeta mais habitável do sistema solar depois da Terra.",
+    "5": "Tal fato se da, pelo  astro possuir disponibilidade de água e uma gravidade relativamente boa em comparação com outros planetas.",
+    "6": "Por estas  razões a empresa holandesa  com ajuda de 4 voluntários, sonha em dar inicio , em um processo de habitação do planeta  Vermelho.",
+    "7": "Além disso, espera-se que ocorra a chamada Terraformação pelos cientistas, que se resume em modificar o planeta ate  deixá-lo em condições adequada  para suportar, o  ecossistema dos seres vivos que vivem na Terra.",
+    "8": "No entanto, estudos mostram que a Terraformação é um processo de risco alto, onde  a questão financeira é um dos agravantes.",
+    "9": "Pois com o custo estimado em trilhões de dólares, a instabilidade do projeto e o prazo de séculos para se obter resultados, tem tornado a colonização uma utopia.",
+    "10": "Além disso, a radiação e  outro fator que vem causando dor de cabeça aos cientistas.",
+    "11": "Porque nem todos os tipos de radiação existente  em Marte foram realmente estudados.",
+    "12": "Logo, não se tem conhecimento sobre o efeito da exposição humana em contato com os raios.",
+    "13": "Deste  modo, hoje não se tem a plena certeza de que a vida pode ser preservada em Marte.",
+    "14": "Diante da referida realidade e  importante enfatizar, que Marte  por esta  próximo da Terra e por ter elementos que de forma geral possibilitam a vida em seu solo,          desperta no homem a busca pelo pioneirismo em coloniza-lo  .",
+    "15": "Porém, para o presente, este um processo          imaturo com muitas risco e falhas desconhecidas .",
+    "16": "Nesse sentido, com criação de simuladores na Terra do ambienta  de Marte, estudos minimizaram  os problemas reduzindo o custo e tornando possível a colonização futura."
+  },
+  "redacao_gerada": {
+    "0": "A viagem pra Marte é um sonho antigo da humanidade, mais parece loucura.",
+    "1": "Muita gente se escreve pra ir, mais não sabe o que tá fazendo.",
+    "2": "É uma coisa que nunca foi feita antes e pode dar errado.",
+    "3": "Muita gente acha que é pioneirismo, mais eu acho que é só gente querendo aparecer.",
+    "4": "O projeto da Mars One parece legal no papel, mais na pratica é dificil.",
+    "5": "Eles dizem que vai ter gente morando lá, mais como?",
+    "6": "Não tem oxigênio e é muito frio.",
+    "7": "E se der algum problema?",
+    "8": "Não tem como voltar, né?",
+    "9": "Isso me faz pensar se eles pensaram bem nas consequensias.",
+    "10": "As pessoas que se candidatam pra ir devem ser malucas ou muito corajosas.",
+    "11": "Imagina deixar tudo pra trás pra ir pra um lugar que não conhece.",
+    "12": "Talvez eles não tenham nada aqui e veem em Marte uma chance.",
+    "13": "Mais é muito arriscado, podia dar certo se tivesse mais apoio.",
+    "14": "Por isso, quem sabe, deviam pensar melhor antes de ir.",
+    "15": "Talvez criar mais tecnologia aqui pra depois ir.",
+    "16": "Mais se eles quiserem ir, que vão, mais sem volta é complicado.",
+    "17": "A gente precisa de mais informação pra saber se é bom ou não.",
+    "18": "Deveria ter mais gente pra ajudar."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "1",
+        "32"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10",
+        "11"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "9"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0",
+        "10"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "17",
+        "19"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "24"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "10",
+        "11"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "6",
+        "17",
+        "35"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "11",
+        "12"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "5",
+        "9"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "1",
+        "5",
+        "6",
+        "18"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "5",
+        "9"
+      ],
+      "textos_motivadores": [
+        "5",
+        "30"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "10",
+        "11"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "5",
+        "7"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": [
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    "16": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "1",
+        "6",
+        "17",
+        "35"
+      ]
+    },
+    "17": {
+      "comando_tematico": [
+        "7",
+        "8"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "18": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "7",
+        "11"
+      ]
+    }
+  }
+}

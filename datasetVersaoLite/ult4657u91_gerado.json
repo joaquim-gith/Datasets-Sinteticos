@@ -1,0 +1,174 @@
+{
+  "tema": "por-que-as-pessoas-mentem-pela-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Por que as pessoas mentem pela internet?",
+      "1": "Pesquisa realizada pela Universidade de Cornell, nos Estados Unidos, revelou que 81% das pessoas que utilizam sites de relacionamento na internet mentem para aqueles com quem se comunicam.",
+      "2": "Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas a seus parceiros de chat.",
+      "3": "Quais os motivos dessa atitude?",
+      "4": "Trata-se apenas da vontade de impressionar o outro?",
+      "5": "Ou haverá um motivo mais profundo: a insatisfação consigo mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Quem está atrás do teclado?",
+      "1": "Um indivíduo isolado envia mensagens solitárias e busca o amor por meio de imagens virtuais.",
+      "2": "Ele se realiza em casa, protegido, à distância, e corre o risco de se decepcionar, quando, e se, um encontro real vier a ser marcado.",
+      "3": "Estamos no século do amor via internet com pessoas namorando virtualmente sem o calor dos corpos que se entregam.",
+      "4": "Mas, afinal, que tipo de relação se estabelece via computador?",
+      "5": "Existe vínculo?",
+      "6": "Se houver traição virtual, como fica o relacionamento entre os namorados?",
+      "7": "Basta se desconectar para pôr fim a um envolvimento emocional.",
+      "8": "Jairo Bouer comenta a pesquisa Texto 2 Segundo o filósofo francês Jean-Paul Sartre, \"o ser humano possui uma atração doentia pela verdade\".",
+      "9": "Sartre considera que o desejo da verdade aparece muito cedo nos seres humanos e se manifesta como vontade de confiar nas coisas e nas pessoas, isto é, de acreditar que as coisas são exatamente como o indivíduo as percebe e o que as pessoas lhe dizem é digno de confiança e crédito.",
+      "10": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "A internet se firmou como um dos principais meios de comunicação, mas mais que isso, possibilitou uma maior aproximação entre as pessoas funcoinando como um \"ponto de encontro\" virtual: com salas de bate papo e \"sites\" de relacionamento para quem quer conhecer gente nova ou quem sabe até encontrar o amor de sua vida.",
+    "1": "Esses novos tipos de relacionamento que começam pela internet se popularizou porque o \"internauta\" fica em um ambiente virtual em que ele se oculta já que sua identidade nâo fica amostra, sendo assim, como confiar no outro se não sabe quem realmente ele é?",
+    "2": "Segundo uma pesquisa da Universidade de Cornell, nos Estados Unidos, 81% das pesoas mentem na internet, mas por quê mentem?",
+    "3": "Basicamente por três motivos:mentem pelo hábito de mentir, geralmente por passatempo (fica oculto) seja para fantasiar ser outra pessoa ou para se divertir a custa da credulidade do outro, neste caso, não passa de uma brincadeira de mau gosto e esse individuo obviamente não esta interessado em um relacionamento sério e compromissado.",
+    "4": "Já os outro dois motivos estâo relacionados entre si, e afetam mais as pessoas que buscam algo mais que um passatempo.",
+    "5": "De um lado aquele usuário que mente por insegurança: para impresionar a futura conquista amorosa ou se preservar do outo tipo de mentiroso que mente para levar alguma vantagem em cima da vítima tentando entrelaça-la na sua conversa almejando um lucro financeiro sobre a vítima.",
+    "6": "Porém, até certo ponto apenas o segundo mentiroso pode ser desculpado, se quiser seguir em frente no relacionamento e queira que se transforme em algo duradouro terá de contar a verdade, contudo para evitar mágoas e mentiras que possam estragar futuros casamentos há \"sites\" de relacionamento sérios que contêm cadastro de clientes e fotos, justamente para manter um lugar seguro na internet.",
+    "7": "Portanto para evitar fanfarões e criminosos as pessoas interessadas em relacionamnetos sérios podem usar esse \"sites\" que geralmente são pagos e a pessoa perde um pouco de seu ocultamento, mas é o pouco se valer o amor de sua vida."
+  },
+  "redacao_gerada": {
+    "0": "As pessoas mentem muito na internet por que elas querem, sabe?",
+    "1": "É facil falar mentira atras do computador e ninguém vê.",
+    "2": "Ai as pessoas inventam coisas pra se mostra melhor do que elas são.",
+    "3": "Isso acontece porque a vida real é chata e na internet é mais legal.",
+    "4": "Todo mundo quer ser feliz e ter amigos, então mente pra conseguir isso.",
+    "5": "Tem gente que mente o peso, a idade, a cara, tudo pra parecer mais bonito ou interessante.",
+    "6": "Na internet a gente pode ser quem quiser, mesmo que não seja verdade.",
+    "7": "Isso é ruim porque as pessoas se enganam e depois ficam tristes quando descobrem a verdade.",
+    "8": "Deveria ter um jeito de parar com isso, mas não sei como.",
+    "9": "Talvez as pessoas precisem de ajuda pra falar a verdade e não mentir tanto.",
+    "10": "É importante ser sincero, mas é difícil.",
+    "11": "A internet é um lugar perigoso pra isso.",
+    "12": "Precisava ter mais cuidado com o que a gente acredita.",
+    "13": "É preciso que as pessoas parem de mentir na internet para ter mais confiança entre elas.",
+    "14": "Isso é o que eu acho."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "5",
+        "9"
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

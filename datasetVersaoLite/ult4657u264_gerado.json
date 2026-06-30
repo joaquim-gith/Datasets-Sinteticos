@@ -1,0 +1,155 @@
+{
+  "tema": "o-famoso-conflito-de-geracoes-ainda-existe-hoje",
+  "comando_tematico": {
+    "frases": {
+      "0": "O famoso conflito de gerações ainda existe hoje?",
+      "1": "Com o avanço tecnológico, tudo acontece mais rápido na atualidade.",
+      "2": "Isso aproxima as idades, bem como o seu modo de ser, de pensar e de se comportar.",
+      "3": "A transformação dos costumes, ocorrida a partir da década de 1960 e que teve como marco mais célebre o ano de 1968, fez a família se modernizar e mudar de estilo.",
+      "4": "Entretanto, muitos afirmam que ainda existe o célebre conflito entre gerações.",
+      "5": "Pais e filhos continuam com relacionamento difícil e raramente conseguem chegar a um acordo sobre questões essenciais da vida cotidiana.",
+      "6": "O que você pensa disso?",
+      "7": "Justifique suas opiniões com fatos e argumentos.",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Filhos são o melhor radar para o sucesso Andrew Lippman, fundador do Institulo de Tecnologia de Massachutsetts (EUA), afirma que \"a velocidade com que as gerações surgem, hoje, diminuiu de 30 para três anos, e que, para estar atualizado, um empresário [que quiser ter sucesso] deve perceber quais produtos mais atraem seus filhos.",
+      "4": ") Folha de S.",
+      "5": "Paulo.",
+      "6": "8 de junho de 2008.",
+      "7": "Caderno \"Negócios\", pág.",
+      "8": "4 Maitena, Folha de S.",
+      "9": "Paulo, 25 de maio de 2008 Honrar pai e mãe (.",
+      "12": ") \"Foi-se o patriarcado, em que havia regras rígidas.",
+      "13": "Eu não quereria estar na pele dos infratores de então, os filhos que ousavam discordar.",
+      "14": "Em lugar da antiga rigidez e distância, estabeleceu-se a alegre bagunça, com mais demonstrações de afeto, mais liberdade, mais respeito pelas individualidades - muitas vezes com resultados dramáticos.",
+      "15": "Lembro a frase que já escrevi nesta coluna, do psicólogo que me revelou: \"a maior parte dos jovens perturbados que atendo não tem em casa pai e mães, tem uma gatão e uma gatinha (.",
+      "19": "Pais bonzinhos são tão danosos quanto pais indiferentes\".",
+      "20": "Lya Luft, Veja, 11 de junho de 2008, pág.",
+      "21": "18 Escândalo social \" No meu tempo não havia essa história de responder para o pai ou para mãe e ter vontades egoístas.",
+      "22": "Todos obedeciam com um olhar, comiam o que tinha, pediam licença pra tudo.",
+      "23": "O menino e a menina já sabiam o seu futuro.",
+      "24": "Se o pai tinha um açougue, ele também ia ser açougueiro.",
+      "25": "Se a mãe era professora, a filha tinha de ser um pouco mais: talvez advogada.",
+      "26": "Hoje o mundo está de cabeça para baixo, porque os filhos é que mandam nos pais, os filhos mudam o jeito dos pais, até o jeito de lidar com os negócios familiares.",
+      "27": "Criticam tudo, fazem barulho, ouvem músicas absurdas, não respeitam a geração dos avós, vivem no computador mas, apesar de tudo, ficam um tempo enorme morando na mesma casa.",
+      "28": "É um escândalo social.",
+      "29": "\" Érica Winsburg, professora universitária aposentada, 70 anos, em entrevista a Flávia Di Roberto.",
+      "30": "Texto inédito."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Para início, devo declarar que, de certa forma, o conflito de gerações existe sim.",
+    "1": "É claro que houve uma diminuição.",
+    "2": "A modernidade está mudando a sociedade muito rapidamente, e muito dos pais não conceguem acompanhá-la, mas fazem com que seus filhos a acompanhem, tendo uma enorme \"distância\" entre eles.",
+    "3": "Os que nasceram na época em que os estilos se modernizaram, mudando totalmente o meio em que se vivia, conceguiram acompanhar mais facilmente o avanço tecnológico.",
+    "4": "Esses, ou pelo menos parte deles, tem uma convivência mais \"igual\" a dos filhos.Eu mesmo posso falar sobre esses conflitos .",
+    "5": "Meus pais já tem mais de cinqüenta anos, eu apenas 17, e ainda possuem traços de antigamente, não permitindo que eu faça algumas das coisas que são comuns atualmente.",
+    "6": "Meu pai, principalmente, é mais concervador , tentando ainda falar com uma voz forte, resumindo brigando.",
+    "7": "Particularmente finjo que não ouço, e me estresso facilmente com brigas, principalmente por uma coisa desnecessária.",
+    "8": "Minha mãe é mais ligada à conversa, mas não deixa de dar umas briguinhas.",
+    "9": "Tenho um irmão de 27 anos, e uma irmã de 29, que tem traços ainda da educação que meus pais deram à anos atráz .",
+    "10": "Mas mesmo sendo ensinados de uma forma mais \"antiga\", são mais íntimos deles do que meus pais.",
+    "11": "E é interessante, que converso de assuntos com os pais dos meus amigos e com os meus não, pois eles são mais novos, onde possuem no máximo quarenta anos .",
+    "12": "Fica mais fácil, com certeza, dialogar.",
+    "13": "A modernidade traz para todos ótimas opções de desenvolvimento social, mas muitos preferem seguir o que lhes ensinaram, tentando passar para a próxima geração, mas acabam deixando-os levar pelo \"atual\", muitas vezes por eles mesmos, ou por outras influências.",
+    "14": "E como o avanço da tecnologia faz o mundo mais pequeno, nos tornando mais atualizados e modernizando as vidas de todos cada vez com mais freqüência, as gerações irão ficar mais próximas futuramente."
+  },
+  "redacao_gerada": {
+    "0": "O conflito de gerações é um tema que todo mundo fala, mas será que ainda existe mesmo hoje em dia?",
+    "1": "Com a tecnologia avançando muito rápido, tudo parece diferente, e as pessoas mais novas e mais velhas às vezes não se entendem muito bem.",
+    "2": "Antigamente, as coisas eram mais certinhas, os pais mandavam mais e os filhos obedeciam sem reclamar tanto.",
+    "3": "Mas hoje, parece que os jovens têm suas próprias ideias e querem fazer as coisas do jeito deles, o que pode causar discussões em casa.",
+    "4": "Por exemplo, os pais acham que os filhos gastam muito tempo no celular ou jogando, e os filhos acham que os pais não entendem os gostos deles, como as músicas que eles escutam ou as roupas que usam.",
+    "5": "Essa diferença de opinião faz com que eles discutam bastante sobre o que é certo ou errado na vida.",
+    "6": "Essa situação mostra que, mesmo com as mudanças que aconteceram na sociedade, as brigas entre pais e filhos ainda são comuns.",
+    "7": "Eles têm jeitos diferentes de ver o mundo, e isso gera atritos no dia a dia.",
+    "8": "Por isso, o conflito de gerações continua sendo um assunto importante e que afeta muitas famílias."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "3",
+        "21",
+        "22",
+        "23"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "5",
+        "26"
+      ],
+      "textos_motivadores": [
+        "13",
+        "14"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "5",
+        "27"
+      ],
+      "textos_motivadores": [
+        "14",
+        "21",
+        "27"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "14",
+        "21",
+        "27"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "14",
+        "28"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "14",
+        "27"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

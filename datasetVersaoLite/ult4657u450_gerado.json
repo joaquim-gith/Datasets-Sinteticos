@@ -1,0 +1,181 @@
+{
+  "tema": "amor-com-grande-diferenca-de-idade-sera-que-isso-funciona",
+  "comando_tematico": {
+    "frases": {
+      "0": "Amor com grande diferença de idade: será que isso funciona?",
+      "1": "Por interesses políticos ou econômicos, sempre existiram uniões entre casais com grande diferença de idade.",
+      "2": "Desde a Antiguidade, há também paixões que uniram gerações bem diferentes: Júlio César, imperador romano, 30 anos mais velho que Cleópatra, foi seduzido por ela.",
+      "3": "Hoje, homens ou mulheres mais velhos continuam apaixonando-se por mais novos e vice-versa: a cantora Madonna, 50, veio ao Brasil, onde conheceu o modelo Jesus, 20 anos; a atriz Susana Vieira não faz segredo de seus namorados mais novos; a cantora adolescente Mallu Magalhães namora o vocalista Marcelo Camelo, 30.",
+      "4": "Muitos acham isso normal, outros consideram errado.",
+      "5": "Por que tais casos suscitam tantos comentários e atenções?",
+      "6": "Será que amores com diferença de idade dão certo?",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "A Princesa do Brasil Dom João 6º e Carlota Joaquina Nas cortes, era muito comum monarcas homens casarem-se com princesas muito mais jovens.",
+      "1": "Dentre tantos casos, temos a história da princesa espanhola Carlota Joaquina, que se casou com dom João 6º, de Portugal, aos 10 anos.",
+      "2": "Ele era 14 anos mais velho.",
+      "3": "Dizem algumas crônicas de época que, na noite de núpcias, tempos depois do casamento, ela lhe arrancou um pedaço da orelha com uma mordida.",
+      "4": "Eu gosto de caras mais velhos \"O psicólogo Miguel Perosa, professor de psicologia da PUC-SP, pergunta: 'o que uma menina busca num homem de 30?",
+      "5": "A segurança de um pai?",
+      "6": "A admiração de um ídolo?",
+      "11": "Dependendo disso, [.",
+      "14": "] a relação se estabelecerá baseada em respeito ou submissão, liberdade ou posse, consideração às individualidades ou afirmação de um sobre o outro'.",
+      "15": "Um relacionamento saudável incentiva a realização dos sonhos pessoais de cada um.",
+      "16": "\" [Folhateen.",
+      "17": "Folha de S.",
+      "18": "Paulo, 1º de dezembro de 2008] Eu gosto de caras mais novos \"A ex-professora de matemática dos EUA, sentenciada a seis anos de prisão por fugir com um menino de 13 anos ao México [.",
+      "21": "] disse que a idade do garoto não fazia diferença para ela.",
+      "22": "'Não víamos mais a nossa idade.",
+      "23": "Na minha cabeça, ele havia deixado de ser um adolescente.",
+      "24": "Ele era um homem pra mim', declarou Kelsey Peterson, em uma entrevista para a rede de TV norte-americana ABC.",
+      "25": "\" [ Blog: Danielle Lopes ] O que diz a lei em casos de namoro com sexo \"Até o dia que completa 14 anos, a adolescente é considerada incapaz de consentir; transar com uma menina dessa idade é considerado estupro com violência presumida, um crime hediondo.",
+      "30": "Se a transa for com um menino menor de 14 anos, a mulher é acusada de atentado violento ao pudor, outro crime hediondo, mesmo quando ele afirma que quis e consentiu.",
+      "31": "\" [Reinaldo Cintra Torres de Carvalho, juiz da Infância e Juventude.",
+      "32": "para Folhateen.",
+      "33": "Folha de S.",
+      "34": "Paulo, 1º de dezembro de 2008]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Em meio a nossa sociedade moderna, existe um forte resquício do conservadorismo.",
+    "1": "Podemos presenciar e aceitar com certa naturalidade quase todo tipo de comportamento, como por exemplo, uma relação homossexual, casais não casados civilmente com relação marital, mães que por opção resolvem ter seus filhos solteiras, mas quando vemos um casal         onde ele apresenta mais idade do que ela ou vice-versa, é muito comum existir um prejulgamento  precipitado, cuja sentença, na maioria dos casos é uma só, apontando o referido casal como uma relação de interesse financeiro.",
+    "2": "Viver em uma sociedade conservadora não há nada de errado , o erro se dá no julgamento temerário e no preconceito enrustidos.",
+    "3": "Tais sociedades ou pessoas que pré-julgam esquecem que toda forma de preconceito é ilegal e que o amor é um sentimento nobre, puro e livre.",
+    "4": "É perfeitamente normal um casal de idade diferentes manter uma relação amorosa genuinamente baseada no amor, na paixão na afeição, sem   contudo, isso se constitua            um problema para  amar não existe predeterminação de tempo ou idade, onde precise estabelecer uma faixa etária.",
+    "5": "E quando se ama sem discriminação e intensamente é possível encontrar amores com grandes diferenças de idade, vivendo sem se preocupar com tais diferenças, pois para o amor não há limite de idade ."
+  },
+  "redacao_gerada": {
+    "0": "A dinâmica das relações afetivas tem sido historicamente marcada por arranjos sociais, econômicos e culturais, nos quais a diferença de idade entre os parceiros, por vezes substancial, emerge como um tema recorrente e, frequentemente, controverso.",
+    "1": "Essa disparidade etária, observada desde as antigas cortes monárquicas até os relacionamentos contemporâneos midiaticamente expostos, suscita debates sobre a validade e a sustentabilidade de tais uniões.",
+    "2": "Nesse contexto, é imperativo analisar criticamente se o amor com grande diferença de idade pode, de fato, prosperar, considerando os desafios inerentes à compatibilidade geracional e as pressões sociais, bem como as bases sólidas que podem sustentar tais laços, como o respeito mútuo e a maturidade emocional.",
+    "3": "Em primeiro lugar, a análise histórica e sociológica revela que uniões com acentuada diferença de idade não são um fenômeno recente nem exclusivo de contextos de interesse meramente pragmático.",
+    "4": "A literatura e os registros históricos frequentemente narram enlaces motivados por paixão ou alianças estratégicas que transcendiam a barreira etária, como o relacionamento entre Júlio César e Cleópatra, ou as uniões matrimoniais nas monarquias europeias, onde a idade dos cônjuges era secundária frente à necessidade de consolidação de poder e linhagens.",
+    "5": "Essas narrativas demonstram que, embora as motivações possam variar, a atração e a formação de vínculos entre indivíduos de gerações distintas são parte da complexidade das interações humanas ao longo do tempo, desafiando a noção de que a compatibilidade afetiva está estritamente atrelada à proximidade etária.",
+    "6": "Ademais, a perspectiva psicológica e filosófica oferece ferramentas valiosas para compreender a sustentabilidade de relacionamentos com grande diferença de idade.",
+    "7": "Conforme o pensamento de filósofos como Simon de Beauvoir, que explorou as dinâmicas de poder e alteridade nas relações, a maturidade e a compreensão mútua são pilares fundamentais para qualquer vínculo saudável, independentemente da idade.",
+    "8": "A capacidade de um indivíduo, seja ele mais velho ou mais novo, de promover o desenvolvimento pessoal do outro, respeitando suas individualidades e aspirações, é um indicativo crucial de que a relação pode ser equilibrada e gratificante.",
+    "9": "Quando a união se baseia em admiração genuína, respeito às diferenças e um projeto de vida compartilhado, a disparidade etária torna-se secundária frente à profundidade da conexão emocional e intelectual.",
+    "10": "Diante do exposto, é evidente que a viabilidade de relacionamentos com grande diferença de idade não reside na mera contagem de anos, mas na qualidade da interação e no respeito mútuo entre os parceiros.",
+    "11": "Para fomentar ambientes onde tais relações possam florescer de maneira saudável e equânime, o Ministério da Educação, em parceria com o Ministério da Cultura, deve promover campanhas educativas em âmbito nacional, veiculadas em escolas e plataformas digitais.",
+    "12": "Tais campanhas, por meio de debates e materiais informativos, visariam desmistificar preconceitos e destacar a importância da maturidade emocional, do respeito às individualidades e da construção de projetos de vida em comum, independentemente da disparidade etária, enfatizando que o amor e a compatibilidade são construídos na reciprocidade e na compreensão, e não apenas em calendários."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1",
+        "17"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "14",
+        "15"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "4",
+        "22",
+        "23"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "4",
+        "11"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "14",
+        "15"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "14",
+        "15"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "14",
+        "15"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "14",
+        "15"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "14",
+        "15"
+      ]
+    }
+  }
+}

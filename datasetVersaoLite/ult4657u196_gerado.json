@@ -1,0 +1,180 @@
+{
+  "tema": "fomos-dominados-pelas-maquinas-que-inventamos",
+  "comando_tematico": {
+    "frases": {
+      "0": "Fomos dominados pelas máquinas que inventamos?",
+      "1": "Já não conseguimos viver sem celular, computador, internet e outros poderosos recursos tecnológicos.",
+      "2": "Queiramos ou não, eles transformaram o mundo durante o século 20 e ingressaram no século 21 com uma velocidade espantosa.",
+      "3": "Muita gente se adapta rapidamente às novidades e nem lembra como era a vida sem elas.",
+      "4": "Para outros, porém, ocorre uma dúvida: nossa existência seria melhor ou pior sem tudo isso?",
+      "5": "Seríamos diferentes?",
+      "6": "Há quem odeie e quem ame irrestritamente essas máquinas.",
+      "7": "Qual é nossa relação com os avanços da tecnologia?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ser humano se tornou uma extensão da roda O Rio chegou a 2 milhões de carros; São Paulo, a 6 milhões.",
+      "1": "No Rio, é um carro para cada três habitantes; em São Paulo, são dois.",
+      "2": "O automóvel venceu.",
+      "3": "O comunicólogo Marshal McLuhan, talvez a única voz otimista de 1968, errou feio: o ser humano é que se tornou uma extensão da roda.",
+      "4": "Mas, em 2008, quem quiser chegar rapidinho a qualquer lugar, é melhor que vá a pé.",
+      "5": "Ruy Castro, \"Folha de S.",
+      "6": "Paulo\", 17 Estresse ou vida partilhada Glauco, \"Folha de S.",
+      "7": "Paulo\", 05 A máquina e o poeta Cota Zero Stop.",
+      "8": "A vida parou Ou foi o automóvel?",
+      "9": "Carlos Drummond de Andrade (1902-1987, \"Alguma Poesia\", 1930) Os sábios e a cultura \"Com o aparecimento da escrita, alguns sábios temeram que o conhecimento, que antes estava vivo na cabeça, viria a morrer, esquecido nas páginas de um livro.",
+      "10": "Com a expansão dos meios de comunicação e a conseqüente chuva de informações, alguns sábios temeram que o conhecimento (.",
+      "13": ") viria a degenerar-se em papel de embrulhar peixe e ondas espalhadas no espaço.",
+      "14": "Com a explosão da internet (.",
+      "17": "), e a extrema facilidade de encontrar uma informação, alguns sábios temem que tudo acabe em desinteresse.",
+      "18": "Luiz Zico Rocha Soares, (\"Internet, um mundo paralelo\".",
+      "19": "Melhoramentos, 2007,."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Nas últimas décadas a tecnologia invadiu nossas vidas.",
+    "1": "Seja no trabalho, na rua ou em casa, estamos constantemente em contato com aparelhos como televisões, DVDs, microondas, celulares, computadores etc.",
+    "2": "Todos esses recursos trouxeram bastante agilidade na execução de nossas tarefas: das mais simples, como preparar uma refeição às mais complexas, como elaborar o projeto de um avião.",
+    "3": "A grande maioria da população absorveu rapidamente todas essas inovações, especialmente os mais jovens, que cresceram na era da informática.",
+    "4": "Fazem pesquisas, compras, ouvem música, trocam mensagens, namoram, tudo pela internet.",
+    "5": "No entanto, muitos se tornam excessivamente dependentes dessa rede de comunicação.",
+    "6": "Eles se habituaram tanto a essa realidade virtual que se esqueceram como é viver no mundo real.",
+    "7": "Há também aqueles que utilizam a internet para práticas criminosas, como é o caso de pedófilos, fraudadores e os chamados \"hackers\", que invadem sistemas de segurança extremamente complexos para roubar bancos e outras instituições.",
+    "8": "Contudo, a tecnologia não agrada a todos.",
+    "9": "Muitas pessoas não se adaptaram a toda essa modernidade e optam por fazer suas atividades de modo tradicional.",
+    "10": "Há quem prefira ouvir música nos velhos discos de vinil ou ainda escrever uma carta e enviá-la pelo correio a um amigo distante.",
+    "11": "Porém, essa \"aversão\" à tecnologia pode trazer problemas, como é o caso daqueles que não conseguem sacar dinheiro num caixa eletrônico e para isso tem o constrangimento de precisar pedir ajuda, muitas vezes a estranhos.",
+    "12": "A tecnologia estará cada vez mais presente em nosso cotidiano com o objetivo nos poupar tempo.",
+    "13": "Portanto, é necessário que todos tenham a chance de aprender a lidar com ela, de forma responsável e consciente.",
+    "14": "Caso contrário, agravaremos ainda mais problemas sérios em nosso país como a criminalidade e a exclusão social."
+  },
+  "redacao_gerada": {
+    "0": "A onipresença das máquinas em nosso cotidiano levanta um debate pertinente sobre o quanto elas moldam nossa existência.",
+    "1": "De fato, a tecnologia, que inicialmente surgiu como ferramenta para facilitar a vida humana, parece ter adquirido um papel central, a ponto de questionarmos se não nos tornamos dependentes delas.",
+    "2": "Essa relação complexa exige uma análise cuidadosa, considerando tanto os benefícios quanto os potenciais malefícios dessa simbiose.",
+    "3": "Um dos principais argumentos que sustentam a ideia de dominação pelas máquinas reside na perda de habilidades básicas e na diminuição da interação humana direta.",
+    "4": "O uso constante de smartphones, por exemplo, nos afasta das conversas face a face e pode prejudicar o desenvolvimento da memória e da capacidade de concentração.",
+    "5": "Da mesma forma, a automação em diversas áreas do trabalho, embora aumente a eficiência, pode levar à obsolescência de profissões e à exclusão social daqueles que não se adaptam às novas exigências tecnológicas.",
+    "6": "Outro ponto a ser considerado é a influência das máquinas na formação de opiniões e na disseminação de informações.",
+    "7": "As redes sociais e os algoritmos de busca, ao personalizarem o conteúdo que consumimos, podem criar \"bolhas\" informacionais, limitando nossa exposição a diferentes perspectivas e reforçando visões de mundo preexistentes.",
+    "8": "Isso pode levar a uma polarização da sociedade e dificultar o diálogo construtivo, um aspecto crucial para a democracia e o convívio social.",
+    "9": "Diante desse cenário, é fundamental que o ser humano retome o controle sobre o uso da tecnologia.",
+    "10": "Para isso, o Ministério da Educação, em parceria com o Ministério da Ciência e Tecnologia, deve promover campanhas de conscientização sobre o uso equilibrado das ferramentas digitais, incentivando atividades offline e o desenvolvimento de habilidades socioemocionais.",
+    "11": "Além disso, as escolas precisam incorporar em seus currículos discussões críticas sobre o impacto da tecnologia, preparando os jovens para uma relação mais autônoma e consciente com as máquinas que inventaram."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "4"
+      ],
+      "textos_motivadores": [
+        "3",
+        "9",
+        "10",
+        "14"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "7"
+      ],
+      "textos_motivadores": [
+        "9",
+        "10",
+        "14"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "3",
+        "9",
+        "10",
+        "14"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "10",
+        "14"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "10",
+        "14",
+        "17"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "10",
+        "14"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "3",
+        "9",
+        "10",
+        "14"
+      ]
+    }
+  }
+}

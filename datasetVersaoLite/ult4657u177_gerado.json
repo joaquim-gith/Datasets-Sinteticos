@@ -1,0 +1,546 @@
+{
+  "tema": "quais-as-condicoes-necessarias-para-se-atingir-o-sucesso-profissional",
+  "comando_tematico": {
+    "frases": {
+      "0": "Quais as condições necessárias para se atingir o sucesso profissional?",
+      "1": "Não há como negar que o mercado de trabalho torna-se cada vez mais competitivo.",
+      "2": "Por outro lado, recentemente, as empresas têm revelado precisar de trabalhadores com qualificações específicas, de nível técnico ou superior, que estão em falta no país.",
+      "3": "Além disso, existem vários outros fatores que podem interferir na escolha de uma profissão ou na obtenção de um bom emprego.",
+      "4": "Sorte, vocação, talento, boa formação escolar, estar atento à demanda e às circunstâncias do momento.",
+      "5": "Quais as condições necessárias para se atingir o sucesso profissional?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Mercado imobiliário em alta André Ming Bordokan, 25, não tinha o sonho de ser engenheiro civil quando foi aprovado na Escola Politécnica da Universidade de São Paulo.",
+      "1": "Na escolha da especialização entre as engenharias, no fim do segundo ano, sua preferência era por mecânica, mas, pelas notas no ranking dos alunos, ficou com a segunda opção.",
+      "2": "Hoje, no quinto ano do curso, comemora o fato de o mercado aquecido cimentar a carreira.",
+      "3": "\"No início da faculdade, civil era uma área muito desvalorizada.",
+      "4": "Metade da turma ia trabalhar em banco.",
+      "5": "Agora, temos mais trabalho\", lembra Bordokan, que divide o curso com o estágio na construtora Gafisa.",
+      "6": "Segundo analistas de mercado, a retomada da engenharia civil -após forte decaída nas décadas passadas- se dá sobretudo pelas perspectivas de investimento em infra-estrutura com o PAC (Plano de Aceleração do Crescimento) e o crescimento do crédito imobiliário.",
+      "7": "( Folha de S.",
+      "8": "Paulo , 2 de dezembro de 2007) Muita injustiça Talento, vocação e mercado de trabalho A vocação permite dar sentido de unidade ao exercício de um ou vários talentos, próprios ou alheios.",
+      "9": "O talento, por sua vez, é a estabilização da capacidade para fazer bem alguma coisa.",
+      "10": "O \"mercado de trabalho\" se abre a esta ou àquela pessoa não em virtude de sua vocação, mas do seu talento, pois este é algo atual e útil e não potencial, como a vocação.",
+      "11": "A realização profissional resulta de que o talento seja o prosseguimento harmônico, cultural, da vocação.",
+      "12": "(Joel Nunes dos Santos, psicólogo e orientador profissional, \"Programa de Orientação Profissional\", Univercidade - Rio de Janeiro) Educação de qualidade É indiscutível que uma grande parcela da garantia de sucesso do processo educacional está na sala de aula, nas mãos do professor.",
+      "13": "O professor Zeferino Vaz, quando criou a Unicamp, em precárias instalações que tinham sido uma propriedade rural, disse que uma universidade se faz primeiro com cérebros, depois com cérebros, depois com cérebros, depois com bibliotecas e laboratórios e somente depois com prédios.",
+      "14": "Sem dúvida nenhuma, se oferecermos tudo o que se refere a equipamentos e condições de trabalho para que uma escola funcione, mas colocarmos ali professores mal formados, não teremos uma educação de qualidade.",
+      "15": "Enquanto o inverso pode até acontecer: uma educação razoável, apesar de condições materiais desfavoráveis.",
+      "16": "(Lucília Helena do Carmo Garcez, prof.",
+      "17": "dra.",
+      "18": "em lingüística aplicada, aposentada da Universidade de Brasília, escritora, consultora do MEC.",
+      "19": "- TVE Brasil) Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Atualmente , serviços comuns, que antigamente qualquer pessoa poderia exercer, são muito mais concorridos.",
+    "1": "Os cursos de informática e inglês foram mais popularizados, porém, mais exigidos.",
+    "2": "Os cursos técnicos foram mais requisitados, e concluir o ensino médio é essencial!",
+    "3": "No entanto , não é preciso apenas possuir cursos para conseguir emprego, cada vez mais, as empresas exigem mais testes e conhecimento do entrevistado.",
+    "4": "Ser uma pessoa centrada, de bom caráter, paciência, determinação e ativa, é indispensável, e a empresa, preocupada com isso, procura conhecer bem os candidatos, geralmente visando manter um funcionário por muitos anos.",
+    "5": "O local onde a pessoa estudou também é de enorme importância, pois quanto melhor o local, há mais chances de se conseguir emprego e muitas vezes conseguir um salário mais alto.",
+    "6": "Importante também ressaltar, que sempre se começa do menor cargo.",
+    "7": "Continuar a estudar, é sempre um bom investimento, o estudo e o esforço atraem o sucesso.",
+    "8": "Quando contratado, o conhecimento e dedicação do funcionário sempre são observados, por isso é necessário sempre se preocupar em crescer na empresa.",
+    "9": "Manter o emprego, é o primeiro passo para o sucesso profissional, com dedicação, e estudo , bom humor, otimismo ,educação, muita paciência e ambição, tudo acontece aos poucos e logo se alcança o sucesso.",
+    "10": "Talento e vocação facilitam , mas não são tudo, ser uma pessoa fácil de se conviver, ser responsável e qualidades que não se aprende em cursos e faculdades, contam , e muito, no sucesso."
+  },
+  "redacao_gerada": {
+    "0": "Pra ter sucesso no trampo tem que ter sorte, o resto é balela.",
+    "1": "Muita gente fala de estudo, mas se não tiver quem te indique, nada feito.",
+    "2": "É tudo indicação e sorte, o resto é conversa pra boi dormir.",
+    "3": "A vida é curta e o tempo voa, então se não tiver um empurrãozinho, não vai pra frente.",
+    "4": "As empresas querem gente que já conhece, não adianta ter diploma.",
+    "5": "É mais fácil arrumar um bico com alguém que já trabalha lá.",
+    "6": "Se não for assim, a gente fica esperando a vida toda.",
+    "7": "O mercado tá difícil, mas pra quem tem contatos, fica fácil.",
+    "8": "O mais importante é conhecer gente.",
+    "9": "Se você conhece alguém, já tá dentro.",
+    "10": "Se não, só lamento, vai ter que correr atrás.",
+    "11": "É um saco essa vida, mas é assim que funciona.",
+    "12": "Talento não vale nada se não tiver quem te ajude.",
+    "13": "Tem que ter sorte na vida.",
+    "14": "A gente estuda e se mata pra nada.",
+    "15": "É mais fácil ser esperto.",
+    "16": "Falar que estudo resolve é mentira.",
+    "17": "O que resolve é quem você conhece.",
+    "18": "Tem que ter sorte e amigo.",
+    "19": "Se não tiver isso, não adianta nada.",
+    "20": "É só se dar bem na vida.",
+    "21": "Sorte é tudo.",
+    "22": "Quem tem sorte, tem tudo.",
+    "23": "Quem não tem, se dane.",
+    "24": "A vida é assim.",
+    "25": "Tem que ter sorte pra conseguir um bom emprego.",
+    "26": "Sem sorte não tem jeito.",
+    "27": "É muito difícil arrumar um emprego bom hoje em dia.",
+    "28": "As empresas não querem saber da gente.",
+    "29": "Querem saber de quem indica.",
+    "30": "É complicado.",
+    "31": "Se não tiver um amigo lá dentro, não entra.",
+    "32": "A gente se esforça, estuda, mas não adianta.",
+    "33": "O que importa é a sorte.",
+    "34": "E a sorte é rara.",
+    "35": "Precisa de sorte pra tudo.",
+    "36": "E pra conseguir um bom emprego, precisa de muita sorte.",
+    "37": "Se não tiver sorte, não tem sucesso.",
+    "38": "É o fim.",
+    "39": "Não tem o que fazer.",
+    "40": "A gente se mata de trabalhar e não ganha nada.",
+    "41": "O que vale é a sorte.",
+    "42": "E se não tiver sorte, não adianta nada.",
+    "43": "Fica a vida toda sem nada.",
+    "44": "É triste, mas é a verdade.",
+    "45": "Precisa de sorte pra tudo.",
+    "46": "E pra conseguir um bom emprego, precisa de muita sorte.",
+    "47": "Se não tiver sorte, não tem sucesso.",
+    "48": "É o fim.",
+    "49": "Não tem o que fazer.",
+    "50": "A gente se mata de trabalhar e não ganha nada.",
+    "51": "O que vale é a sorte.",
+    "52": "E se não tiver sorte, não adianta nada.",
+    "53": "Fica a vida toda sem nada.",
+    "54": "É triste, mas é a verdade."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "10",
+        "12"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2",
+        "10",
+        "14"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "5",
+        "10"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "1",
+        "3"
+      ],
+      "textos_motivadores": [
+        "2",
+        "6",
+        "10"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "17": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "18": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "19": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "20": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "21": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "22": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "23": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "24": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "25": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "26": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "27": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "1",
+        "6"
+      ]
+    },
+    "28": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "1",
+        "14"
+      ]
+    },
+    "29": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "1",
+        "10"
+      ]
+    },
+    "30": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "31": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "32": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "33": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "34": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "35": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "36": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "37": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "38": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "39": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "40": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "41": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "42": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "43": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "44": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "45": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "46": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "47": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "48": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "49": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "50": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "51": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "52": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "53": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "54": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

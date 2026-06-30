@@ -1,0 +1,241 @@
+{
+  "tema": "nacional-ou-importada-qual-a-cara-do-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "Nacional ou importada: qual a cara do Brasil?",
+      "1": "Muitos jovens rejeitam certos aspectos da cultura nacional, mostrando-se avessos a músicas, filmes, hábitos e até a comidas brasileiras.",
+      "2": "Por outro lado, existem jovens entusiastas de tudo que se refere ao Brasil.",
+      "3": "A questão não é nova.",
+      "4": "Já se colocava na década de 1920, quando Tarsila do Amaral pintou a tela \"Abaporu\" e Oswald de Andrade lançou o \"Manifesto Antropofágico\".",
+      "5": "O que você pensa da questão?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Abaporu O Abaporu, de Tarsila do Amaral A tela \"Abaporu\", de Tarsila do Amaral, de 1928, inspirou o escritor Oswald de Andrade na composição do \"Manifesto Antropofágico\", que propunha deglutir todas as influências estrangeiras para criar uma produção artística e cultural única e própria.",
+      "1": "Brasil: ame-o ou ame-o \"Eles não estão nem aí para o último hype da parada inglesa nem para a mais nova sensação de Hollywood.",
+      "2": "Seja por uma identificação maior com os temas, seja pela facilidade de entender as mensagens ou simplesmente por afinidade, muitos jovens não abrem mão do produto nacional quando assunto é cultura.",
+      "3": "E não são apenas o samba ou a bossa nova, criações tipicamente brasileiras, que agradam esses adolescentes.",
+      "4": "O rock e o cinema nacionais também são motivo de orgulho.",
+      "5": "\" (Leticia de Castro, \"Brasil: ame-o ou ame-o\", Folhateen , 07 ) Bye bye Brasil \"Motivo de orgulho nacional para muitos, a cultura brasileira sofre na mão de alguns adolescentes, que preferem a música, os programas de TV, as comidas e o cinema estrangeiros a qualquer coisa que seja produzida por aqui.",
+      "6": "No último mês, o debate esquentou a seção de cartas do Folhateen , que ficou dividida entre uma maioria que ama e uma minoria que detesta aspectos tradicionais de nossa cultura: MPB e samba, novelas e até delícias da gastronomia, como vatapá, moqueca, bobó de camarão e feijoada.",
+      "7": "O estopim foi uma carta do leitor Leandro Sarubo, 18.",
+      "8": "Comentando uma reportagem que listava as três piores séries em exibição na TV dos EUA, ele dizia que 'nenhum produto nosso consegue ser menos medíocre que essas três séries'.",
+      "9": "\" (Leandro Fortino, \"Bye bye Brazil\", Folhateen , 21 ) Ser adolescente no Brasil \" hoje uma matéria do Folhateen sobre os jovens que não se identificam com a cultura do Brasil e detestam MPB e feijoada, curtem rock alternativo e adoram fast-food.",
+      "10": "A reportagem traz também entrevistas com um sociólogo e um professor que ficaram horrorizados com isso.",
+      "11": "Não vejo motivo para tanto espanto.",
+      "12": "Numa sociedade tão desigual quanto a brasileira, nada mais óbvio do que isso.",
+      "13": "Como um jovem, principalmente das regiões Sul e Sudeste, que cresceu já com acesso à Internet e à TV paga, vai se identificar com barracão de escola de samba?",
+      "14": "Ou, ao contrário, como um jovem que estudou nessas cada dia piores escolas públicas, excluído digital, vai saber o que é Arcade Fire?",
+      "15": "\" Texto postado no dia 22 no blog de Thaís Gonzaga.",
+      "16": "Antes de escrever Ao desenvolver o tema proposto, procure utilizar os conhecimentos adquiridos e as reflexões feitas ao longo de sua formação.",
+      "17": "Selecione, organize e relacione argumentos, fatos e opiniões para defender seu ponto de vista e suas propostas, sem ferir os direitos humanos."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "O modernismo introduziu no Brasil uma nova concepção artística baseada na supervalorização da produção nacional.",
+    "1": "No entanto, com o processo de globalização, a integralização entre diversas culturas, trouxe como principal conseqüência, a divisão da sociedade brasileira entre os amantes dos aspectos nacionais e dos aspectos estrangeiros.",
+    "2": "A partir disso, surge uma nova pergunta: qual a cara da nação, nacional ou importada?",
+    "3": "Na chamada \"era moderna\" , pensava-se que o Brasil necessitava adquirir a sua independência intelectual e criar uma identidade autenticamente nacional, diferenciada dos modelos europeus.",
+    "4": "Com isso, os traços mais tradicionais da nossa cultura foram ressuscitados e renovados com o objetivo de ganhar espaço no cenário mundial, através de uma produção artística essencialmente brasileira.",
+    "5": "Surgem, então, as mais belas obras literárias, musicais (MPB) e cinematográficas brasileiras.",
+    "6": "Todavia, com o tempo, o Brasil foi passando por um processo de capitalização e assim, a sociedade moderna com seus princípios fundamentados no capital dividi-se em dominados e dominantes; ricos e pobres.",
+    "7": "Na qual, apenas os favorecidos, através dos meios mais avançados de comunicação, entram em contato com outras culturas principalmente com aquelas mais modernas, pela qual se sentem atraídos.",
+    "8": "Enquanto, a camada mais baixa continua mantendo os aspectos tradicionais da cultura como o samba, a feijoada e as novelas, pois são os excluídos digitais.",
+    "9": "Fora isso, ainda existe aquelas pessoas fascinadas por nossa produção cultural pela simples afinidade.",
+    "10": "Desse modo, diante da divisão da civilização brasileira, a melhor resposta seria a de Oswald de Andrade baseada na devoração da cultura e das técnicas importadas.",
+    "11": "Aproveitando-se somente das verdadeiras qualidades dessas, para construir à nossa cultura, ou seja, a cara do Brasil é a mistura do nacional com o estrangeiro, já que tal miscigenação foi iniciada de maneira drástica durante a colonização européia.",
+    "12": "Portanto, a realidade é mais uma conseqüência das desigualdades sociais, tão presentes na nação."
+  },
+  "redacao_gerada": {
+    "0": "O Brasil hoje vive um dilema sobre o que é realmente nosso ou o que vem de fora.",
+    "1": "Muita gente acha que as coisas de fora são melhores, tipo músicas e filmes estrangeiros, mas tem gente que gosta muito das coisas daqui também.",
+    "2": "Essa discussão não é nova, sempre teve gente que preferia o que era de outro lugar e gente que defendia o que era brasileiro.",
+    "3": "Eu acho que a gente tem que valorizar o que é nosso, mas também não é ruim gostar de coisa de fora.",
+    "4": "O importante é não deixar de lado a nossa cultura.",
+    "5": "Por um lado, é fácil ver por que alguns jovens preferem o que vem de fora.",
+    "6": "Na internet, tem muita coisa de outros países, com linguagem que eles entendem melhor e temas que parecem mais legais.",
+    "7": "A música pop americana, as séries da Netflix, os filmes de Hollywood, tudo isso chega muito fácil pra gente.",
+    "8": "Isso faz com que a gente se sinta mais conectado com o mundo e com as tendências globais, que muitas vezes parecem mais modernas e interessantes do que o que é produzido aqui.",
+    "9": "É uma questão de acesso e de se sentir parte de algo maior.",
+    "10": "Por outro lado, temos muitos artistas brasileiros talentosos que fazem coisas incríveis.",
+    "11": "Temos novelas que fazem sucesso, músicas que todo mundo canta e filmes que contam histórias do nosso povo.",
+    "12": "Tem gente que se orgulha muito disso e prefere consumir o que é nacional por uma questão de identidade e pertencimento.",
+    "13": "Essa valorização do nacional é importante para manter viva a nossa cultura e para apoiar os nossos criadores.",
+    "14": "É um jeito de mostrar que o Brasil tem valor e que suas histórias merecem ser contadas e ouvidas.",
+    "15": "No fim das contas, acho que não tem resposta certa ou errada.",
+    "16": "O ideal seria um equilíbrio.",
+    "17": "A gente pode gostar de coisas de fora e ao mesmo tempo valorizar e consumir o que é produzido aqui no Brasil.",
+    "18": "O importante é ter consciência do que é nosso e fazer um esforço para conhecer e apreciar a cultura brasileira, sem deixar de lado as influências externas.",
+    "19": "A mistura de culturas pode ser algo bom, desde que a gente não perca a nossa essência e a nossa identidade."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "5"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "1",
+        "8"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "2",
+        "3"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "14": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "2"
+      ]
+    },
+    "15": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "16": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "17": {
+      "comando_tematico": [
+        "0",
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "1",
+        "2"
+      ]
+    },
+    "18": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "5",
+        "16"
+      ]
+    },
+    "19": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    }
+  }
+}

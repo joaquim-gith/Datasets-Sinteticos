@@ -1,0 +1,182 @@
+{
+  "tema": "bicicletas-e-ciclofaixas-estao-chegando-para-ficar",
+  "comando_tematico": {
+    "frases": {
+      "0": "Bicicletas e ciclofaixas estão chegando para ficar?",
+      "1": "O uso da bicicleta como alternativa para o transporte nas grandes cidades brasileiras está na ordem do dia.",
+      "2": "As bikes contribuiriam para resolver problemas de mobilidade urbana, por ajudar a retirar carros das ruas e ocupar menos espaço do que eles.",
+      "3": "Além disso, trata-se de um meio de transporte que não produz poluição, nem do ar, nem sonora.",
+      "4": "Contudo, ao lado dos inegáveis pontos positivos, há vários problemas em fazer das bicicletas um meio de transporte viável no Brasil: como torná-las seguras em meio ao trânsito caótico e como obrigar os motoristas respeitarem os ciclistas?",
+      "5": "A implantação de ciclovias, em São Paulo, por exemplo, tem gerado polêmicas.",
+      "6": "Há também quem argumente que aqui não é a França ou a Holanda, onde o uso da bicicleta como meio de transporte (e não apenas de lazer) é uma realidade.",
+      "7": "Como você se coloca diante dessa discussão?",
+      "8": "Acredita que a bicicleta é uma opção viável ou acha que, independentemente de intervenções governamentais, as bikes não deixarão de ser utilizadas somente como meio de esporte e lazer?",
+      "9": "Leia a seguir algumas informações que podem ajudá-lo a refletir sobre o assunto e discuta-o numa dissertação argumentativa.",
+      "10": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Em Brasília, o ministro das Cidades, Gilberto Occhi, inaugura 30 vagas para bicicletas no Ministério e enviou documento a todos os diretores de órgãos federais pedindo que estimulem o uso das bikes Fatos estatísticos Segundo a pesquisa Datafolha, 80% dos paulistanos dizem ser a favor da implantação dessas vias e 60% acreditam que a bicicleta é um meio de transporte viável para o dia a dia.",
+      "1": "Apesar disso, o número de adeptos é tímido - 3% dizem usar a bike com frequência.",
+      "2": "Um em cada três paulistanos tem bicicleta.",
+      "3": "Nesse grupo, 47% dizem já haver usado uma ciclovia da cidade.",
+      "4": "A maioria, porém, declara pedalar nessas vias no máximo duas vezes por semana.",
+      "5": "Dos que não têm bicicleta, 22% afirmam que pretendem comprar no futuro próximo.",
+      "6": "[ Folha de S.",
+      "7": "Paulo ] Cidadãos descontentes Moradores e comerciantes de Santa Cecília, no centro de São Paulo, marcaram um protesto contra a implantação de ciclovias no bairro e ameaçam registrar boletim de ocorrência contra a prefeitura para tentar barrar a iniciativa.",
+      "8": "Além da falta de aviso prévio ou de debate sobre os impactos das novas ciclovias, os moradores e comerciantes reclamam das alterações provocadas no trânsito com a criação das pistas para bicicletas.",
+      "9": "Entre elas está a restrição do espaço dos outros veículos, a eliminação de vagas de estacionamento gratuito e de Zona Azul, proibição de parar e estacionar, a alteração de sentido e a redução da velocidade máxima.",
+      "10": "[ Folha de S.",
+      "11": "Paulo ] Potencial Trata-se, não por acaso, de tendência nas principais metrópoles do mundo [o uso das bikes].",
+      "12": "A bicicleta é um meio de transporte limpo, que ocupa muito menos espaço do que um carro (embora não seja \"a\" solução para os problemas de mobilidade urbana) e oferece a seus usuários a possibilidade de não ficar refém das condições do trânsito.",
+      "13": "Numa cidade como São Paulo, porém, nunca foi fácil usar bicicletas, e não surpreende que apenas 3% dos paulistanos digam se valer desse transporte com frequência.",
+      "14": "Construir 400 km de ciclovias, como quer Haddad, decerto não aplainará o terreno acidentado nem tornará a metrópole mais segura, mas ao menos dará aos ciclistas alguma proteção num sistema tão hostil quanto caótico.",
+      "15": "O potencial de atração dessas vias é significativo.",
+      "16": "Entre os entrevistados, 22% declaram intenção de, nos próximos seis meses, comprar uma bicicleta (32% já têm uma), e 41% indicam ser grande a chance de usar as ciclovias.",
+      "17": "[ Folha de S.",
+      "18": "Paulo ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Muito tem  falado do uso de bicicletas como meio de mobilidade urbana, em  grandes cidades.",
+    "1": "Alem  do benefício de não pega transito  , é a saúde.",
+    "2": "Algumas poucas pessoas vêm mostrando pensamento contrário a  inclusão de ciclovias urbanas.",
+    "3": "É cada vez maior o interesse por uma vida saudável e com qualidade de vida .",
+    "4": "O uso de bicicletas para ir ao trabalho é uma ótima alternativa e acúmulo de benefícios: a prática de uma atividade física e a possibilidade de reduzir custos, monetários e ambiental.",
+    "5": "Diminuindo a emissão de CO2  .",
+    "6": "Em São paulo  , o prefeito mostrou interesse          em implementar 400 km de ciclovias.",
+    "7": "Em alguns bairros, moradores tem  feito queixas do projeto.",
+    "8": "Argumentos como: diminuir  a área de estacionamentos e mudanças no transito  são as  mais frequentes.",
+    "9": "A ciclovia urbana é uma realidade em muitos países e vêm  crescendo a cada dia          , assim como, o  pensamento em sustentabilidade.",
+    "10": "É, Sem  dúvida, um início de uma mudança e viável, o difícil é mudar o pensamentos das pessoas."
+  },
+  "redacao_gerada": {
+    "0": "A ascensão da bicicleta como modal de transporte nas metrópoles brasileiras, impulsionada por debates sobre sustentabilidade e mobilidade urbana, configura um cenário em que a pergunta \"bicicletas e ciclofaixas estão chegando para ficar?\" ressoa com urgência.",
+    "1": "Nesse contexto, a viabilidade e a consolidação desse meio de transporte são pautadas por dois argumentos centrais: a contribuição para a desafogamento do trânsito e a redução da poluição ambiental, em contrapartida aos desafios de segurança e aceitação cultural.",
+    "2": "Assim, torna-se imperativo analisar as condições que favorecem e as que obstaculizam a permanência das bicicletas no cotidiano urbano.",
+    "3": "Em primeiro lugar, é inegável o potencial das bicicletas em mitigar os gargalos da mobilidade urbana, conforme prelecionava o sociólogo Manuel Castells ao discorrer sobre as cidades em rede e a fluidez do espaço.",
+    "4": "Ao ocupar menos espaço que os automóveis e ao incentivar a descentralização do tráfego, as bikes oferecem uma alternativa para a redução da congestão e do tempo de deslocamento.",
+    "5": "Ademais, a inexistência de emissão de poluentes atmosféricos e sonoros alinha-se com as crescentes demandas por cidades mais saudáveis e ecologicamente equilibradas, um imperativo ético em face da crise climática que assola o planeta.",
+    "6": "Outrossim, a transição para um paradigma de transporte mais sustentável esbarra em obstáculos significativos, como a precariedade da infraestrutura e a hostilidade do tráfego.",
+    "7": "A história demonstra que grandes transformações sociais e tecnológicas frequentemente enfrentam resistência, como observado em diversos momentos de revolução industrial, onde novas máquinas geraram apreensão.",
+    "8": "No contexto brasileiro, a falta de ciclofaixas seguras e a imperatividade de educar motoristas e pedestres para a convivência harmônica no trânsito são desafios prementes, que demandam ações coordenadas para garantir a segurança e a dignidade dos ciclistas.",
+    "9": "Portanto, para que as bicicletas se consolidem efetivamente como um meio de transporte permanente e seguro nas cidades brasileiras, é fundamental que o Poder Público atue de maneira proativa.",
+    "10": "Sugere-se que o Ministério do Desenvolvimento Regional, em parceria com as prefeituras municipais, invista na expansão e na manutenção de uma malha cicloviária integrada e segura, por meio de programas de financiamento e planejamento urbano que priorizem a mobilidade ativa.",
+    "11": "Essa ação, detalhada com campanhas educativas contínuas sobre a importância do respeito mútuo no trânsito e a fiscalização rigorosa das leis de trânsito, visa garantir um ambiente mais seguro e inclusivo para todos os modais de transporte, promovendo a sustentabilidade e a qualidade de vida urbana."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "7",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "11",
+        "12",
+        "13"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "5",
+        "7",
+        "8",
+        "9",
+        "13",
+        "14"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "5",
+        "7",
+        "8",
+        "9",
+        "13",
+        "14"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "14"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "4",
+        "5"
+      ],
+      "textos_motivadores": [
+        "14"
+      ]
+    }
+  }
+}

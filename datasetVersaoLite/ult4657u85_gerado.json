@@ -1,0 +1,86 @@
+{
+  "tema": "por-que-as-pessoas-mentem-pela-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Por que as pessoas mentem pela internet?",
+      "1": "Pesquisa realizada pela Universidade de Cornell, nos Estados Unidos, revelou que 81% das pessoas que utilizam sites de relacionamento na internet mentem para aqueles com quem se comunicam.",
+      "2": "Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas a seus parceiros de chat.",
+      "3": "Quais os motivos dessa atitude?",
+      "4": "Trata-se apenas da vontade de impressionar o outro?",
+      "5": "Ou haverá um motivo mais profundo: a insatisfação consigo mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Quem está atrás do teclado?",
+      "1": "Um indivíduo isolado envia mensagens solitárias e busca o amor por meio de imagens virtuais.",
+      "2": "Ele se realiza em casa, protegido, à distância, e corre o risco de se decepcionar, quando, e se, um encontro real vier a ser marcado.",
+      "3": "Estamos no século do amor via internet com pessoas namorando virtualmente sem o calor dos corpos que se entregam.",
+      "4": "Mas, afinal, que tipo de relação se estabelece via computador?",
+      "5": "Existe vínculo?",
+      "6": "Se houver traição virtual, como fica o relacionamento entre os namorados?",
+      "7": "Basta se desconectar para pôr fim a um envolvimento emocional.",
+      "8": "Jairo Bouer comenta a pesquisa Texto 2 Segundo o filósofo francês Jean-Paul Sartre, \"o ser humano possui uma atração doentia pela verdade\".",
+      "9": "Sartre considera que o desejo da verdade aparece muito cedo nos seres humanos e se manifesta como vontade de confiar nas coisas e nas pessoas, isto é, de acreditar que as coisas são exatamente como o indivíduo as percebe e o que as pessoas lhe dizem é digno de confiança e crédito.",
+      "10": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Nenhuma relação é feita só de verdades.",
+    "1": "Mesmo os relacionamentos entre pais e filhos, amigos, e empregadores e empregados, a mentira é um recurso importante para que as pessoas sejam valorizadas.",
+    "2": "A internet trouxe uma possibilidade de relacionamento (o virtual) onde a probalidade de se mentir é maximizada e em grande parte intensificada devido à impessoalidade.",
+    "3": "É desta ampliação que surgem os motivos para a mentira na internet.",
+    "4": "Mente-se na internet primordialmente para conquistar o outro modificando-se atributos que são vistos como ideias pela sociedade que sempre estabelece um padrão, seja ele de beleza, de comportamento ou sócio-econômico.",
+    "5": "A moça que está acima do peso, segundo os padrões impostos, diz em uma sala de bate-papo um peso menor - o mais próximo da perfeição - do que realmente tem.",
+    "6": "O rapaz desempregado diz que está trabalhando para se livrar da imagem que é usualmente associada a alguém sem emprego.",
+    "7": "Percebe-se nesses exemplos como as mentiras estão intimamente atreladas ao caráter preconceituoso que se dá nas relacioções virtuais.",
+    "8": "No entando, deve-se salientar que há pessoas que mentêm - principalmente aquelas que não almeijam transferir o relacionamento do plano virtual para o real - para satisfazer um desejo de se tornar outra pessoa, viver em um mundo paralelo, criar uma outra personalidade.",
+    "9": "Apesar desta prática não ser tão comum, ela é benéfica quando é utilizada como um meio para sair de um mundo real tão estressante.",
+    "10": "Seria uma válvula de escape, pois assim como há aqueles que procuram algum esporte ou outra atividade para relaxar não se deve subjulgar quem mantém uma segunda personalidade no mundo virtual.",
+    "11": "Ninguém oficialmente diz que mente, mas, segundo pesquisas, mentimos dezenas de vezes diariamente.",
+    "12": "Há mentiras de várias proporções, porém, como na internet há um distaciamento entre aqueles que se comunicam, sempre há a possibilidade de exagerar cada vez mais e definitivamente, há uma relação proporcional entre mentira, prazer e visão de mundo imposta pela sociedade."
+  },
+  "redacao_gerada": {
+    "0": "As pessoas mentem na internet porque elas querem.",
+    "1": "É muito facil mentir quando ninguem tá vendo você.",
+    "2": "Por exemplo, uma pessoa pode falar que é rica e bonita, mas na verdade ela é pobre e feia.",
+    "3": "Isso acontece muito em sites de namoro, onde as pessoas querem enganar os outros pra conseguir o que querem.",
+    "4": "A internet é um lugar sem lei, e as pessoas se aproveitam disso pra mentir."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "1",
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

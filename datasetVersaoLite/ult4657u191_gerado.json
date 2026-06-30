@@ -1,0 +1,142 @@
+{
+  "tema": "fomos-dominados-pelas-maquinas-que-inventamos",
+  "comando_tematico": {
+    "frases": {
+      "0": "Fomos dominados pelas máquinas que inventamos?",
+      "1": "Já não conseguimos viver sem celular, computador, internet e outros poderosos recursos tecnológicos.",
+      "2": "Queiramos ou não, eles transformaram o mundo durante o século 20 e ingressaram no século 21 com uma velocidade espantosa.",
+      "3": "Muita gente se adapta rapidamente às novidades e nem lembra como era a vida sem elas.",
+      "4": "Para outros, porém, ocorre uma dúvida: nossa existência seria melhor ou pior sem tudo isso?",
+      "5": "Seríamos diferentes?",
+      "6": "Há quem odeie e quem ame irrestritamente essas máquinas.",
+      "7": "Qual é nossa relação com os avanços da tecnologia?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O ser humano se tornou uma extensão da roda O Rio chegou a 2 milhões de carros; São Paulo, a 6 milhões.",
+      "1": "No Rio, é um carro para cada três habitantes; em São Paulo, são dois.",
+      "2": "O automóvel venceu.",
+      "3": "O comunicólogo Marshal McLuhan, talvez a única voz otimista de 1968, errou feio: o ser humano é que se tornou uma extensão da roda.",
+      "4": "Mas, em 2008, quem quiser chegar rapidinho a qualquer lugar, é melhor que vá a pé.",
+      "5": "Ruy Castro, \"Folha de S.",
+      "6": "Paulo\", 17 Estresse ou vida partilhada Glauco, \"Folha de S.",
+      "7": "Paulo\", 05 A máquina e o poeta Cota Zero Stop.",
+      "8": "A vida parou Ou foi o automóvel?",
+      "9": "Carlos Drummond de Andrade (1902-1987, \"Alguma Poesia\", 1930) Os sábios e a cultura \"Com o aparecimento da escrita, alguns sábios temeram que o conhecimento, que antes estava vivo na cabeça, viria a morrer, esquecido nas páginas de um livro.",
+      "10": "Com a expansão dos meios de comunicação e a conseqüente chuva de informações, alguns sábios temeram que o conhecimento (.",
+      "13": ") viria a degenerar-se em papel de embrulhar peixe e ondas espalhadas no espaço.",
+      "14": "Com a explosão da internet (.",
+      "17": "), e a extrema facilidade de encontrar uma informação, alguns sábios temem que tudo acabe em desinteresse.",
+      "18": "Luiz Zico Rocha Soares, (\"Internet, um mundo paralelo\".",
+      "19": "Melhoramentos, 2007,."
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Ao contrário de algumas teses predominantes até hoje, a sociedade atual não foi dominada pelas máquinas que foram inventadas.",
+    "1": "Principalmente nos últimos séculos, pesquisadores e cientistas têm desenvolvido carros, foguetes, trens, computadores, satélites dentre outros cada vez mais eficientes e que possam serem controlados à distância.",
+    "2": "É quase impossível não fazer uso de tecnologias como computadores ou telefones celulares, pois há troca de informações nos dias de hoje necessitam de velocidade e eficácia.",
+    "3": "A mente humana tem progredido e muito em suas descobertas.",
+    "4": "Já foram realizadas viagens à lua, descoberta de compostos que prolongam a vida de doentes crônicos ou dejenerativos e vaginas coma a varíola, tétano e paralisia infantil dentre outos .",
+    "5": "Satélites de monitoramento do nosso planeta foram criados e lançados, encontrando-se vários deles na órbita da terra.",
+    "6": "Foram criadas também armas letais que utilizam o urânio, metal extremamente radioativo.",
+    "7": "Quando utilizado na 2º Guerra Mundial contra as cidades japonesas de Nagasaki e Hirochima, matou mais de 150.000 vidas humanas.",
+    "8": "A tecnologia que tem se desenvolvido ao longo dos anos chegou pra ficar.",
+    "9": "Tarefas anteriormente complicadas como enviar uma simples mensagem, levaria dias ou até meses para se chegar ao destino.",
+    "10": "Hoje, tem-se o computador juntamente com a rede mundial de computadores a internet em que a troca de informações duram frações de segundos mesmo para cruzar todo em qualquer continente.",
+    "11": "As máquinas tornaram os estudos universitários mais dinâmicos, rápidos e eficientes, facilitando o auxílio e o desenvolvimento da mente humana.",
+    "12": "Não há como dissociar o desenvolvimento da sociedade como um todo sem a co-participação das máquinas.",
+    "13": "As tarefas se tornam cada vez mais simples o objetivas.",
+    "14": "Há ganhos tanto na questão do tempo quanto do capital empregado."
+  },
+  "redacao_gerada": {
+    "0": "A onipresença das máquinas em nosso cotidiano levanta um questionamento pertinente: seríamos nós, e não elas, os verdadeiros dominados?",
+    "1": "A tecnologia, que outrora se apresentava como ferramenta para otimizar a vida humana, hoje parece ditar ritmos e moldar comportamentos de forma inescapável.",
+    "2": "A dependência excessiva de smartphones e computadores evidencia essa transformação, onde a interação social e até mesmo o raciocínio individual sofrem influências tecnológicas constantes.",
+    "3": "Um dos argumentos que sustentam essa tese reside na perda de habilidades básicas e na diminuição da capacidade de concentração.",
+    "4": "Com a facilidade de acesso à informação e a automatização de tarefas, muitas pessoas deixam de exercitar a memória e o pensamento crítico, delegando essas funções aos dispositivos.",
+    "5": "Isso pode levar a uma superficialidade no aprendizado e a uma dificuldade em lidar com situações que exigem raciocínio autônomo e prolongado, como apontado por alguns pensadores sobre o medo da escrita em relação ao conhecimento vivo.",
+    "6": "Ademais, a constante exposição às redes sociais e à vida digital pode gerar ansiedade e comparação social.",
+    "7": "A busca por validação online e a idealização de vidas alheias, frequentemente apresentadas de forma irreal, impactam negativamente a autoestima e o bem-estar.",
+    "8": "Essa dinâmica, impulsionada pelas próprias máquinas que criamos para nos conectar, paradoxalmente, pode nos isolar em bolhas de informação e opinião, fragmentando a sociedade.",
+    "9": "Diante desse cenário, é fundamental que haja uma reflexão sobre o uso consciente da tecnologia.",
+    "10": "Para mitigar o domínio das máquinas, o Ministério da Educação, por meio de iniciativas em escolas, deve promover debates e oficinas sobre o uso crítico das mídias digitais e o desenvolvimento de habilidades socioemocionais.",
+    "11": "Além disso, o governo, em parceria com empresas de tecnologia, pode incentivar o desenvolvimento de interfaces mais intuitivas e menos viciantes, buscando um equilíbrio saudável entre o homem e a máquina."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "10",
+        "17"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "14"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "10"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "13",
+        "14"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

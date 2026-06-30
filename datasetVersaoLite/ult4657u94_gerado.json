@@ -1,0 +1,136 @@
+{
+  "tema": "por-que-as-pessoas-mentem-pela-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Por que as pessoas mentem pela internet?",
+      "1": "Pesquisa realizada pela Universidade de Cornell, nos Estados Unidos, revelou que 81% das pessoas que utilizam sites de relacionamento na internet mentem para aqueles com quem se comunicam.",
+      "2": "Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas a seus parceiros de chat.",
+      "3": "Quais os motivos dessa atitude?",
+      "4": "Trata-se apenas da vontade de impressionar o outro?",
+      "5": "Ou haverá um motivo mais profundo: a insatisfação consigo mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Quem está atrás do teclado?",
+      "1": "Um indivíduo isolado envia mensagens solitárias e busca o amor por meio de imagens virtuais.",
+      "2": "Ele se realiza em casa, protegido, à distância, e corre o risco de se decepcionar, quando, e se, um encontro real vier a ser marcado.",
+      "3": "Estamos no século do amor via internet com pessoas namorando virtualmente sem o calor dos corpos que se entregam.",
+      "4": "Mas, afinal, que tipo de relação se estabelece via computador?",
+      "5": "Existe vínculo?",
+      "6": "Se houver traição virtual, como fica o relacionamento entre os namorados?",
+      "7": "Basta se desconectar para pôr fim a um envolvimento emocional.",
+      "8": "Jairo Bouer comenta a pesquisa Texto 2 Segundo o filósofo francês Jean-Paul Sartre, \"o ser humano possui uma atração doentia pela verdade\".",
+      "9": "Sartre considera que o desejo da verdade aparece muito cedo nos seres humanos e se manifesta como vontade de confiar nas coisas e nas pessoas, isto é, de acreditar que as coisas são exatamente como o indivíduo as percebe e o que as pessoas lhe dizem é digno de confiança e crédito.",
+      "10": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Nos primeiros anos de internet a explosão de salas de bate-papo conquistou e criou centenas ou milhares de insones, deslumbrados com este novo canal de relacionamento.",
+    "1": "Era como desbravar uma mata virgem, tudo era novo, uns desconfiavam demais, outros extremamente crédulos foram as primeiras vítimas de golpes ou simplesmente de desilusões amorosas.",
+    "2": "Hoje já existem alguns códigos digeridos por boa parte dos internautas como o cuidado com senhas, informações pessoais ou simples arquivos anexados a um e-mail.",
+    "3": "Ao que parece o paraíso durou pouco, os primeiros \"pecados\", a \"maça mordida\", não demorou muito para transformar a convivência virtual em um grande criadouro de Hackers, vigaristas e toda sorte de estelionatários com um pouco de conhecimento em informática.",
+    "4": "Por que a internet acabou se transformando em um campo muito fértil para a mentira?",
+    "5": "Pela possibilidade de se \"reinventar\" ou de poder surgir como um personagem, coisa que alguns tem maior facilidade que outros, é claro.",
+    "6": "Todos aqueles que sonham com corpos perfeitos ou polpudas contas bancárias, podem desfrutar das regalias sociais que estes status causam.",
+    "7": "Um nick name dengoso é capaz de arrastar multidões de homens exalando ferormônio a cada tecla digitada.",
+    "8": "A fantasia é virtual, o que à torna mais próxima da realidade.",
+    "9": "O sonho é interativo, partilhado dentro desta troca aparentemente imparcial, o perigo reina.",
+    "10": "Se tudo que é sólido desmancha no ar, por que acreditar que é possível sustentar solidamente um persona virtual?",
+    "11": "Quanto tempo de vida pode ter um personagem virtual?",
+    "12": "Quando a mentira se torna perigosa?",
+    "13": "Ainda são respostas difíceis de encontrar, o que parece claro é a função da mentira neste espaço: Ser o seu ideal sonhado, vivenciar a experiência de emagrecer sem fazer regime, de comprar um iate sem gastar dinheiro, ser promovido, e assim ter momentos mais realistas dos seus sonhos.",
+    "14": "Todos nós sonhamos ou em ser melhor do que somos ou com coisas que não possuímos, enquanto ficávamos insones pensando e sonhando com esses desejos não há mal algum.",
+    "15": "Que mal pode ter utilizar-se do universo virtual para dar mais brilho e realismo aos seus sonhos?",
+    "16": "Talvez fazer sofrer o outro, aquele que acaba comprando seu sonho como realidade.",
+    "17": "Esse comportamento não é exclusivo do mundo virtual, faz parte da vida, a internet apenas tornou mais fácil mentir, porque tornou mais fácil a comunicação à distância.",
+    "18": "Ainda é muito difícil mentir com o olho no olho, sempre foi mais fácil uma \"mentirinha\" ao telefone.",
+    "19": "A internet existe e antes dela a mentira, os mecanismos de defesa vão nos protegendo gradativamente, mais uns anos e provavelmente trataremos esse caso tal qual aprendemos a lidar com cartas anônimas, trotes e outras formas de mentir que fazem parte do nosso cotidiano."
+  },
+  "redacao_gerada": {
+    "0": "As pessoas mentem muito na internet porque elas querem parecer outra pessoa, sabe?",
+    "1": "Tipo, elas não gostam de como são e aí inventam coisa pra impressionar os outros que tão vendo.",
+    "2": "É meio que normal isso acontecer porque todo mundo quer ser legal e ter amigo, né?",
+    "3": "Então, pra ter mais atenção, a pessoa fala umas coisas que não são verdade, tipo que é mais bonito ou mais rico.",
+    "4": "Isso é ruim porque engana todo mundo, mas a pessoa acha que tá fazendo certo pra ela ficar bem vista.",
+    "5": "É um problema muito grande essa coisa de mentir online, porque as pessoas não se conhecem de verdade e aí quando se encontram, a decepção é grande.",
+    "6": "Deveria ter um jeito de as pessoas serem mais honestas, mas acho que é difícil mudar isso.",
+    "7": "A gente precisa de mais educação pra saber que mentir é errado e que a verdade é melhor.",
+    "8": "Mas nem sempre as pessoas escutam isso.",
+    "9": "Então, pra resolver, o governo podia fazer umas campanhas na TV falando pra não mentir, e também nas escolas.",
+    "10": "Mas isso é complicado de fazer funcionar."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "2",
+        "4"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "2",
+        "6"
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "8"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "9"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

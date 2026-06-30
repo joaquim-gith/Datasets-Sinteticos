@@ -1,0 +1,162 @@
+{
+  "tema": "o-uso-da-maconha-deve-ou-nao-ser-legalizado",
+  "comando_tematico": {
+    "frases": {
+      "0": "O uso da maconha deve ou não ser legalizado?",
+      "1": "A utilização da maconha tem sido alvo cada vez mais freqüente de polêmicas, artigos e debates.",
+      "2": "Há, por exemplo, amplo respaldo médico sobre os efeitos devastadores da maconha no cérebro.",
+      "3": "Segundo muitos cientistas, ela vicia, sim, e encaminha o usuário para drogas mais pesadas.",
+      "4": "Por outro lado, existem estudos científicos que propõem o uso medicamentoso da maconha, mesmo que de forma contínua.",
+      "5": "Há também quem a compare ao álcool e defenda a legalização de seu uso recreativo.",
+      "6": "Além disso, para alguns, uma eventual descriminalização da maconha seria um modo de pôr fim ao tráfico e a violência por ele gerada.",
+      "7": "O que você pensa disso?",
+      "8": "A maconha deve ou não ser legalizada?",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Maconha não é droga leve \"A maioria dos que usam maconha justifica seu uso dizendo que ela faz menos mal que álcool e cigarro.",
+      "1": "Não há por que fazer comparações, saber qual é a pior ou a menos má.",
+      "2": "O casamento com a maconha é sempre destrutivo.",
+      "3": "A droga tem uma substância química chamada ácido delta-9-tetraidrocanabinol (THC), que lentamente mina as capacidades intelectuais: compromete a atenção, a concentração e a memória.",
+      "4": "Produz uma apatia que não é própria da adolescência.",
+      "5": "O jovem prefere ficar sozinho a estar com amigos não-usuários.",
+      "6": "Mas o usuário vive se iludindo em dizer \"que fuma porque quer e pára quando quiser.",
+      "7": "\" [ Içami Tiba , psiquiatra, terapeuta e escritor, no livro \"Juventude e Drogas: Anjos Caídos\".",
+      "8": "São Paulo: Integrare, 2007].",
+      "9": "Bicho de sete cabeças Manifestação pela legalização da maconha diante do Palácio do Planalto em Brasília (DF) \"A erva maldita está se transformando em erva de charme.",
+      "13": ") O baseado - ou beck , ralf , mingote , jererê , conforme se chama por região do país ou mesmo geração - está na boca do povo.",
+      "14": "Na televisão, é zapear pelos canais para encontrar referências ou debates sobre o tema.",
+      "18": ") No cinema, filmes como o brasileiro \"Bicho de 7 Cabeças\" ou o inglês \"O Barato de Grace\" ajudam a acender, pelo país afora, a polêmica que ronda o assunto.",
+      "19": "Nas bancas, revistas científicas, como \"Galileu\", ou focadas no público jovem, como Trip, esgotam a tiragem ao dedicar páginas à discussão médica e jurídica que envolve a droga.",
+      "20": "\" [ Revista Época.",
+      "21": "Edição 183, 19 ] A lei, do jeito que está, não funciona \"Vigora no país uma lei que vale só para alguns.",
+      "26": "Se você é pobre e é pego com maconha, vai preso.",
+      "27": "Se é rico, é possível que a polícia nem o incomode, para evitar problemas - vai que você é filho de alguém importante.",
+      "28": "Ou, quem sabe, um subornozinho livre sua cara.",
+      "29": "Se você é grande traficante, fique sossegado.",
+      "30": "Se é pequeno traficante, ai, ai, ai.",
+      "31": "Se o delegado está de bom humor, você é usuário; se está de mau humor, é traficante - tão vaga é a tipificação dos crimes.",
+      "32": "E, se você quiser discutir o assunto a sério, é acusado de incitar um crime.",
+      "33": "Em resumo, a lei, do jeito que está, não funciona.",
+      "34": "[ Soninha Francine , depois de sua demissão da TV Cultura, em 2001,por ter assumido que fumava maconha.",
+      "35": "] Holanda proíbe cigarro mas permite maconha \"Desde primeiro de julho de 2008 é proibido fumar cigarros em bares, cafés e restaurantes.",
+      "36": "Quer dizer, fumar cigarro comum, de tabaco.",
+      "37": "Consumir maconha e haxixe continua podendo.",
+      "41": ") As drogas são vendidas e consumidas na quantidade máxima de 5 gramas por pessoa, nos cerca de 750 cafés da Holanda (metade em Amsterdã).",
+      "42": "Esses estabelecimentos são beneficiados pela chamada gedoogbeleid , a política de tolerância do Ministério da Justiça em relação às chamadas drogas leves.",
+      "43": "[ Revista VEJA.",
+      "44": "Edição de 9 ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Diariamente o tráfico de drogas se mostra como uma guerra civil nas cidades brasileiras, matando, corrompendo, defazando , escravizando pessoas inocentes , etc.Temos a sensação de estamos de mãos atadas a essa situação, devido a postura de nossos governantes e órgão de proteção, como a nossa polícia, que despreparada não sabe distinguir bandidos de pessoas comuns.",
+    "1": "A muito tempo discursores de ideologias políticas - sociais, defendem o combate as drogas e posturas de nossa população diante a essa situação como saídas para o combate ao trafíco e conseguentemente a violência social.",
+    "2": "É defendido também mais projetos de políticas públicas e a adesão de projetos sociais, proporcionando assim educação, saneamento básico, moradia, renda famíliar como estrátegias para que nossa população mais carente não se sinta atraída a utilizar recursos ílegais como meio de sobrevivência.",
+    "3": "Acredito que hoje os valores sociais e o convívio familiar está defazado , a procura pelo amor pela educação ou pelo respeito na visão jovial é nada mais do que \"brega\" a procura pelo destaque pessoal seja ele do lado \"mau\" é muito maior do que para o bem , as pessoas não estão valorizando o círculo de amizades, a boa música, o bom livro, um bom abraço.",
+    "4": "A ídeia que se tem é que dependendo o tamanho da sua bunda é o valor que você terá financeiramente ou status social.",
+    "5": "O estudo no Brasil não é valorizado, as pessoas que estudam não encontram encêntivo a continuar a se enriquecer culturalmente, não enxergam futuramente, grandes oportunidades com sua graduação, mas é preciso acreditar mudar o rumo das coisas da mentalidade do nosso povo, batalhar, ajudar aqueles que precisam, instruir nossas crianças, ensinar a elas a maneira de ser, respeitar o próximo , encêntivar o não à corrupção etc.",
+    "6": "A legalização da maconha não resultará em queda no patamar estatítisco da violência, existem países no mundo que o índice de criminalidade é muito baixo e lá eles não tem uma flexibilidade em relação as drogas, eles tem sim políticas públicas coerentes e um enriquecimento cultural onde é valorizado quem pratíca o bem, quem estuda e quem quer aprender.",
+    "7": "Na minha opinião é preciso muito mais do que apenas legalizar a maconha é preciso um trabalho sério começando com a classe social mais baixa direcionada para a mais alta, saber votar, saber protestar quando as coisas não vão bem e não ficarmos apáticos  diante a corrupção .",
+    "8": "O Brasil precisa mudar mas o brasileiro pecisa mudar primeiro, por que um país é a cara de seu povo, e o Brasil é o melhor lugar para se viver no mundo basta saber como viver melhor ."
+  },
+  "redacao_gerada": {
+    "0": "A questão da maconha é muito discutida hoje em dia e tem muita gente falando sobre isso.",
+    "1": "Uns acham que pode ser liberado pra todo mundo usar, outros não.",
+    "2": "É um assunto complicado que ninguém sabe direito o que fazer.",
+    "3": "Tem gente que fala que a maconha faz mal pra cabeça das pessoas, que deixa elas doentes e que depois elas vão pra drogas piores, tipo crack e essas coisas.",
+    "4": "Dizem que ela vicia e acaba com a vida de quem usa, estragando tudo que a pessoa podia ser.",
+    "5": "Mas tem outros que pensam diferente, que a maconha pode ajudar as pessoas em algumas doenças, tipo pra dor, sabe?",
+    "6": "E que não é tão ruim assim, é parecida com a bebida que a gente pode tomar.",
+    "7": "Se liberar, talvez o tráfico diminua e a violência também, que é uma coisa boa.",
+    "8": "Por isso, acho que a gente precisa pensar bem se é pra liberar ou não, porque tem coisa boa e ruim.",
+    "9": "Se liberar, tem que ver como vai ser pra não dar problema pra ninguém, mas se não liberar, o tráfico continua.",
+    "10": "É preciso cuidado."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "14",
+        "19",
+        "9"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "2",
+        "3"
+      ],
+      "textos_motivadores": [
+        "2",
+        "0"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "8": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": [
+        "21",
+        "33"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

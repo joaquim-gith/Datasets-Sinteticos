@@ -1,0 +1,203 @@
+{
+  "tema": "a-virgindade-e-um-valor-moral-a-ser-preservado",
+  "comando_tematico": {
+    "frases": {
+      "0": "A virgindade é um valor moral a ser preservado?",
+      "1": "Tanto a vida sexual precoce de muitos adolescentes quanto a opção pela virgindade são motivo de polêmicas.",
+      "2": "Nestes tempos de tolerância, ou permissividade, a castidade até o casamento volta a ser valorizada pelos jovens, como era por seus bisavós.",
+      "3": "Numa inversão de papéis, muitos pais da geração dos anos 1960 consideram seus filhos conservadores.",
+      "4": "Outros suspiram aliviados, ou porque são religiosos, ou porque têm medo de doenças sexualmente transmissíveis, ou, ainda, porque acham que a virgindade é sinal de juízo.",
+      "5": "Entre os jovens, há guerras de opinião em blogs e comunidades da internet.",
+      "6": "E você, o que acha?",
+      "7": "A virgindade até o casamento é ou não importante para o relacionamento de um casal?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Pureza: Jonas Brothers usam anel de virgindade \"Nós prometemos a nós mesmos e a Deus manter a virgindade até o casamento\", declarou à imprensa Nick Jonas, integrante da banda americana teen mais famosa do momento.",
+      "1": "\"É legal sermos reconhecidos como bons garotos\", diz ele.",
+      "2": "Os irmãos Jonas são norte-americanos, roqueiros, evangélicos.",
+      "3": "A originalidade do grupo é a convicção da virgindade masculina, que é simbolizada pelos anéis de pureza nos dedos dos três irmãos.",
+      "4": "Apesar disso, as fãs, com gritos histéricos, querem beijá-los, abraçá-los ou manter qualquer tipo de contato físico com seus ídolos.",
+      "5": "Precocidade e liberdade: mas em casa?",
+      "6": "A geração de pais que fez a revolução sexual está confusa [.",
+      "10": "Os adolescentes de hoje são filhos da geração que se casou no final da década de 1970 [quando] estavam em alta o relacionamento liberal, o sexo livre e a contestação à ordem social.",
+      "11": "É gente que deu liberdade aos filhos, mas não incluiu aí modelo de comportamento sexual.",
+      "16": "O mais surpreendente não é a idade em que acontece a iniciação, mas onde: na casa da família.",
+      "21": "O garoto dorme com a namorada e tem o apoio explícito dos pais e amigos.",
+      "22": "A menina [.",
+      "25": "] não corre o risco de ser espancada porque fez sexo fora do casamento.",
+      "26": "Ao contrário, para muitos pais é motivo de alívio saber que se trata de um namoradinho conhecido e sadio.",
+      "27": "Pais tranquilos?",
+      "28": "Mais honesto é dizer que se resignaram ao mal menor.",
+      "29": "\"A garotada encara a primeira vez como algo inevitável no desenvolvimento de qualquer pessoa\", diz a psiquiatra Carmita Abdo, coordenadora do Projeto Sexualidade, da Universidade de São Paulo.",
+      "30": "[Veja On-line] O tabu da virgindade hoje A revolução de costumes e valores pela qual o mundo passou ao fim dos anos 1960 retirou o caráter sagrado da virgindade.",
+      "31": "Mesmo assim, deixar de ser virgem ainda é uma questão íntima e delicada para muitos adolescentes de ambos os sexos.",
+      "32": "Os jovens, em geral, reconhecem que a virgindade é uma condição que depende apenas da escolha pessoal.",
+      "33": "A liberdade de costumes permite que eles deem início à vida amorosa no período do namoro.",
+      "34": "Por outro lado, ainda existem resquícios do velho código moral que convivem lado a lado com os mais recentes modismos.",
+      "35": "Iracema, a virgem dos lábios de mel, de José de Alencar.",
+      "36": "Como se sabe, Iracema é a virgem dos lábios de mel e tem os cabelos mais negros que as asas da graúna.",
+      "37": "A virgindade física de Iracema se sustenta pela sua posição religiosa na tribo, pois ela é a \"sacerdotisa de Tupã\".",
+      "38": "Sua extrema paixão pelo português Martim, entretanto, é mais forte que os valores tabajaras, que ela transgredirá: inundada de amor, dá a ele o licor de jurema, na verdade um alucinógeno que lhe permite entregar-se ao amado sem que este tenha consciência da transgressão.",
+      "39": "Iracema sabe que, depois da entrega, só lhe restará abandonar sua tribo e seus valores.",
+      "42": "[Expressões culturais no tempo e no espaço; Márcia Lígia Guidin, Pueri Domus Escolas Associadas, 2000]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Virgindade é sinal de juízo, porque a pessoa esta se guardando só para seu marido ou esposa que será o único(a) em sua vida.",
+    "1": "É         ate bom         ter pessoas no auge da fama que pensam assim, cantores teens que incentivam os adolescentes a se guardarem         ate o casamento         , isso ajuda         ter menos adolescentes grávidas e sem futuro, e ajuda a ter uma sociedade mais organizada do que a atual, com crianças tendo filhinhas de bonecas , e não de verdade."
+  },
+  "redacao_gerada": {
+    "0": "A preservação da virgindade, em pleno século XXI, ressuscita debates acerca de valores morais e pessoais, especialmente no contexto da juventude.",
+    "1": "Em uma sociedade marcada pela liberalidade e pelo acesso facilitado à informação, a escolha pela abstinência sexual até o casamento, antes vista como norma, agora é frequentemente vista como uma opção controversa, gerando divergências entre gerações e dentro das próprias comunidades juvenis.",
+    "2": "Nesse cenário, é imperativo analisar se a virgindade configura um valor moral a ser defendido, considerando tanto a sua importância para a construção de relacionamentos sólidos quanto os reflexos dessa decisão na formação individual.",
+    "3": "Assim, defende-se que a virgindade, enquanto escolha consciente e valor individual, merece ser respeitada e compreendida como um pilar para a autonomia e para a edificação de vínculos afetivos pautados na responsabilidade e no autoconhecimento, em contraposição a uma visão de sexualidade desprovida de reflexão.",
+    "4": "Em primeiro lugar, a filosofia, notadamente o pensamento socrático, já apontava para a importância do autoconhecimento e do domínio de si como preceitos para uma vida virtuosa.",
+    "5": "Sócrates, ao defender o \"conhece-te a ti mesmo\", instigava a reflexão sobre os próprios desejos e impulsos, buscando a sabedoria interior como guia das ações.",
+    "6": "Nesse sentido, a escolha pela preservação da virgindade pode ser interpretada como um exercício de autodomínio e de postergação da gratificação imediata em prol de um projeto de vida mais elaborado e consciente.",
+    "7": "Ao adiar a experiência sexual, o indivíduo tem a oportunidade de amadurecer emocionalmente, compreender melhor suas próprias expectativas em relação a relacionamentos e desenvolver uma maior capacidade de estabelecer conexões afetivas profundas e significativas, longe da superficialidade que, por vezes, acompanha a busca por satisfação instantânea.",
+    "8": "Ademais, a perspectiva sociológica revela como os valores morais são construções sociais dinâmicas, moldadas por contextos históricos e culturais.",
+    "9": "A \"revolução sexual\" dos anos 1960, por exemplo, reconfigurou a percepção sobre a sexualidade, promovendo uma maior liberdade de costumes.",
+    "10": "Contudo, essa mesma liberdade, quando desacompanhada de reflexão crítica e de um senso de responsabilidade, pode levar à banalização das relações e a uma busca incessante por novidades, sem a devida valorização do compromisso.",
+    "11": "Ao contrário, a opção pela virgindade, mesmo em tempos de tolerância e permissividade, pode sinalizar um desejo de resgatar um senso de valorização do sagrado e da intimidade, buscando construir relacionamentos que transcendam a mera satisfação física e se alicerçam em pilares de respeito mútuo, cumplicidade e projeto de vida compartilhado, como exemplificado pela opção consciente de alguns jovens de manterem-se castos até o casamento.",
+    "12": "Diante do exposto, é fundamental que a sociedade, por meio de instituições educacionais e familiares, promova um diálogo aberto e respeitoso sobre sexualidade e valores.",
+    "13": "O Ministério da Educação, em parceria com o Ministério da Saúde, deve implementar programas educativos nas escolas que abordem não apenas os aspectos biológicos e preventivos da sexualidade, mas também a dimensão ética e moral da escolha sexual, incentivando a reflexão crítica sobre os desejos e impulsos.",
+    "14": "Essa ação deve ocorrer por meio de palestras com especialistas em psicologia e sociologia, além da distribuição de materiais informativos que expliquem as diferentes perspectivas sobre o tema, visando formar cidadãos conscientes de suas escolhas e capazes de construir relacionamentos saudáveis e duradouros, respeitando a autonomia individual e a diversidade de valores."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "30",
+        "31",
+        "34"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "6",
+        "10",
+        "30",
+        "33",
+        "34"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": [
+        "31",
+        "32"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "32"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "32"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "7"
+      ],
+      "textos_motivadores": [
+        "33"
+      ]
+    },
+    "8": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "30",
+        "34"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "10",
+        "30"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "6",
+        "11"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": [
+        "0",
+        "2",
+        "3",
+        "34"
+      ]
+    },
+    "12": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "5",
+        "11",
+        "27"
+      ]
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "5",
+        "11",
+        "21",
+        "25"
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "5",
+        "11",
+        "21",
+        "26"
+      ]
+    }
+  }
+}

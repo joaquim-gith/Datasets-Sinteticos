@@ -1,0 +1,155 @@
+{
+  "tema": "deve-se-reduzir-a-maioridade-penal-no-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "Deve-se reduzir a maioridade penal no Brasil?",
+      "1": "Toda vez que um crime cometido por um menor de idade ganha evidência na mídia, cria-se uma comoção nacional e a polêmica envolvendo a maioridade penal vem à tona.",
+      "2": "Isso ocorreu recentemente, após um jovem prestes a completar 18 anos ter assassinado um universitário por causa de um celular, no início de abril, em São Paulo.",
+      "3": "Pesquisa Datafolha, uma semana depois do fato, revelou que 93% dos paulistanos eram favoráveis à redução da maioridade penal, uma vez que, no Brasil, os menores de 18 anos não respondem criminalmente por seus atos.",
+      "4": "Dezesseis anos é a idade mais cogitada para marcar esse limite.",
+      "5": "A principal alegação apresentada na defesa dessa mudança é o precoce amadurecimento do jovem, que hoje tem fácil acesso a informações e discernimento suficiente inclusive para votar.",
+      "6": "No entanto, os opositores dessa mudança alegam que outros casos surgirão com jovens (ou até crianças) com idades inferiores a essa, uma vez que as causas do problema não estariam sendo combatidas.",
+      "7": "Queremos saber qual é a sua opinião sobre esse assunto.",
+      "8": "Deve-se alterar a maioridade penal no Brasil?",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "93% a favor da redução Pesquisa Datafolha mostra que 93% dos moradores da capital paulista concordam com a diminuição da idade em que uma pessoa deve responder criminalmente por seus atos.",
+      "1": "Outros 6% são contra, e 1% não soube responder.",
+      "2": "Em consultas anteriores, em 2003 e 2006, a aprovação à medida pelos moradores da cidade foi de 83% e 88%, respectivamente -a margem de erro era de dois pontos.",
+      "3": "Sobre a idade a partir da qual um adolescente deveria passar a ser responsabilizado criminalmente, parte dos entrevistados, em respostas espontâneas (sem haver opções no questionário), defende que menores de 16 anos sejam enquadrados.",
+      "7": ") Um levantamento da Secretaria Especial de Direitos Humanos da Presidência da República em 53 países aponta que 42 adotam a maioridade penal a partir dos 18 anos.",
+      "8": "Entre os que responsabilizam mais jovens estão os EUA -a partir dos 12 anos, dependendo do Estado.",
+      "9": "O debate sobre a alteração na legislação voltou à tona depois do assassinato do universitário Victor Hugo Deppman, 19, mesmo sem ter reagido a um roubo de celular no último dia 9 em São Paulo.",
+      "10": "O suspeito pelo crime é um jovem que estava a três dias de fazer 18 anos.",
+      "11": "Ele foi detido e levado para a Fundação Casa (antiga Febem).",
+      "12": "Na avaliação de Paulino, a alta aprovação à redução da maioridade penal está dentro do contexto de violência praticada por um adolescente.",
+      "13": "O levantamento feito em 2003 também foi realizado pouco tempo depois da morte de um casal de namorados (Liana Friedenbach, 16, e Felipe Caffé, 19) por um jovem que na época tinha 16 anos - conhecido como Champinha.",
+      "14": "[ Folha de S.",
+      "15": "Paulo, 17 ] OAB: redução não resolve Brasília – O assassinato, na semana passada, do estudante Victor Hugo Deppman, de 19 anos, com um tiro disparado por um adolescente de 17 anos, em São Paulo, trouxe de volta ao debate a redução da maioridade penal, tema controverso sobre o qual a Ordem dos Advogados do Brasil (OAB) sempre se posicionou contrariamente.",
+      "16": "Segundo o presidente nacional da entidade, Marcus Vinicius Furtado, a criminalidade envolvendo crianças e adolescentes requer atenção especial das autoridades e de toda a sociedade, mas não se deve deixar que a comoção leve a caminhos que não irão resolver o problema, mas apenas agravá-lo.",
+      "17": "“Seria um retrocesso para o país, além de transformar o menino num delinquente sujeito à crueldade das prisões”, afirmou.",
+      "18": "“É a negação de tudo que podemos imaginar para o futuro”.",
+      "19": "Para Marcus Vinicius, a criminalidade e a violência entre os jovens precisam ser enfrentados a partir de um trabalho social muito forte.",
+      "20": "“Um pouco de dignidade já resolveria muita coisa”, disse, lembrando a falta de perspectiva que leva muitos adolescentes a buscar o caminho das drogas e da criminalidade.",
+      "24": ") [ Ordem dos Advogados do Brasil ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "Os atos de criminalidade tem  crescido muito nos últimos anos, atos esses em sua maioria praticados por menores de idade e é ai que vem a pergunta,  será que não está na hora de reduzir a maioridade penal no Brasil?",
+    "1": "Não pois reduzindo colocará os adolescentes desprotergidos  e a  margem de uma sociedade sem lei.",
+    "2": "Mas  se não reduzir  eles vão continuar fazendo os mesmos crimes?",
+    "3": "Se não tomarem providências em relação ao caráter deles, sim.",
+    "4": "O que deveria ser feito em relação isso  era cuidar do pscológico  , mostrar a eles a realidade das coisas, e coloca-ló  para prestar serviços comunitários junto a instituições que prezem o caráter de cada um.",
+    "5": "O Brasil está indo em  um caminho complicado, e que as futuras gerações estão nas nossas mãos, pois a redução da maioridade penal não é a alternativa para diminuir crimes cometidos por menores de idade e, fim  prezar pelo caráter de daqueles jovens que ainda tem  ."
+  },
+  "redacao_gerada": {
+    "0": "A discussão sobre a redução da maioridade penal no Brasil, que estabelece a idade mínima para que um indivíduo responda criminalmente por seus atos, é um tema recorrente e que gera intensos debates na sociedade.",
+    "1": "Frequentemente, casos de crimes cometidos por menores de 18 anos ganham destaque na mídia, reacendendo a polêmica e a pressão popular por mudanças na legislação.",
+    "2": "Essa comoção social, muitas vezes, ignora a complexidade do problema e foca em soluções punitivistas como única saída.",
+    "3": "Um dos argumentos centrais para a redução da maioridade penal é a ideia de que jovens, especialmente os mais próximos dos 18 anos, já possuem pleno discernimento sobre seus atos, equiparando-se aos adultos em termos de capacidade de julgamento.",
+    "4": "A facilidade de acesso à informação e a participação em processos democráticos, como o voto, são frequentemente citados como evidências desse amadurecimento precoce.",
+    "5": "Contudo, essa visão simplifica a questão, desconsiderando fatores socioeconômicos e psicológicos que influenciam o desenvolvimento humano.",
+    "6": "Por outro lado, opositores argumentam que a redução da maioridade penal não aborda as causas profundas da criminalidade juvenil, como a falta de oportunidades, educação precária e a ausência de políticas públicas eficazes de inclusão social.",
+    "7": "Eles defendem que o foco deveria ser na prevenção e na reeducação, em vez de simplesmente aumentar o rigor punitivo.",
+    "8": "Punir mais severamente um jovem que comete um ato infracional pode, na verdade, perpetuar o ciclo de violência, ao invés de oferecer caminhos para a ressocialização.",
+    "9": "Diante disso, é fundamental que o Estado promova investimentos robustos em educação, cultura e esporte nas comunidades mais vulneráveis, oferecendo alternativas concretas aos jovens em risco.",
+    "10": "Além disso, é preciso fortalecer os programas de acompanhamento psicossocial para adolescentes em conflito com a lei, garantindo que recebam o suporte necessário para se reintegrar à sociedade de forma produtiva.",
+    "11": "Essas medidas, em conjunto com a manutenção da maioridade penal atual, representam um caminho mais justo e eficaz para lidar com a criminalidade juvenil."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "9",
+        "15"
+      ]
+    },
+    "2": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "12",
+        "16"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "16",
+        "19",
+        "20"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "16",
+        "19",
+        "20"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "16",
+        "19"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "17",
+        "18"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "19",
+        "20"
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "19",
+        "20"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

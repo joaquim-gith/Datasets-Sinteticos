@@ -1,0 +1,463 @@
+{
+  "tema": "o-voto-nulo-e-um-ato-politico-valido",
+  "comando_tematico": {
+    "frases": {
+      "0": "O voto nulo é um ato político válido?",
+      "1": "No dia 12 de julho deste ano, o jornal Folha de S.",
+      "2": "Paulo formulou a seguinte pergunta: \"o voto nulo é um ato político válido\"?",
+      "3": "e apresentou as respostas, positiva e negativa, do ator e dramaturgo Hugo Possolo e do cientista político Bolívar Lamounier, respectivamente.",
+      "4": "A questão é muito pertinente devido não apenas à proximidade das eleições, mas também à onda de manifestações que percorre o país desde o ano passado.",
+      "5": "O voto nulo, historicamente, é considerado uma forma de protesto contra os rumos da política nacional.",
+      "6": "Leia as reflexões sobre o assunto , apresentadas a seguir, e desenvolva uma dissertação em que você exponha e defenda com argumentos a sua posição sobre o significado das eleições num regime democrático e sobre o uso do voto como forma de protesto.",
+      "7": "Considere ainda a foto que ilustra o tema e as informações fornecidas em sua legenda.",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O músico Carlinhos Brown, em campanha publicitária que convoca o cidadão a participar das eleições, para evitar um número elevado de ausências.",
+      "1": "O voto, no Brasil, é obrigatório, mas é fácil justificar a ausência e a multa pelo não cumprimento da obrigação é muito pequena.",
+      "2": "Voto nulo não corrige problemas Entendamo-nos, primeiro, quanto aos conceitos, uma vez que a pergunta comporta pelo menos duas interpretações bem distintas.",
+      "3": "No sentido legal e moral, a resposta só pode ser positiva; o voto nulo é tão válido como qualquer outro.",
+      "4": "O cidadão vota como quer; este é um princípio \"sine qua non\" da democracia.",
+      "5": "No regime democrático, por definição, inexistem instâncias com legitimidade para forçá-lo a escolher desta ou daquela forma.",
+      "6": "A questão que ora nos ocupa é portanto de ordem prática: qual é, em comparação com outras estratégias de protesto, a eficácia do voto nulo?",
+      "7": "Em que medida e sob que circunstâncias ele produz realmente o efeito desejado?",
+      "8": "É claro que em situações falsamente democráticas ou marcadamente ditatoriais o voto de protesto pode valer mais que a escolha substantiva.",
+      "12": ") A questão a considerar é, pois, o objetivo dos proponentes do voto nulo.",
+      "13": "Protestar contra o quê, exatamente?",
+      "14": "Uma razão amiúde invocada para o protesto é o desgaste das instituições, nos três ramos do governo.",
+      "15": "O desgaste de fato existe e se deve a uma infinidade de razões.",
+      "16": "O Congresso atual alterna momentos de omissão, de anarquia e de subserviência ao Executivo, desservindo o interesse público nos três casos.",
+      "17": "Episódios de corrupção multiplicam-se nos três Poderes, numa sucessão interminável.",
+      "18": "É um estado de coisas lastimável, mas a contribuição do voto nulo à correção dele é rigorosamente zero.",
+      "19": "Neste caso, nada há na anulação que se possa chamar de público --ou seja, de político, no melhor sentido da palavra.",
+      "20": "Nas condições do momento, ele apenas exprime um mal-estar subjetivo, difuso, de caráter individual.",
+      "21": "Qualquer que seja seu peso nos números finais da eleição, ele será apenas uma soma desses mal-estares e da apatia que deles decorre.",
+      "22": "[ Folha de S.",
+      "23": "Paulo , 12 ] Alternativa de protesto Não concordo com o sistema de representação política do Brasil.",
+      "24": "Que faço?",
+      "25": "Visto uma camisa encobrindo a cara e quebro alguma loja?",
+      "26": "Ou pago uma grana para ir a um estádio para xingar a presidente?",
+      "27": "Minha alternativa de protesto é o voto nulo.",
+      "28": "Não garanto que seja um gesto mais civilizado que as opções anteriores, mas certamente combina com minha preguiça de partir para violência física e com meu apego cômico de não desperdiçar palavrões.",
+      "29": "Na hora de divulgar os resultados, reais ou de pesquisas, a imprensa costuma somar os votos nulos e brancos.",
+      "30": "O significado dos dois é diferente.",
+      "31": "O voto nulo é, em princípio, um protesto, inclusive contra o próprio processo eleitoral.",
+      "32": "Já o voto branco diz que o eleitor concorda com a decisão da maioria.",
+      "36": ") Votar nulo não se trata de atacar o governo ou a oposição, mas o sistema político inteiro, dizendo não à promiscuidade partidária que confunde o eleitor com essa miscelânea de acordos nacionais e regionais que querem reduzir a cidadania a uma negociata por horários na TV.",
+      "37": "Quem defende o voto nulo não tem espaço no horário nobre para se manifestar.",
+      "38": "Isso é democracia?",
+      "39": "Basta dar um Google para ver que a Constituição de 88 está remendada, e não é preciso ser muito esperto para saber que os políticos jamais farão uma reforma política que altere as regras de um jogo no qual somente eles estão se dando bem.",
+      "40": "Qual a maneira de contestar?",
+      "41": "Votar nulo!",
+      "42": "Sempre que defendo o voto nulo, ouço aquela ladainha do fantasma da ditadura que pode voltar e a fatal pergunta do que teria a ganhar anulando meu voto.",
+      "43": "Bem sei que não quero nenhuma ditadura, mas também sei que essa democracia que aí está não me representa.",
+      "44": "[ Folha de S.",
+      "45": "Paulo , 12 ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Em alguns meses, estaremos enfrentando as urnas novamente para escolher alguns de nossos representantes para o país , que não é uma tarefa muito fácil.",
+    "1": "Nesse  ano de eleições  podemos observar que as pessoas estão com uma visão diferente, que esperam que aconteça uma verdadeira mudança na nossa politica  .",
+    "2": "Acompanhamos uma serie  de protestos no Brasil inteiro, querendo um basta em toda corrupção e em falsas promessas.",
+    "3": "Mas, será que é através de protestos nas ruas que iremos conseguir alguma mudança?",
+    "4": "A arma principal para isso acontecer é  as urnas, é nosso voto.",
+    "5": "Onde  teremos o poder nas nossas mãos para decidirmos o futuro do nosso país, essa  sim é a melhor forma de protestar com consciência e dignidade.",
+    "6": "A hora de protestar é agora, então não desperdice seu voto.",
+    "7": "Votando nulo  você se mostrara  que não está satisfeito com a situação, mas também não apresentara  nenhuma forma de solucionar o problema e estará \"jogando fora\" um de seus maiores diretos.",
+    "8": "Portanto, pense na consequência e no peso de seu voto para o nosso país, não  basta apresentar apenas os problemas e as falhas, você também pode ajudar a resolver todos eles.",
+    "9": "Vote consciente."
+  },
+  "redacao_gerada": {
+    "0": "O voto nulo é uma coisa muito importante na política.",
+    "1": "Muita gente vota nulo porque não gosta dos candidatos ou do governo.",
+    "2": "Isso é um direito que a gente tem.",
+    "3": "Na democracia, as pessoas podem escolher o que fazer, e votar nulo é uma escolha.",
+    "4": "É válido porque mostra que as pessoas não estão satisfeitas com a situação atual.",
+    "5": "Se as pessoas não gostam, elas podem votar em branco ou nulo.",
+    "6": "Isso é importante para o país.",
+    "7": "Muita gente fala que o voto nulo não adianta nada, mas eu acho que sim.",
+    "8": "Ele mostra para os políticos que eles precisam fazer melhor.",
+    "9": "Se todo mundo votar nulo, eles vão ter que mudar alguma coisa.",
+    "10": "A política é feita para as pessoas, então as pessoas têm que ter voz.",
+    "11": "Votar nulo é uma forma de dar voz.",
+    "12": "Se os políticos não escutam, a gente vota nulo para eles verem.",
+    "13": "É uma forma de protesto que não faz mal a ninguém.",
+    "14": "No final das contas, é uma decisão pessoal de cada um.",
+    "15": "Se eu não quero votar em ninguém, eu não voto.",
+    "16": "Isso é democracia pura.",
+    "17": "O voto nulo não é só um número, é um grito.",
+    "18": "Um grito que diz que as coisas precisam ser diferentes.",
+    "19": "Os políticos deveriam prestar mais atenção nisso.",
+    "20": "É um ato político válido sim.",
+    "21": "Porque mostra a vontade do povo.",
+    "22": "Se o povo não quer os candidatos, eles não ganham.",
+    "23": "Se eles não ganham, eles aprendem.",
+    "24": "Ou deveriam aprender.",
+    "25": "É assim que a gente muda as coisas.",
+    "26": "Votando nulo a gente mostra que não tá contente.",
+    "27": "E isso é muito forte.",
+    "28": "Assim a gente faz a política melhorar.",
+    "29": "Porque o voto é nosso.",
+    "30": "E a gente decide o que fazer com ele.",
+    "31": "Se votar nulo, tá tudo bem.",
+    "32": "É um direito nosso.",
+    "33": "E um ato político.",
+    "34": "Que mostra a insatisfação geral.",
+    "35": "E força os políticos a se mexerem.",
+    "36": "Se não, a gente vota nulo de novo.",
+    "37": "Até eles entenderem.",
+    "38": "É assim que funciona."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        5
+      ],
+      "textos_motivadores": [
+        13,
+        14,
+        20
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        3,
+        4,
+        5
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        4,
+        5
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        6,
+        7,
+        12,
+        13,
+        20,
+        31
+      ]
+    },
+    "5": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        2,
+        30,
+        31
+      ]
+    },
+    "6": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        6,
+        18
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        7,
+        18
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        7,
+        18,
+        39,
+        41
+      ]
+    },
+    "10": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        38,
+        39
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        31,
+        36,
+        41
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        7,
+        18,
+        39,
+        41
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        0,
+        5
+      ],
+      "textos_motivadores": [
+        25,
+        27,
+        28,
+        31
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        3,
+        4
+      ]
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        3,
+        4,
+        24
+      ]
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        43
+      ]
+    },
+    "17": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        31
+      ]
+    },
+    "18": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        13,
+        14,
+        31,
+        36,
+        39,
+        43
+      ]
+    },
+    "19": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        39
+      ]
+    },
+    "20": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "21": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        3,
+        5,
+        31,
+        41
+      ]
+    },
+    "22": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        7,
+        18,
+        39
+      ]
+    },
+    "23": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        7,
+        18,
+        39
+      ]
+    },
+    "24": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        7,
+        18,
+        39
+      ]
+    },
+    "25": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        39,
+        41
+      ]
+    },
+    "26": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        6,
+        13,
+        20,
+        31
+      ]
+    },
+    "27": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        7,
+        13,
+        31
+      ]
+    },
+    "28": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        18,
+        39,
+        41
+      ]
+    },
+    "29": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        3,
+        5,
+        39
+      ]
+    },
+    "30": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        3,
+        4,
+        5
+      ]
+    },
+    "31": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "32": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        3,
+        4,
+        5
+      ]
+    },
+    "33": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": null
+    },
+    "34": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        6,
+        13,
+        20,
+        31
+      ]
+    },
+    "35": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        7,
+        18,
+        39,
+        41
+      ]
+    },
+    "36": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        7,
+        18,
+        39,
+        41
+      ]
+    },
+    "37": {
+      "comando_tematico": [
+        0
+      ],
+      "textos_motivadores": [
+        7,
+        18,
+        39
+      ]
+    },
+    "38": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "tema": "qual-o-papel-da-mulher-na-sociedade-brasileira-atual",
+  "comando_tematico": {
+    "frases": {
+      "0": "Qual o papel da mulher na sociedade brasileira atual?",
+      "1": "Dilma Rousseff elegeu-se Presidente da República, cargo ocupado pela primeira vez por uma mulher no Brasil.",
+      "2": "Isso é um marco na história democrática do país e na da luta feminina por igualdade social.",
+      "3": "A eleição presidencial de 2010 contou também com outro fato significativo no que se refere à participação feminina na política: o índice de aprovação de Marina Silva.",
+      "4": "Mas as mulheres não conquistaram posição apenas na política.",
+      "5": "Elas estão dirigindo empresas, ocupam espaço de destaque no telejornalismo e começam a aparecer até nos mais fechados redutos masculinos.",
+      "6": "O Flamengo, por exemplo, clube conhecido pela tradição do seu futebol, dono de uma das maiores torcidas do Brasil, é agora presidido por uma mulher.",
+      "7": "O que essas conquistas revelam sobre as relações sociais entre homens e mulheres?",
+      "8": "Discuta a situação social da mulher no Brasil de hoje, em uma dissertação argumentativa em prosa.",
+      "9": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Mulher na política brasileira As desigualdades de gênero possuem raízes profundas na história do Brasil.",
+      "1": "Porém, as mulheres brasileiras já conseguiram reverter diversas situações desfavoráveis em diferentes áreas, menos nos espaços de poder.",
+      "2": "A primeira experiência de políticas de cotas para aumentar a presença da mulher brasileira na política aconteceu logo após a IV Conferência Mundial de Mulheres, ocorrida em Beijing, em 1995.",
+      "3": "Ainda no mês de setembro, o Congresso Nacional aprovou a Lei 9.",
+      "4": "100, de 1995, na qual, em seu § 3º do artigo 11º, se estabeleceu o seguinte: \"Vinte por cento, no mínimo, das vagas de cada partido ou coligação deverão ser preenchidas por candidaturas de mulheres\".",
+      "5": "Esta redação deu margem ao questionamento sobre a inconstitucionalidade do artigo, pois estabeleceu um tratamento diferenciado para o sexo feminino.",
+      "6": "Realmente, a forma como estava redigida a política de cotas expressa uma visão focalizada e não universalista da representação de gênero.",
+      "7": "Dois anos depois desta primeira formulação, o Congresso Nacional aprovou a Lei 9.",
+      "8": "504, de 30 de setembro de 1997, sendo que o parágrafo terceiro do artigo 10º desta Lei ficou assim redigido: \"Do número de vagas resultantes das regras previstas neste artigo, cada partido ou coligação deverá reservar o mínimo de trinta por cento e o máximo de setenta por cento para candidaturas de cada sexo\".",
+      "9": "Esta nova formulação abandonou a política focalizada e assumiu uma concepção universalista, evitando questionamentos sobre a constitucionalidade da lei, já que se estabeleceu a mesma regra de representação para os dois sexos.",
+      "10": "Ou seja, homens e mulheres são iguais perante a lei (de cotas), sendo que o Congresso Nacional apenas formalizou uma regra de representação que garante um mínimo e um máximo de vagas para cada sexo nas listagens partidárias em cada pleito.",
+      "11": "[ José Eustáquio Diniz Alves.",
+      "12": "A lei de cotas e as mulheres na política em 2010 ] A primeira presidente da República [Fábio R Pozzebon ] Algumas conquistas femininas no Brasil e no mundo 1827 - Surgiu a primeira lei sobre educação das mulheres, permitindo que frequentassem as escolas elementares.",
+      "13": "Instituições de ensino mais adiantado ainda eram proibidas a elas.",
+      "14": "1879 - As mulheres têm autorização do governo para estudar em instituições de ensino superior; mas as que seguiam este caminho eram criticadas pela sociedade.",
+      "15": "1932 - Getúlio Vargas promulga o novo Código Eleitoral, garantindo finalmente o direito de voto às mulheres brasileiras.",
+      "16": "1945 - A igualdade de direitos entre homens e mulheres é reconhecida em documento internacional, através da Carta das Nações Unidas.",
+      "17": "1951 - Aprovada pela Organização Internacional do Trabalho a igualdade de remuneração entre trabalho masculino e feminino para função igual.",
+      "18": "1985 - Surge a primeira Delegacia de Atendimento Especializado à Mulher - DEAM (SP) e muitas são implantadas em outros estados brasileiros.",
+      "19": "Ainda neste ano, com a Nova República, a Câmara dos Deputados aprova o Projeto de Lei que criou o Conselho.",
+      "20": "1996 - A escritora Nélida Piñon é a primeira mulher a ocupar a presidência da Academia Brasileira de Letras.",
+      "21": "Exerce o cargo até 1997 e é membro da ABL desde 1990.",
+      "22": "Super-Homem, a Canção Um dia vivi a ilusão de que ser homem bastaria Que o mundo masculino tudo me daria Do que eu quisesse ter Que nada, minha porção mulher que até então se resguardara É a porção melhor que trago em mim agora É o que me faz viver Quem dera pudesse todo homem compreender, ó mãe, quem dera Ser o verão no apogeu da primavera E só por ela ser Quem sabe o super-homem venha nos restituir a glória Mudando como um deus o curso da história Por causa da mulher [ Gilberto Gil ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Desde os tempos antigos, a mulher sempre foi vista como um ser sem valor na sociedade.",
+    "1": "Nas civilizações mais antigas como da Grécia, Roma e Mesopotâmia o seu valor era o de procriar.",
+    "2": "Em Esparta - cidade de potência militar da Grécia antiga - por exemplo, a mulher era importante na procriação de guerreiros, e se por acaso todos os filhos de certa mulher fossem meninas, esta de nada servia para a sociedade.",
+    "3": "Para alguns religiosos a mulher, foi  a que “condenou o mundo ao pecado” comendo do fruto proibido, expulsando assim a criação divina, homem e mulher, do paraíso  .",
+    "4": "Culturalmente, em todas as sociedades do mundo, a mulher sempre foi inferior ao homem e o “sexo mais frágil”.",
+    "5": "Porém, a história hoje é outra.",
+    "6": "A mulher com o decorrer dos séculos foi conquistando seu espaço na sociedade e percebendo o seu valor e a sua capacidade.",
+    "7": "Ora, para a inteligência e capacidade, não existe sexo.",
+    "8": "Todos somos iguais, capazes e inteligentes de  realizar algo.",
+    "9": "E é isso que as mulheres, e especialmente as mulheres brasileiras, vem  alcançando na sociedade - a igualdade.",
+    "10": "Foi um marco para a história brasileira ter a primeira presidente, Dilma Rousseff.",
+    "11": "E por Marina Silva ser uma dos favoritos à presidência também.",
+    "12": "Isso demonstra que o estereótipo feito da mulher esta  se acabando em nossa sociedade.",
+    "13": "Hoje a mulher vem assumindo um papel muito importante          na política e em demais setores da indústria brasileira.",
+    "14": "A mulher brasileira vem se expondo mais e, consequentemente, têm  um papel mais forte na sociedade.",
+    "15": "Ela esta  na presidência de grandes empresas, na bolsa de valores, na política, na área científica, e em diversos ramos da indústria.",
+    "16": "A mulher vem investindo na economia, liderando grandes setores da indústria e participando em pesquisas cientificas.",
+    "17": "A mulher brasileira é peça fundamental na sociedade e não mais vista como se só servisse para o lar.",
+    "18": "Hoje ela não só é mãe e cuida dos afazeres do lar, como também é médica, cientista, engenheira, jornalista, escritora, arqueóloga, astróloga, entre outras profissões que décadas atrás eram exercidas somente por homens .",
+    "19": "A sociedade machista de décadas atrás esta se dissolvendo, e outras idéias estão surgindo.",
+    "20": "Na sociedade brasileira, não é mais o homem que vem sustentando o lar financeiramente , mas a mulher também vem contribuindo.",
+    "21": "Podemos assim dizer, que o papel da mulher na sociedade igualou os sexos, a mulher não é mais o ser inferior “do sexo frágil”.",
+    "22": "Hoje ela compete igualmente na sociedade com o homem.",
+    "23": "Ela  quem traz o sustento do lar e toma as decisões.",
+    "24": "A sociedade brasileira vem mudando com estes avanços da mulher, e o papel da mulher tem sido importante para esta mudança."
+  },
+  "redacao_gerada": {
+    "0": "O papel da mulher na sociedade é muito importante.",
+    "1": "Elas fazem muitas coisas no dia a dia e ajudam em casa e no trabalho.",
+    "2": "Antigamente as mulheres não podiam fazer muita coisa, mas hoje em dia elas podem trabalhar e estudar mais.",
+    "3": "Só que ainda tem gente que pensa que a mulher tem que ficar em casa cuidando dos filhos e da casa, isso é muito errado.",
+    "4": "As mulheres hoje em dia trabalham em vários lugares, como escritórios e hospitais.",
+    "5": "Elas também são presidentes de empresas e até de times de futebol.",
+    "6": "Isso mostra que elas são capazes de fazer qualquer coisa que um homem faz.",
+    "7": "Mas mesmo assim, muitas mulheres ainda ganham menos que os homens pelo mesmo trabalho, o que não é justo.",
+    "8": "É preciso que as pessoas parem de pensar que mulher é só para cuidar da casa.",
+    "9": "Elas têm o direito de escolher o que querem fazer da vida.",
+    "10": "Se uma mulher quer ser médica, ela pode.",
+    "11": "Se ela quer ser engenheira, ela pode também.",
+    "12": "A sociedade tem que respeitar as escolhas delas.",
+    "13": "Para melhorar isso, o governo podia fazer mais coisas para ajudar as mulheres.",
+    "14": "Talvez criar mais creches para as crianças, para as mães poderem trabalhar.",
+    "15": "E também punir quem discriminar as mulheres no trabalho.",
+    "16": "Assim, tudo ficaria melhor para todo mundo."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": [
+        "12",
+        "13",
+        "14"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "5",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "5",
+        "6",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "7",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": [
+        "0",
+        "17"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "7",
+        "8"
+      ],
+      "textos_motivadores": null
+    },
+    "13": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "2",
+        "3",
+        "4",
+        "7",
+        "8"
+      ]
+    },
+    "14": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "15": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "16": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

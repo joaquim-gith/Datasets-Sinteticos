@@ -1,0 +1,143 @@
+{
+  "tema": "lixo-questao-de-cidadania-e-responsabilidade-social",
+  "comando_tematico": {
+    "frases": {
+      "0": "Lixo: questão de cidadania e responsabilidade social A excessiva produção de lixo continua sendo um grave problema vivido por nossa sociedade e sua tradição consumista.",
+      "1": "São toneladas de restos de plásticos, papéis, vidros, detritos orgânicos e uma infinidade de materiais que saem de nossas casas, lojas e fábricas todos os dias.",
+      "2": "O cidadão que fabrica esse lixo diário e que, muitas vezes, não o separa nem o encaminha para postos de coleta, sabe onde será despejado?",
+      "3": "Conhece a realidade dos catadores de lixo, pessoas que vivem do desperdício dos outros?",
+      "4": "Alguns documentários, como Estamira (2004) e Lixo Extraordinário, que concorreu ao Oscar em 2011, revelam, além da miséria em que vivem essas comunidades, sua força e dignidade dos sobreviventes.",
+      "5": "A questão que se coloca, com urgência, é buscar alternativas para lidar com o lixo e com todo o sistema que se construiu a partir dele.",
+      "6": "Na sua opinião, qual é a responsabilidade do cidadão diante desse cenário social?"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "1": "Leia as redações avaliadas Elabore uma dissertação considerando as ideias a seguir: A destinação do lixo coletado nas grandes cidades tem-se tornado um problema no que diz respeito ao impacto ambiental.",
+      "2": "Cidadania sf.",
+      "4": "Condição de cidadão, com seus direitos e obrigações.",
+      "6": "Conjunto dos direitos civis, políticos e sociais dos cidadãos, ou dos mecanismos para o estabelecimento e garantia desses direitos.",
+      "12": "ext.",
+      "13": "Exercício consciente da condição de cidadão; atuação na sociedade, em defesa da ampliação e fortalecimento da cidadania.",
+      "14": "[ Dicionário Aulete ] Um a cada quatro sacos de lixo vai para local impróprio Problema ambiental com resíduos ainda é crônico no Estado mais rico do país.",
+      "15": "Dados são de associação de empresas coletoras de lixo; agência estatal paulista vê avanço na destinação dos detritos.",
+      "16": "Enquanto as discussões mais avançadas sobre a destinação do lixo se concentram na reciclagem, São Paulo, o Estado mais rico do país, ainda é obrigado a lidar com um problema bem mais arcaico: os lixões a céu aberto.",
+      "17": "De cada quatro sacos de lixo residencial coletados pelos serviços oficiais, um vai parar em local inadequado, segundo dados da Abrelpe (Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais).",
+      "18": "Além dos lixões, vários aterros precários espalhados pelo Estado contaminam o ambiente e são fonte de risco à saúde da população.",
+      "19": "São 11.",
+      "20": "800 toneladas de resíduos ao dia que não recebem o tratamento devido, diz o estudo da associação.",
+      "21": "O valor representa 24,9% das 49.",
+      "22": "323 toneladas coletadas todos os dias nas residências.",
+      "23": "\"Existem problemas graves inclusive na Grande São Paulo\", afirma Carlos Silva, diretor-executivo da instituição, que reúne várias empresas do setor de limpeza.",
+      "24": "[ Folha de S.",
+      "25": "Paulo ] \"Lixo Extraordinário\" é tão mega quanto Vik Longa indicado ao Oscar usa artifícios do artista e revela mecanismos de valor por trás da arte contemporânea.",
+      "26": "Está registrado em \"Lixo Extraordinário\".",
+      "27": "No momento do documentário em que ele se encontra pela primeira vez com Sebastião Carlos dos Santos, o Tião, Vik Muniz não faz rodeios sobre quem é.",
+      "28": "\"Eu sou o artista brasileiro que mais vende, talvez a pessoa mais em voga no exterior\", diz o artista plástico.",
+      "29": "Tião, líder agora célebre da associação de catadores do Jardim Gramacho, no Rio, responde: \"Parabéns, cara\".",
+      "30": "E a conversa segue para estabelecer detalhes dos planos de Muniz para os trabalhadores desse que é o maior aterro sanitário do mundo, a saga que está contada no filme indicado ao Oscar de melhor documentário do ano.",
+      "34": "] Ele deixa seu estúdio em Nova York e embarca numa missão impossível de \"ajudar aquelas pessoas\", \"viciados em drogas que vivem no fim da linha, para onde tudo que não é bom acaba indo\".",
+      "38": "] Mostra como uma grife que é Vik Muniz consegue atenção mundial para uma catástrofe urbanística ao mesmo tempo em que se valoriza em leilões e vira a coqueluche de colecionadores.",
+      "39": "Estabelece uma rota conhecida do seu protagonista como caminho possível, o sonho americano, a receita para transformar lixo em luxo.",
+      "40": "[ Folha de S.",
+      "41": "Paulo ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "Devido ao aumento da população das grandes cidades e com o aumento do consumo de produtos, a quantidade de lixo também tem aumentado .",
+    "1": "Os aterros e lixões quase que não estão suportando mais a quantidade de resíduos sólidos.",
+    "2": "O cidadão, tem  toda responsabilidade com as consequências do meio social, político e econômico em que convive, portanto não por acaso que temos grandes problemas com o lixo em nosso mundo.",
+    "3": "Por consequências que deixamos de lado achando que esse problema irá se resolver sozinho.",
+    "4": "Necessitamos de conscientização por parte da população.",
+    "5": "Devemos pensar em infinitas possibilidades para dar um fim útil ao lixo, porém só temos uma solução a reciclagem, que em algumas partes do país já estão sendo exercidas,  mas é em          penas proporções o que não resolve o problema por completo.",
+    "6": "A varias publicidades  sobre o destino correto do lixo, mas nada que resolva.",
+    "7": "Ha  muito tempo existem pessoas que sobrevivem do lixo, que muitos acham que não tem utilidade.",
+    "8": "O acumulo  de lixo em esgoto pode causar enchentes, diminui a vazão de água.",
+    "9": "Fora os que ficam espalhados pelas ruas causando odor e péssima visão de infraestrutura e causar doença.",
+    "10": "Mas,a  também projetos que andam mudando, a  renda familiar de pessoas pobre  que catam material reciclável das ruas.",
+    "11": "E mudando o conceito da sociedade sobre jogar lixo no lixo, fazer a separação dos resíduos recicláveis dos orgânicos, para facilitar as coletas.",
+    "12": "No entanto, a solução mais adequada seria a reciclagem, e buscar viver de uma forma mais ecológica para diminuir a degradação do meio ambiente como por exemplo reutilizar os papéis usados."
+  },
+  "redacao_gerada": {
+    "0": "O lixo é um problema muito grande na sociedade hoje em dia, principalmente por causa das coisas que as pessoas compram e jogam fora.",
+    "1": "Todo dia produzimos muita coisa que vira lixo, como embalagens, restos de comida e outros materiais que vão para os aterros.",
+    "2": "Muitas vezes, as pessoas não separam o lixo e nem sabem para onde ele vai depois que sai de casa, o que é uma falta de responsabilidade com o meio ambiente e com os outros.",
+    "3": "É importante pensar que existem pessoas que trabalham com o lixo, como os catadores, que precisam desse material para sobreviver.",
+    "4": "Esses trabalhadores merecem mais respeito e condições melhores de trabalho, pois eles ajudam a diminuir o problema do lixo.",
+    "5": "A gente precisa fazer alguma coisa para melhorar essa situação, como separar o lixo para reciclagem e usar menos coisas que viram lixo.",
+    "6": "O governo também tem que ajudar, criando mais lixeiras e lugares para recolher o lixo direito, e as pessoas precisam entender que cuidar do lixo é uma forma de mostrar que se importa com a cidade e com o futuro.",
+    "7": "Se cada um fizer sua parte, a cidade fica mais limpa e todo mundo vive melhor."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "1",
+        "19"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "14",
+        "17"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": [
+        "25",
+        "29",
+        "30",
+        "34"
+      ]
+    },
+    "4": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "30",
+        "34"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "2",
+        "4",
+        "6",
+        "13"
+      ]
+    },
+    "7": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "13"
+      ]
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "tema": "o-que-voce-acha-do-ensino-nas-escolas-do-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "O que você acha do ensino nas escolas do Brasil?",
+      "1": "Políticos, educadores, professores, pesquisadores e alunos têm falado muito sobre a qualidade da aprendizagem nas escolas e faculdades do país.",
+      "2": "Muitos pais estão satisfeitos; os alunos falam bem ou mal de suas aulas (o que sempre aconteceu); professores reclamam dos salários, mas, em geral, se consideram aptos para ensinar; os governos anunciam incansáveis medidas para a melhoria do ensino.",
+      "3": "Entretanto, se há situações de excelente formação Brasil afora, o país tem ocupado posições muito baixas nos rankings mundiais de ensino e aprendizagem.",
+      "4": "Você, que já foi à escola e que vai para a universidade ou já foi: o que acha educação no Brasil?",
+      "5": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Pais e professores estão satisfeitos \"De modo geral, [.",
+      "3": "] os pais brasileiros não se envolvem como deveriam na vida escolar dos filhos.",
+      "4": "Os mais pobres dão graças aos céus pelo fato de a escola fornecer merenda, segurança e livros didáticos gratuitos.",
+      "5": "Os de classe média se animam com as quadras esportivas, a limpeza e [.",
+      "8": "] exigências [.",
+      "11": "] calibradas 'para não forçar o ritmo dos menos capazes'.",
+      "12": "Para 89% dos pais com filhos em escolas particulares, o dinheiro é bem gasto e tem bom retorno.",
+      "13": "No outro campo, 90% dos professores se consideram bem preparados para a tarefa de ensinar.",
+      "14": "\" [Monica Weinberg e Camila Pereira.",
+      "15": "Veja, 20 de agosto, 2008,.",
+      "16": "72] Constatação jornalística A educação vai bem, obrigado.",
+      "19": "\"Já estou um pouco cansada de responsabilizar apenas os sistemas pelos problemas de uma sociedade.",
+      "24": "Não sou professora, mas se fosse não gostaria de ser culpada pela existência de alunos como este (acima).",
+      "25": "Já disse uma vez nesse blog e repito: nenhum sistema educacional e nenhum professor pode fazer pelo aluno algo que cabe só a ele: estudar [Arthemísia 3 ; http: ] O que dizem outras pesquisas \"O Brasil está em 52º lugar em ciências e em 53º em matemática - em uma lista de 57 países.",
+      "26": "E 60% dos estudantes chegam ao fim da 8ª série sem saber interpretar um texto ou efetuar operações matemáticas simples\" [Inep e OCDE, agosto ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa mediana/fraca (padrão ENEM nota 450-650) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Apresente argumentos superficiais baseados no senso comum e vocabulário muito simples. Priorize estrutura expositiva em vez de argumentação densa. Insira propositalmente desvios gramaticais recorrentes e alguns erros graves de concordância, pontuação, regência e acentuação.",
+  "redacao_original": {
+    "0": "O Brasil é um país de muitos contrastes, isso é irrefutável.",
+    "1": "Na fauna, na geografia, na sociedade?",
+    "2": "Mas também na educação.",
+    "3": "Muitos dos profissionais brasileiros mundo afora são preparadíssimos, muito inteligentes e competentes.",
+    "4": "O estranho é que esse quadro não se repete aqui, no berço deles.",
+    "5": "Não deveria ser assim, pois afinal, se existem profissionais competentes, os alunos deveriam o ser também .",
+    "6": "Porém, isso não ocorre.",
+    "7": "Nessas horas é inevitável a pergunta: de quem é a culpa?",
+    "8": "Bom, todos têm responsabilidade nesse quadro trágico que os rankings mundiais de educação apresentam.",
+    "9": "Os professores , que, por falta de um salário decente nas escolas públicas, ficam desestimulados a ensinar corretamente, o Governo , que não investe suficientemente em escolas e educação de qualidade.",
+    "10": "Os pais , que às vezes nem sequer querem saber como foi o dia do seu filho na escola, e, finalmente, dos alunos , que não se esforçam e não pensam no futuro, e quando vivem em áreas carentes, pior ainda, podem ir para o mundo do tráfico ou para o mercado de trabalho cedo demais.",
+    "11": "Sim, esse é o Brasil, esse é o mesmo país do início da redação, o mesmo que tem profissionais competentes e preparados.",
+    "12": "Essa situação está se agravando, pois todos elementos que fazem parte do quadro são culpados pela ineficácia do sistema, fechando um círculo vicioso.",
+    "13": "Talvez, a única solução para isso seja aquela bem \"clichê\", que todos conhecem mas ninguém se move para mudar: estimular uma ação conjunta de todos os que fazem parte disso, para mudar mesmo.",
+    "14": "Afinal, a educação é direta ou indiretamente a solução da maioria dos problemas no Brasil, fazer isso seria matar muitos coelhos numa cajadada só.",
+    "15": "Infelizmente, não é tão fácil quanto falar, já que é necessário que um movimento desses fosse unânime para todos."
+  },
+  "redacao_gerada": {
+    "0": "Na minha opinião, o ensino nas escolas do Brasil é meio complicado.",
+    "1": "A gente sabe que tem gente que estuda e aprende bastante, mas também tem muita escola que não ensina direito.",
+    "2": "Os professores às vezes reclamam que o salário é baixo, e isso pode afetar o jeito que eles ensinam, né.",
+    "3": "Além disso, os alunos nem sempre se dedicam o suficiente, e aí fica difícil para a escola resolver tudo sozinha."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "3"
+      ],
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": [
+        "13"
+      ]
+    },
+    "3": {
+      "comando_tematico": null,
+      "textos_motivadores": [
+        "19",
+        "24",
+        "25"
+      ]
+    }
+  }
+}

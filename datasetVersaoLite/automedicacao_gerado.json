@@ -1,0 +1,176 @@
+{
+  "tema": "automedicacao-por-que-a-pratica-e-tao-comum-entre-os-jovens",
+  "comando_tematico": {
+    "frases": {
+      "0": "Automedicação: por que a prática é tão comum entre os jovens?",
+      "1": "Uma pesquisa do ICTQ (Instituto de Ciência Tecnologia e Qualidade), feita em 12 capitais do país, mostrou que a automedicação é praticada por 76,4% dos brasileiros, a maioria dos quais (90,1%) jovens entre 16 e 24 anos.",
+      "2": "Além disso a pesquisa apontou ainda que quase um terço (32%) dos brasileiros que se automedicam costuma aumentar a dose do remédio por conta própria, sem orientação do médico ou do farmacêutico.",
+      "3": "Leia a seguir trechos de dois artigos sobre o tema e, considerando as posições neles apresentadas, redija uma dissertação, expondo sua posição sobre o assunto: você costuma se automedicar?",
+      "4": "Sim ou não e por quê?",
+      "5": "Com qual dos dois textos você tende a concordar?",
+      "6": "A partir de suas considerações pessoais, é possível explicar por que a automedicação é tão comum entre os jovens?",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Comprimidos também podem virar um objeto de desejo ou o consumidor sabe o que ingere?",
+      "1": "Fenômeno desejável, dentro de limites Antes de demonizar a automedicação e pintá-la como grande vilã da saúde pública, deve-se ter em mente que, dentro de certos limites, ela é um fenômeno desejável.",
+      "2": "A OMS, por exemplo, a descreve como “necessária” e com função complementar a todo sistema de saúde.",
+      "3": "O importante aqui é não perder de vista a totalidade do espaço amostral.",
+      "4": "Se olharmos só para as intoxicações involuntárias e óbitos daí decorrentes, fica mesmo parecendo que a automedicação é um mal a eliminar.",
+      "5": "Mas é preciso considerar também que a esmagadora maioria das doenças que afetam a população é autolimitada, não requerendo mais do que o alívio dos sintomas.",
+      "6": "Fazer com que a legião de pessoas que são diariamente acometidas por quadros virais menores e dores de cabeça benignas passe por um médico antes de ter acesso a um analgésico levaria os já saturados sistemas público e privado de atendimento ao colapso.",
+      "7": "A última coisa de que o SUS necessita é uma explosão da demanda motivada por casos triviais.",
+      "8": "O desafio diante das autoridades é encontrar o ponto ótimo na regulação que não onere demais o sistema com consultas desnecessárias nem estimule voos muito arriscados na automedicação.",
+      "9": "[ Hélio Schwartsman, Folha de S.",
+      "10": "Paulo ] A prática tem de parar A automedicação é um dos maus (e perigosos) hábitos mais difundidos no mundo.",
+      "11": "Mais do que uma atitude esporádica, trata-se de uma prática corriqueira – e de alto risco.",
+      "12": "Assim como em qualquer setor de mercado, os consumidores de remédios se julgam aptos a decidir qual produto adquirir.",
+      "13": "No entanto, os danos da ingestão inadequada de medicamentos, inclusive os isentos de prescrição médica, podem ser graves e até fatais.",
+      "14": "Segundo a Fundação Oswaldo Cruz (Fiocruz), quase 35 mil pessoas sofreram este tipo de intoxicação, em 2007, sendo que 90 morreram.",
+      "15": "Ouvir a experiência do vizinho ou somente ler a bula não basta: medicamentos fazem parte da prescrição de um tratamento e precisam ser indicados por profissional habilitado: o médico.",
+      "16": "Há décadas, o Ministério da Saúde divulga a orientação “Se persistirem os sintomas, o médico deverá ser consultado”, após as propagandas dos laboratórios farmacêuticos.",
+      "17": "Um encaminhamento completamente equivocado, segundo a Associação Paulista de Medicina (APM): “É uma premissa absurda, invertida, um convite à automedicação que coloca a procura do atendimento como uma simples alternativa à falha daquele produto”, protesta o diretor de Comunicação da APM, Renato Françoso Filho.",
+      "18": "Na tentativa de corrigir este equívoco, o projeto de lei 328 , que tramita no Senado, propõe a substituição da referida frase por “Antes de consumir qualquer medicamento, consulte um médico”.",
+      "19": "[ Acontece Comunicação e Notícias ção Paulista de Medicina ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "Problema sério, uma questão de saúde publica  , que desde os primórdios de nossa colonização faz parte de nossa cultura.",
+    "1": "A automedicação é coisa corriqueira em nossa sociedade, \"chá de quebra pedra é bom para os rins, buscopan é bom para cólica\", é só falar os sintomas de uma doença, as pessoas já falam toma isso que é bom.",
+    "2": "Muitas vezes pela dificuldade de ser examinado  pelo profissional de saúde,          ou até mesmo através da mídia que divulga medicamentos com resultados rápidos , nos automedicamos.",
+    "3": "Pela  correria do dia a dia  vamos a  farmácia e somos atendidos com rapidez e agilidade  por isso          esta prática é tão comum .",
+    "4": "Sabemos que é errado esse ato , bactérias estão ficando mais difícil  de combater devido ao uso errado de medicamentos, doenças que seria fácil  de cuidar, muitas vezes são camufladas por          este ato e quando procuramos ajuda medica  o quadro já esta  avançado.",
+    "5": "A automedicação é usual mas temos que mudar esta pratica  , divulgando os riscos que corremos.",
+    "6": "Os meios de comunicação tem  que colaborar com campanhas que informem os perigos,          e fiscalizar os meios que vendem remédios sem receitas médicas."
+  },
+  "redacao_gerada": {
+    "0": "A automedicação, prática de ingerir medicamentos sem prescrição médica, tem se mostrado alarmantemente comum entre os jovens brasileiros, configurando um grave problema de saúde pública.",
+    "1": "Essa tendência, impulsionada por uma percepção equivocada de autonomia e pela facilidade de acesso a informações superficiais, demanda uma análise aprofundada de suas causas e consequências.",
+    "2": "Diante desse cenário, é imperativo investigar as razões que levam a juventude a negligenciar a orientação profissional e os riscos inerentes a tal comportamento.",
+    "3": "Em primeiro lugar, a cultura da imediatidade e a crença na autossuficiência, exacerbadas pelo ambiente digital, contribuem significativamente para a disseminação da automedicação juvenil.",
+    "4": "Os jovens, imersos em um universo onde soluções rápidas são constantemente apresentadas, tendem a buscar alívio sintomático imediato sem considerar a complexidade de diagnósticos e tratamentos, ecoando a visão de que o corpo é um mecanismo a ser facilmente ajustado.",
+    "5": "Essa mentalidade, por vezes, ignora a sabedoria empírica de que nem toda dor exige intervenção especializada, mas falha em distinguir quadros benignos de condições que necessitam de acompanhamento médico rigoroso, como discutido por Hélio Schwartsman.",
+    "6": "Ademais, a falha na comunicação e a saturação dos sistemas de saúde pública atuam como catalisadores dessa prática entre os jovens.",
+    "7": "A percepção de que o acesso a consultas médicas é burocrático, demorado e, por vezes, ineficaz, leva muitos a optarem pelo caminho mais curto: a farmácia ou o conselho de amigos.",
+    "8": "Essa realidade, aliada à influência de propagandas que sugerem a consulta médica apenas como um último recurso, desestimula a busca por profissionais habilitados.",
+    "9": "A Organização Mundial da Saúde, ao reconhecer a automedicação como um fenômeno desejável em certos limites, paradoxalmente, pode ter contribuído para a normalização da prática, sem o devido contraponto sobre a necessidade de discernimento e orientação profissional, conforme aponta a Fundação Oswaldo Cruz em seus dados sobre intoxicações.",
+    "10": "Portanto, para mitigar a prevalência da automedicação entre os jovens, é crucial uma ação multifacetada.",
+    "11": "O Ministério da Saúde, em parceria com instituições de ensino, deve intensificar campanhas de conscientização sobre os perigos da ingestão inadequada de medicamentos, enfatizando a importância da consulta médica como primeira e fundamental etapa.",
+    "12": "Ademais, é necessário que os próprios profissionais de saúde e farmacêuticos sejam capacitados para orientar de forma mais eficaz os jovens sobre o uso racional de medicamentos, desmistificando a busca por ajuda profissional e promovendo um cuidado mais responsável com a saúde."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "10",
+        "11"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": [
+        "10",
+        "11",
+        "13"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "12"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "5",
+        "15"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6",
+        "7"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "6",
+        "15"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "17"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "2",
+        "14"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "18"
+      ]
+    },
+    "12": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "15"
+      ]
+    }
+  }
+}

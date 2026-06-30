@@ -1,0 +1,143 @@
+{
+  "tema": "por-que-as-pessoas-mentem-pela-internet",
+  "comando_tematico": {
+    "frases": {
+      "0": "Por que as pessoas mentem pela internet?",
+      "1": "Pesquisa realizada pela Universidade de Cornell, nos Estados Unidos, revelou que 81% das pessoas que utilizam sites de relacionamento na internet mentem para aqueles com quem se comunicam.",
+      "2": "Peso, idade, altura, aparência são alguns dos elementos da identidade pessoal que são alterados nas declarações dos internautas a seus parceiros de chat.",
+      "3": "Quais os motivos dessa atitude?",
+      "4": "Trata-se apenas da vontade de impressionar o outro?",
+      "5": "Ou haverá um motivo mais profundo: a insatisfação consigo mesmo?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 Quem está atrás do teclado?",
+      "1": "Um indivíduo isolado envia mensagens solitárias e busca o amor por meio de imagens virtuais.",
+      "2": "Ele se realiza em casa, protegido, à distância, e corre o risco de se decepcionar, quando, e se, um encontro real vier a ser marcado.",
+      "3": "Estamos no século do amor via internet com pessoas namorando virtualmente sem o calor dos corpos que se entregam.",
+      "4": "Mas, afinal, que tipo de relação se estabelece via computador?",
+      "5": "Existe vínculo?",
+      "6": "Se houver traição virtual, como fica o relacionamento entre os namorados?",
+      "7": "Basta se desconectar para pôr fim a um envolvimento emocional.",
+      "8": "Jairo Bouer comenta a pesquisa Texto 2 Segundo o filósofo francês Jean-Paul Sartre, \"o ser humano possui uma atração doentia pela verdade\".",
+      "9": "Sartre considera que o desejo da verdade aparece muito cedo nos seres humanos e se manifesta como vontade de confiar nas coisas e nas pessoas, isto é, de acreditar que as coisas são exatamente como o indivíduo as percebe e o que as pessoas lhe dizem é digno de confiança e crédito.",
+      "10": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Atualmente a internet vêm se tornando o maior meio de comunicação entre pessoas, pois com esta as pessoas trocam informações sobre trabalho, estudos e diversos assuntos.",
+    "1": "Um dos maiores problemas da internet é que as pessoas podem mentir, e a outra pessoa nem saberá se é verdade ou não.",
+    "2": "O melhor exemplo de que isso acontece é o \"bate-papo\".",
+    "3": "A pessoa entre no \"bate-papo\" começa a conversar com outra pessoa e daí pode começar a mentir, às vezes sobre sua aparência, o que faz da vida ou o que fez e outras mais mentiras.",
+    "4": "Um \"porquê\" é meio difícil de se saber , às vezes a pessoa é insegura sobre si mesma ou sonha em se tornar tudo o que contou a outra, ou até mesmo só para impressionar ou \" tirar um barato com a cara da pessoa\".",
+    "5": "Uma coisa é certa mentir não leva a nada , a pessoa está mentindo para a outra, mas na verdade está se enganando sobre si mesmo.",
+    "6": "Pôr pior que seja a verdade é melhor assumimos, e mentir pela internet é totalmente ridículo e sem justificativa."
+  },
+  "redacao_gerada": {
+    "0": "As pessoas mentem muito na internet hoje em dia porque é facil esconder quem somos.",
+    "1": "Ninguem ve a gente entao pode falar o que quiser.",
+    "2": "Isso acontece muito em redes sociais e sites de namoro que a gente usa pra achar gente.",
+    "3": "Muita gente mente o peso ou a idade pra parecer melhor, isso é muito comum.",
+    "4": "Dai quando a pessoa encontra a outra pessoalmente, ela pode ficar decepicionada porque nao era nada daquilo.",
+    "5": "É chato isso acontecer.",
+    "6": "Eu acho que as pessoas fazem isso porque elas nao gostam de si mesmas e querem que os outros gostem delas.",
+    "7": "Elas acham que se mentirem, vao ser mais legais e ter mais amigos.",
+    "8": "Mas isso nao é verdade.",
+    "9": "Pra resolver isso, as pessoas deveriam ser mais honestas na internet.",
+    "10": "E os sites de relacionamento poderiam ter mais regras pra pessoa nao mentir.",
+    "11": "Assim as coisas seriam mais justas."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "6": {
+      "comando_tematico": [
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "3",
+        "5"
+      ],
+      "textos_motivadores": [
+        "5"
+      ]
+    },
+    "9": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "10": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": null
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "tema": "viagem-sem-volta-a-marte-pioneirismo-ou-alucinacao",
+  "comando_tematico": {
+    "frases": {
+      "0": "Viagem sem volta a Marte: pioneirismo ou alucinação?",
+      "1": "A colonização de Marte atraiu a atenção do público e dos meios de comunicação em agosto passado, devido ao projeto da empresa Mars One, que abriu inscrições para candidatos a uma viagem sem volta ao planeta vermelho.",
+      "2": "Abaixo, você encontra informações sobre o assunto, bem como a opinião que o jornal Folha de S.",
+      "3": "Paulo tem acerca dele.",
+      "4": "O número de inscritos ultrapassou o patamar de 150 mil e, entre gente de vários países do mundo, há também brasileiros.",
+      "5": "Levando isso em consideração, como você encara o empreendimento e as pessoas que nele se engajaram?",
+      "6": "Acha que é algo destinado desde já ao fracasso ou, pelo contrário, que pode dar certo?",
+      "7": "Um projeto desse tipo lhe parece útil?",
+      "8": "Por quê?",
+      "9": "E quanto aos que se candidataram, você os considera malucos ou idealistas?",
+      "10": "Desenvolva uma dissertação argumentativa sobre essas questões, expondo seu ponto de vista e dando razões que o sustentem.",
+      "11": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "O árido panorama da paisagem marciana, em mosaico de fotos retiradas pelo Curiosity, o jipe cujo objetivo é procurar vida orgânica no planeta Projeto Mars One A startup holandesa Mars One, do alemão Bas Landsdorp, já tem mais de 100 mil pessoas inscritas para colonizar Marteem uma viagem sem volta.",
+      "1": "Os quatro selecionados receberão uma passagem apenas de ida para Marte.",
+      "5": ") Qualquer pessoa com pelo menos 18 anos de idade pode mandar um vídeo de inscrição explicando por quais motivos deve ser selecionada.",
+      "6": "Mas é preciso estar preparado para dizer adeus ao planeta Terra para sempre, pois não há planos de trazer os astronautas de Marte.",
+      "7": "Quem decidir se inscrever precisa pagar uma taxa para ajudar a financiar o custo do projeto, orçado em 6 bilhões de dólares.",
+      "8": "[ Revista Exame ] Maratona Marte Não há dúvidas de que a colonização do planeta vermelho ocupa espaço nobre no imaginário humano.",
+      "9": "Mas será um objetivo realista?",
+      "10": "Mars One é a menos crível das missões em cogitação.",
+      "11": "Não se tem notícia de que a organização privada disponha de fundos e capacidade técnica para decolar.",
+      "12": "Os detalhes nunca foram divulgados.",
+      "13": "Nem mesmo a Nasa, agência espacial dos Estados Unidos, tem planos concretos de pousar em Marte.",
+      "14": "Em 2010, o presidente Barack Obama fixou o objetivo de levar astronautas até lá na década de 2030, mas só para orbitar o planeta.",
+      "15": "Para antes disso, em 2025, os americanos preparam uma missão intermediária: abordar um asteroide.",
+      "16": "[ Folha de S.",
+      "17": "Paulo ] O dono da bola \"Estabelecer uma colônia permanente em Marte implica ir sem voltar.",
+      "18": "Isso parece impressionante, mas não se pode esquecer que na história de nosso planeta, as pessoas que partiram em viagens de exploração deixaram para trás suas famílias\", explicou Lansdorp [o empresário responsável pelo projeto].",
+      "19": "A Mars-One disse que os quatro primeiros voluntários chegarão a Marte depois de uma viagem de sete meses, em 2023.",
+      "20": "A colônia deve ser abastecida a cada dois anos.",
+      "24": ") \"A primeira missão terá como objetivo trabalhar no sistema de suporte de vida\", afirmou ainda o responsável, admitindo que o meio ambiente em Marte é muito hostil, carece de oxigênio e tem temperatura média de -63ºC.",
+      "25": "[ Folha de S.",
+      "26": "Paulo ] Brasileiros no espaço O músico Bruno, 22 anos, a farmacêutica Melissa, 34 anos, e o físico Manoel, 58 anos, são paulistanos, mas não se conhecem e têm vidas bem diferentes.",
+      "27": "Um é solteiro e filho único.",
+      "28": "A outra tem namorado e adora viajar.",
+      "29": "O último já tem filhos e quer viver dias tranquilos.",
+      "30": "Mas os três têm um sonho em comum: morar em Marte.",
+      "31": "Eles estão entre os pelo menos 3.",
+      "32": "000 brasileiros que se inscreveram para viajar para o planeta vermelho no projeto da empresa holandesa Mars One.",
+      "33": "Entre os brasileiros, ao menos 33 já foram pré-selecionados.",
+      "34": "A missão já tem 165 mil inscritos de 120 países e promete colonizar o planeta em 2023.",
+      "35": "Devido ao alto custo do projeto (R$ 15 bilhões), a viagem será só de ida.",
+      "36": "As inscrições acabam neste mês.",
+      "37": "[ Agora São Paulo ]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa ruim (padrão ENEM nota abaixo de 450) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas) com linguagem precária e estrutura inadequada. Apresente ideias genéricas, redundantes e vagas. Tangencie ou fuja do tema proposto. Force recorrência de erros graves de coesão, coerência, ortografia, concordância e acentuação. Se houver proposta de intervenção, deve ser incompleta, evasiva e sem detalhes.",
+  "redacao_original": {
+    "0": "Presente na curiosidade popular das sociedades mais remotas , os planetas têm sido também estudados intensamente por cientistas.",
+    "1": "Se desde a corrida espacial na década de 60, ocasião em que o homem foi à Lua, os cientistas não planejaram uma visita à  algum outro astro do espaço, atualmente há planejamento para uma viagem só de ida a Marte com passageiros voluntários de várias partes do mundo.",
+    "2": "Porém está  ideia apresenta incoerências a serem debatidas.",
+    "3": "Pelo fato de que jamais nem um  astronauta pisou o solo de Marte para efeito de estudo  percebe-se que levar          tripulantes para morar definitivamente no planeta vermelho é uma proposta contraditória .",
+    "4": "Por que não haverá uma expedição antes?",
+    "5": "Pois nem mesmo à Lua o homem voltou.",
+    "6": "E apesar da preparação fornecida aos voluntários, o conhecimento sobre esse planeta pode ser insuficiente a  obter êxito, pois a compreensão que se tem dele corresponde à observação por sondas espaciais, o que por si só pode não evitar eventuais surpresas.",
+    "7": "Também, a vida de qualquer organismo fora de seu habitat necessita de várias adaptações ocorridas no decorrer de muito tempo.",
+    "8": "E apesar de o ser humano ter condições de criar um ambiente favorável à sua sobrevivência, muitas limitações lhes são impostas.",
+    "9": "O habitante moderno da Terra é um ser extremamente social e habituado às facilidades proporcionadas pela tecnologia sofisticada.",
+    "10": "Então, retirá-lo de seu ambiente implicaria uma readaptação total no modo de vida.",
+    "11": "Além disso ter uma visão utópica de habitar fora da Terra, pode não ser tão fascinante quando na prática.",
+    "12": "Embora seja uma forma de explorar o seu potencial intelectual, sua habilidade de compreensão do universo em que vive, o ser humano também tem uma enorme capacidade de desequilibrar a natureza de forma irreversível e os sistemas que regem a vida.",
+    "13": "Os seus poderes podem ir além do planeta de origem, mas pode ser inviável a colonização de Marte, por, de repente, lhe trazer consequências semelhantes às que se manifestaram com a exploração da Terra.",
+    "14": "Assim, a satisfação com que conquistou - e com o que certamente irá conquistar na Terra –  deve ser preferível ao homem à se aventurar novamente em mundo a ser desbravado.",
+    "15": "Zelar pela vida e pela natureza já criada e para a qual ele se adaptou de maneira natural é melhor do que tentar viver artificialmente em um lugar que não se sabe se há vida.",
+    "16": "Pois ele próprio adaptar-se e tentar adaptar o ambiente às suas necessidades seria          forçar a organização da natureza e da vida ."
+  },
+  "redacao_gerada": {
+    "0": "A viagem para marte é uma ideia muito louca, quem pensa nisso é maluco.",
+    "1": "Ninguem pode ir para outro planeta assim de uma vez, é perigoso demais e pode dar errado.",
+    "2": "A nasa disse que não é facil ir pra marte, e a empresa que quer levar gente não tem dinheiro pra isso.",
+    "3": "Por isso, a ideia de ir pra marte é só uma alucinação."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "5",
+        "9"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "6",
+        "7"
+      ],
+      "textos_motivadores": [
+        "1",
+        "6",
+        "9",
+        "10",
+        "11",
+        "12",
+        "24"
+      ]
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": [
+        "8",
+        "10"
+      ]
+    }
+  }
+}

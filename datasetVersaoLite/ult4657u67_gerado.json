@@ -1,0 +1,177 @@
+{
+  "tema": "a-energia-nuclear-e-uma-boa-solucao-para-o-brasil",
+  "comando_tematico": {
+    "frases": {
+      "0": "A energia nuclear é uma boa solução para o Brasil?",
+      "1": "O país possui duas usinas nucleares: Angra 1 e Angra 2, no Estado do Rio de Janeiro.",
+      "2": "O governo planeja a instalação de Angra 3.",
+      "3": "Mas o uso de energia nuclear tem dividido a opinião dos especialistas.",
+      "4": "O benefício é que ela não polui a atmosfera nem contribui para o aquecimento global.",
+      "5": "Há também vantagens na sua utilização em medicina, agropecuária, indústria, etc.",
+      "6": "Porém, o grande problema dessa matriz energética é que os restos do urânio enriquecido viram um lixo perigoso, sem falar no risco de acidentes.",
+      "7": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Angra 2 A Usina de Angra 2, em Angra dos Reis (RJ) \"Fruto de um acordo nuclear Brasil-Alemanha, a construção e a operação de Angra 2 ocorreram conjuntamente à transferência de tecnologia para o país, o que levou também o Brasil a um desenvolvimento tecnológico próprio, do qual resultou o domínio sobre praticamente todas as etapas de fabricação do combustível nuclear.",
+      "1": "Desse modo, a Eletronuclear e a indústria nuclear nacional reúnem, hoje, profissionais qualificados e sintonizados com o estado da arte do setor.",
+      "2": "\" Do site da Eletronuclear.",
+      "3": "Vídeo divulgado em 13 pelo UOL NEWS.",
+      "4": "Césio 137: Vinte anos depois do acidente, vítimas ainda lutam por indenização e contra o preconceito.",
+      "5": "Radioatividade: Mal ou bem depende do uso que é feito dela.",
+      "6": "Para o mal Imagine o acidente de Goiânia acontecendo no centro de São Paulo ou Rio de Janeiro.",
+      "7": "Você sabia que, no Brasil, existe um número muito grande de cápsulas com material radioativo em utilização neste momento?",
+      "8": "Mas não precisa se preocupar.",
+      "9": "As rigorosas autoridades brasileiras possuem total controle sobre todas elas.",
+      "10": "Aliás, essas notícias que periodicamente você escuta por aí sobre roubos de carros com essas cápsulas, normalmente são fantasiosas e o ladrão está mais interessado no carro do que no material radioativo, é claro.",
+      "11": "Ou seja, em países que não o Brasil, existem falhas de segurança que possibilitam aos interessados conseguir material radioativo para a construção de uma bomba suja.",
+      "12": "Para o bem Convém lembrar que essas cápsulas não geram somente destruição nem causam problemas.",
+      "13": "Ao contrário, elas estão em funcionamento exatamente para o seu uso industrial (gamografia), medicinal (tratamento de câncer, diagnósticos com contrastes radioativos etc.",
+      "14": "), agricultura etc.",
+      "15": "Muitas vidas já foram salvas com a sua utilização.",
+      "16": "O que é absolutamente necessário é um controle maior da segurança com esse material, não só aqui, mas em todo o mundo.",
+      "17": "(Carlos Alberto Campagner, engenheiro mecânico, com mestrado em mecânica, professor de pós-graduação e consultor de informática, no artigo Radioatividade , do site Lição de Casa ).",
+      "18": "Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "A energia nuclear é uma forma de energia muito satisfatória, porém que gera muita polêmica e discussão.",
+    "1": "Embora seja considerada uma limpa, potencialmente energética e não poluidora do meio ambiente , ela pode causar vários riscos à natureza, principalmente no que se diz respeito ao seu principal produto envolvido: o urânio.",
+    "2": "Energia nuclear é um tema muito controverso .",
+    "3": "Ainda que por um lado ela seja benéfica ao meio ambiente, não gerando poluição, não agravando o efeito estufa ou o aquecimento global, por outro ela é algo a ser discutido com muita cautela, pois o urânio, utilizado como fonte de energia principal, pode, se não descartado ou armazenado corretamente, contaminar potencialmente a natureza, como lençóis freáticos, rios, mares, lixo e, principalmente, acarretando sérios problemas, além de gerar acidentes, como o que houve em Chernobil.",
+    "4": "Utilizar qualquer forma de energia é muito importante; porém, o que se deve é conhecer os benefícios e prejuízos dela, uma vez que formas de vidas estão envolvidas, além da agressão ao meio ambiente, que compromente sinergicamente a vida humana e animal.",
+    "5": "Exemplos como Angra 1 e Angra 2, no Rio de Janeiro, e futuramente Angra 3, como já está em andamento, são usinas que até hoje contribuíram para o desenvolvimento do país, mas vale lembrar que pesquisa, desenvolvimento de práticas que visem a prevenção de acidentes e bom senso de seu uso, são medidas eficazes que só tendem a tornar esse tipo de energia cada vez mais potente e segura.",
+    "6": "Assim sendo, a energia nuclear é e pode ser um grande avanço para a humanidade, mas pessoas altamente qualificadas, desenvolvimento de novos métodos, estudos de casos, medidas preventivas, atuação significativa aliada a outras formas de energia, como a eólica, solar, hidrelétrica e outras, só tendem a mostrar ao país e a outras nações que energia limpa pode e deve ser utilizada, a fim de beneficiar todos, com segurança e eficiência."
+  },
+  "redacao_gerada": {
+    "0": "A energia nuclear, enquanto alternativa energética, suscita um debate complexo no Brasil, especialmente em face da crescente demanda e da necessidade de diversificação da matriz.",
+    "1": "A perspectiva de sua expansão, com o planejamento da usina de Angra 3, contrapõe-se a preocupações inerentes à segurança e ao gerenciamento de resíduos.",
+    "2": "Nesse contexto, argumenta-se que, mediante rigorosos protocolos de segurança e investimento em tecnologia, a energia nuclear pode ser uma solução viável e benéfica para o país, tanto pela sua capacidade de geração limpa quanto pelo potencial de desenvolvimento tecnológico e industrial associado, apesar dos riscos inerentes.",
+    "3": "Em primeiro lugar, é fundamental destacar o caráter ambientalmente vantajoso da energia nuclear em comparação com fontes fósseis.",
+    "4": "Conforme o princípio da precaução e a busca por mitigar os efeitos das mudanças climáticas, a geração nuclear não emite gases de efeito estufa, um diferencial crucial na atual conjuntura global.",
+    "5": "A filosofia de Hans Jonas, em sua obra \"O Princípio Responsabilidade\", preconiza que devemos agir de forma a garantir a sobrevivência e a qualidade de vida das futuras gerações, o que se alinha à necessidade de fontes energéticas sustentáveis.",
+    "6": "Nesse sentido, a energia nuclear, quando operada sob estritas normas de segurança, contribui para a descarbonização da matriz energética brasileira, aliviando a pressão sobre ecossistemas e promovendo um desenvolvimento mais resiliente.",
+    "7": "Ademais, a adoção e o aprimoramento da tecnologia nuclear representam um vetor de desenvolvimento científico e industrial para o Brasil.",
+    "8": "A experiência acumulada com Angra 1 e Angra 2, fruto de acordos internacionais e transferência de tecnologia, demonstra a capacidade do país em dominar processos complexos, desde a fabricação de combustível até a operação das usinas.",
+    "9": "Esse domínio, como apontam especialistas do setor, não se restringe à geração de eletricidade, mas impulsiona a pesquisa em áreas correlatas, como medicina nuclear e aplicações industriais, conforme sugerido por Carlos Alberto Campagner.",
+    "10": "A consolidação dessa expertise nacional fortalece a soberania tecnológica e a competitividade do país no cenário global.",
+    "11": "Diante do exposto, conclui-se que a energia nuclear, a despeito dos desafios inerentes ao seu uso, apresenta-se como uma solução promissora para o Brasil, desde que acompanhada de salvaguardas robustas.",
+    "12": "Para tanto, o Ministério de Minas e Energia, em parceria com a Comissão Nacional de Energia Nuclear, deve intensificar os investimentos em pesquisa e desenvolvimento de tecnologias de segurança e gestão de resíduos radioativos, além de promover campanhas educativas para desmistificar a tecnologia e informar a população sobre seus benefícios e riscos controlados.",
+    "13": "Essas ações conjuntas garantirão a expansão segura e responsável da energia nuclear, contribuindo para um futuro energético mais limpo e tecnologicamente avançado para o país."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "2",
+        "3",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "5",
+        "6"
+      ],
+      "textos_motivadores": [
+        "5",
+        "13",
+        "16"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "5": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "0",
+        "1"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "1",
+        "5",
+        "13",
+        "17"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "5"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "0",
+        "6"
+      ],
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "16"
+      ]
+    },
+    "13": {
+      "comando_tematico": [
+        "0",
+        "4",
+        "5"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}

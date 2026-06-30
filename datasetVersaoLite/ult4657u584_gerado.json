@@ -1,0 +1,171 @@
+{
+  "tema": "idosos-em-nossa-sociedade-valorizados-desvalorizados-ou-privilegiados",
+  "comando_tematico": {
+    "frases": {
+      "0": "Idosos em nossa sociedade: valorizados, desvalorizados ou privilegiados?",
+      "1": "Com o \"envelhecimento\" da população brasileira, tem-se falado muito da importância do bem-estar dos idosos.",
+      "2": "Em sociedades como a indiana e a japonesa, por exemplo, o velho é a figura mais importante da família e da comunidade.",
+      "3": "No Brasil, alguns sociólogos afirmam que, se um país precisa de um \"estatuto dos idosos\" (ou seja, de uma lei) para lembrar a respeitabilidade deles, isso indica que algo está muito errado.",
+      "6": "Por outro lado, há tantos privilégios sociais em torno da \"terceira idade\" (meias-entradas, ausência de filas, empréstimos especiais) que os \"não velhos\" se consideram prejudicados.",
+      "7": "Qual é sua opinião: o idoso, no Brasil - com ou sem rendimentos próprios - é valorizado, desrespeitado ou privilegiado?",
+      "8": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Obrigação social Art.",
+      "1": "3 - É obrigação da família, da comunidade, da sociedade e do Poder Público assegurar ao idoso, com absoluta prioridade, a efetivação do direito à vida, à saúde, à alimentação, à educação, à cultura, ao esporte, ao lazer, ao trabalho, à cidadania, à liberdade, à dignidade, ao respeito e à convivência familiar e comunitária.",
+      "5": "] Art.",
+      "6": "4 - Nenhum idoso será objeto de qualquer tipo de negligência, discriminação, violência, crueldade ou opressão, e todo atentado aos seus direitos, por ação ou omissão, será punido na forma da lei.",
+      "7": "[Estatuto do Idoso] Coral dos Cinquentões Apresentação do Coral dos Cinquentões, no lançamento do guia \"Idoso-cidadão brasileiro - Informações sobre serviços e direitos\", em Brasília.",
+      "8": "Nem tem 60 anos \"É um absurdo, é um exagero!",
+      "9": "Você vai ao banco, ao cinema, em qualquer fila, até as de emergência, e aquele monte de pessoas passa na sua frente se dizendo idoso.",
+      "12": "Quem é idoso?",
+      "13": "A pessoa às vezes nem tem 60 anos, anda de tênis, usa óculos escuros, está superbem arrumada, mulheres maquiadas, homens jogando charme e dizem \"sou idoso\".",
+      "14": "E lá ficamos nós, trouxas,para trás.",
+      "15": "Acho que há muita moleza.",
+      "16": "Até officevelho os escritórios arranjaram.",
+      "19": "Empréstimos, décimo-terceiro antecipado, medicamentos e trabalho?",
+      "20": "Tudo é para eles, e nós, que estamos na idade adulta e necessitada, o que sobra para nós?",
+      "21": "O governo devia pensar em todos, mesmo porque ser idoso não é ser minoria\".",
+      "22": "[Desabafo de cidadão que preferiu não se identificar] Aposentadoria minguada \"Sou idoso, vivo de minha aposentadoria minguada do INSS e tenho empréstimo consignado e dívida em bancos que não estou conseguindo pagar em dia.",
+      "23": "Nem assistência médica eu tenho.",
+      "24": "Mesmo assim, o valor de pouco mais de R$100 que eu deveria receber de restituição do IR está bloqueado [.",
+      "28": "[Antônio do Valle Painel, Painel do leitor, Folha de S.",
+      "29": "Paulo, 9 ] Fragilidade \"As situações que levam ao abandono são provocadas pela condição de fragilidade do idoso, que pode passar a depender de outras pessoas, pela perda da autonomia e da independência, pelo esfriamento dos vínculos afetivos e pela conduta do grupo de relações ou ausência dele [.",
+      "33": "\" [Revista Brasileira de Geriatria e Gerontologia, Universidade Aberta da Terceira Idade]"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa comum (padrão ENEM nota 650-800) sobre '{TEMA}'. Sem título, marcações ou explicações. Use 4 parágrafos (~30 linhas). Desenvolva 2 argumentos coerentes baseados em repertório comum/superficial. Coesão aceitável. Proposta de intervenção básica. Insira intencionalmente poucos erros ocasionais de ortografia, pontuação, concordância, regência ou crase, sem invalidar o sentido do texto. Argumentação mediana com leves repetições vocabulares.",
+  "redacao_original": {
+    "0": "É fato corriqueiro nos depararmos no dia-a-dia com diversas \"regalias\"  concedidas ao idoso.",
+    "1": "Seja no banco, no posto de saúde, ou nos transportes públicos, o idoso hoje é protegido pela legislação.",
+    "2": "Está comprovado hoje um fenômeno na sociedade brasileira que já ocorre no velho mundo  há algum tempo.",
+    "3": "A população esta  ficando mais velha.",
+    "4": "Em pesquisa divulgada pela Época em 25 de maio de 2009, as estimativas prevêem  que a população de idosos crescerá vertiginosamente, inversamente proporcional a  de jovens, que decrescerá.",
+    "5": "Isso se dá pelo crescimento na expectativa de vida e pelos elevados custos de vida, majoritariamente  .",
+    "6": "No atual momento o país se prepara para saber lidar com essa situação futura.",
+    "7": "O que é oferecido e cobrado hoje dos idosos  serve como teste para as \"próximas\"  gerações.",
+    "8": "A idade de aposentadoria, as vantagens de atendimento, as quantias das pensões, etc.",
+    "9": "Tudo co-relacionado  com o estatuto idoso  deve ser avaliado e decidido quanto a sua retirada, permanência ou melhora para os tempos a vir.",
+    "10": "A verdade é que daqui a alguns anos o número de pessoas economicamente ativa terá que suportar um contingente grande de pessoas.",
+    "11": "Para método de  comparação, em 2020 à   população de idosos deve chegar aos 14% da total  .",
+    "12": "Hoje são 10%.",
+    "13": "Portanto é muito provável que trabalharemos por volta de 50 anos de nossas vidas de maneira que a economia não estagne.",
+    "14": "O Brasil precisa se preparar para que essa mudança gradual, porém considerável não tenha um impacto grande na economia.",
+    "15": "Planejamento deve ser o projeto número 1 nessa questão."
+  },
+  "redacao_gerada": {
+    "0": "A população brasileira tem passado por um processo de envelhecimento, o que levanta discussões sobre o papel e o tratamento dado aos idosos em nossa sociedade.",
+    "1": "Diante desse cenário, é fundamental analisar se essa parcela da população é de fato valorizada, ou se, ao contrário, encontra-se desvalorizada ou até mesmo privilegiada em determinados aspectos.",
+    "2": "Essa complexidade social exige uma reflexão aprofundada.",
+    "3": "Em muitas culturas tradicionais, como a indiana e a japonesa, os idosos ocupam posições de grande respeito e autoridade, sendo vistos como pilares da família e da comunidade.",
+    "4": "No entanto, no Brasil, a necessidade de um \"Estatuto do Idoso\" para garantir direitos básicos sugere que a própria existência de tal lei indica uma falha na percepção social e no respeito inerente a essa faixa etária.",
+    "5": "Isso aponta para uma desvalorização implícita, onde o reconhecimento legal se torna necessário por falta de reconhecimento espontâneo.",
+    "6": "Por outro lado, é inegável que existem certos privilégios concedidos aos idosos, como meias-entradas em eventos culturais e prioridade em filas.",
+    "7": "Embora esses benefícios possam parecer justos para garantir dignidade e acesso, para alguns cidadãos, eles podem gerar a sensação de que os idosos são excessivamente privilegiados, em detrimento de outros grupos etários.",
+    "8": "Essa percepção cria um debate sobre a linha tênue entre proteção e privilégio, e se tais benesses são realmente necessárias ou excessivas.",
+    "9": "Diante do exposto, é preciso que o Estado, em conjunto com a sociedade, promova ações que garantam o respeito e a dignidade dos idosos sem criar desequilíbrios.",
+    "10": "É fundamental que sejam oferecidos programas de inclusão social, oportunidades de trabalho e lazer adequados à sua condição, além de fiscalização efetiva do cumprimento do Estatuto do Idoso.",
+    "11": "A família também deve ser incentivada a manter os vínculos afetivos, assegurando a convivência comunitária e familiar, combatendo a negligência e a opressão, para que o envelhecimento seja vivido com plenitude."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "1",
+        "0"
+      ],
+      "textos_motivadores": [
+        "29"
+      ]
+    },
+    "1": {
+      "comando_tematico": [
+        "0",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "0"
+      ],
+      "textos_motivadores": null
+    },
+    "3": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "4": {
+      "comando_tematico": [
+        "3",
+        "7"
+      ],
+      "textos_motivadores": [
+        "7"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "3"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "9",
+        "19"
+      ]
+    },
+    "7": {
+      "comando_tematico": [
+        "6"
+      ],
+      "textos_motivadores": [
+        "15",
+        "20",
+        "21"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "6",
+        "7"
+      ],
+      "textos_motivadores": null
+    },
+    "9": {
+      "comando_tematico": [
+        "0",
+        "1"
+      ],
+      "textos_motivadores": [
+        "1"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "7",
+        "19"
+      ]
+    },
+    "11": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "6",
+        "29",
+        "33"
+      ]
+    }
+  }
+}

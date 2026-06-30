@@ -1,0 +1,171 @@
+{
+  "tema": "a-gramatica-facilita-ou-dificulta-a-comunicacao",
+  "comando_tematico": {
+    "frases": {
+      "0": "A gramática facilita ou dificulta a comunicação?",
+      "1": "As regras gramaticais têm como objetivo uniformizar a língua de um povo, padronizá-la, de modo a torná-la comum e acessível a todos os usuários.",
+      "2": "Em poucas palavras, a gramática deve facilitar a comunicação.",
+      "3": "No entanto, a imensa dificuldade dos estudantes em aprendê-la sugere que isso talvez não ocorra de fato.",
+      "4": "O grande número de normas - às vezes sobre detalhes aparentemente insignificantes - não acaba complicando e criando confusão?",
+      "5": "Que importância tem, por exemplo, a troca de uma única letra na grafia de uma palavra?",
+      "6": "Leia as redações avaliadas"
+    }
+  },
+  "textos_motivadores": {
+    "frases": {
+      "0": "Texto 1 A língua é viva, quem não sabe?",
+      "1": "Basta ver o que acontece a ela, sempre aberta aos modismos.",
+      "2": "Agora mesmo está nas ruas uma maré de jeitos novos de falar, extrídos do filme \"Tropa de Elite\".",
+      "3": "A língua se enriquece, sai da boca do povo para os dicionários, amolda-se às regras gramaticais.",
+      "4": "Mas o problema são as regras, ah as regras!",
+      "5": "Se fizessem um plebiscito, é possível que as regras fossem banidas do Brasil.",
+      "6": "Aí todo mundo falaria e escreveria à vontade, sem ser vigiado por esses \"manuais de censura\" que são as gramáticas.",
+      "7": "Falaríamos gostosamente, sem receios e seríamos talvez mais felizes.",
+      "8": "Nada de escolher entre x e ch, entre s e z, e adeus acentos.",
+      "9": "Caso isso acontecesse, no entanto, estariam oficializados o descaso e o desrespeito ao idioma que falamos.",
+      "10": "Que conseqüências poderiam decorrer disso?",
+      "11": "Crime contra a gramática Texto 2 Um erro literalmente federal \"Um único carimbo fabricado com pouco zelo em relação à língua portuguesa fez com que milhares de documentos oficiais da Câmara e do Senado trouxessem um 'Congreço Nacional' estampado nos cantos inferiores de suas páginas.",
+      "12": "O tropeço vocabular está grafado em documentos como medidas provisórias enviadas pelo Executivo.",
+      "13": "O carimbo, fabricado em meados de agosto, está em documentos com datas até cerca de três semanas atrás, quando finalmente alguém descobriu o erro.",
+      "14": "\" Folha On-Line - 03 - 09h24 Antes de Escrever"
+    }
+  },
+  "prompt": "Redija dissertação-argumentativa formal/rebuscada (padrão ENEM nota 800-1000) sobre '{TEMA}'. Estrutura rígida de 4 parágrafos (~30 linhas). Introdução (6-7 linhas): apresente tema, contexto e tese com 2 argumentos. Desenvolvimentos 1 e 2 (7-8 linhas cada): use conectivos interparágrafos, tópicos frasais claros e repertório sociocultural real (filosofia/sociologia/história legítimos). Conclusão (6-7 lines): conectivo conclusivo, retome tese e apresente proposta de intervenção com os 5 elements (agente, ação, meio/modo, efeito, detalhamento explícito). Respeite direitos humanos. Proibido: marcas de oralidade, repetições excessivas, inventar dados/fontes, negritos, títulos ou explicações extras.",
+  "redacao_original": {
+    "0": "O uso correto das regras gramaticais enobrece e valoriza a comunicação.",
+    "1": "A língua é um organismo vivo e pulsante, passa por constantes transformações, se assim não fosse, estaríamos ainda dizendo \"vossamercê\" ao invés de \"você\".",
+    "2": "Conhecer as normas cultas da lingua como instrumento de comunicação, aumenta consideravelmente a competência linguística do indivíduo.Os sofistas gregos notabilizaram-se pelo uso da palavra.",
+    "3": "Modernamente, no campo profissional das empresas, o uso da comunicação oral, respeitando regras gramaticais, pode significar promoção.",
+    "4": "Por outro lado, Descuidos grosseiros na maneira de se expressar pode significar despreparo e lacunas no processo educacional.",
+    "5": "Quando escrevemos bem e falamos bem, certamente teremos um diferencial que         nos distingue dos demais.",
+    "6": "Será que as regras gramaticais para falar e escrever não são as mesmas?",
+    "7": "Em tese sim, no entanto, ao usarmos a comunicação coloquial poderemos cometer deslizes que podem até passar despercebidos, na comunicação escrita não gozamos do mesmo benefício, já que temos tempo para ler, reler e corrigir eventuais falhas.",
+    "8": "A comunicação tem varias nuances, numa apresentação de trabalho acadêmico é esperado um tipo de comunicação bem diferente da conversa com os amigos na mesa de um bar.",
+    "9": "Se isso não ficar claro podemos ser \"pedantes\" ao usarmos              o estilo errado.",
+    "10": "Cabe aqui diferenciar Norma de Estilo, a norma é como uma regra geral, coletiva habitual, invariável, gramatical e sistemática enquanto que o estilo pode apresentar desvios, é variável, individual, inesperado e surpreendente.",
+    "11": "O uso do estilo pressupõe um grande domínio do idioma de quem o usa, sob pena de tornar-se ridículo; enquanto que a norma é obrigação dentro da língua.",
+    "12": "É de fundamental importância ao profissional da Comunicação dominar adequadamente a língua nos seus vários níveis, seja na fala, seja na escrita.",
+    "13": "Interpretar corretamente um texto escrito .",
+    "14": "Argumentar com raciocínio lógico e fundamentado.",
+    "15": "Só assim será capaz de produzir textos bem estruturados sob o ponto de vista da tipologia textual requerida para cada momento."
+  },
+  "redacao_gerada": {
+    "0": "A gramática, em sua essência, configura-se como um sistema de regras que organiza a língua, visando à clareza e à inteligibilidade na comunicação humana.",
+    "1": "Nesse contexto, a norma culta, muitas vezes associada à gramática normativa, busca estabelecer um padrão linguístico que facilite a compreensão mútua entre falantes de um mesmo idioma, transcendendo barreiras regionais e sociais.",
+    "2": "Contudo, a percepção de que o aprendizado rigoroso de suas complexidades pode, paradoxalmente, erigir-se como um obstáculo à expressão fluida, impõe uma reflexão crítica sobre seu papel na sociedade contemporânea.",
+    "3": "Assim, discute-se se a gramática, ao invés de ser um facilitador, torna-se um entrave à comunicação.",
+    "4": "É inegável que a gramática, ao padronizar a língua, contribui para a coesão social e a disseminação do conhecimento de forma unificada, como defendido por Ferdinand de Saussure em sua teoria linguística, que distingue a língua (o sistema abstrato) da fala (o uso individual).",
+    "5": "A existência de uma norma gramatical comum permite que textos e discursos circulem amplamente, garantindo que a mensagem seja recebida de maneira mais precisa por um número maior de pessoas, o que é fundamental para a educação, a ciência e a administração pública.",
+    "6": "Essa padronização, portanto, atua como um alicerce para a comunicação eficaz em larga escala.",
+    "7": "Entretanto, a rigidez excessiva e o foco em minúcias gramaticais, muitas vezes desconectadas do uso real da língua, podem gerar um efeito contrário ao pretendido, afastando os falantes da norma culta por meio da intimidação.",
+    "8": "A sociolinguística, por meio de autores como Pierre Bourdieu, demonstra como o capital linguístico pode ser utilizado como ferramenta de dominação social, onde o domínio da norma culta confere prestígio e acesso a determinados círculos, enquanto o desvio dessa norma pode levar à estigmatização.",
+    "9": "Essa realidade sugere que a gramática, quando ensinada de forma dogmática e sem contextualização, pode se tornar um fator de exclusão e dificuldade, em vez de um elo comunicacional.",
+    "10": "Diante do exposto, a gramática exerce uma dualidade intrínseca: enquanto ferramenta de padronização e clareza, ela facilita a comunicação em larga escala; por outro lado, sua aplicação inflexível e a valorização excessiva de detalhes podem dificultá-la, especialmente para aqueles que não dominam a norma culta.",
+    "11": "Para mitigar essa dualidade, o Ministério da Educação, em parceria com instituições de ensino, deve promover programas de letramento linguístico que enfatizem a funcionalidade da gramática no contexto comunicacional, utilizando metodologias que priorizem a compreensão e a aplicação prática, em vez da memorização de regras isoladas.",
+    "12": "Essa abordagem visa a democratizar o acesso à norma culta, tornando-a um instrumento de inclusão e não de exclusão, promovendo, assim, uma comunicação mais acessível e eficaz para todos."
+  },
+  "mapeamento_frases": {
+    "0": {
+      "comando_tematico": [
+        "0",
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "1": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "2": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "3": {
+      "comando_tematico": [
+        "0",
+        "3"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "4": {
+      "comando_tematico": [
+        "1"
+      ],
+      "textos_motivadores": [
+        "0"
+      ]
+    },
+    "5": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "6": {
+      "comando_tematico": [
+        "1",
+        "2"
+      ],
+      "textos_motivadores": null
+    },
+    "7": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "4",
+        "6"
+      ]
+    },
+    "8": {
+      "comando_tematico": [
+        "4"
+      ],
+      "textos_motivadores": [
+        "6"
+      ]
+    },
+    "9": {
+      "comando_tematico": [
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4",
+        "6"
+      ]
+    },
+    "10": {
+      "comando_tematico": [
+        "0",
+        "2",
+        "3",
+        "4"
+      ],
+      "textos_motivadores": [
+        "4"
+      ]
+    },
+    "11": {
+      "comando_tematico": null,
+      "textos_motivadores": null
+    },
+    "12": {
+      "comando_tematico": [
+        "2"
+      ],
+      "textos_motivadores": null
+    }
+  }
+}
