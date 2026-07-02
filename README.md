@@ -6,3 +6,4 @@ O mapeamento de frases relaciona o comando temático e os textos motivadores á 
 As redações originais foram retiradas do dataset da Professora Evelin Amorim.
 Ademais, as redações sintéticas passaram por um processo de revisão e validação realizado por Joaquim Estefan Vivas, estudante do Instituto Federal do Espírito Santo.
 Cada dataset concentra cerca de 1800 redações sintéticas.
+Nas pastas desse repositório encontram-se também as métricas calculadas de diversidade (baseado no TTR), complexidade e subjetividade.
