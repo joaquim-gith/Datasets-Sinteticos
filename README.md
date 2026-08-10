@@ -4,6 +4,6 @@ Nos datasets existem redações de diferentes qualidades, ou seja, redações ex
 Em cada arquivo JSON presente nos datasets, encontram-se o tema, o comando temático, os textos motivadores e a redação original, que foram usados como parâmetro para gerar as redações sintéticas e o mapeamento das frases.
 O mapeamento de frases relaciona o comando temático e os textos motivadores á redação gerada.
 As redações originais foram retiradas do dataset da Professora Evelin Amorim.
-Ademais, as redações sintéticas passaram por um processo de revisão e validação realizado por Joaquim Estefan Vivas, estudante do Instituto Federal do Espírito Santo.
+Ademais, as redações sintéticas passaram por um processo de revisão e validação.
 Cada dataset concentra cerca de 1800 redações sintéticas.
 Nas pastas desse repositório encontram-se também as métricas calculadas de diversidade (baseado no TTR), complexidade e subjetividade.
